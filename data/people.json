@@ -1,0 +1,44 @@
+[
+  {
+    "name": "marlon",
+    "image": "https://farm6.staticflickr.com/5710/30455158955_60c8e15241_h.jpg",
+    "favoriteColor": "rgba(0,0,0,1.0)",
+    "llId": "0"
+  },
+  {
+    "name": "lara",
+    "image": "https://farm2.staticflickr.com/1894/44027897104_fca177cb2d_h.jpg",
+    "favoriteColor": "rgba(200,0,100,0.7)",
+    "llId": "1"
+  },
+  {
+    "name": "angela",
+    "image": "https://s3.us-east-2.amazonaws.com/ll-whats-cooking/public/angela.jpg",
+    "favoriteColor": "rgba(130,0,200,0.5)",
+    "llId": "2"
+  },
+  {
+    "name": "jad",
+    "image": "https://s3.us-east-2.amazonaws.com/ll-whats-cooking/public/Jad.jpg",
+    "favoriteColor": "rgba(130,0,200,0.5)",
+    "llId": "3"
+  },
+  {
+    "name": "hannah",
+    "image": "https://s3.us-east-2.amazonaws.com/ll-whats-cooking/public/hannah.jpg",
+    "favoriteColor": "rgba(30,20,80,0.5)",
+    "llId": "4"
+  },
+  {
+    "name": "noelle",
+    "image": "https://farm2.staticflickr.com/1924/31061735898_eddc615384_h.jpg",
+    "favoriteColor": "rgba(30,20,80,0.5)",
+    "llId": "5"
+  },
+  {
+    "name": "connor",
+    "image": "https://farm2.staticflickr.com/1862/44746404141_150620307b_h.jpg",
+    "favoriteColor": "rgba(0,0,100,0.7)",
+    "llId": "6"
+  }
+]

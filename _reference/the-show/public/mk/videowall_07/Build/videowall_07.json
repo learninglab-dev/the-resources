@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS2",
+"dataUrl": "videowall_07.data.unityweb",
+"wasmCodeUrl": "videowall_07.wasm.code.unityweb",
+"wasmFrameworkUrl": "videowall_07.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

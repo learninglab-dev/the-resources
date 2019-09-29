@@ -1,0 +1,30 @@
+{
+  "name": "the-show",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1"
+  },
+  "description": "show and tell",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkuzmick/the-show.git"
+  },
+  "author": "Marlon Kuzmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkuzmick/the-show/issues"
+  },
+  "homepage": "https://github.com/mkuzmick/the-show#readme"
+}

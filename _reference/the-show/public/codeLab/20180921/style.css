@@ -1,0 +1,38 @@
+body {
+  color: white;
+}
+
+h1 {
+  font-family: "Avenir Next";
+  font-weight: 900;
+  font-size: 8em;
+  text-align: center;
+  transition: 1s;
+}
+
+h2 {
+  font-family: "Avenir Next";
+  font-weight: 100;
+  font-size: 2em;
+  text-align: center;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: red;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#mainContainer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-right: 20px;
+}

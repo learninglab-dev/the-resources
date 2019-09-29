@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= person.name %></title>
+    <link rel='stylesheet' href='_assets/css/style.css' />
+    <style>
+      h1 {
+        color: <%= person.favoriteColor %>;
+      }
+      pre {
+        font-size: 8pt;
+        color: rgba(0,0,0,.6)
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1><%= person.name %></h1>
+      <p>all the things for <%= person.name %></p>
+      <img src=<%= person.image %> />
+      <pre><%= JSON.stringify(person, null, 4) %>
+      </pre>
+    </div>
+  </body>
+</html>

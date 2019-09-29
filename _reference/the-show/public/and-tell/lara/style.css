@@ -1,0 +1,54 @@
+html, body {
+  color: rgba(20,160,150,1);
+  margin: 0;
+  width:100%;
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Spicy Rice", cursive;
+  font-weight: 900;
+  font-size: 8em;
+  text-align: center;
+  transition: 3s;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 2em;
+  text-align: center;
+  cursor: pointer;
+  color: rgba(0,0,0,1)
+}
+
+h1:hover {
+  color: rgba(150,0,230,1);
+}
+
+#the-name {
+  position: relative;
+  top: 500px;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+}
+#llPhoto {
+  width: 100%;
+  height: 100%;
+  background-image: url("laramarlon_blindcontour.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center bottom;
+}
+
+#definition{
+  position: relative;
+}
+#myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}

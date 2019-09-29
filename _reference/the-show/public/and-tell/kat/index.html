@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>What Happened</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Fascinate+Inline|Open+Sans" rel="stylesheet">
+</head>
+<body>
+  <section id="grid">
+    <header><span class="text color-text-flow">SHOW AND TELL</span></header>
+    <aside></aside>
+    <main>
+      <div class="side-scroll">
+        <div class="side-scroll-internal"><img src="images/phil.gif" height="80%" width="auto" alt=""><h2>Phil(?)'s poop thing?</h2></div>
+        <div class="side-scroll-internal"><img src="images/katie.jpg" height="80%" width="auto" alt=""><h2>Katie's dinosaur?</h2></div>
+        <div class="side-scroll-internal"><img src="images/10.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/4.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/5.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/9.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/7.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/8.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/6.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+        <div class="side-scroll-internal"><img src="images/3.jpg" height="80%" width="auto" alt=""><h2>A dog?</h2></div>
+      </div>
+    </main>
+    <footer id="footer"></footer>
+  </section>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+  $('.text').html(function(i, html) {
+    var chars = $.trim(html).split("");
+    return '<span>' + chars.join('</span><span>') + '</span>';
+  });
+
+
+  function colour_random() {
+    var num = Math.floor(Math.random() * Math.pow(2, 24));
+    return '#' + ('00000' + num.toString(16)).substr(-6);
+  }
+
+  function colorChange() {
+    document.getElementById("footer").style.backgroundColor = (colour_random());
+  }
+
+  window.setInterval(colorChange, 400);
+</script>
+</html>
