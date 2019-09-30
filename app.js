@@ -1,3 +1,4 @@
+global.__basedir = __dirname;
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -7,6 +8,8 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var peopleRouter = require('./routes/people');
 var codelabRouter = require('./routes/codelab');
+var mkRouter = require('./routes/mk');
+
 
 var app = express();
 
@@ -23,6 +26,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/people', peopleRouter);
 app.use('/codelab', codelabRouter);
+app.use('/mk', mkRouter);
 
 
 // catch 404 and forward to error handler
