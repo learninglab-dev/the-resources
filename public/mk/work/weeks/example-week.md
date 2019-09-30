@@ -1,7 +1,7 @@
 
 # 20190930
 
-example week here.
+example week here. again.
 
 ## YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
@@ -15,3 +15,6 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 and plain old embed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo0Q39adaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2MTk4ODY4MV19
+-->
