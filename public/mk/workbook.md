@@ -20,3 +20,9 @@ this is definitely going all in on the [Show Your Work](https://www.amazon.com/S
 
 
 ## NEXT WEEK
+
+## TEMPLATES AND EXTRAS
+
+### VIDEO EMBEDS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo0Q39adaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
