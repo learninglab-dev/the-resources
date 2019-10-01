@@ -10,6 +10,7 @@ but where, precisely? and what?
 - sort out task workflow (meta)
 - print things (like all the stills I edit)
 - script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
+- troubleshoot 6D footage in rename script
 - 
 
 ## NOTES
@@ -70,5 +71,5 @@ alt="PARTY IN THE USA" width="240" height="180" border="2" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo0Q39adaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzQ3NTk0XX0=
+eyJoaXN0b3J5IjpbMTMxOTkxNjkzOCwxOTg3NDc1OTRdfQ==
 -->
