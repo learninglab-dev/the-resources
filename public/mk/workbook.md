@@ -41,7 +41,8 @@ but where, precisely? and what?
 
 links
 
- 1. video wall 007
+ 1. [video wall 007](https://show.learninglab.xyz/mk/videowall_07/)
+ 2. 
 
 ## TEMPLATES AND EXTRAS
 
@@ -75,6 +76,6 @@ alt="PARTY IN THE USA" width="240" height="180" border="2" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo0Q39adaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTM3NDA2MiwxMzE5OTE2OTM4LDE5OD
+eyJoaXN0b3J5IjpbMTg2MTI5MTMwMSwxMzE5OTE2OTM4LDE5OD
 c0NzU5NF19
 -->
