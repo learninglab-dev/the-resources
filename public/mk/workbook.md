@@ -3,10 +3,13 @@
 so.
 this is definitely going all in on the [Show Your Work](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1569804976&s=gateway&sr=8-1) strategy.
 
+but where, precisely? and what?
+
 ## TASKS
 
 - sort out task workflow (meta)
 - print things (like all the stills I edit)
+- script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
 - 
 
 ## NOTES
@@ -17,6 +20,20 @@ this is definitely going all in on the [Show Your Work](https://www.amazon.com/S
 ## THE WEEK
 
 ### 20190930
+
+- standup
+- curartion meeting
+- bok lunch 
+- studio prep for events
+- rLab
+	- 
+- LLGF sem
+	- Dewey
+	- 
+- MUSIC178r
+	- four up shot
+- gear
+	- largest PC case, ever
 
 
 ## NEXT WEEK
