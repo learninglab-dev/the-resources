@@ -20,11 +20,26 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 	- largest PC case, ever
 
 ### TUESDAY
+20191001
+
+- Educational Experts Seminar
+- Music 25 Workshops
+- PSY1809 updates
 
 ### WEDNESDAY
+20191002
+
+- podcasting event updates
+- Visual Teaching studio
 
 ### THURSDAY
 20191003
+
+- Algorithmic Performance
+- 
+
+### FRIDAY
+20191004
 
 ## TASKS
 
@@ -76,23 +91,14 @@ We need to get some projects going. So let's think of some mini-hackathon candid
 ### ADOBE CREATIVE TYPES
 Samples from the last graphic design workshop.
 
+Dani's Creative Personality Type
 ![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
 
+Marlon's Creative Personality Type
 ![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
 
 What should we do this time around?
 
-## TEMPLATES AND EXTRAS
+## VIDEOS
 
-### VIDEO EMBEDS
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo0Q39adaw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### YOUTUBE IMAGE WITH LINK MD
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/M11SvDtPBhA/0.jpg)](http://www.youtube.com/watch?v=M11SvDtPBhA)
-
-### YOUTUBE IMAGE WITH LINK HTML
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=M11SvDtPBhA
-" target="_blank"><img src="http://img.youtube.com/vi/M11SvDtPBhA/0.jpg"
-alt="PARTY IN THE USA" width="240" height="180" border="2" /></a>
+MK proxy app:
