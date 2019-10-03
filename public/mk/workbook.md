@@ -48,11 +48,18 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 - script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
-- mk notebook
-- add images
-- add text
-- do each morning and each day
-- ride home
+- change Adobe licenses:
+	- ll@fas
+	- code@xyz
+	- fellows@xyz
+
+
+#### AMAZON
+
+- power strips
+- phone chargers
+- Ryzen 7 good to go?
+- 
 
 
 
