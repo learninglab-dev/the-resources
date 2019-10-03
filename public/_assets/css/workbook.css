@@ -3,10 +3,16 @@ body {
   padding: 50px;
   font: 14px "Roboto Condensed", sans-serif;
   width: 80%;
+  margin: auto;
 }
 
 a {
   color: #00B7FF;
+}
+
+img {
+  width: 100%;
+  display: block
 }
 
 h1 {
