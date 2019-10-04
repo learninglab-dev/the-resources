@@ -21,10 +21,13 @@ router.get('/:id', async function (req, res, next) {
   }
 });
 ```
-I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a matching markdown file in the `/data/work` directory. Then it will convert that markdown to html and serve it up (for instance, `https://show.learninglab.xyz/work/how-to`  looks for `how-to.md` in the folder and finds this file. It will even handle raw html if you ever need to add anything unusual or gain more complete control over the look of your work-in
+I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a matching markdown file in the `/data/work` directory. Then it will convert that markdown to html and serve it up (for instance, `https://show.learninglab.xyz/work/how-to`  looks for `how-to.md` in the folder and finds this file. It will even handle raw html if you ever need to add anything unusual or gain more complete control over the look of your work-in-progress.
+So. How do you do it? Here are the steps:
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
+2. log in using `fellows@learninglab.xyz` (ask MK or someone for the password).
+3. click on workspaces, select `work` and you should see a bunch of files in the browser on the left. You can select 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODU2NTMzMSwtMTgzNDg5NTA3NSwyMT
+eyJoaXN0b3J5IjpbLTkwMjAzMDA3MSwtMTgzNDg5NTA3NSwyMT
 M2MDIwMzQ1XX0=
 -->
