@@ -30,7 +30,9 @@ So. How do you do it? Here are the steps:
 3. click on workspaces, select `work` and you should see a bunch of files in the browser on the left. You can select one and edit it, or you can create one of your own. (Note: everyone has access to everyone else's files--so be a good member of the collective and don't mess with stuff if it looks like someone else cares deeply about it).
 
 And that's it, basically
+
+We'd love ALL of you to load up this folder with `.md` files, and we'd love for a few of you to maybe get psyched about helping us with styling, and also with rendering the code a touch more complex and flexible (i.e. if we want individuals to be able to add their own custom styles, or if we want to add subfolders, etc. etc.).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4Njk4MjAxLC0xODM0ODk1MDc1LDIxMz
-YwMjAzNDVdfQ==
+eyJoaXN0b3J5IjpbLTkxNDE5ODYyOSwtMTgzNDg5NTA3NSwyMT
+M2MDIwMzQ1XX0=
 -->
