@@ -1,4 +1,4 @@
-<img src="https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg" style="border-radius: 5px" alt="20170220_001_mMaking_LLUFrg_selects_stills_032.jpg">
+<img src="https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg" style="border-radius: 5px; margin: 0px" alt="20170220_001_mMaking_LLUFrg_selects_stills_032.jpg">
 
 # adding to show your work
 
@@ -25,5 +25,5 @@ router.get('/:id', async function (req, res, next) {
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg2Mzc3MjEsMjEzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbLTE2MDI0MDM3NDgsMjEzNjAyMDM0NV19
 -->
