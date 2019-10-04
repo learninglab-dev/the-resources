@@ -23,9 +23,11 @@ we should create
 	 - stools
 	 - carpet
 
-follow your le
+follow your leader
+
+![Ceci Poster](https://ll-summer-2019.s3.amazonaws.com/public/ceci-poster.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MDE4NTU1LDEyNjMyMjQ5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjYxNzQ2NjAsMTI2MzIyNDkwMF19
 -->
