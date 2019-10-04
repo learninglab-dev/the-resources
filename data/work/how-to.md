@@ -21,9 +21,10 @@ router.get('/:id', async function (req, res, next) {
   }
 });
 ```
-
+I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a markdown file in the `/data/work` directory
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ4OTUwNzUsMjEzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbLTE3NTUxNTY0MjYsLTE4MzQ4OTUwNzUsMj
+EzNjAyMDM0NV19
 -->
