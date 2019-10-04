@@ -38,9 +38,11 @@ In fact, why don't we just start a feature-request list right here---the cool th
 * upgrade default style
 * handle custom styles
 * slack integration?
+	* send updates?
+	* take data in and add to `/md 
 * find hero image and style differently (maybe identify in alt text?)
-* find hero image and add to head in 
+* find hero image and add to `og:image` or `twitter:image` to make sure our experience in slack is slicker and more visually appealing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI3ODIwMDIsLTE4MzQ4OTUwNzUsMj
-EzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbMTg3NDQ4NjkzNywtMTgzNDg5NTA3NSwyMT
+M2MDIwMzQ1XX0=
 -->
