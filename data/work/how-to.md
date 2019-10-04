@@ -10,7 +10,7 @@ router.get('/:id', async function (req, res, next) {
       if (err) {res.send("check back in a minute")};
       console.log(data);
       res.render("work",  {
-        title: `markdown for ${req.params.id}`,
+        title: `${req.params.id}`,
         convertedMarkdown: marked(data)
       });
     });
@@ -22,5 +22,5 @@ router.get('/:id', async function (req, res, next) {
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzY2MDQyNl19
+eyJoaXN0b3J5IjpbNTYwOTI1MTk0XX0=
 -->
