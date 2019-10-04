@@ -49,8 +49,10 @@ In fact, why don't we just start a feature-request list right here---the cool th
 	* dropdown to add images to s3 and then populate a photo-blog
 	* add a `/makeitpublic` or `/publish` slash or some such and just ship a nicely styled version of the post in question.
 * find hero image and style differently (maybe identify in alt text?)
-* find hero image and add to `og:image` or `twitter:image` to make sure our experience in slack is slicker and more visually appealing
+* find hero image and add to `og:image` or `twitter:image` to make sure our experience in slack is slicker and more visually appealing.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY3MTQyLC00MzkwNDgyNzQsLTE4Mz
-Q4OTUwNzUsMjEzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbODAzMDAxMzYsLTEwMTY3MTQyLC00MzkwND
+gyNzQsLTE4MzQ4OTUwNzUsMjEzNjAyMDM0NV19
 -->
