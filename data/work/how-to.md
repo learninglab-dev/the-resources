@@ -21,10 +21,10 @@ router.get('/:id', async function (req, res, next) {
   }
 });
 ```
-I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a markdown file in the `/data/work` directory
+I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a matching markdown file in the `/data/work` directory. Then it will convert that markdown to html and serve it up (for instance, `https://show.learninglab.xyz/work/how-to`  looks for `how-to.md` in the folder and finds this file. It will even handle raw html if you ever need to add anything unusual or gain more complete control over the look of your work-in
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUxNTY0MjYsLTE4MzQ4OTUwNzUsMj
-EzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbLTgyODU2NTMzMSwtMTgzNDg5NTA3NSwyMT
+M2MDIwMzQ1XX0=
 -->
