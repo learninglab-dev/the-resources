@@ -2,7 +2,10 @@
 
 # adding to show your work
 
-We'd love you to work in public this year, sharing your ideas even in their development stages (like you'll find [this guy]([https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1570210084&sr=8-1](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1570210084&sr=8-1)) suggesting). To accomplish this, we've created a little route on [show.learninglab.xyz](https://show.learninglab.xyz) that will serve up markdown files that are stored in the [gitub repo](https://github.com/mkuzmick/the-show/tree/master/data/work).
+We'd love you to work in public this year, sharing your ideas even in their development stages (like you'll find [this guy]([https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1570210084&sr=8-1](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1570210084&sr=8-1)) suggesting). 
+
+## the code
+To accomplish this, we've created a little route on [show.learninglab.xyz](https://show.learninglab.xyz) that will serve up markdown files that are stored in the [gitub repo](https://github.com/mkuzmick/the-show/tree/master/data/work).
 
 ```
 router.get('/:id', async function (req, res, next) {
@@ -23,6 +26,7 @@ router.get('/:id', async function (req, res, next) {
 ```
 I guess you don't **really** need to know what this does, but, to make a long story short, it will take whatever you put at the tail end of `https://show.learninglab.xyz/work/*` and look for a matching markdown file in the `/data/work` directory. Then it will convert that markdown to html and serve it up (for instance, `https://show.learninglab.xyz/work/how-to`  looks for `how-to.md` in the folder and finds this file. It will even handle raw html if you ever need to add anything unusual or gain more complete control over the look of your work-in-progress.
 
+## how do i do it?
 So. How do you do it? Here are the steps:
 
 1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
@@ -31,6 +35,7 @@ So. How do you do it? Here are the steps:
 
 And that's it, basically
 
+## how do i help even more?
 We'd love ALL of you to load up this folder with `.md` files, and we'd love for a few of you to maybe get psyched about helping us with styling, and also with rendering the code a touch more complex and flexible. 
 
 In fact, why don't we just start a feature-request list right here---the cool thing is that we can all add to it!!!!
@@ -46,6 +51,6 @@ In fact, why don't we just start a feature-request list right here---the cool th
 * find hero image and style differently (maybe identify in alt text?)
 * find hero image and add to `og:image` or `twitter:image` to make sure our experience in slack is slicker and more visually appealing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTA0ODI3NCwtMTgzNDg5NTA3NSwyMT
-M2MDIwMzQ1XX0=
+eyJoaXN0b3J5IjpbLTEwMTY3MTQyLC00MzkwNDgyNzQsLTE4Mz
+Q4OTUwNzUsMjEzNjAyMDM0NV19
 -->
