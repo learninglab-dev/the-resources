@@ -1,4 +1,4 @@
-global.__basedir = __dirname;
+global.ROOT_DIR = __dirname;
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -9,7 +9,7 @@ var indexRouter = require('./routes/index');
 var peopleRouter = require('./routes/people');
 var codelabRouter = require('./routes/codelab');
 var mkRouter = require('./routes/mk');
-
+var workRouter = require('./routes/work');
 
 var app = express();
 
@@ -27,7 +27,7 @@ app.use('/', indexRouter);
 app.use('/people', peopleRouter);
 app.use('/codelab', codelabRouter);
 app.use('/mk', mkRouter);
-
+app.use('/work', workRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

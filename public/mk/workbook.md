@@ -48,6 +48,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 - script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
+- look at Jungin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
 - change Adobe licenses:
 	- ll@fas
 	- code@xyz
