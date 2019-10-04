@@ -38,8 +38,9 @@ In fact, why don't we just start a feature-request list right here---the cool th
 * upgrade default style
 * handle custom styles
 * slack integration?
-* 
+* find hero image and style differently (maybe identify in alt text?)
+* find hero image and add to head in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDU2MDU5LC0xODM0ODk1MDc1LDIxMz
-YwMjAzNDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MjI3ODIwMDIsLTE4MzQ4OTUwNzUsMj
+EzNjAyMDM0NV19
 -->
