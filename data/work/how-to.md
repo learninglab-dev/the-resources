@@ -31,8 +31,15 @@ So. How do you do it? Here are the steps:
 
 And that's it, basically
 
-We'd love ALL of you to load up this folder with `.md` files, and we'd love for a few of you to maybe get psyched about helping us with styling, and also with rendering the code a touch more complex and flexible (i.e. if we want individuals to be able to add their own custom styles, or if we want to add subfolders, etc. etc.).
+We'd love ALL of you to load up this folder with `.md` files, and we'd love for a few of you to maybe get psyched about helping us with styling, and also with rendering the code a touch more complex and flexible. 
+
+In fact, why don't we just start a feature-request list right here---the cool thing is that we can all add to it!!!!
+
+* upgrade default style
+* handle custom styles
+* slack integration?
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDE5ODYyOSwtMTgzNDg5NTA3NSwyMT
-M2MDIwMzQ1XX0=
+eyJoaXN0b3J5IjpbMTQ3NDU2MDU5LC0xODM0ODk1MDc1LDIxMz
+YwMjAzNDVdfQ==
 -->
