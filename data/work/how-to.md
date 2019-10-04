@@ -39,10 +39,13 @@ In fact, why don't we just start a feature-request list right here---the cool th
 * handle custom styles
 * slack integration?
 	* send updates?
-	* take data in and add to `/md 
+	* take data in and add to `.md`
+	* slash to add quickly
+	* dropdown to add images to s3 and then populate a photo-blog
+	* add a `/makeitpublic` or `/publish` slash or some such and just ship a nicely styled version of the post in question.
 * find hero image and style differently (maybe identify in alt text?)
 * find hero image and add to `og:image` or `twitter:image` to make sure our experience in slack is slicker and more visually appealing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDQ4NjkzNywtMTgzNDg5NTA3NSwyMT
+eyJoaXN0b3J5IjpbLTQzOTA0ODI3NCwtMTgzNDg5NTA3NSwyMT
 M2MDIwMzQ1XX0=
 -->
