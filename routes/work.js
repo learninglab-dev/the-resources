@@ -1,7 +1,5 @@
 var express = require('express');
 var router = express.Router();
-const request = require('request');
-const moment = require('moment');
 const marked = require('marked');
 const fs = require('fs');
 const path = require('path');
@@ -18,8 +16,7 @@ router.get('/:id', async function (req, res, next) {
       if (err) {res.send("check back in a minute")};
       console.log(data);
       res.render("work",  {
-        title: `markdown for ${req.params.id}`,
-        date: moment().format("YYYYMMDD"),
+        title: `${req.params.id}`,
         convertedMarkdown: marked(data)
       });
     });
