@@ -4,8 +4,8 @@
 ## CRUST
 
 ![Crust](https://live.staticflickr.com/7835/33503149408_731be7c75c_h.jpg)
-[link to pie crust recipe]([https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/](https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/)).
+[link to pie crust recipe]([https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/](https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/))  from the Smitten Kitchen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODY0MDA0XX0=
+eyJoaXN0b3J5IjpbMTUwMzE4MjA5OV19
 -->
