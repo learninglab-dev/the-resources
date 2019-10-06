@@ -190,3 +190,47 @@ Dani's Creative Personality Type
 
 Marlon's Creative Personality Type
 ![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
+
+
+
+## ADD
+
+### at tools
+
+- the thing is this: there are so so many command line tools
+- maybe this should be in a cli version of the scripts? or mk scripts?
+	- probably mkScripts is the way to go.  or mk-t ools
+- heroku probably on `us-east-1`
+- have fallen behind on mern stack business
+- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
+- print musiclab songs?
+
+
+
+logic of toolset
+- mk
+	- print
+	- airtable
+		- get tasks and print
+			- me
+			- everyone
+			- get as html?
+			- write html out to file?
+		- add link
+		- add task
+			- for me
+			- for someone else
+	- musiclab
+	- 
+
+
+
+
+
+shortcut keys to develop memory of
+- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
+- option + arrows for word by word moves horizontal
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEyNTY1NDk3NF19
+-->
