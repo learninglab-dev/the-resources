@@ -2,6 +2,9 @@
 
 mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1569804976&s=gateway&sr=8-1) strategy). Everything that **can** be seen in public will go here.
 
+## TASKS
+- write up
+
 ## THE WEEK
 
 ### MONDAY
@@ -13,20 +16,21 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 
 
 ### TUESDAY
-20191001
+20191007
+
 
 
 
 ### WEDNESDAY
-20191002
+20191008
 
-- podcasting event updates
+- podcasting event prep
 - Visual Teaching studio
 
 ### THURSDAY
-20191003
+20191009
 
-- Algorithmic Performance
+- Podcast event
 - 
 
 ### FRIDAY
@@ -103,6 +107,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDEwMTU3MywxNDU0MDE5OTI2LC0xMj
+eyJoaXN0b3J5IjpbLTI2NTQyMDA1NCwxNDU0MDE5OTI2LC0xMj
 QxMjExNzYwXX0=
 -->
