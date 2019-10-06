@@ -3,7 +3,9 @@
 mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1569804976&s=gateway&sr=8-1) strategy). Everything that **can** be seen in public will go here.
 
 ## TASKS
-- write up 
+- write up AFVS
+- adobe creative accounts 
+- 
 
 ## THE WEEK
 
@@ -107,6 +109,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4ODYyNCwxNDU0MDE5OTI2LC0xMjQxMj
-ExNzYwXX0=
+eyJoaXN0b3J5IjpbMTMwNTM3MzA0NiwzNDg4NjI0LDE0NTQwMT
+k5MjYsLTEyNDEyMTE3NjBdfQ==
 -->
