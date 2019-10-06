@@ -231,6 +231,36 @@ shortcut keys to develop memory of
 - command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
 - option + arrows for word by word moves horizontal
 
+
+
+### AIRTABLE PAGES
+
+# airtablePages
+
+basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
+
+- create and style custom course sites
+- create and style custom links lists for fellows, staff, any individual or group
+- quickly assemble sites for activities and presentations
+- generate the html and slack it out so that people can then tweak from there
+- accept new css rules in?
+
+
+
+### elements
+
+- css files
+- custom css rules as text?
+- templates
+- links to s3-hosted resources?
+- youtube ids
+- youtube urls
+- youtube embed code
+- width and height for embeds
+- in sites page, separate columns for video sizes?
+- or does the first or first X get hero size and others small and tiled?
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTY1NDk3NF19
+eyJoaXN0b3J5IjpbLTE3NzM1NTgxOTJdfQ==
 -->
