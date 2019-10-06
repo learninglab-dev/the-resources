@@ -13,7 +13,33 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 - order birch butcher blocks for control room
 - conceptual tools example
 - LL on a page
-- Unity C# creator kit tutorial
+- Unity C# creator [kit tutorial](https://learn.unity.com/project/creator-kit-beginner-code)
+- m2s send Still Record to AT
+- m2s save fcpxml to airtable (or just relevant data)
+- m2s run WITHOUT generating stills, just grabbing names and sending to AT
+- m2s grab still from Synology 6 using just the name
+- [designing grids in InDesign](https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) Lynda Tutorial
+- script to pull files down from Slack (and log on AT)
+- copies of keys?
+- [write](https://bokcenter.slack.com/files/U0HTZUUP4/FH58T2MK4/thebasement?origin_team=T0HTW3H0V) about the basement
+- route for glossary slash command
+- route for before and after slash command?
+- low poly forest and mountains tutorial for LLUF lab website or poster?
+- diagnostics
+- text vm
+- need task function to work
+	- `/task "do something"` should be handled . . . even `/task do something`
+	- then `/task --kg "do something or other"` and if possible `/task --kg do something or other` too
+	- then `/tasklist` with default value of today and tomorrow?
+		- or deep dive/links for today and just a list going forward?
+		- and link to the airtable---always a link to the right airtable view
+	- allow others to sign themselves up for the function
+	- pretty print or html or pdf display
+	- https://forums.cgsociety.org/t/fumefx-5-0-for-cinema-4d-beta/2052202
+	- https://www.afterworks.com/FumeFXC4D.asp
+	- https://docs.blender.org/manual/en/latest/advanced/scripting/index.html'
+	- 
+
 
 ## THE WEEK
 
@@ -117,6 +143,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA1MjMyOTYsMzQ4ODYyNCwxNDU0MD
+eyJoaXN0b3J5IjpbLTE5NDg4OTQwMjcsMzQ4ODYyNCwxNDU0MD
 E5OTI2LC0xMjQxMjExNzYwXX0=
 -->
