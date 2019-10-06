@@ -60,6 +60,80 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 
 
 
+### REALITYLAB: BLENDER!!!!
+
+this link: https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners?u=2194065
+
+
+
+### REALITYLAB: UNITY SCRIPTING INTRO
+
+some steps
+- new scene
+- plane
+- cube
+- sphere
+- 
+
+### REALITYLAB: UNITY TUTORIALS
+- [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
+- [good UI section in inLearning 2D UI course](https://www.linkedin.com/learning/cert-prep-unity-ui-and-2d-games/working-with-canvas-objects?u=2194065).
+
+
+### SASS AND BOOTSTRAP
+
+sass: https://www.linkedin.com/learning/sass-essential-training/using-partials?u=2194065
+
+sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/working-with-sass-bootstrap?u=2194065
+
+
+
+### AUDIO PEAK DETECTION
+	
+	http://joesul.li/van/beat-detection-using-web-audio/
+
+node web audio api https://www.npmjs.com/package/web-audio-api
+	
+
+### UNITY
+
+https://learn.unity.com/project/creator-kit-beginner-code
+
+
+
+### ARTS AND EDUCATION
+
+AIE
+- if the system for identifying and training artists is broken, why would we rely on the artists it's sending us?
+- a single artist in residence puts all your eggs in one basket
+- makes art the special domain of the few
+- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills 
+
+
+### JS BASICS
+
+vanilla js game: https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming/optimize-your-javascript-with-a-game?u=2194065
+
+
+
+### UX DESIGN
+
+
+ux design principles: https://www.linkedin.com/learning/principle-for-ux-design-2/what-is-principle?u=2194065
+
+
+
+### BUILD AN ATOM PLUGIN
+
+
+https://github.blog/2016-08-19-building-your-first-atom-plugin/
+
+
+
+
+
+
+
 
 
 ## THE WEEK
@@ -164,6 +238,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTQ0NDcyOSwzNDg4NjI0LDE0NTQwMT
-k5MjYsLTEyNDEyMTE3NjBdfQ==
+eyJoaXN0b3J5IjpbLTE1NTQ0NTUwNjAsMzQ4ODYyNCwxNDU0MD
+E5OTI2LC0xMjQxMjExNzYwXX0=
 -->
