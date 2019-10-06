@@ -5,7 +5,15 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 - write up AFVS
 - adobe creative accounts 
-- 
+- assess PC inventory and begin new machine
+- story templates
+- automate proxy creation
+- simplify ingest and make available to LLUFs
+- pilot new event IDs for cards.
+- order birch butcher blocks for control room
+- conceptual tools example
+- LL on a page
+- Unity C# creator kit tuto
 
 ## THE WEEK
 
@@ -109,6 +117,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTM3MzA0NiwzNDg4NjI0LDE0NTQwMT
+eyJoaXN0b3J5IjpbLTMwNzM4ODg2NiwzNDg4NjI0LDE0NTQwMT
 k5MjYsLTEyNDEyMTE3NjBdfQ==
 -->
