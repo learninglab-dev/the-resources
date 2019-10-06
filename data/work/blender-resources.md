@@ -12,6 +12,7 @@ landscapes with textures from [lesterbanks.com]([https://lesterbanks.com/2019/08
 
 [Blender object removal](https://lesterbanks.com/2019/06/how-to-remove-objects-from-a-scene-with-blender/).
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MTMzMTAwXX0=
+eyJoaXN0b3J5IjpbMTQ4MDcyMjM5NF19
 -->
