@@ -38,7 +38,28 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 	- https://forums.cgsociety.org/t/fumefx-5-0-for-cinema-4d-beta/2052202
 	- https://www.afterworks.com/FumeFXC4D.asp
 	- https://docs.blender.org/manual/en/latest/advanced/scripting/index.html'
-	- 
+	- - [scripting in blender](https://cgcookie.com/articles/blender-2-8-python-scripting-superpowers-for-non-programmers)
+
+### FCPXML AND WORKFLOW CODE PUBLICATION
+
+- do a series of tutorials on fcpxml
+- 
+- fcpxml research
+	- reference this: https://dev.commandpost.io/
+	- https://github.com/mjolnirapp/mjolnir
+	- https://www.lua.org/about.html
+	- http://www.fcp.co/final-cut-pro/tutorials/1912-demystifying-final-cut-pro-xmls-by-philip-hodgetts-and-gregory-clarke
+	- listen to this: http://fcpradio.com/episode057.html
+	- http://fcpradio.com/episodes/episode043.html
+	- https://www.youtube.com/watch?v=p6IeeWr3FOc
+- think about buying a new macbook air for secret writing lab
+- [table2site](https://table2site.com).
+
+
+
+
+
+
 
 
 ## THE WEEK
@@ -143,6 +164,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4OTQwMjcsMzQ4ODYyNCwxNDU0MD
-E5OTI2LC0xMjQxMjExNzYwXX0=
+eyJoaXN0b3J5IjpbMTY3NTQ0NDcyOSwzNDg4NjI0LDE0NTQwMT
+k5MjYsLTEyNDEyMTE3NjBdfQ==
 -->
