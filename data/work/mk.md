@@ -13,7 +13,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 - order birch butcher blocks for control room
 - conceptual tools example
 - LL on a page
-- Unity C# creator kit tuto
+- Unity C# creator kit tutorial
 
 ## THE WEEK
 
@@ -117,6 +117,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzM4ODg2NiwzNDg4NjI0LDE0NTQwMT
-k5MjYsLTEyNDEyMTE3NjBdfQ==
+eyJoaXN0b3J5IjpbLTExODA1MjMyOTYsMzQ4ODYyNCwxNDU0MD
+E5OTI2LC0xMjQxMjExNzYwXX0=
 -->
