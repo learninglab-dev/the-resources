@@ -5,26 +5,17 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## THE WEEK
 
 ### MONDAY
-20190930
-
+20191006
 - standup
 - curation meeting
-- bok lunch
-- studio prep for events
-- rLab
-- LLGF sem
-	- Dewey
-- MUSIC178r
-	- four up shot
-- gear
-	- largest PC case, ever
+- EMR workshop
+- night class
+
 
 ### TUESDAY
 20191001
 
-- Educational Experts Seminar
-- Music 25 Workshops
-- PSY1809 updates
+
 
 ### WEDNESDAY
 20191002
@@ -112,5 +103,6 @@ What should we do this time around?
 MK proxy app:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDAxOTkyNiwtMTI0MTIxMTc2MF19
+eyJoaXN0b3J5IjpbMTc3MDEwMTU3MywxNDU0MDE5OTI2LC0xMj
+QxMjExNzYwXX0=
 -->
