@@ -1,0 +1,16 @@
+<% if (locals.links) { %>
+  <ol>
+    <% for (i = 0; i < links.length; i++) { %>
+      <li>
+       <a href="<%- links[i].url %>" ><%- links[i].linkTitle  %></a>.<% if (links[i].externalUrl) { %>
+                    (direct link <a href= <%- links[i].externalUrl %> >here</a>).
+                  <% } %>
+          <% if (links[i].text) { %>
+
+                         <%- links[i].text %>
+
+                     <% } %>
+      </li>
+    <% } %>
+  </ol>
+<% } %>
