@@ -261,6 +261,101 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 - or does the first or first X get hero size and others small and tiled?
 - 
 
+
+### from 20190730
+
+
+## CODE
+
+summer2019.learninglab.xyz
+- routes for resources
+- routes for people
+- routes for tools
+- routes for moves
+- routes for timelines
+
+
+functions
+- submit resources from slack
+- get resources from slack
+- create custom resource pages
+- delete resources from slack
+- cope with signin
+
+
+
+
+labs as zones of expenditure
+
+labs as spatial zones or rooms
+
+- music
+- code
+- reality
+- games
+- photovideo
+- graphics
+- datavis
+- info design
+- graphic design
+- animation
+
+
+
+mk tools for summer 2019
+
+fcpx
+motion
+logic
+ableton
+traktor
+garageband
+block printing
+pc building
+illustrator
+after effects
+indesign
+audition
+photoshop
+lightroom
+react
+python 
+c++
+c#
+c
+swift
+node
+xcode
+d3
+three.js
+anime.js
+tone.js
+redux
+tableau
+R
+
+
+
+Projects
+
+Conceptual Tools
+cards
+build a pc
+develop group of 5 PCs
+overhead plan 2020
+
+### m2s slack
+
+- define data model for clips
+- store clips in Airtable
+- when m2s is run (maybe with proxy flag) actually get the stuff from s3
+	- you could actually use the actual stuff on s3 too I guess
+- on rename add to db?
+- or special db-pop script
+- 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM1NTgxOTJdfQ==
+eyJoaXN0b3J5IjpbMjU0NDg0NzUzXX0=
 -->
