@@ -15,7 +15,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
 - look at Jungin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
-- adobe creative accounts
+- adobe creative accounts 
 - assess PC inventory and begin new machine
 - story templates
 - automate proxy creation
@@ -54,7 +54,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
 - do a series of tutorials on fcpxml
-\-
+\- 
 - fcpxml research
 	- reference this: https://dev.commandpost.io/
 	- https://github.com/mjolnirapp/mjolnir
@@ -84,7 +84,7 @@ some steps
 - plane
 - cube
 - sphere
-\-
+\- 
 
 ### REALITYLAB: UNITY TUTORIALS
 - [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
@@ -102,11 +102,12 @@ sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/wo
 ### AUDIO PEAK DETECTION
 
 ```
-http://joesul.li/van/beat-detection-using-web-audio/
+	
+	http://joesul.li/van/beat-detection-using-web-audio/
 ```
 
 node web audio api https://www.npmjs.com/package/web-audio-api
-
+	
 
 ### UNITY
 
@@ -120,7 +121,7 @@ AIE
 - if the system for identifying and training artists is broken, why would we rely on the artists it's sending us?
 - a single artist in residence puts all your eggs in one basket
 - makes art the special domain of the few
-- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills
+- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills 
 
 
 ### JS BASICS
@@ -146,7 +147,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 - read folder of `.md` files and render these (if filename or title == `req.params.id`, for instance)
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
-\-
+\- 
 
 
 
@@ -176,7 +177,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-\-
+\- 
 
 ### FRIDAY
 20191004
@@ -231,7 +232,7 @@ logic of toolset
 			- for me
 			- for someone else
 	- musiclab
-	-
+	- 
 
 
 
@@ -269,7 +270,7 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 - width and height for embeds
 - in sites page, separate columns for video sizes?
 - or does the first or first X get hero size and others small and tiled?
--
+- 
 
 
 ### from 20190730
@@ -329,7 +330,7 @@ audition
 photoshop
 lightroom
 react
-python
+python 
 c++
 c#
 c
@@ -362,7 +363,7 @@ overhead plan 2020
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
--
+- 
 
 
 
@@ -370,3 +371,6 @@ overhead plan 2020
 eyJoaXN0b3J5IjpbMjU0NDg0NzUzXX0=
 -->
 >>>>>>> f5f41dab40f6a388646e15ad38268b6283107e01
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI4Njc3ODU4OF19
+-->
