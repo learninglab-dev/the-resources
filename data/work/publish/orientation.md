@@ -24,8 +24,8 @@ Some ideas of my own include the following:
     action.
  2. Editing the various guides created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
 
-I am happy to pursue any of these paths, as time would allow. Since I sharpen my analytical/editorial skills in my academic coursework, it would be cool to take a broom to the dusty business-mind in me--or, to isolate the desired skill, to work on selecting and tailoring media to certain goals and audiences (kind of like developing a lesson plan, I guess).  I would like to learn how to advocate for my own ideas, ability
+I am happy to pursue any of these paths, as time would allow. Since I sharpen my analytical/editorial skills in my academic coursework, it would be cool to take a broom to the dusty business-mind in me--or, to isolate the desired skill, to work on selecting and tailoring media to certain goals and audiences (kind of like developing a lesson plan, I guess).  I would like to learn how to advocate for my own ideas and abilities, as well as the importance of the work I am doing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYwMzYxOTIsNDgzMTQxMDYxLDE4Mz
-cyMTkyNTldfQ==
+eyJoaXN0b3J5IjpbLTE1NzgzOTMyOSw0ODMxNDEwNjEsMTgzNz
+IxOTI1OV19
 -->
