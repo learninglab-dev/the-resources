@@ -1,6 +1,21 @@
 
 # realityLab
 
+
+## UPDATES
+As the lab progresses, our meeting notes will appear here.
+
+### MEETING 20191007
+
+
+
+
+
+
+## NOTES
+
+### RANDOM MK NOTES FROM LAST MEETING
+
 what are people interested in? what are the tools?
 
 here are some:
@@ -29,5 +44,6 @@ follow your leader
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYxNzQ2NjAsMTI2MzIyNDkwMF19
+eyJoaXN0b3J5IjpbLTgxMDI3NjA2OSwtMTg2NjE3NDY2MCwxMj
+YzMjI0OTAwXX0=
 -->
