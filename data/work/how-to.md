@@ -30,8 +30,8 @@ I guess you don't **really** need to know what this does, but, to make a long st
 So. How do you do it? Here are the steps:
 
 1. open [stackedit.io](https://stackedit.io/app#) on your machine.
-2. log in using `fellows@learninglab.xyz` (ask MK or someone for the password).
-3. click on workspaces, select `work` and you should see a bunch of files in the browser on the left. You can select one and edit it, or you can create one of your own. (Note: everyone has access to everyone else's files--so be a good member of the collective and don't mess with stuff if it looks like someone else cares deeply about it).
+2. log in using `fellows@learninglab.xyz` (ask MK or someone for the password, but you may already know it!)
+3. click on workspaces, select `show your work` and you should see a bunch of files in the browser on the left (*note: you **may** need to accept a request to see your github repositories, and, i*. You can select one and edit it, or you can create one of your own. (Note: everyone has access to everyone else's files--so be a good member of the collective and don't mess with stuff if it looks like someone else cares deeply about it).
 
 And that's it, basically
 
@@ -53,7 +53,7 @@ In fact, why don't we just start a feature-request list right here---the cool th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjAwMjg5OSw4MDMwMDEzNiwtMTAxNj
+eyJoaXN0b3J5IjpbLTQ1NDU3MjI2OCw4MDMwMDEzNiwtMTAxNj
 cxNDIsLTQzOTA0ODI3NCwtMTgzNDg5NTA3NSwyMTM2MDIwMzQ1
 XX0=
 -->
