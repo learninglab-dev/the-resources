@@ -10,7 +10,7 @@ The following are some ideas that were proposed to this end during my brainstorm
 4. Reading lab curation: finding some gUd texts, some thought-provokin' stuff
 
 Some ideas of my own include the following: 
-1. Developing a sort of print media magazi
+5. Developing a sort of print media magazine that collects and highlights the various forces at work in the Lab, as well as the human faces behind them--could include recurring columns, like  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MzQ0NzE1LDE4MzcyMTkyNTldfQ==
+eyJoaXN0b3J5IjpbNjE1MDc4NjMzLDE4MzcyMTkyNTldfQ==
 -->
