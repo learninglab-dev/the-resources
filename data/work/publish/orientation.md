@@ -7,7 +7,10 @@ The following are some ideas that were proposed to this end during my brainstorm
 1. Weekly Top 10--the cutest, kookiest, most marketable, most significant happenings of the week, curated with media and catchphrases
 2. Event-based cataloguing--following a certain class throughout the semester, perhaps, or picking up various labs and events as available
 3. Macro-collecting: creating a larger narrative of **cohesion** which unites all the many wonderful things happening under the Learning Lab's roof
-4. Reading l
+4. Reading lab curation: finding some gUd texts, some thought-provokin' stuff
+
+Some ideas of my own include the following: 
+1. Developing a sort of print media magazi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MDg1OTkyLDE4MzcyMTkyNTldfQ==
+eyJoaXN0b3J5IjpbMjI3MzQ0NzE1LDE4MzcyMTkyNTldfQ==
 -->
