@@ -12,7 +12,7 @@ This Week, We Will:
 
 #### Refocus our tutorialing on the input-oriented series!
 
-Find a Anna, Lauren, and Ceci will be taking point on creating code and shooting scripts for this series of tutorials (one on keyboard input, one on mouse input, and the other on some sort of proximity trigger or collision trigger).
+3 lab members will be taking point on creating code and shooting scripts for this series of tutorials (one on keyboard input, one on mouse input, and the other on some sort of proximity trigger or collision trigger).
 
   
 
@@ -70,6 +70,6 @@ follow your leader
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxODQyMjk5LC0xODY2MTc0NjYwLDEyNj
-MyMjQ5MDBdfQ==
+eyJoaXN0b3J5IjpbMTExODE0NTMzOCwtMTg2NjE3NDY2MCwxMj
+YzMjI0OTAwXX0=
 -->
