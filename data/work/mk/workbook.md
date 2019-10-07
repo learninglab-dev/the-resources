@@ -2,6 +2,11 @@
 
 mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1569804976&s=gateway&sr=8-1) strategy). Everything that **can** be seen in public will go here.
 
+\<iframe src="https://player.vimeo.com/video/361974430" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen\>\</iframe\>
+\<p\>\<a href="https://vimeo.com/361974430"\>SideFX Houdini Tutorial - ROLLER COASTER / PART01 : The Rails\</a\> from \<a href="https://vimeo.com/adrienlambert"\>adrien lambert\</a\> on \<a href="https://vimeo.com"\>Vimeo\</a\>.\</p\>
+
+
+
 ## TASKS
 - write up AFVS
 - - sort out task workflow (meta)
@@ -49,7 +54,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
 - do a series of tutorials on fcpxml
-- 
+\- 
 - fcpxml research
 	- reference this: https://dev.commandpost.io/
 	- https://github.com/mjolnirapp/mjolnir
@@ -79,7 +84,7 @@ some steps
 - plane
 - cube
 - sphere
-- 
+\- 
 
 ### REALITYLAB: UNITY TUTORIALS
 - [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
@@ -95,11 +100,13 @@ sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/wo
 
 
 ### AUDIO PEAK DETECTION
-	
-	http://joesul.li/van/beat-detection-using-web-audio/
+
+```
+http://joesul.li/van/beat-detection-using-web-audio/
+```
 
 node web audio api https://www.npmjs.com/package/web-audio-api
-	
+
 
 ### UNITY
 
@@ -139,7 +146,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 - read folder of `.md` files and render these (if filename or title == `req.params.id`, for instance)
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
-- 
+\- 
 
 
 
@@ -169,7 +176,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-- 
+\- 
 
 ### FRIDAY
 20191004
