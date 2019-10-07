@@ -10,8 +10,18 @@ The following are some ideas that were proposed to this end during my brainstorm
 4. Reading lab curation: finding some thought-provokin' stuff
 
 Some ideas of my own include the following: 
-5. Developing a sort of print media magazine that collects and highlights the various forces at work in the Lab, as well as the human faces behind them--could include recurring columns, like magazines have advice columns or who-wore-it-betters (although this one would obviously take an axe to that spirit of competition).. there could be profiles on the various workers of the Learning Lab and their internal and external goals but also more in-depth pieces on the philosophical underpinnings of the Lab or case-study type pieces which illustrate those underpinnings in application and action. 
-6. 
+
+ 1. Developing a sort of print media magazine that collects and
+    highlights the various forces at work in the Lab, as well as the
+    human faces behind them--could include recurring columns, like
+    magazines have advice columns or who-wore-it-betters (although this
+    one would obviously take an axe to that spirit of competition)..
+    there could be profiles on the various workers of the Learning Lab
+    and their internal and external goals but also more in-depth pieces
+    on the philosophical underpinnings of the Lab or case-study type
+    pieces which illustrate those underpinnings in application and
+    action.
+ 2. Editing the various guides created by LLUFs in their explication of different media form projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE5MjM0MCwxODM3MjE5MjU5XX0=
+eyJoaXN0b3J5IjpbMTU4NTAyNTE0NSwxODM3MjE5MjU5XX0=
 -->
