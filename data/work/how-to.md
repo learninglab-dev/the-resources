@@ -29,9 +29,9 @@ I guess you don't **really** need to know what this does, but, to make a long st
 ## how do i do it?
 So. How do you do it? Here are the steps:
 
-1. open [stackedit.io]([https://stackedit.io/app#](https://stackedit.io/app#)) on your machine.
-2. log in using `fellows@learninglab.xyz` (ask MK or someone for the password).
-3. click on workspaces, select `work` and you should see a bunch of files in the browser on the left. You can select one and edit it, or you can create one of your own. (Note: everyone has access to everyone else's files--so be a good member of the collective and don't mess with stuff if it looks like someone else cares deeply about it).
+1. open [stackedit.iopp#) on your machine.
+2. log in using `fellows@learninglab.xyz` (ask MK or someone for the password, but you may already know it!)
+3. click on workspaces, select `show your work` and you should see a bunch of files in the browser on the left (*note: you **may** need to accept a request to see your github repositories, and, if so, go ahead and say "yes" by logging in as fellows@learninglab.xyz with the usual password*). You can select one and edit it, or you can create one of your own. (*Note: everyone has access to everyone else's files--so be a good member of the collective and don't mess with stuff if it looks like someone else cares deeply about it*).
 
 And that's it, basically
 
@@ -53,6 +53,7 @@ In fact, why don't we just start a feature-request list right here---the cool th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMDAxMzYsLTEwMTY3MTQyLC00MzkwND
-gyNzQsLTE4MzQ4OTUwNzUsMjEzNjAyMDM0NV19
+eyJoaXN0b3J5IjpbMjA4MTkwOTgzMCw2MDc3NzA4MjIsLTQ1ND
+U3MjI2OCw4MDMwMDEzNiwtMTAxNjcxNDIsLTQzOTA0ODI3NCwt
+MTgzNDg5NTA3NSwyMTM2MDIwMzQ1XX0=
 -->
