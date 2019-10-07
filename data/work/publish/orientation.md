@@ -24,8 +24,8 @@ Some ideas of my own include the following:
     action.
  2. Editing the various guides created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
 
-I am happy to pursue any of these paths, as time would allow. 
+I am happy to pursue any of these paths, as time would allow. Since I sharpen my analytical/editorial skills in my academic coursework, it would be cool to dust off the business-minded corners of my brain.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjUyODE2Myw0ODMxNDEwNjEsMTgzNz
+eyJoaXN0b3J5IjpbLTE5NzY3MTA4OSw0ODMxNDEwNjEsMTgzNz
 IxOTI1OV19
 -->
