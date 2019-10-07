@@ -9,10 +9,13 @@ The following are some ideas that were proposed to this end during my brainstorm
 
  **1.** **Weekly Top 10--** celebrating the cutest, kookiest, most marketable, most significant happenings of the week, curated with
     media and catchphrases
-    **2.** **Event-based cataloguing--** following a certain class throughout the semester, perhaps, or picking up various labs and
+
+   **2.** **Event-based cataloguing--** following a certain class throughout the semester, perhaps, or picking up various labs and
     events as available
-    **3.** **Macro-collecting--** creating a larger narrative of **cohesion** which unites all the many wonderful things happening under the Learning Lab's roof
-    **4. Reading lab curation--** finding some thought-provokin' stuff
+
+   **3.** **Macro-collecting--** creating a larger narrative of **cohesion** which unites all the many wonderful things happening under the Learning Lab's roof
+
+   **4. Reading lab curation--** finding some thought-provokin' stuff
 
 Some ideas of my own include the following: 
 
@@ -26,13 +29,15 @@ Some ideas of my own include the following:
     on the philosophical underpinnings of the Lab or case-study type
     pieces which illustrate those underpinnings in application and
     action.
+
  **2.** **Editing** the various **guides** created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
 
 I am happy to pursue any of these paths, as time would allow. Since I sharpen my analytical/editorial skills in my academic coursework, it would be cool to take a broom to the dusty business-mind in me--or, to isolate the desired skill, to work on selecting and tailoring media to certain goals and audiences (kind of like developing a lesson plan, I guess).  I would like to learn how to advocate for my own ideas and abilities, as well as the importance of the work I am doing.
 
 ![Image result for professional gif](https://media.giphy.com/media/fQrTrtOCbqS4g/giphy.gif)
+
 *Take me seriously! I'm a professional!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzY2NjY0MSw3NTAyOTY2NTEsNDgzMT
-QxMDYxLDE4MzcyMTkyNTldfQ==
+eyJoaXN0b3J5IjpbLTEwMDEzMTU0OTcsNzUwMjk2NjUxLDQ4Mz
+E0MTA2MSwxODM3MjE5MjU5XX0=
 -->
