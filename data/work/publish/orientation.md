@@ -4,11 +4,13 @@
 > This semester at the Learning Lab I would like to develop skills that would be assets to me in my pursuit of a career in print publishing. 
 
 ![Image result for nerdy gif](https://media1.tenor.com/images/42b7de9f6e49a3f993a7c85c140ac8aa/tenor.gif?itemid=12296861)
-The following are some ideas that were proposed to this end during my brainstorming session with Marlon and Jordan, all of which can fall under the umbrella of **"telling the story"** of the Learning Lab: 
-1. **Weekly Top 10**--celebrating the cutest, kookiest, most marketable, most significant happenings of the week, curated with media and catchphrases
-2. **Event-based cataloguing**following a certain class throughout the semester, perhaps, or picking up various labs and events as available
-3. **Macro-collecting--** creating a larger narrative of **cohesion** which unites all the many wonderful things happening under the Learning Lab's roof
-4. Reading lab curation: finding some thought-provokin' stuff
+
+The following are some ideas that were proposed to this end during my brainstorming session with Marlon and Jordan, all of which can fall under the umbrella of *telling the story* of the Learning Lab: 
+
+**1.** **Weekly Top 10--** celebrating the cutest, kookiest, most marketable, most significant happenings of the week, curated with media and catchphrases
+**2.** **Event-based cataloguing--** following a certain class throughout the semester, perhaps, or picking up various labs and events as available
+**3.** **Macro-collecting--** creating a larger narrative of **cohesion** which unites all the many wonderful things happening under the Learning Lab's roof
+**4. Reading lab curation--** finding some thought-provokin' stuff
 
 Some ideas of my own include the following: 
 
@@ -28,6 +30,6 @@ I am happy to pursue any of these paths, as time would allow. Since I sharpen my
 
 ![Image result for professional gif](https://media.giphy.com/media/fQrTrtOCbqS4g/giphy.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzAzNjI0NCw0ODMxNDEwNjEsMTgzNz
+eyJoaXN0b3J5IjpbLTYzMzg1MzgzNiw0ODMxNDEwNjEsMTgzNz
 IxOTI1OV19
 -->
