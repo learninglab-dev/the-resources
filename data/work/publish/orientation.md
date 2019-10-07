@@ -21,7 +21,7 @@ Some ideas of my own include the following:
     on the philosophical underpinnings of the Lab or case-study type
     pieces which illustrate those underpinnings in application and
     action.
- 2. Editing the various guides created by LLUFs in their explication of different media form projects
+ 2. Editing the various guides created by LLUFs in their explication of different media projects and forms--for example the "personality" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTAyNTE0NSwxODM3MjE5MjU5XX0=
+eyJoaXN0b3J5IjpbLTEyMDM4NjIxMjEsMTgzNzIxOTI1OV19
 -->
