@@ -14,7 +14,7 @@ The following are some ideas that were proposed to this end during my brainstorm
 
 Some ideas of my own include the following: 
 
- 1. Developing a sort of print media magazine that collects and
+ **1.** **Developing** a sort of **print media magazine** that collects and
     highlights the various forces at work in the Lab, as well as the
     human faces behind them--could include recurring columns, like
     magazines have advice columns or who-wore-it-betters (although this
@@ -24,12 +24,13 @@ Some ideas of my own include the following:
     on the philosophical underpinnings of the Lab or case-study type
     pieces which illustrate those underpinnings in application and
     action.
- 2. Editing the various guides created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
+ **2.** **Editing** the various **guides** created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
 
 I am happy to pursue any of these paths, as time would allow. Since I sharpen my analytical/editorial skills in my academic coursework, it would be cool to take a broom to the dusty business-mind in me--or, to isolate the desired skill, to work on selecting and tailoring media to certain goals and audiences (kind of like developing a lesson plan, I guess).  I would like to learn how to advocate for my own ideas and abilities, as well as the importance of the work I am doing.
 
 ![Image result for professional gif](https://media.giphy.com/media/fQrTrtOCbqS4g/giphy.gif)
+*Take me seriously! I'm a professional!*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzg1MzgzNiw0ODMxNDEwNjEsMTgzNz
-IxOTI1OV19
+eyJoaXN0b3J5IjpbNzUwMjk2NjUxLDQ4MzE0MTA2MSwxODM3Mj
+E5MjU5XX0=
 -->
