@@ -22,7 +22,8 @@ Some ideas of my own include the following:
     pieces which illustrate those underpinnings in application and
     action.
  2. Editing the various guides created by LLUFs in their explication of different media projects and forms--for example the "personality graphic" instruction piece, which I had trouble following last week--this would require me to gain at least a basic understanding of the requisite skills for each mission and discern how best to present the challenge to maximize clarity but still leave space for exploration and self-direction, so that learning is accomplished, rather than spoonfeeding.
- 3. 
+
+I am happy to pursue any of these paths, as time would allow. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwODc2NjUxLDE4MzcyMTkyNTldfQ==
+eyJoaXN0b3J5IjpbNDgzMTQxMDYxLDE4MzcyMTkyNTldfQ==
 -->
