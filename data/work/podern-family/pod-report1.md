@@ -5,7 +5,7 @@
 ### This week, we have been focusing on finding our lives' journeys. 
 
 
-***Juliana*** is learning 3D Modelling! She's familiarizing herself with the Blender interface by rendering a three-dimensional model of a donut with sprinkles. Marlon has asked her to render a poly-mountain scene to go with one of the Bok Center's backdrops.
+***Juliana*** is learning 3D Modelling! She's familiarizing herself with the Blender interface by rendering a three-dimensional model of a donut with sprinkles. Marlon has asked her to render a poly-mountain scene to go with one of the Bok Center's backdrops. She's also joined the Bok Center's asset creation project.
 
 Kathryn is 
 ![Kat pic](
@@ -16,9 +16,10 @@ Kathryn is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgxOTE2MDcsLTU1NzkxNjg1MCwxNz
-Q1Nzc3OTg1LDQzNTg1MTE5OCwxNTY5NjEzLC0yMTIyNjE1MzQ1
-LC0xMjMzMTM5OTk3LDEzMTA2MjI4ODQsLTU5NTU2NjY5MiwtMT
-g3MTcyNDkwNiw4Njc0MzQ5MTEsNzI4MjIwMTQ5LC0xNTQyMDU2
-MzAyLC0xMjQxMDEzMiw2NDI1NTg0MzksODE1MDY2MzI5XX0=
+eyJoaXN0b3J5IjpbODQwODc3NTQ3LC0xNzg4MTkxNjA3LC01NT
+c5MTY4NTAsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYxMywt
+MjEyMjYxNTM0NSwtMTIzMzEzOTk5NywxMzEwNjIyODg0LC01OT
+U1NjY2OTIsLTE4NzE3MjQ5MDYsODY3NDM0OTExLDcyODIyMDE0
+OSwtMTU0MjA1NjMwMiwtMTI0MTAxMzIsNjQyNTU4NDM5LDgxNT
+A2NjMyOV19
 -->
