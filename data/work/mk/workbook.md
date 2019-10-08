@@ -23,6 +23,7 @@ or someday.
 
 - slash for room availability
 - process this lynda.com [tutorial on designing with grids in InDesign]( https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) and add to InDesign resources.
+- need to handle arbitrary number of `req.params` recursively in show.learninglab.xyz/work
 - resources
 	- submit resources from slack
 	- get resources from slack
@@ -285,6 +286,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDkwNTIyMSwtMTQzOTIwNjMzOSwtOT
-A4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbLTY3NDA1MDk4LC0xNDM5MjA2MzM5LC05MD
+g3MTA4ODddfQ==
 -->
