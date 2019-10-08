@@ -2,17 +2,20 @@
 
 ## We finally found our family! 
 
-
-### This week, we have been focusing on finding our live's journeys. 
-
+### This week, we have been focusing on finding our lives' journeys. 
 
 
-![]!
+
+![]!Juliana is 
+Kathryn is
+Nicole is
+Molly is
+Sarah is
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY5MDg2MjcsMTM3NDAyOTIyNywtOT
-YyOTkyOTA5LDg2NzQzNDkxMSw3MjgyMjAxNDksLTE1NDIwNTYz
-MDIsLTEyNDEwMTMyLDY0MjU1ODQzOSw4MTUwNjYzMjldfQ==
+eyJoaXN0b3J5IjpbLTE4NzE3MjQ5MDYsLTE3NDY5MDg2MjcsMT
+M3NDAyOTIyNyw4Njc0MzQ5MTEsNzI4MjIwMTQ5LC0xNTQyMDU2
+MzAyLC0xMjQxMDEzMiw2NDI1NTg0MzksODE1MDY2MzI5XX0=
 -->
