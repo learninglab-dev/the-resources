@@ -13,6 +13,9 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - maybe switch lights in studio?
 - conceptual tools example
 - route for glossary
+- teach jordan to edit hello.learninglab.xyz
+- teach jordan to style hello.learninglab.xyz
+- 
 
 ### SOMEDAY
 
@@ -263,5 +266,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTk5NDMxOSwtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbMjU0NDY1MjQxLC05MDg3MTA4ODddfQ==
 -->
