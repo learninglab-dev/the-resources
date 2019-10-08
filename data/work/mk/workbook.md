@@ -6,8 +6,10 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 small things, biggish things, but no complex clusters of things (those are in projects).
 
 ### TODAY
+20191008
 - handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
-- add some better code styling to `
+- add some better code styling to `.css` referenced in the `work.ejs` template
+- 
 
 ### SOMEDAY
 
@@ -256,5 +258,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTEwMDM4MV19
+eyJoaXN0b3J5IjpbLTE5NjYwMzQ5MzJdfQ==
 -->
