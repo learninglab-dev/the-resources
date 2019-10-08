@@ -378,12 +378,12 @@ overhead plan 2020
 - on rename add to db?
 - or special db-pop script
 - 
-### TOP 5
+## LLUF UPDATES
 
-Shirley
+### Shirley
 ![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
 
-###Shavonna
+### Shavonna
 ![Shavonna](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
 
 ### Molly
@@ -391,7 +391,7 @@ Shirley
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTE5MTgyNSwtMTYyMDE3MTM1OCwzNz
-I1MTkzMjgsLTIwNTYyOTc5NDMsLTY3NDA1MDk4LC0xNDM5MjA2
-MzM5LC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbLTEyMDk2NzgzNjIsLTE2MjAxNzEzNTgsMz
+cyNTE5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIw
+NjMzOSwtOTA4NzEwODg3XX0=
 -->
