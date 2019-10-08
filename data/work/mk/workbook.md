@@ -380,15 +380,13 @@ overhead plan 2020
 - 
 ### TOP 5
 
+Shirley
 ![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
 
-![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg)
-
-
-
-![Shavonnals_142.jpg?pub_secret=43a31f00a2](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
+Shavonna
+![Shavonna](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTUzNjY3NiwzNzI1MTkzMjgsLTIwNT
-YyOTc5NDMsLTY3NDA1MDk4LC0xNDM5MjA2MzM5LC05MDg3MTA4
-ODddfQ==
+eyJoaXN0b3J5IjpbLTE2MjAxNzEzNTgsMzcyNTE5MzI4LC0yMD
+U2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIwNjMzOSwtOTA4NzEw
+ODg3XX0=
 -->
