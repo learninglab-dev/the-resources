@@ -11,7 +11,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - add some better code styling to `.css` referenced in the `work.ejs` template
 - maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - maybe switch lights in studio?
-- 
+- conceptual tools example
+- route for glossary
 
 ### SOMEDAY
 
@@ -262,5 +263,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTA3OTk5LC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbMTgyOTk5NDMxOSwtOTA4NzEwODg3XX0=
 -->
