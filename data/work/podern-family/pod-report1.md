@@ -17,7 +17,7 @@
 
 ***Molly*** and ***Sarah*** are out this week, but tune in next time for more updates on their ends!
 
-![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
+![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKSU83BRU/5d4b73244.jpg?pub_secret=ac699b84f338e593407c)
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
 
@@ -28,11 +28,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzA0ODI5OSw4MjExMzA1ODAsMTgwMD
-A5Mzg2NCwtMTUzNzA1ODMyNSwtMTcyMjg2MTMwNSw4NzI5ODc0
-NzYsLTkzMzE0ODE1MSwtNTgwNTc4MTIwLC01NzU1MjAzMSwtMT
-Y1NTA0MTcxMyw4NDA4Nzc1NDcsLTE3ODgxOTE2MDcsLTU1Nzkx
-Njg1MCwxNzQ1Nzc3OTg1LDQzNTg1MTE5OCwxNTY5NjEzLC0yMT
-IyNjE1MzQ1LC0xMjMzMTM5OTk3LDEzMTA2MjI4ODQsLTU5NTU2
-NjY5Ml19
+eyJoaXN0b3J5IjpbLTEzOTA4NzYzODIsMTM1NzA0ODI5OSw4Mj
+ExMzA1ODAsMTgwMDA5Mzg2NCwtMTUzNzA1ODMyNSwtMTcyMjg2
+MTMwNSw4NzI5ODc0NzYsLTkzMzE0ODE1MSwtNTgwNTc4MTIwLC
+01NzU1MjAzMSwtMTY1NTA0MTcxMyw4NDA4Nzc1NDcsLTE3ODgx
+OTE2MDcsLTU1NzkxNjg1MCwxNzQ1Nzc3OTg1LDQzNTg1MTE5OC
+wxNTY5NjEzLC0yMTIyNjE1MzQ1LC0xMjMzMTM5OTk3LDEzMTA2
+MjI4ODRdfQ==
 -->
