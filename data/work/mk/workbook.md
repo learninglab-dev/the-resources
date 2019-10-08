@@ -16,7 +16,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - teach jordan to edit hello.learninglab.xyz
 - teach jordan to style hello.learninglab.xyz
 - bring mac air charger home
-- 
+- need command line tool for s3 and flickr still uploads sooner rather than later.
+- automate the meta tags of `og:image` sooner rather than later 
 
 ### TOMORROW
 or someday.
@@ -381,6 +382,6 @@ overhead plan 2020
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYyOTc5NDMsLTY3NDA1MDk4LC0xND
-M5MjA2MzM5LC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbLTE4ODUyNDEwODksLTIwNTYyOTc5NDMsLT
+Y3NDA1MDk4LC0xNDM5MjA2MzM5LC05MDg3MTA4ODddfQ==
 -->
