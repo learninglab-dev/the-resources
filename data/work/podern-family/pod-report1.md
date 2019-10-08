@@ -10,7 +10,7 @@ oisri
 ***Juliana*** is learning 3D Modelling! She's familiarizing herself with the Blender interface by rendering a three-dimensional model of a donut with sprinkles. Marlon has asked her to render a poly-mountain scene to go with one of the Bok Center's backdrops.
 
 Kathryn is 
-![Kat pic]([https://slack-files.com/T0HTW3H0V-FND87ATJ7-887808b93f](https://slack-files.com/T0HTW3H0V-FND87ATJ7-887808b93f))
+![Kat pic](
 Nicole is
 Molly is
 Sri
@@ -21,9 +21,9 @@ qD?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OT
-YxMywtMjEyMjYxNTM0NSwtMTIzMzEzOTk5NywxMzEwNjIyODg0
-LC01OTU1NjY2OTIsLTE4NzE3MjQ5MDYsODY3NDM0OTExLDcyOD
-IyMDE0OSwtMTU0MjA1NjMwMiwtMTI0MTAxMzIsNjQyNTU4NDM5
-LDgxNTA2NjMyOV19
+eyJoaXN0b3J5IjpbLTc1OTYxNzA0MSwxNzQ1Nzc3OTg1LDQzNT
+g1MTE5OCwxNTY5NjEzLC0yMTIyNjE1MzQ1LC0xMjMzMTM5OTk3
+LDEzMTA2MjI4ODQsLTU5NTU2NjY5MiwtMTg3MTcyNDkwNiw4Nj
+c0MzQ5MTEsNzI4MjIwMTQ5LC0xNTQyMDU2MzAyLC0xMjQxMDEz
+Miw2NDI1NTg0MzksODE1MDY2MzI5XX0=
 -->
