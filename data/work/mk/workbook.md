@@ -380,6 +380,10 @@ overhead plan 2020
 - 
 ## LLUF UPDATES
 
+### Mario
+![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)is at work on c4d projects of all sorts, including this web series with Yilan.
+
+
 ### Shirley
 ![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
 
@@ -391,7 +395,7 @@ overhead plan 2020
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2NzgzNjIsLTE2MjAxNzEzNTgsMz
-cyNTE5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIw
-NjMzOSwtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbMjg1MzIzNzQ3LC0xNjIwMTcxMzU4LDM3Mj
+UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
+MzksLTkwODcxMDg4N119
 -->
