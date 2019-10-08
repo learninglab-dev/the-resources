@@ -390,6 +390,7 @@ More to come.
 
 ### Shirley
 ![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
+Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing ideas for a pod project for the term.
 
 ### Shavonna
 ![Shavonna](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
@@ -399,7 +400,7 @@ More to come.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYwMzE0ODEsNjg0MTA1MTIsLTE2Mj
-AxNzEzNTgsMzcyNTE5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5
-OCwtMTQzOTIwNjMzOSwtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbLTk4NjkyMjE5Myw2ODQxMDUxMiwtMTYyMD
+E3MTM1OCwzNzI1MTkzMjgsLTIwNTYyOTc5NDMsLTY3NDA1MDk4
+LC0xNDM5MjA2MzM5LC05MDg3MTA4ODddfQ==
 -->
