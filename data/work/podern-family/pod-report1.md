@@ -6,17 +6,19 @@
 
 
 
-![]!Juliana is 
+Juliana is 
 Kathryn is
 Nicole is
 Molly is
-Sarah is![alt text](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg)
+Sarah is![alt text](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg)![)
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA0NjMyMzcsLTE4NzE3MjQ5MDYsLT
-E3NDY5MDg2MjcsODY3NDM0OTExLDcyODIyMDE0OSwtMTU0MjA1
-NjMwMiwtMTI0MTAxMzIsNjQyNTU4NDM5LDgxNTA2NjMyOV19
+eyJoaXN0b3J5IjpbMTUyOTc1NzMzMiwtMTYzMDQ2MzIzNywtMT
+g3MTcyNDkwNiw4Njc0MzQ5MTEsNzI4MjIwMTQ5LC0xNTQyMDU2
+MzAyLC0xMjQxMDEzMiw2NDI1NTg0MzksODE1MDY2MzI5XX0=
 -->
