@@ -381,7 +381,9 @@ overhead plan 2020
 ## LLUF UPDATES
 
 ### Mario
-![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)is at work on c4d projects of all sorts, including this web series with Yilan.
+![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)
+
+is at work on c4d projects of all sorts, including this web series with Yilan.
 <iframe src="https://drive.google.com/file/d/176BwSxWH2wRW4zOEnYtXu1v0wcrolhYc/preview" width="560" height="315"></iframe>
 More to come.
 
@@ -396,7 +398,7 @@ More to come.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMyMDQ4MTIsLTE2MjAxNzEzNTgsMz
-cyNTE5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIw
-NjMzOSwtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbNjg0MTA1MTIsLTE2MjAxNzEzNTgsMzcyNT
+E5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIwNjMz
+OSwtOTA4NzEwODg3XX0=
 -->
