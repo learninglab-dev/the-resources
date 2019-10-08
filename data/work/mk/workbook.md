@@ -15,6 +15,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 
 ### SOMEDAY
 
+- slash for room availability
+- 
 - resources
 	- submit resources from slack
 	- get resources from slack
@@ -260,5 +262,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbLTg0MTA3OTk5LC05MDg3MTA4ODddfQ==
 -->
