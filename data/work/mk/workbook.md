@@ -120,7 +120,21 @@ small things, biggish things, but no complex clusters of things (those are in pr
 
 ## PROJECTS
 
-### m2s slack
+### the tools
+all the things we need
+#### theWorkflow
+- live logs and data feeds, 
+- initial deliverables, 
+- airtable and schedules, 
+- advanced deliverables, 
+- views, 
+- curation, 
+- auto-edits
+
+#### slack2airtable
+- assign tasks to arbitrary person
+
+####  m2s2slack
 
 - define data model for clips
 - store clips in Airtable
@@ -266,5 +280,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDY1MjQxLC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbMTQ4NzY1MDk0NywtOTA4NzEwODg3XX0=
 -->
