@@ -8,7 +8,7 @@
 isa i                       
 Juliana is 
 Kathryn]tsilesoisri
-![alt textKat pic](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg)
+![Kat pic](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg)
 Nicole is
 Molly is
 Sri
@@ -21,8 +21,8 @@ qD?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzA2MDczMCwxMzEwNjIyODg0LDEyOT
-A1MjQ5ODcsLTU5NTU2NjY5MiwtMTg3MTcyNDkwNiw4Njc0MzQ5
-MTEsNzI4MjIwMTQ5LC0xNTQyMDU2MzAyLC0xMjQxMDEzMiw2ND
-I1NTg0MzksODE1MDY2MzI5XX0=
+eyJoaXN0b3J5IjpbMjk3Njc0NDQyLDEzMTA2MjI4ODQsMTI5MD
+UyNDk4NywtNTk1NTY2NjkyLC0xODcxNzI0OTA2LDg2NzQzNDkx
+MSw3MjgyMjAxNDksLTE1NDIwNTYzMDIsLTEyNDEwMTMyLDY0Mj
+U1ODQzOSw4MTUwNjYzMjldfQ==
 -->
