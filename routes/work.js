@@ -47,7 +47,8 @@ router.get('/:id', async function (req, res, next) {
         linksList.push({
           url: `/work/${req.params.id}/${path.basename(markdownFiles[i], '.md')}`,
           linkTitle: `${path.basename(markdownFiles[i], '.md').replace(/-/g, " ")}`,
-          text: ""
+          text: "",
+          heroImage: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
         })
       }
     }
@@ -64,8 +65,9 @@ router.get('/:folderId/:fileId', async function (req, res, next) {
       if (err) {res.send("check back in a minute")};
       console.log(data);
       res.render("work",  {
-        title: `${req.params.id}`,
-        convertedMarkdown: marked(data)
+        title: `${req.params.fileId}`,
+        convertedMarkdown: marked(data),
+        heroImage: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
       });
     });
   } else {
