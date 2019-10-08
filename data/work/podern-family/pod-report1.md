@@ -11,7 +11,7 @@
 
 
 ***Nicole*** is deciding what project she wants to work on that's more specific than "coding", but is currently considering various projects with the unity tutorials, d3, and a virtualized mountain range for the Learning Lab! She's going to work with reality-lab and code-lab, so hopefully some inspiration will come from there too!
-![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNQN5TSHW/5d4b7086.jpg)
+![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNQN5TSHWSHXDFF1/5d4b7086113.jpg)
 
 ***Molly*** and ***Sarah*** are out this week, but tune in next time for more updates on their ends!
 
@@ -22,11 +22,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsOD
-cyOTg3NDc2LC05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIw
-MzEsLTE2NTUwNDE3MTMsODQwODc3NTQ3LC0xNzg4MTkxNjA3LC
-01NTc5MTY4NTAsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYx
-MywtMjEyMjYxNTM0NSwtMTIzMzEzOTk5NywxMzEwNjIyODg0LC
-01OTU1NjY2OTIsLTE4NzE3MjQ5MDYsODY3NDM0OTExLDcyODIy
-MDE0OV19
+eyJoaXN0b3J5IjpbMTgwMDA5Mzg2NCwtMTUzNzA1ODMyNSwtMT
+cyMjg2MTMwNSw4NzI5ODc0NzYsLTkzMzE0ODE1MSwtNTgwNTc4
+MTIwLC01NzU1MjAzMSwtMTY1NTA0MTcxMyw4NDA4Nzc1NDcsLT
+E3ODgxOTE2MDcsLTU1NzkxNjg1MCwxNzQ1Nzc3OTg1LDQzNTg1
+MTE5OCwxNTY5NjEzLC0yMTIyNjE1MzQ1LC0xMjMzMTM5OTk3LD
+EzMTA2MjI4ODQsLTU5NTU2NjY5MiwtMTg3MTcyNDkwNiw4Njc0
+MzQ5MTFdfQ==
 -->
