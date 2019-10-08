@@ -6,8 +6,9 @@
 
 
 isa i                       
-Juliana is 
-Kathryn]tsilesoisri
+oisri
+Juliana is learning 3D Modelling! She's familiarizing herself with the Blender interface
+Kathryn is 
 ![Kat pic](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg)
 Nicole is
 Molly is
@@ -21,8 +22,8 @@ qD?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3Njc0NDQyLDEzMTA2MjI4ODQsMTI5MD
-UyNDk4NywtNTk1NTY2NjkyLC0xODcxNzI0OTA2LDg2NzQzNDkx
+eyJoaXN0b3J5IjpbMTA1ODE3OTIxMSwyOTc2NzQ0NDIsMTMxMD
+YyMjg4NCwtNTk1NTY2NjkyLC0xODcxNzI0OTA2LDg2NzQzNDkx
 MSw3MjgyMjAxNDksLTE1NDIwNTYzMDIsLTEyNDEwMTMyLDY0Mj
 U1ODQzOSw4MTUwNjYzMjldfQ==
 -->
