@@ -77,6 +77,7 @@ or someday.
 	- tableau
 	- R
 
+why?
 - conceptual tools project
 - cards project
 - overhead plan 2020- write up AFVS
@@ -406,7 +407,8 @@ Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing 
 
 Is thinking of working on UX/UI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMDQxMDcsLTk4NjkyMjE5Myw2ODQxMD
-UxMiwtMTYyMDE3MTM1OCwzNzI1MTkzMjgsLTIwNTYyOTc5NDMs
-LTY3NDA1MDk4LC0xNDM5MjA2MzM5LC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbMTgwNjIwNTc5NCw3NjIwNDEwNywtOTg2OT
+IyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3MjUxOTMyOCwt
+MjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYzMzksLTkwOD
+cxMDg4N119
 -->
