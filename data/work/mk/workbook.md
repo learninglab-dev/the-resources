@@ -252,6 +252,8 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 \- 
 
+
+
 ## THE WEEK
 
 ### MONDAY
@@ -278,14 +280,99 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-
+- 
 
 ### FRIDAY
 20191004
 
 ## MEDIA
 
-## CODE
+## CODETASKS
+
+
+
+### FRIDAY
+
+#### LIGHTROOM AND INDESIGN WORKSHOPS
+
+### ADOBE CREATIVE TYPES
+Samples from the last graphic design workshop.
+
+Dani's Creative Personality Type
+![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
+
+Marlon's Creative Personality Type
+![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
+
+
+
+## ADD
+
+### at tools
+
+- the thing is this: there are so so many command line tools
+- maybe this should be in a cli version of the scripts? or mk scripts?
+	- probably mkScripts is the way to go.  or mk-t ools
+- heroku probably on `us-east-1`
+- have fallen behind on mern stack business
+- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
+- print musiclab songs?
+
+
+
+logic of toolset
+- mk
+	- print
+	- airtable
+		- get tasks and print
+			- me
+			- everyone
+			- get as html?
+			- write html out to file?
+		- add link
+		- add task
+			- for me
+			- for someone else
+	- musiclab
+	- 
+
+
+
+
+
+shortcut keys to develop memory of
+- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
+- option + arrows for word by word moves horizontal
+
+
+
+### AIRTABLE PAGES
+
+# airtablePages
+
+basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
+
+- create and style custom course sites
+- create and style custom links lists for fellows, staff, any individual or group
+- quickly assemble sites for activities and presentations
+- generate the html and slack it out so that people can then tweak from there
+- accept new css rules in?
+
+
+
+### elements
+
+- css files
+- custom css rules as text?
+- templates
+- links to s3-hosted resources?
+- youtube ids
+- youtube urls
+- youtube embed code
+- width and height for embeds
+- in sites page, separate columns for video sizes?
+- or does the first or first X get hero size and others small and tiled?
+- 
 
 
 ### from 20190730
@@ -406,9 +493,11 @@ Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing 
 ![Sara](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
 Is thinking of working on UX/UI.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3Nj
-IwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4
-LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0Mz
-kyMDYzMzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbLTIwMTIwNjczODksLTIxMTc5NjM2NTcsMT
+gwNjIwNTc5NCw3NjIwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEy
+LC0xNjIwMTcxMzU4LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNj
+c0MDUwOTgsLTE0MzkyMDYzMzksLTkwODcxMDg4N119
 -->
