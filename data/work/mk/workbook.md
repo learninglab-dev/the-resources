@@ -383,6 +383,7 @@ overhead plan 2020
 ### Mario
 ![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)is at work on c4d projects of all sorts, including this web series with Yilan.
 <iframe src="https://drive.google.com/file/d/176BwSxWH2wRW4zOEnYtXu1v0wcrolhYc/preview" width="640" height="360"></iframe>
+More to come.
 
 ### Shirley
 ![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
@@ -395,7 +396,7 @@ overhead plan 2020
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDU0NjI3MywtMTYyMDE3MTM1OCwzNz
-I1MTkzMjgsLTIwNTYyOTc5NDMsLTY3NDA1MDk4LC0xNDM5MjA2
-MzM5LC05MDg3MTA4ODddfQ==
+eyJoaXN0b3J5IjpbLTE0NTE3MzA1OTEsLTE2MjAxNzEzNTgsMz
+cyNTE5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIw
+NjMzOSwtOTA4NzEwODg3XX0=
 -->
