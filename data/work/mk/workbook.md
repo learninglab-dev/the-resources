@@ -2,13 +2,63 @@
 
 mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X/ref=sr_1_1?keywords=show+your+work&qid=1569804976&s=gateway&sr=8-1) strategy). Everything that **can** be seen in public will go here.
 
-\<iframe src="https://player.vimeo.com/video/361974430" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen\>\</iframe\>
-\<p\>\<a href="https://vimeo.com/361974430"\>SideFX Houdini Tutorial - ROLLER COASTER / PART01 : The Rails\</a\> from \<a href="https://vimeo.com/adrienlambert"\>adrien lambert\</a\> on \<a href="https://vimeo.com"\>Vimeo\</a\>.\</p\>
-
-
-
 ## TASKS
+
+- resources
+	- submit resources from slack
+	- get resources from slack
+	- create custom resource pages
+	- delete resources from slack
+	- cope with signin
+- labs
+	- conception
+		- labs as zones of expenditure
+		- labs as spatial zones or rooms
+	- zones
+		- music
+		- code
+		- reality
+		- games
+		- photovideo
+		- graphics
+		- datavis
+		- info design
+		- graphic design
+		- animation
+- mk tools for summer 2019
+	- fcpx
+	- motion
+	- logic
+	- ableton
+	- traktor
+	- garageband
+	- block printing
+	- pc building
+	- illustrator
+	- after effects
+	- indesign
+	- audition
+	- photoshop
+	- lightroom
+	- react
+	- python 
+	- c++
+	- c#
+	- c
+	- swift
+	- node
+	- xcode
+	- d3
+	- three.js
+	- anime.js
+	- tone.js
+	- redux
+	- tableau
+	- R
 - write up AFVS
+- conceptual tools project
+- cards project
+- overhead plan 2020
 - - sort out task workflow (meta)
 - print things (like all the stills I edit)
 - script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
@@ -50,6 +100,20 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 	- https://www.afterworks.com/FumeFXC4D.asp
 	- https://docs.blender.org/manual/en/latest/advanced/scripting/index.html'
 	- - [scripting in blender](https://cgcookie.com/articles/blender-2-8-python-scripting-superpowers-for-non-programmers)
+
+## PROJECTS
+
+### m2s slack
+
+- define data model for clips
+- store clips in Airtable
+- when m2s is run (maybe with proxy flag) actually get the stuff from s3
+	- you could actually use the actual stuff on s3 too I guess
+- on rename add to db?
+- or special db-pop script
+- 
+
+
 
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
@@ -149,8 +213,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 \- 
 
-
-
 ## THE WEEK
 
 ### MONDAY
@@ -177,200 +239,12 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-\- 
+
 
 ### FRIDAY
 20191004
 
-## TASKS
-
-
-
-### FRIDAY
-
-#### LIGHTROOM AND INDESIGN WORKSHOPS
-
-### ADOBE CREATIVE TYPES
-Samples from the last graphic design workshop.
-
-Dani's Creative Personality Type
-![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
-
-Marlon's Creative Personality Type
-<<<<<<< HEAD
-![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
-=======
-![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
-
-
-
-## ADD
-
-### at tools
-
-- the thing is this: there are so so many command line tools
-- maybe this should be in a cli version of the scripts? or mk scripts?
-	- probably mkScripts is the way to go.  or mk-t ools
-- heroku probably on `us-east-1`
-- have fallen behind on mern stack business
-- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
-- print musiclab songs?
-
-
-
-logic of toolset
-- mk
-	- print
-	- airtable
-		- get tasks and print
-			- me
-			- everyone
-			- get as html?
-			- write html out to file?
-		- add link
-		- add task
-			- for me
-			- for someone else
-	- musiclab
-	- 
-
-
-
-
-
-shortcut keys to develop memory of
-- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
-- option + arrows for word by word moves horizontal
-
-
-
-### AIRTABLE PAGES
-
-# airtablePages
-
-basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
-
-- create and style custom course sites
-- create and style custom links lists for fellows, staff, any individual or group
-- quickly assemble sites for activities and presentations
-- generate the html and slack it out so that people can then tweak from there
-- accept new css rules in?
-
-
-
-### elements
-
-- css files
-- custom css rules as text?
-- templates
-- links to s3-hosted resources?
-- youtube ids
-- youtube urls
-- youtube embed code
-- width and height for embeds
-- in sites page, separate columns for video sizes?
-- or does the first or first X get hero size and others small and tiled?
-- 
-
-
-### from 20190730
-
+## MEDIA
 
 ## CODE
 
-summer2019.learninglab.xyz
-- routes for resources
-- routes for people
-- routes for tools
-- routes for moves
-- routes for timelines
-
-
-functions
-- submit resources from slack
-- get resources from slack
-- create custom resource pages
-- delete resources from slack
-- cope with signin
-
-
-
-
-labs as zones of expenditure
-
-labs as spatial zones or rooms
-
-- music
-- code
-- reality
-- games
-- photovideo
-- graphics
-- datavis
-- info design
-- graphic design
-- animation
-
-
-
-mk tools for summer 2019
-
-fcpx
-motion
-logic
-ableton
-traktor
-garageband
-block printing
-pc building
-illustrator
-after effects
-indesign
-audition
-photoshop
-lightroom
-react
-python 
-c++
-c#
-c
-swift
-node
-xcode
-d3
-three.js
-anime.js
-tone.js
-redux
-tableau
-R
-
-
-
-Projects
-
-Conceptual Tools
-cards
-build a pc
-develop group of 5 PCs
-overhead plan 2020
-
-### m2s slack
-
-- define data model for clips
-- store clips in Airtable
-- when m2s is run (maybe with proxy flag) actually get the stuff from s3
-	- you could actually use the actual stuff on s3 too I guess
-- on rename add to db?
-- or special db-pop script
-- 
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDg0NzUzXX0=
--->
->>>>>>> f5f41dab40f6a388646e15ad38268b6283107e01
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc3ODU4OF19
--->
