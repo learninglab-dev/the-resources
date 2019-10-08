@@ -9,6 +9,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 20191008
 - handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
 - add some better code styling to `.css` referenced in the `work.ejs` template
+- maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - 
 
 ### SOMEDAY
@@ -258,5 +259,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYwMzQ5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI3MDIxMTddfQ==
 -->
