@@ -10,6 +10,7 @@ is us.
 ## NICOLE
 ![this is nicole](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
+![does this work?](https://files.slack.com/files-pri/T0HTW3H0V-FNUJ24EHZ/marlon-demo_360.gif?pub_secret=f27700795a)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDk4NDA4N119
+eyJoaXN0b3J5IjpbMTM0MzYwODMsLTYxNDk4NDA4N119
 -->
