@@ -86,7 +86,7 @@ why?
 - script to get photos onto s3 and simultaneously slack and airtable (and prep for gallery display?)
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
-- look at Jungin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
+- look at Jungmin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
 - adobe creative accounts 
 - assess PC inventory and begin new machine
 - story templates
@@ -407,8 +407,8 @@ Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing 
 
 Is thinking of working on UX/UI.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjIwNTc5NCw3NjIwNDEwNywtOTg2OT
-IyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3MjUxOTMyOCwt
-MjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYzMzksLTkwOD
-cxMDg4N119
+eyJoaXN0b3J5IjpbLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3Nj
+IwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4
+LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0Mz
+kyMDYzMzksLTkwODcxMDg4N119
 -->
