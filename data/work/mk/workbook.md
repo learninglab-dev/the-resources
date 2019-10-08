@@ -18,10 +18,11 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - bring mac air charger home
 - 
 
-### SOMEDAY
+### TOMORROW
+or someday.
 
 - slash for room availability
-- 
+- lynda.com tutorial on di
 - resources
 	- submit resources from slack
 	- get resources from slack
@@ -284,5 +285,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkyMDYzMzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbMjE0MzA4MDIzNiwtMTQzOTIwNjMzOSwtOT
+A4NzEwODg3XX0=
 -->
