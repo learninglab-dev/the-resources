@@ -15,6 +15,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - route for glossary
 - teach jordan to edit hello.learninglab.xyz
 - teach jordan to style hello.learninglab.xyz
+- bring mac air charger home
 - 
 
 ### SOMEDAY
@@ -121,7 +122,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 ## PROJECTS
 
 ### the tools
-all the things we need
+all the things we need. and some we don't.
+
 #### theWorkflow
 - live logs and data feeds, 
 - initial deliverables, 
@@ -134,10 +136,12 @@ all the things we need
 #### slack2airtable
 - assign tasks to arbitrary person
 
-####  m2s2slack
+####  m2s
 
 - define data model for clips
 - store clips in Airtable
+- store stills in Airtable
+- grab auto-gifs
 - when m2s is run (maybe with proxy flag) actually get the stuff from s3
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
@@ -280,5 +284,5 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 ## CODE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzY1MDk0NywtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbLTE0MzkyMDYzMzksLTkwODcxMDg4N119
 -->
