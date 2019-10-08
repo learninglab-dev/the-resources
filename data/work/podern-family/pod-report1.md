@@ -17,6 +17,9 @@
 
 ***Molly*** and ***Sarah*** are out this week, but tune in next time for more updates on their ends!
 
+![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNSU83BRU/5d4b7324.jpg?pub_secret=38e593407c)
+![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
+
 
 
 ## This was Podern Family.
@@ -25,11 +28,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMTMwNTgwLDE4MDAwOTM4NjQsLTE1Mz
-cwNTgzMjUsLTE3MjI4NjEzMDUsODcyOTg3NDc2LC05MzMxNDgx
-NTEsLTU4MDU3ODEyMCwtNTc1NTIwMzEsLTE2NTUwNDE3MTMsOD
-QwODc3NTQ3LC0xNzg4MTkxNjA3LC01NTc5MTY4NTAsMTc0NTc3
-Nzk4NSw0MzU4NTExOTgsMTU2OTYxMywtMjEyMjYxNTM0NSwtMT
-IzMzEzOTk5NywxMzEwNjIyODg0LC01OTU1NjY2OTIsLTE4NzE3
-MjQ5MDZdfQ==
+eyJoaXN0b3J5IjpbNzU3Njc5NTg3LDgyMTEzMDU4MCwxODAwMD
+kzODY0LC0xNTM3MDU4MzI1LC0xNzIyODYxMzA1LDg3Mjk4NzQ3
+NiwtOTMzMTQ4MTUxLC01ODA1NzgxMjAsLTU3NTUyMDMxLC0xNj
+U1MDQxNzEzLDg0MDg3NzU0NywtMTc4ODE5MTYwNywtNTU3OTE2
+ODUwLDE3NDU3Nzc5ODUsNDM1ODUxMTk4LDE1Njk2MTMsLTIxMj
+I2MTUzNDUsLTEyMzMxMzk5OTcsMTMxMDYyMjg4NCwtNTk1NTY2
+NjkyXX0=
 -->
