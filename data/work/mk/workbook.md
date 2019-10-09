@@ -15,6 +15,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - conceptual tools example
 - route for glossary
 - need command line tool for s3 and flickr still uploads sooner rather than later.
+	- flickr sdk on npm
+	- s3 first?
 - update 2020 skills
 - Laura's readings?
 - write show your work for everyone
@@ -434,9 +436,9 @@ overhead plan 2020
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNjA2NDMsLTEwMTEwNzgwNiwyMTc5MD
-IxMjYsLTIwMTIwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5
-NCw3NjIwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMT
-cxMzU4LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgs
-LTE0MzkyMDYzMzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbMTkxNzc1MzY2MSw4NDE2MDY0MywtMTAxMT
+A3ODA2LDIxNzkwMjEyNiwtMjAxMjA2NzM4OSwtMjExNzk2MzY1
+NywxODA2MjA1Nzk0LDc2MjA0MTA3LC05ODY5MjIxOTMsNjg0MT
+A1MTIsLTE2MjAxNzEzNTgsMzcyNTE5MzI4LC0yMDU2Mjk3OTQz
+LC02NzQwNTA5OCwtMTQzOTIwNjMzOSwtOTA4NzEwODg3XX0=
 -->
