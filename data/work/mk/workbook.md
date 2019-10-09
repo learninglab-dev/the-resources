@@ -7,7 +7,6 @@ small things, biggish things, but no complex clusters of things (those are in pr
 
 ### TODAY
 20191008
-- handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
 - add some better code styling to `.css` referenced in the `work.ejs` template
 - maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - maybe switch lights in studio?
@@ -496,9 +495,9 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTAyMTI2LC0yMDEyMDY3Mzg5LC0yMT
-E3OTYzNjU3LDE4MDYyMDU3OTQsNzYyMDQxMDcsLTk4NjkyMjE5
-Myw2ODQxMDUxMiwtMTYyMDE3MTM1OCwzNzI1MTkzMjgsLTIwNT
-YyOTc5NDMsLTY3NDA1MDk4LC0xNDM5MjA2MzM5LC05MDg3MTA4
-ODddfQ==
+eyJoaXN0b3J5IjpbMTk5NTI4OTczNiwyMTc5MDIxMjYsLTIwMT
+IwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3NjIwNDEw
+NywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3Mj
+UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
+MzksLTkwODcxMDg4N119
 -->
