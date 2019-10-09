@@ -253,37 +253,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 
 
-## THE WEEK
-
-### MONDAY
-20191006
-- standup
-- curation meeting
-- EMR workshop
-- night class
-
-
-### TUESDAY
-20191007
-
-
-
-
-### WEDNESDAY
-20191008
-
-- podcasting event prep
-- Visual Teaching studio
-
-### THURSDAY
-20191009
-
-- Podcast event
-- 
-
-### FRIDAY
-20191004
-
 ## MEDIA
 
 ## CODETASKS
@@ -296,14 +265,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 ### ADOBE CREATIVE TYPES
 Samples from the last graphic design workshop.
-
-Dani's Creative Personality Type
-![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
-
-Marlon's Creative Personality Type
-![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
-
-
 
 ## ADD
 
@@ -495,7 +456,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTI4OTczNiwyMTc5MDIxMjYsLTIwMT
+eyJoaXN0b3J5IjpbMTM3NDE1ODMzNiwyMTc5MDIxMjYsLTIwMT
 IwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3NjIwNDEw
 NywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3Mj
 UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
