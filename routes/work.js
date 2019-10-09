@@ -35,11 +35,11 @@ router.get('/:id', async function (req, res, next) {
       if (err) {res.send("check back in a minute")};
       console.log(data);
       if (/!\[.*\]\(.*\)/.test(data)) {
-        console.log("there's an image in the .md file");
-        var heroImageMd = data.match(/!\[.*\]\(.*\)/);
-
-        var heroImage = heroImageMd.toString().replace(/!\[.*\]\(/, "").replace(")", "");
-        console.log(`the heroImage is ${heroImage}`);
+        console.log("there's an image in the .md file!");
+        var heroImage = data.match(/!\[.*\]\(.*\)/)
+          .toString()
+          .replace(/!\[.*\]\(/, "")
+          .replace(")", "");
       } else {
         console.log("no hero image, let's go with crayons");
         var heroImage = "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
