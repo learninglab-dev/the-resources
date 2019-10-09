@@ -5,19 +5,23 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY
-20191008
-- handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
+### TODAY (20191009)
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
-- maybe switch lights in studio?
+- prep FCPX tutorial
+	- footage
+	- assignment ideas
+	- staffing
+- switch key (and back) in studio
 - conceptual tools example
 - route for glossary
-- teach jordan to edit hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz
-- bring mac air charger home
 - need command line tool for s3 and flickr still uploads sooner rather than later.
-- automate the meta tags of `og:image` sooner rather than later 
+	- flickr sdk on npm
+	- s3 first?
+- update 2020 skills
+- Laura's readings?
+- write show your work for everyone
+- talk to mike and katie about overhead stills and get them made
+- 
 
 
 
@@ -25,7 +29,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 ### TOMORROW
 or someday.
 
+- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
+- hello.learninglab.xyz
+- teach jordan to style hello.learninglab.xyz
 - process this lynda.com [tutorial on designing with grids in InDesign]( https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) and add to InDesign resources.
 - need to handle arbitrary number of `req.params` recursively in show.learninglab.xyz/work
 - resources
@@ -257,37 +264,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 
 
-## THE WEEK
-
-### MONDAY
-20191006
-- standup
-- curation meeting
-- EMR workshop
-- night class
-
-
-### TUESDAY
-20191007
-
-
-
-
-### WEDNESDAY
-20191008
-
-- podcasting event prep
-- Visual Teaching studio
-
-### THURSDAY
-20191009
-
-- Podcast event
-- 
-
-### FRIDAY
-20191004
-
 ## MEDIA
 
 ## CODETASKS
@@ -300,14 +276,6 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
 ### ADOBE CREATIVE TYPES
 Samples from the last graphic design workshop.
-
-Dani's Creative Personality Type
-![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
-
-Marlon's Creative Personality Type
-![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
-
-
 
 ## ADD
 
@@ -469,38 +437,11 @@ overhead plan 2020
 - on rename add to db?
 - or special db-pop script
 - 
-## LLUF UPDATES
-
-### Mario
-![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)
-
-is at work on c4d projects of all sorts, including this web series with Yilan.
-<iframe src="https://drive.google.com/file/d/176BwSxWH2wRW4zOEnYtXu1v0wcrolhYc/preview" width="480" height="270"></iframe>
-
-More to come.
-
-### Shirley
-![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
-Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing ideas for a pod project for the term.
-
-### Shavonna
-![Shavonna](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
-
-### Molly
-![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNSU83BRU/5d4b7324.jpg?pub_secret=38e593407c)
-
-
-
-### Sara
-
-![Sara](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
-
-Is thinking of working on UX/UI.
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwNjczODksLTIxMTc5NjM2NTcsMT
-gwNjIwNTc5NCw3NjIwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEy
-LC0xNjIwMTcxMzU4LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNj
-c0MDUwOTgsLTE0MzkyMDYzMzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbMTkxNzc1MzY2MSw4NDE2MDY0MywtMTAxMT
+A3ODA2LDIxNzkwMjEyNiwtMjAxMjA2NzM4OSwtMjExNzk2MzY1
+NywxODA2MjA1Nzk0LDc2MjA0MTA3LC05ODY5MjIxOTMsNjg0MT
+A1MTIsLTE2MjAxNzEzNTgsMzcyNTE5MzI4LC0yMDU2Mjk3OTQz
+LC02NzQwNTA5OCwtMTQzOTIwNjMzOSwtOTA4NzEwODg3XX0=
 -->
