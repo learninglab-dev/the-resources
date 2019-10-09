@@ -19,6 +19,9 @@
 ***Molly*** and ***Sarah*** are out this week, but tune in next time for more updates on their ends!
 
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
+
+and
+
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
 
