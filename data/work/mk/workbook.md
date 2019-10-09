@@ -5,11 +5,13 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY
-20191008
+### TODAY (20191009)
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
-- maybe switch lights in studio?
+- prep FCPX tutorial
+	- footage
+	- assignment ideas
+	- staffing
+- flop key in studio
 - conceptual tools example
 - route for glossary
 - teach jordan to edit hello.learninglab.xyz
@@ -21,6 +23,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 ### TOMORROW
 or someday.
 
+- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - process this lynda.com [tutorial on designing with grids in InDesign]( https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) and add to InDesign resources.
 - need to handle arbitrary number of `req.params` recursively in show.learninglab.xyz/work
@@ -428,9 +431,9 @@ overhead plan 2020
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjk4MjI3NiwyMTc5MDIxMjYsLTIwMT
-IwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3NjIwNDEw
-NywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3Mj
-UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
-MzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbODI2OTEyNDExLDIxNzkwMjEyNiwtMjAxMj
+A2NzM4OSwtMjExNzk2MzY1NywxODA2MjA1Nzk0LDc2MjA0MTA3
+LC05ODY5MjIxOTMsNjg0MTA1MTIsLTE2MjAxNzEzNTgsMzcyNT
+E5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIwNjMz
+OSwtOTA4NzEwODg3XX0=
 -->
