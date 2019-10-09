@@ -11,12 +11,9 @@ small things, biggish things, but no complex clusters of things (those are in pr
 	- footage
 	- assignment ideas
 	- staffing
-- flop key in studio
+- switch key (and back) in studio
 - conceptual tools example
 - route for glossary
-- teach jordan to edit hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz
-- bring mac air charger home
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 - update 2020 skills
 
@@ -25,6 +22,8 @@ or someday.
 
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
+- hello.learninglab.xyz
+- teach jordan to style hello.learninglab.xyz
 - process this lynda.com [tutorial on designing with grids in InDesign]( https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) and add to InDesign resources.
 - need to handle arbitrary number of `req.params` recursively in show.learninglab.xyz/work
 - resources
@@ -431,9 +430,9 @@ overhead plan 2020
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2OTEyNDExLDIxNzkwMjEyNiwtMjAxMj
-A2NzM4OSwtMjExNzk2MzY1NywxODA2MjA1Nzk0LDc2MjA0MTA3
-LC05ODY5MjIxOTMsNjg0MTA1MTIsLTE2MjAxNzEzNTgsMzcyNT
-E5MzI4LC0yMDU2Mjk3OTQzLC02NzQwNTA5OCwtMTQzOTIwNjMz
-OSwtOTA4NzEwODg3XX0=
+eyJoaXN0b3J5IjpbLTEwMTEwNzgwNiwyMTc5MDIxMjYsLTIwMT
+IwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3NjIwNDEw
+NywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3Mj
+UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
+MzksLTkwODcxMDg4N119
 -->
