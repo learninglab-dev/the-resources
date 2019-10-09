@@ -16,6 +16,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - route for glossary
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 - update 2020 skills
+- Laura's readings?
+- write show your work for everyone
+- talk to mike and katie about overhead stills and get them made
+- 
 
 ### TOMORROW
 or someday.
@@ -430,9 +434,9 @@ overhead plan 2020
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTEwNzgwNiwyMTc5MDIxMjYsLTIwMT
-IwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5NCw3NjIwNDEw
-NywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMTcxMzU4LDM3Mj
-UxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgsLTE0MzkyMDYz
-MzksLTkwODcxMDg4N119
+eyJoaXN0b3J5IjpbODQxNjA2NDMsLTEwMTEwNzgwNiwyMTc5MD
+IxMjYsLTIwMTIwNjczODksLTIxMTc5NjM2NTcsMTgwNjIwNTc5
+NCw3NjIwNDEwNywtOTg2OTIyMTkzLDY4NDEwNTEyLC0xNjIwMT
+cxMzU4LDM3MjUxOTMyOCwtMjA1NjI5Nzk0MywtNjc0MDUwOTgs
+LTE0MzkyMDYzMzksLTkwODcxMDg4N119
 -->
