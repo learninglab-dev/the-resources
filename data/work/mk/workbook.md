@@ -19,6 +19,9 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 - automate the meta tags of `og:image` sooner rather than later 
 
+
+
+
 ### TOMORROW
 or someday.
 
