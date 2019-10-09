@@ -34,9 +34,20 @@ router.get('/:id', async function (req, res, next) {
     fs.readFile(path.join(ROOT_DIR, 'data/work', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
       if (err) {res.send("check back in a minute")};
       console.log(data);
+      if (/!\[.*\]\(.*\)/.test(data)) {
+        console.log("there's an image in the .md file");
+        var heroImageMd = data.match(/!\[.*\]\(.*\)/);
+
+        var heroImage = heroImageMd.toString().replace(/!\[.*\]\(/, "").replace(")", "");
+        console.log(`the heroImage is ${heroImage}`);
+      } else {
+        console.log("no hero image, let's go with crayons");
+        var heroImage = "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
+      }
       res.render("work",  {
         title: `${req.params.id}`,
-        convertedMarkdown: marked(data)
+        convertedMarkdown: marked(data),
+        heroImage: heroImage
       });
     });
   } else if (fs.existsSync(path.join(ROOT_DIR, 'data/work', req.params.id)) && fs.lstatSync(path.join(ROOT_DIR, 'data/work', req.params.id)).isDirectory()) {
@@ -47,9 +58,8 @@ router.get('/:id', async function (req, res, next) {
         linksList.push({
           url: `/work/${req.params.id}/${path.basename(markdownFiles[i], '.md')}`,
           linkTitle: `${path.basename(markdownFiles[i], '.md').replace(/-/g, " ")}`,
-          text: "",
-          heroImage: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
-        })
+          text: ""
+      })
       }
     }
     res.render("index", { title: 'show (your work)', date: moment(), message: `all the links to work for ${req.params.id}`,links: linksList })
@@ -64,10 +74,20 @@ router.get('/:folderId/:fileId', async function (req, res, next) {
     fs.readFile(path.join(ROOT_DIR, 'data/work', req.params.folderId, `${req.params.fileId}.md`), {encoding: 'utf-8'}, (err, data) => {
       if (err) {res.send("check back in a minute")};
       console.log(data);
+      if (/!\[.*\]\(.*\)/.test(data)) {
+        console.log("there's an image in the .md file");
+        var heroImageMd = data.match(/!\[.*\]\(.*\)/);
+
+        var heroImage = heroImageMd.toString().replace(/!\[.*\]\(/, "").replace(")", "");
+        console.log(`the heroImage is ${heroImage}`);
+      } else {
+        console.log("no hero image, let's go with crayons");
+        var heroImage = "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
+      }
       res.render("work",  {
         title: `${req.params.fileId}`,
         convertedMarkdown: marked(data),
-        heroImage: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
+        heroImage: heroImage
       });
     });
   } else {
