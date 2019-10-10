@@ -64,7 +64,7 @@ function makeTimelineEvents(airtableEvents){
   return airtableEvents.map(e => {
     return {
       "media": {
-        "url": e.fields.heroShot ? e.fields.heroShot : "https://live.staticflickr.com/7907/46719365194_6ec4a8b4d9_h.jpg",
+        "url": e.fields.heroShotFlickr ? e.fields.heroShotFlickr : "https://live.staticflickr.com/7907/46719365194_6ec4a8b4d9_h.jpg",
         "caption": e.fields.CalendarEventName,
         "credit": "LL"
       },
