@@ -8,10 +8,11 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var peopleRouter = require('./routes/people');
 var codelabRouter = require('./routes/codelab');
-var mkRouter = require('./routes/mk');
+var timelinesRouter = require('./routes/timelines');
 var workRouter = require('./routes/work');
 
 var app = express();
+require('dotenv').config();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -26,7 +27,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/people', peopleRouter);
 app.use('/codelab', codelabRouter);
-app.use('/mk', mkRouter);
+app.use('/timelines', timelinesRouter);
 app.use('/work', workRouter);
 
 // catch 404 and forward to error handler

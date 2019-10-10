@@ -135,7 +135,7 @@ why?
 
 ## PROJECTS
 
-### the tools
+### THE TOOLS
 all the things we need. and some we don't.
 
 #### theWorkflow
@@ -162,8 +162,6 @@ all the things we need. and some we don't.
 - or special db-pop script
 - 
 
-
-
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
 - do a series of tutorials on fcpxml
@@ -179,16 +177,9 @@ all the things we need. and some we don't.
 - think about buying a new macbook air for secret writing lab
 - [table2site](https://table2site.com).
 
-
-
-
-
-
 ### REALITYLAB: BLENDER!!!!
 
 this link: https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners?u=2194065
-
-
 
 ### REALITYLAB: UNITY SCRIPTING INTRO
 
@@ -203,14 +194,11 @@ some steps
 - [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
 - [good UI section in inLearning 2D UI course](https://www.linkedin.com/learning/cert-prep-unity-ui-and-2d-games/working-with-canvas-objects?u=2194065).
 
-
 ### SASS AND BOOTSTRAP
 
 sass: https://www.linkedin.com/learning/sass-essential-training/using-partials?u=2194065
 
 sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/working-with-sass-bootstrap?u=2194065
-
-
 
 ### AUDIO PEAK DETECTION
 
@@ -219,14 +207,11 @@ sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/wo
 	http://joesul.li/van/beat-detection-using-web-audio/
 ```
 
-node web audio api https://www.npmjs.com/package/web-audio-api
-	
+node web audio api https://www.npmjs.com/package/web-audio-api	
 
 ### UNITY
 
 https://learn.unity.com/project/creator-kit-beginner-code
-
-
 
 ### ARTS AND EDUCATION
 
@@ -236,120 +221,26 @@ AIE
 - makes art the special domain of the few
 - and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills 
 
-
 ### JS BASICS
 
 vanilla js game: https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming/optimize-your-javascript-with-a-game?u=2194065
-
-
 
 ### UX DESIGN
 
 
 ux design principles: https://www.linkedin.com/learning/principle-for-ux-design-2/what-is-principle?u=2194065
 
-
-
 ### BUILD AN ATOM PLUGIN
 
 
 https://github.blog/2016-08-19-building-your-first-atom-plugin/
 
-
 ### hello.learninglab.xyz
 
 - read folder of `.md` files and render these (if filename or title == `req.params.id`, for instance)
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
-\- 
 
-
-
-## MEDIA
-
-## CODETASKS
-
-
-
-### FRIDAY
-
-#### LIGHTROOM AND INDESIGN WORKSHOPS
-
-### ADOBE CREATIVE TYPES
-Samples from the last graphic design workshop.
-
-## ADD
-
-### at tools
-
-- the thing is this: there are so so many command line tools
-- maybe this should be in a cli version of the scripts? or mk scripts?
-	- probably mkScripts is the way to go.  or mk-t ools
-- heroku probably on `us-east-1`
-- have fallen behind on mern stack business
-- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
-- print musiclab songs?
-
-
-
-logic of toolset
-- mk
-	- print
-	- airtable
-		- get tasks and print
-			- me
-			- everyone
-			- get as html?
-			- write html out to file?
-		- add link
-		- add task
-			- for me
-			- for someone else
-	- musiclab
-	- 
-
-
-
-
-
-shortcut keys to develop memory of
-- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
-- option + arrows for word by word moves horizontal
-
-
-
-### AIRTABLE PAGES
-
-# airtablePages
-
-basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
-
-- create and style custom course sites
-- create and style custom links lists for fellows, staff, any individual or group
-- quickly assemble sites for activities and presentations
-- generate the html and slack it out so that people can then tweak from there
-- accept new css rules in?
-
-
-
-### elements
-
-- css files
-- custom css rules as text?
-- templates
-- links to s3-hosted resources?
-- youtube ids
-- youtube urls
-- youtube embed code
-- width and height for embeds
-- in sites page, separate columns for video sizes?
-- or does the first or first X get hero size and others small and tiled?
-- 
-
-
-### from 20190730
-
-
-## CODE
+### CODE TO ADD
 
 summer2019.learninglab.xyz
 - routes for resources
@@ -428,6 +319,66 @@ build a pc
 develop group of 5 PCs
 overhead plan 2020
 
+### at tools
+
+- the thing is this: there are so so many command line tools
+- maybe this should be in a cli version of the scripts? or mk scripts?
+	- probably mkScripts is the way to go.  or mk-t ools
+- heroku probably on `us-east-1`
+- have fallen behind on mern stack business
+- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
+- print musiclab songs?
+
+
+
+logic of toolset
+- mk
+	- print
+	- airtable
+		- get tasks and print
+			- me
+			- everyone
+			- get as html?
+			- write html out to file?
+		- add link
+		- add task
+			- for me
+			- for someone else
+	- musiclab
+	- 
+
+
+
+
+
+shortcut keys to develop memory of
+- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
+- option + arrows for word by word moves horizontal
+
+### AIRTABLE PAGES
+
+basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
+
+- create and style custom course sites
+- create and style custom links lists for fellows, staff, any individual or group
+- quickly assemble sites for activities and presentations
+- generate the html and slack it out so that people can then tweak from there
+- accept new css rules in?
+
+### elements
+
+- css files
+- custom css rules as text?
+- templates
+- links to s3-hosted resources?
+- youtube ids
+- youtube urls
+- youtube embed code
+- width and height for embeds
+- in sites page, separate columns for video sizes?
+- or does the first or first X get hero size and others small and tiled?
+- 
+
 ### m2s slack
 
 - define data model for clips
@@ -437,11 +388,3 @@ overhead plan 2020
 - on rename add to db?
 - or special db-pop script
 - 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzc1MzY2MSw4NDE2MDY0MywtMTAxMT
-A3ODA2LDIxNzkwMjEyNiwtMjAxMjA2NzM4OSwtMjExNzk2MzY1
-NywxODA2MjA1Nzk0LDc2MjA0MTA3LC05ODY5MjIxOTMsNjg0MT
-A1MTIsLTE2MjAxNzEzNTgsMzcyNTE5MzI4LC0yMDU2Mjk3OTQz
-LC02NzQwNTA5OCwtMTQzOTIwNjMzOSwtOTA4NzEwODg3XX0=
--->

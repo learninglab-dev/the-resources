@@ -1,0 +1,8 @@
+<% if (locals.list) { %>
+  <ol>
+    <% for (i = 0; i < list.length; i++) { %>
+      <li><pre><%- JSON.stringify(list[i], null, 4) %></pre>
+      </li>
+    <% } %>
+  </ol>
+<% } %>
