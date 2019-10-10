@@ -20,8 +20,8 @@
     "text": ""
   },
   {
-    "url": "/timelines",
-    "linkTitle": "show (your timelines)",
+    "url": "/timelines/two-weeks",
+    "linkTitle": "show (your last two weeks)",
     "text": ""
   }
 ]
