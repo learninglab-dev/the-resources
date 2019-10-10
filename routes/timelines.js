@@ -8,7 +8,12 @@ const path = require('path');
 const Airtable = require('airtable');
 const airtableTools = require('../tools/airtable/airtable-tools');
 
-router.get('/', async function(req, res, next) {
+
+router.get('/', function(req, res, next){
+  res.send('try /timelines/two-weeks for now')
+})
+
+router.get('/two-weeks', async function(req, res, next) {
   var base = new Airtable({
     apiKey: process.env.AIRTABLE_API_KEY
   }).base(process.env.AIRTABLE_EVENTS_BASE);
@@ -55,9 +60,6 @@ router.get('/:dateRange', async function(req, res, next) {
   });
 });
 
-module.exports = router;
-
-
 function makeTimelineEvents(airtableEvents){
   return airtableEvents.map(e => {
     return {
@@ -81,3 +83,5 @@ function makeTimelineEvents(airtableEvents){
     }
   })
 }
+
+module.exports = router;
