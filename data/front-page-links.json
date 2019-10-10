@@ -21,7 +21,12 @@
   },
   {
     "url": "/timelines/two-weeks",
-    "linkTitle": "show (your last two weeks)",
+    "linkTitle": "show (two weeks in the LL)",
+    "text": ""
+  },
+  {
+    "url": "/and-tell",
+    "linkTitle": "show (and tell)",
     "text": ""
   }
 ]
