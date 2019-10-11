@@ -24,7 +24,11 @@ small things, biggish things, but no complex clusters of things (those are in pr
 -
 
 
-![podashians-svg]( https://ll-show.s3.amazonaws.com/public/podashians-mockup.svg)
+![podashians-svg](https://ll-show.s3.amazonaws.com/public/podashians-mockup.svg)
+
+![podashians again](https://ll-show.s3.amazonaws.com/public/svg/podashians-mockup.svg)
+
+![Ceci Poster](https://ll-summer-2019.s3.amazonaws.com/public/ceci-poster.jpg)
 
 ### TOMORROW
 or someday.
