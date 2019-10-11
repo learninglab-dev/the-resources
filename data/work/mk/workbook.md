@@ -27,6 +27,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 ![c4d-example](https://ll-show.s3.amazonaws.com/ll-drop_360.gif)
 ![podashians](https://ll-summer-2019.s3.amazonaws.com/public/Podashians.png)
 
+![podashians-svg](https://ll-summer-2019.s3.amazonaws.com/public/podashians-mockup.svg)
 
 ### TOMORROW
 or someday.
