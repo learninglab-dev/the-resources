@@ -21,9 +21,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - Laura's readings?
 - write show your work for everyone
 - talk to mike and katie about overhead stills and get them made
-- 
+-
 
 
+![c4d-example](https://ll-show.s3.amazonaws.com/ll-drop_360.gif)
 
 
 ### TOMORROW
@@ -72,7 +73,7 @@ or someday.
 	- photoshop
 	- lightroom
 	- react
-	- python 
+	- python
 	- c++
 	- c#
 	- c
@@ -97,7 +98,7 @@ why?
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
 - look at Jungmin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
-- adobe creative accounts 
+- adobe creative accounts
 - assess PC inventory and begin new machine
 - story templates
 - automate proxy creation
@@ -139,12 +140,12 @@ why?
 all the things we need. and some we don't.
 
 #### theWorkflow
-- live logs and data feeds, 
-- initial deliverables, 
-- airtable and schedules, 
-- advanced deliverables, 
-- views, 
-- curation, 
+- live logs and data feeds,
+- initial deliverables,
+- airtable and schedules,
+- advanced deliverables,
+- views,
+- curation,
 - auto-edits
 
 #### slack2airtable
@@ -160,12 +161,12 @@ all the things we need. and some we don't.
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
-- 
+-
 
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
 - do a series of tutorials on fcpxml
-\- 
+\-
 - fcpxml research
 	- reference this: https://dev.commandpost.io/
 	- https://github.com/mjolnirapp/mjolnir
@@ -188,7 +189,7 @@ some steps
 - plane
 - cube
 - sphere
-\- 
+\-
 
 ### REALITYLAB: UNITY TUTORIALS
 - [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
@@ -203,11 +204,11 @@ sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/wo
 ### AUDIO PEAK DETECTION
 
 ```
-	
+
 	http://joesul.li/van/beat-detection-using-web-audio/
 ```
 
-node web audio api https://www.npmjs.com/package/web-audio-api	
+node web audio api https://www.npmjs.com/package/web-audio-api
 
 ### UNITY
 
@@ -219,7 +220,7 @@ AIE
 - if the system for identifying and training artists is broken, why would we rely on the artists it's sending us?
 - a single artist in residence puts all your eggs in one basket
 - makes art the special domain of the few
-- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills 
+- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills
 
 ### JS BASICS
 
@@ -294,7 +295,7 @@ audition
 photoshop
 lightroom
 react
-python 
+python
 c++
 c#
 c
@@ -345,7 +346,7 @@ logic of toolset
 			- for me
 			- for someone else
 	- musiclab
-	- 
+	-
 
 
 
@@ -377,7 +378,7 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 - width and height for embeds
 - in sites page, separate columns for video sizes?
 - or does the first or first X get hero size and others small and tiled?
-- 
+-
 
 ### m2s slack
 
@@ -387,4 +388,4 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
-- 
+-
