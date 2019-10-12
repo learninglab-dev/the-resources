@@ -21,7 +21,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - Laura's readings?
 - write show your work for everyone
 - talk to mike and katie about overhead stills and get them made
--
+- [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
+- [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundamentals?u=2194065) 2019
+- [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+- 
 
 
 ![podashians-svg](https://ll-show.s3.amazonaws.com/public/podashians-mockup.svg)
@@ -138,6 +141,27 @@ why?
 	- - [scripting in blender](https://cgcookie.com/articles/blender-2-8-python-scripting-superpowers-for-non-programmers)
 
 ## PROJECTS
+
+### WHAT YOU REPEATEDLY DO
+
+extensions to add each day
+- .jpg
+- .indd
+- .c4d
+- .blend
+- .md
+- .js
+- .cs
+- .unity
+- .ai
+- .psd
+- .lrcat
+- .fcpxml
+- .aep
+- .css
+- .scss
+- .jsx
+- 
 
 ### THE TOOLS
 all the things we need. and some we don't.
