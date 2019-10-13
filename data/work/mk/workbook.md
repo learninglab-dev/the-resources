@@ -144,7 +144,7 @@ why?
 
 ### WHAT YOU REPEATEDLY DO
 
-extensions to add each day
+There are some **extensions to add each day** if you're going to make all the things all the time.
 - .jpg
 - .indd
 - .c4d
@@ -161,7 +161,14 @@ extensions to add each day
 - .css
 - .scss
 - .jsx
-- 
+- .cr2
+- .mov
+- .gif
+
+Media, things, outcomes
+- magazine spreads
+- posters
+- videos
 
 ### THE TOOLS
 all the things we need. and some we don't.
