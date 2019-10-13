@@ -7,10 +7,6 @@ small things, biggish things, but no complex clusters of things (those are in pr
 
 ### TODAY (20191009)
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- prep FCPX tutorial
-	- footage
-	- assignment ideas
-	- staffing
 - switch key (and back) in studio
 - conceptual tools example
 - route for glossary
@@ -24,7 +20,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
 - [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundamentals?u=2194065) 2019
 - [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
-- 
+-
 
 
 ![podashians-svg](https://ll-show.s3.amazonaws.com/public/podashians-mockup.svg)
