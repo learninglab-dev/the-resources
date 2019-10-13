@@ -5,21 +5,36 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY (20191009)
+### TODAY (
+20191009) in studio
+- conceptual tools example
+- route for glossary
+-
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- switch key (and back) in studio
+- prep FCPX tutorial
+	- footage
+	- assignment ideas
+	- staffing
+- switch ke title (currently `undefined`) in second level of show.learninglab.xyz/work
+- add some better code styling to `.css` referenced in the `work.ejs` template
+- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
+- maybe switch lights in studio?
 - conceptual tools example
 - route for glossary
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
 	- s3 first?
 - update 2020 skills
-- Laura's readings?
-- write show your work for everyone
+- Laura's readings?teach jordan to edit hello.learninglab.xyz
+- teach jordan to style hello.learninglab.xyz
+- wbrite show your work for everyone
 - talk to mike and katie about overhead stills and get them made
 - [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
-- [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundamentals?u=2194065) 2019
+- [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundang mac air charger home
+- need command line tool for s3 and flickr still uploads sooner rather than later.
+- automate the mentals?u=2194065) 2019
 - [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+- [Blender Tutorial]([https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065](https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065)
 -
 
 
@@ -35,7 +50,12 @@ or someday.
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz
+- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later
+
+### TOMORROW
+or someday.
+
+- slash for room availability
 - process this lynda.com [tutorial on designing with grids in InDesign]( https://www.lynda.com/InDesign-tutorials/Designing-Grids-InDesign-Revision/5038205-2.html) and add to InDesign resources.
 - need to handle arbitrary number of `req.params` recursively in show.learninglab.xyz/work
 - resources
@@ -271,7 +291,135 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - read folder of `.md` files and render these (if filename or title == `req.params.id`, for instance)
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 
-### CODE TO ADD
+### CODE TO ADD\-
+
+
+
+## THE WEEK
+
+### MONDAY
+20191006
+- standup
+- curation meeting
+- EMR workshop
+- night class
+
+
+### TUESDAY
+20191007
+
+
+
+
+### WEDNESDAY
+20191008
+
+- podcasting event prep
+- Visual Teaching studio
+
+### THURSDAY
+20191009
+
+- Podcast event
+-
+
+### FRIDAY
+20191004
+
+## MEDIA
+
+## CODETASKS
+
+
+
+### FRIDAY
+
+#### LIGHTROOM AND INDESIGN WORKSHOPS
+
+### ADOBE CREATIVE TYPES
+Samples from the last graphic design workshop.
+
+Dani's Creative Personality Type
+![Dani Adobe Type Exercise](https://live.staticflickr.com/65535/48036620998_416ee5c170_h.jpg)
+
+Marlon's Creative Personality Type
+![Marlon Adobe Type Exercise](https://live.staticflickr.com/65535/48036665937_9be555afbf_h.jpg)
+
+
+
+## ADD
+
+### at tools
+
+- the thing is this: there are so so many command line tools
+- maybe this should be in a cli version of the scripts? or mk scripts?
+	- probably mkScripts is the way to go.  or mk-t ools
+- heroku probably on `us-east-1`
+- have fallen behind on mern stack business
+- what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
+- print musiclab songs?
+
+
+
+logic of toolset
+- mk
+	- print
+	- airtable
+		- get tasks and print
+			- me
+			- everyone
+			- get as html?
+			- write html out to file?
+		- add link
+		- add task
+			- for me
+			- for someone else
+	- musiclab
+	-
+
+
+
+
+
+shortcut keys to develop memory of
+- command + arrows for beginning, end, top, bottom cursor moves (horizontally = line, vertically = doc, so "page")
+- option + arrows for word by word moves horizontal
+
+
+
+### AIRTABLE PAGES
+
+# airtablePages
+
+basically the goal here is to make airtable + express app (or maybe airtable + react?) app that lets us
+
+- create and style custom course sites
+- create and style custom links lists for fellows, staff, any individual or group
+- quickly assemble sites for activities and presentations
+- generate the html and slack it out so that people can then tweak from there
+- accept new css rules in?
+
+
+
+### elements
+
+- css files
+- custom css rules as text?
+- templates
+- links to s3-hosted resources?
+- youtube ids
+- youtube urls
+- youtube embed code
+- width and height for embeds
+- in sites page, separate columns for video sizes?
+- or does the first or first X get hero size and others small and tiled?
+-
+
+
+### from 20190730
+
+
+## CODE
 
 summer2019.learninglab.xyz
 - routes for resources
@@ -354,7 +502,10 @@ overhead plan 2020
 
 - the thing is this: there are so so many command line tools
 - maybe this should be in a cli version of the scripts? or mk scripts?
-	- probably mkScripts is the way to go.  or mk-t ools
+	- probably mkScrm2s slack
+
+- define data model for clips
+- store clipts is the way to go.  or mk-t ools
 - heroku probably on `us-east-1`
 - have fallen behind on mern stack business
 - what if we have students learn and build react apps just locally, pointing at the secretmusiclab api?
@@ -418,4 +569,41 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
+-n Airtable
+- when m2s is run (maybe with proxy flag) actually get the stuff from s3
+	- you could actually use the actual stuff on s3 too I guess
+- on rename add to db?
+- or special db-pop script
 -
+## LLUF UPDATES
+
+### Mario
+![Mario](https://files.slack.com/files-pri/T0HTW3H0V-FN7774DNE/podashians_joy.jpg?pub_secret=4d7ed5dec3)
+
+is at work on c4d projects of all sorts, including this web series with Yilan.
+<iframe src="https://drive.google.com/file/d/176BwSxWH2wRW4zOEnYtXu1v0wcrolhYc/preview" width="480" height="270"></iframe>
+
+More to come.
+
+### Shirley
+![Shirley](https://files.slack.com/files-pri/T0HTW3H0V-FP2HXVC69/20191002_001_discopod_portraits_5d4astills_331.jpg?pub_secret=0840693fa6)
+Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing ideas for a pod project for the term.
+
+### Shavonna
+![Shavonna](https://files.slack.com/files-pri/T0HTW3H0V-FNPQBHCUA/20191002_001_discopod_portraits_5d4astills_142.jpg?pub_secret=43a31f00a2)
+
+### Molly
+![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNSU83BRU/5d4b7324.jpg?pub_secret=38e593407c)
+
+
+
+### Sara
+
+![Sara](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
+
+Is thinking of working on UX/UI.
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODkzNjYwODJdfQ==
+-->
