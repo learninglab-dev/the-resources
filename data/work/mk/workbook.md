@@ -10,7 +10,6 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - conceptual tools example
 - route for glossary
 - 
-- rimeta
 - add some better code styling to `.css` referenced in the `work.ejs` template
 - prep FCPX tutorial
 	- footage
@@ -18,7 +17,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 	- staffing
 - switch ke title (currently `undefined`) in second level of show.learninglab.xyz/work
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- maybe think about splittle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
+- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - maybe switch lights in studio?
 - conceptual tools example
 - route for glossary
@@ -35,6 +34,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 - automate the mentals?u=2194065) 2019
 - [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+- [Blender Tutorial]([https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065](https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065)
 - 
 
 
@@ -605,5 +605,5 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTE4NzI5Nl19
+eyJoaXN0b3J5IjpbLTEwODkzNjYwODJdfQ==
 -->
