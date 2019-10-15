@@ -25,10 +25,12 @@ Shirley and Shavonna have formed the **Poddy in the U.S.A.** and are developing 
 
 ![Sara](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
-Is thinking of working on UX/UI.
+Is thinking of working on UX/UI. Recently discovered that it's even a thing!
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMxMDczNDhdfQ==
+eyJoaXN0b3J5IjpbLTcwOTQ4MjQzMl19
 -->
