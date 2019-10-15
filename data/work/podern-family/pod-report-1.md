@@ -19,12 +19,12 @@
 ![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
 
-***Molly*** is interested in developing curatorial, photo development, editing, and coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will archive and publish various aspects of the Learning Lab's activities, in the hope of learning more about the various skills relevant to print and media publishing. You'll likely find her engaging with interaction-lab and media-lab, and maybe popping for studio-lab some Wednesday nights. 
+***Molly*** is interested in developing curatorial, photo development, editing, and coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will archive and publish various aspects of the Learning Lab's activities, in the hope of learning more about the various skills relevant to print and media publishing.  You'll likely find her engaging with interaction-lab and media-lab, and maybe popping for studio-lab some Wednesday nights.
 
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
-***Sara*** is hoping tostill deciding on a project, but she is  learn more about User-Experience/User-Interface design. 
+***Sara*** is still deciding on a project, but she is hoping to learn more about User-Experience/User-Interface design, as well as apply her newly-acquired (and very
 
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
@@ -36,11 +36,11 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NTEwNTMxLC0xMTM0Mzg1ODgzLC0xMz
-kwODc2MzgyLDEzNTcwNDgyOTksODIxMTMwNTgwLDE4MDAwOTM4
-NjQsLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsODcyOTg3NDc2LC
-05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIwMzEsLTE2NTUw
-NDE3MTMsODQwODc3NTQ3LC0xNzg4MTkxNjA3LC01NTc5MTY4NT
-AsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYxMywtMjEyMjYx
-NTM0NV19
+eyJoaXN0b3J5IjpbMjEzODIwMjY3OSw0MDk1MTA1MzEsLTEzOT
+A4NzYzODIsMTM1NzA0ODI5OSw4MjExMzA1ODAsMTgwMDA5Mzg2
+NCwtMTUzNzA1ODMyNSwtMTcyMjg2MTMwNSw4NzI5ODc0NzYsLT
+kzMzE0ODE1MSwtNTgwNTc4MTIwLC01NzU1MjAzMSwtMTY1NTA0
+MTcxMyw4NDA4Nzc1NDcsLTE3ODgxOTE2MDcsLTU1NzkxNjg1MC
+wxNzQ1Nzc3OTg1LDQzNTg1MTE5OCwxNTY5NjEzLC0yMTIyNjE1
+MzQ1XX0=
 -->
