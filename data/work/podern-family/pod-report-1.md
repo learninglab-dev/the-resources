@@ -24,6 +24,7 @@
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
+
 ***Sara*** is still deciding on a project, but she is hoping to learn more about User-Experience/User-Interface design, as well as put her newly-acquired coding skills to use! 
 
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
@@ -36,11 +37,11 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNzQ3MzA1LDE5OTE3NDkzOCw0MDk1MT
-A1MzEsLTEzOTA4NzYzODIsMTM1NzA0ODI5OSw4MjExMzA1ODAs
-MTgwMDA5Mzg2NCwtMTUzNzA1ODMyNSwtMTcyMjg2MTMwNSw4Nz
-I5ODc0NzYsLTkzMzE0ODE1MSwtNTgwNTc4MTIwLC01NzU1MjAz
-MSwtMTY1NTA0MTcxMyw4NDA4Nzc1NDcsLTE3ODgxOTE2MDcsLT
-U1NzkxNjg1MCwxNzQ1Nzc3OTg1LDQzNTg1MTE5OCwxNTY5NjEz
-XX0=
+eyJoaXN0b3J5IjpbLTQwMDIzMDU2OSwxOTkxNzQ5MzgsNDA5NT
+EwNTMxLC0xMzkwODc2MzgyLDEzNTcwNDgyOTksODIxMTMwNTgw
+LDE4MDAwOTM4NjQsLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsOD
+cyOTg3NDc2LC05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIw
+MzEsLTE2NTUwNDE3MTMsODQwODc3NTQ3LC0xNzg4MTkxNjA3LC
+01NTc5MTY4NTAsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYx
+M119
 -->
