@@ -19,13 +19,14 @@
 ![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
 
-***Molly*** is interested in developing curatorial, photo development, editing, and coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will archive and publish various aspects of the Learning Lab's activities, in the hope of sharpening various skills relevant to print and media publishing. You'll likely find her engaging with interaction-lab and media-lab, and maybe popping in for studio-lab some Wednesday nights.
-
+***Molly*** is interested in developing curatorial, photo development, editing, andand ***Sarah*** are out this week, but tune in next time for more updates on their ends!
+ coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will arie and publish various aspects of the Learning Lab's activities, in the hope of sharpeninglearning more about the various skills relevant to print and media publishing.  You'll likely find her engaging with interaction-lab and media-lab, and maybe popping in for studio-lab some Wednesday nights.
+ can
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
 
-***Sara*** is still deciding on a project, but she is hoping to learn more about User-Experience/User-Interface design, as well as put her newly-acquired coding skills to use! 
+***Sara*** is hoping tostill deciding on a project, but she is hoping to learn more about User-Experience/User-Interface design, as well as put her newly-acquired coding skills to use!. 
 
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
@@ -37,11 +38,11 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDIzMDU2OSwxOTkxNzQ5MzgsNDA5NT
-EwNTMxLC0xMzkwODc2MzgyLDEzNTcwNDgyOTksODIxMTMwNTgw
-LDE4MDAwOTM4NjQsLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsOD
-cyOTg3NDc2LC05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIw
-MzEsLTE2NTUwNDE3MTMsODQwODc3NTQ3LC0xNzg4MTkxNjA3LC
-01NTc5MTY4NTAsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYx
-M119
+eyJoaXN0b3J5IjpbLTUzNzIyNjk3NSwtNDAwMjMwNTY5LDE5OT
+E3NDkzOCw0MDk1MTA1MzEsLTEzOTA4NzYzODIsMTM1NzA0ODI5
+OSw4MjExMzA1ODAsMTgwMDA5Mzg2NCwtMTUzNzA1ODMyNSwtMT
+cyMjg2MTMwNSw4NzI5ODc0NzYsLTkzMzE0ODE1MSwtNTgwNTc4
+MTIwLC01NzU1MjAzMSwtMTY1NTA0MTcxMyw4NDA4Nzc1NDcsLT
+E3ODgxOTE2MDcsLTU1NzkxNjg1MCwxNzQ1Nzc3OTg1LDQzNTg1
+MTE5OF19
 -->
