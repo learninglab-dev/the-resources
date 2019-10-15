@@ -19,10 +19,12 @@
 ![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
 
-***Molly*** is interested in developing archival, photo development, editing, and
+***Molly*** is interested in developing archival, photo development, editing, andand ***Sarah*** are out this week, but tune in next time for more updates on their ends!
+
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
+***Sara*** is hoping to 
 
 ![Sarah](https://files.slack.com/files-pri/T0HTW3H0V-FNQN81L69/5d4b6909.jpg?pub_secret=f826907d7d)
 
@@ -34,11 +36,11 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzYzNTYzOSwtMTM5MDg3NjM4MiwxMz
-U3MDQ4Mjk5LDgyMTEzMDU4MCwxODAwMDkzODY0LC0xNTM3MDU4
-MzI1LC0xNzIyODYxMzA1LDg3Mjk4NzQ3NiwtOTMzMTQ4MTUxLC
-01ODA1NzgxMjAsLTU3NTUyMDMxLC0xNjU1MDQxNzEzLDg0MDg3
-NzU0NywtMTc4ODE5MTYwNywtNTU3OTE2ODUwLDE3NDU3Nzc5OD
-UsNDM1ODUxMTk4LDE1Njk2MTMsLTIxMjI2MTUzNDUsLTEyMzMx
-Mzk5OTddfQ==
+eyJoaXN0b3J5IjpbMjA3MTM3OTMzNiwxOTIzNjM1NjM5LC0xMz
+kwODc2MzgyLDEzNTcwNDgyOTksODIxMTMwNTgwLDE4MDAwOTM4
+NjQsLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsODcyOTg3NDc2LC
+05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIwMzEsLTE2NTUw
+NDE3MTMsODQwODc3NTQ3LC0xNzg4MTkxNjA3LC01NTc5MTY4NT
+AsMTc0NTc3Nzk4NSw0MzU4NTExOTgsMTU2OTYxMywtMjEyMjYx
+NTM0NV19
 -->
