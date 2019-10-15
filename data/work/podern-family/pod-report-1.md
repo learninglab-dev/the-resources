@@ -19,8 +19,8 @@
 ![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
 
-***Molly*** is interested in developing atorial, photo development, editing, andand ***Sarah*** are out this week, but tune in next time for more updates on their ends!
- coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will archive and publish various aspects of the Learning Lab's activities, in the hope of learning more about the various skills relevant to print and media publishing.  You can
+***Molly*** is interested in developing curatorial, photo development, editing, and coding skills at the Learning Lab this semester. She has just begun to develop a personal project which will archive and publish various aspects of the Learning Lab's activities, in the hope of learning more about the various skills relevant to print and media publishing. You'll likely find her engaging with interaction-lab and media-lab, and maybe popping for studio-lab some Wednesday nights. 
+
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
@@ -36,7 +36,7 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzODU4ODMsNTEzNTA2MzcwLC0xMz
+eyJoaXN0b3J5IjpbNDA5NTEwNTMxLC0xMTM0Mzg1ODgzLC0xMz
 kwODc2MzgyLDEzNTcwNDgyOTksODIxMTMwNTgwLDE4MDAwOTM4
 NjQsLTE1MzcwNTgzMjUsLTE3MjI4NjEzMDUsODcyOTg3NDc2LC
 05MzMxNDgxNTEsLTU4MDU3ODEyMCwtNTc1NTIwMzEsLTE2NTUw
