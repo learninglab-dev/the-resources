@@ -19,8 +19,7 @@
 ![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
 
 
-***Molly*** and ***Sarah*** are out this week, but tune in next time for more updates on their ends!
-
+***Molly*** is interested in developing archival, photo development, editing, and
 ![Molly](https://files.slack.com/files-pri/T0HTW3H0V-FNE13CGKU/5d4b7244.jpg?pub_secret=ac699b84f3)
 
 and
@@ -35,11 +34,11 @@ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA4NzYzODIsMTM1NzA0ODI5OSw4Mj
-ExMzA1ODAsMTgwMDA5Mzg2NCwtMTUzNzA1ODMyNSwtMTcyMjg2
-MTMwNSw4NzI5ODc0NzYsLTkzMzE0ODE1MSwtNTgwNTc4MTIwLC
-01NzU1MjAzMSwtMTY1NTA0MTcxMyw4NDA4Nzc1NDcsLTE3ODgx
-OTE2MDcsLTU1NzkxNjg1MCwxNzQ1Nzc3OTg1LDQzNTg1MTE5OC
-wxNTY5NjEzLC0yMTIyNjE1MzQ1LC0xMjMzMTM5OTk3LDEzMTA2
-MjI4ODRdfQ==
+eyJoaXN0b3J5IjpbMTkyMzYzNTYzOSwtMTM5MDg3NjM4MiwxMz
+U3MDQ4Mjk5LDgyMTEzMDU4MCwxODAwMDkzODY0LC0xNTM3MDU4
+MzI1LC0xNzIyODYxMzA1LDg3Mjk4NzQ3NiwtOTMzMTQ4MTUxLC
+01ODA1NzgxMjAsLTU3NTUyMDMxLC0xNjU1MDQxNzEzLDg0MDg3
+NzU0NywtMTc4ODE5MTYwNywtNTU3OTE2ODUwLDE3NDU3Nzc5OD
+UsNDM1ODUxMTk4LDE1Njk2MTMsLTIxMjI2MTUzNDUsLTEyMzMx
+Mzk5OTddfQ==
 -->
