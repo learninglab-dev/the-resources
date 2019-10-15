@@ -15,9 +15,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 	- footage
 	- assignment ideas
 	- staffing
-- switch ke title (currently `undefined`) in second level of show.learninglab.xyz/work
+- switch k8
+- handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
 - add some better code styling to `.css` referenced in the `work.ejs` template
-- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
+- maybe think about splittingle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - maybe switch lights in studio?
 - conceptual tools example
 - route for glossary
@@ -50,7 +51,7 @@ or someday.
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later
+- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later 
 
 ### TOMORROW
 or someday.
@@ -95,7 +96,7 @@ or someday.
 	- photoshop
 	- lightroom
 	- react
-	- python
+	- python 
 	- c++
 	- c#
 	- c
@@ -120,7 +121,7 @@ why?
 - troubleshoot 6D footage in rename script
 - need to do a deep dive on LR [metadata](https://helpx.adobe.com/lightroom-classic/help/metadata-basics-actions.html). What does it look like? What can we do with it? Can all of this be airtabled?
 - look at Jungmin's doc on [montage](https://docs.google.com/document/d/10j-CGJxAibGosBJPzkijOmSXcKigFWGDZRiVBpcbZ8g/edit).
-- adobe creative accounts
+- adobe creative accounts 
 - assess PC inventory and begin new machine
 - story templates
 - automate proxy creation
@@ -186,16 +187,16 @@ Media, things, outcomes
 - posters
 - videos
 
-### THE TOOLS
+### THE TOOLSthe tools
 all the things we need. and some we don't.
 
 #### theWorkflow
-- live logs and data feeds,
-- initial deliverables,
-- airtable and schedules,
-- advanced deliverables,
-- views,
-- curation,
+- live logs and data feeds, 
+- initial deliverables, 
+- airtable and schedules, 
+- advanced deliverables, 
+- views, 
+- curation, 
 - auto-edits
 
 #### slack2airtable
@@ -211,12 +212,14 @@ all the things we need. and some we don't.
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
--
+- 
+
+
 
 ### FCPXML AND WORKFLOW CODE PUBLICATION
 
 - do a series of tutorials on fcpxml
-\-
+\- 
 - fcpxml research
 	- reference this: https://dev.commandpost.io/
 	- https://github.com/mjolnirapp/mjolnir
@@ -228,9 +231,16 @@ all the things we need. and some we don't.
 - think about buying a new macbook air for secret writing lab
 - [table2site](https://table2site.com).
 
+
+
+
+
+
 ### REALITYLAB: BLENDER!!!!
 
 this link: https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners?u=2194065
+
+
 
 ### REALITYLAB: UNITY SCRIPTING INTRO
 
@@ -239,11 +249,12 @@ some steps
 - plane
 - cube
 - sphere
-\-
+\- 
 
 ### REALITYLAB: UNITY TUTORIALS
 - [inLearning Unity 3D Essential Training](https://www.linkedin.com/learning/unity-3d-essential-training/advanced-custom-materials?u=2194065).
 - [good UI section in inLearning 2D UI course](https://www.linkedin.com/learning/cert-prep-unity-ui-and-2d-games/working-with-canvas-objects?u=2194065).
+
 
 ### SASS AND BOOTSTRAP
 
@@ -251,18 +262,23 @@ sass: https://www.linkedin.com/learning/sass-essential-training/using-partials?u
 
 sass and bootstrap 4: https://www.linkedin.com/learning/bootstrap-4-with-sass/working-with-sass-bootstrap?u=2194065
 
+
+
 ### AUDIO PEAK DETECTION
 
 ```
-
+	
 	http://joesul.li/van/beat-detection-using-web-audio/
 ```
 
 node web audio api https://www.npmjs.com/package/web-audio-api
+	
 
 ### UNITY
 
 https://learn.unity.com/project/creator-kit-beginner-code
+
+
 
 ### ARTS AND EDUCATION
 
@@ -270,28 +286,34 @@ AIE
 - if the system for identifying and training artists is broken, why would we rely on the artists it's sending us?
 - a single artist in residence puts all your eggs in one basket
 - makes art the special domain of the few
-- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills
+- and being a great artist doesn't necessarily make you great at the skills we're looking for in an artist-in-residence . . . when sometimes we only need a minimum of craft or domain-bound-excellence, but a boatload of cross-cutting skills 
+
 
 ### JS BASICS
 
 vanilla js game: https://www.linkedin.com/learning/vanilla-javascript-mobile-game-programming/optimize-your-javascript-with-a-game?u=2194065
+
+
 
 ### UX DESIGN
 
 
 ux design principles: https://www.linkedin.com/learning/principle-for-ux-design-2/what-is-principle?u=2194065
 
+
+
 ### BUILD AN ATOM PLUGIN
 
 
 https://github.blog/2016-08-19-building-your-first-atom-plugin/
+
 
 ### hello.learninglab.xyz
 
 - read folder of `.md` files and render these (if filename or title == `req.params.id`, for instance)
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 
-### CODE TO ADD\-
+### CODE TO ADD\- 
 
 
 
@@ -321,7 +343,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
--
+- 
 
 ### FRIDAY
 20191004
@@ -375,7 +397,7 @@ logic of toolset
 			- for me
 			- for someone else
 	- musiclab
-	-
+	- 
 
 
 
@@ -413,7 +435,7 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 - width and height for embeds
 - in sites page, separate columns for video sizes?
 - or does the first or first X get hero size and others small and tiled?
--
+- 
 
 
 ### from 20190730
@@ -473,7 +495,7 @@ audition
 photoshop
 lightroom
 react
-python
+python 
 c++
 c#
 c
@@ -574,7 +596,7 @@ basically the goal here is to make airtable + express app (or maybe airtable + r
 	- you could actually use the actual stuff on s3 too I guess
 - on rename add to db?
 - or special db-pop script
--
+- 
 ## LLUF UPDATES
 
 ### Mario
@@ -605,5 +627,5 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzNjYwODJdfQ==
+eyJoaXN0b3J5IjpbMjczNTEyMDQ4LC0xMDg5MzY2MDgyXX0=
 -->
