@@ -3,51 +3,22 @@
 -   [https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
 -   LLGFs
 	 -   Aaron:
-	   -   poetry, comics, writing
-    
-
--   Anna:
-    
-
--   C# tutorial videos, building a prototype scene of a rotating stage theater
-    
-
--   Ceci:
-    
-
--   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
-    
-
--   Christina:
-    
-
--   photoshop workshop, digital-physical making tutorials
-    
-
--   Clarisse:
-    
-
--   Unity Hero, a troubleshooting guide for Unity beginners
-    
-
--   Tommy:
-    
-
--   kepler.gl workshop, intro tutorials for QGIS
-    
-
--   LLUFs
-    
-
--   PODs
-    
-
--   Alpha Testers: code+music+tech [ableton, max, video integration]
-    
--   Podashians:
-    
-
--   LL Yearbook
+		   -   poetry, comics, writing
+    -   Anna:
+	    -   C# tutorial videos, building a prototype scene of a rotating stage theater
+    -   Ceci:
+	    -   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
+	-   Christina:
+	    -   photoshop workshop, digital-physical making tutorials
+    -   Clarisse:
+	    -   Unity Hero, a troubleshooting guide for Unity beginners
+    -   Tommy:
+	    -   kepler.gl workshop, intro tutorials for QGIS
+-   LLUFs  
+	-   PODs
+	    -   Alpha Testers: code+music+tech [ableton, max, video integration]
+	    -   Podashians:
+	    -   LL Yearbook
     
 
 -   Murder of Crows:
@@ -467,5 +438,5 @@
 
 -   timelines and hero-shots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTgwMjM0M119
+eyJoaXN0b3J5IjpbMTI4ODYzOTM1OV19
 -->
