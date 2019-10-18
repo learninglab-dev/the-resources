@@ -100,6 +100,8 @@ function getMeanVolume(audio, callback){
       }
 } `
 
+from 
+
 
 **Contributors**
 1. Jad
@@ -107,7 +109,7 @@ function getMeanVolume(audio, callback){
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4MTYyOTAsOTY1OTcwMDgxLC0xMT
+eyJoaXN0b3J5IjpbLTIwMjg3NTc2NzgsOTY1OTcwMDgxLC0xMT
 U4NDA5MTMxLDIwOTY4Njk4NDYsMzY3NjM3NjY4LDg4MzMzNTk5
 MiwxMTk2OTcyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMT
 U5MjEsLTE5NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3
