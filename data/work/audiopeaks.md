@@ -45,35 +45,61 @@ Potential process:
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
-```.on(‘end’, function(stdout, stderr){
+` const Ffmpeg = require('fluent-ffmpeg');
 
-// find the mean_volume in the output
+const LOUD_THRESHOLD = -23;
 
-let meanVolumeRegex = stderr.match(/mean_volume:\s(-?[0–9]\d*(\.\d+)?)/);
+var audio = new Sound ("audio.mp3", 100, true);
 
-// return the mean volume
+getMeanVolume(audio, function (meanVolume){
+  if(meanVolume >= LOUD_THRESHOLD) {
+    console.log("this is loud!");
+  }else{
+    console.log("this is not loud");
+  }
+  }
+);
 
-if(meanVolumeRegex){
+function getMeanVolume(audio, callback){
+  new Ffmpeg({ source = audio })
+    .withAudioFilter('volumedetect')
+    .addOption('-f','null')
+    .addOption('-t', '30')
+    .noVideo()
+    .on('start', function(ffmpegCommand){
+      console.log('output the ffmpeg command', ffmpegCommand);
+    })
+    .on(‘end’, function(stdout, stderr){
 
-let meanVolume = parseFloat(meanVolumeRegex[1]);
+      // find the mean_volume in the output
 
-return callback(meanVolume);
+      let meanVolumeRegex = stderr.match(/mean_volume:\s(-?[0–9]\d*(.\d+)?)/);
 
-}
+      // return the mean volume
 
-// if the stream is not available
+      if(meanVolumeRegex){
 
-if(stderr.match(/Server returned 404 Not Found/)){
+      let meanVolume = parseFloat(meanVolumeRegex[1]);
 
-return callback(false);
+      return callback(meanVolume);
 
-}
+      }
 
-})
+      // if the stream is not available
 
-.saveToFile(‘/dev/null’);
+      if(stderr.match(/Server returned 404 Not Found/)){
 
-}``
+      return callback(false);
+
+      }
+
+      })
+
+      .saveToFile(‘/dev/null’);
+
+      }
+} `
+
 
 **Contributors**
 1. Jad
@@ -81,9 +107,9 @@ return callback(false);
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1OTcwMDgxLC0xMTU4NDA5MTMxLDIwOT
-Y4Njk4NDYsMzY3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OTcyODY5
-LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NT
-gzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1Miwt
-MjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbLTE4NDk4MTYyOTAsOTY1OTcwMDgxLC0xMT
+U4NDA5MTMxLDIwOTY4Njk4NDYsMzY3NjM3NjY4LDg4MzMzNTk5
+MiwxMTk2OTcyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMT
+U5MjEsLTE5NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3
+LDIyMDQ1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
