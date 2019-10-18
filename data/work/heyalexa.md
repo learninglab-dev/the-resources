@@ -1,14 +1,7 @@
 # Alexa...
 
-## meets Bok.
+## A Peas in a Pod Project ft. Marlon
 
-### ft. Jad & Connor 
-
-Hey Alexa
-
-A Peas in a Pod Project ft. Marlon
-
-  
 1.  Started by logging into to LL_Fellows with usual password
     
 	- Amazon account already linked to Echo Show and Fire
@@ -25,8 +18,8 @@ A Peas in a Pod Project ft. Marlon
 	 - Each labelled with the name they belong to
 	 - “Alexa set up my echo buttons”
 	 - Hold button until turns orange
-   Release, will turn blue when paired
+	 - Release, will turn blue when paired
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzk1OTU1MiwtNTMyNDU5MDcxLC04MD
-U4MTkxNjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDAwNjMyODcsLTUzMjQ1OTA3MSwtOD
+A1ODE5MTYyXX0=
 -->
