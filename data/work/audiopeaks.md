@@ -102,6 +102,11 @@ function getMeanVolume(audio, callback){
 
 from 
 
+html:
+
+` <script src="peak.js"></script>
+PEAK!
+<button type="button" name="button" onclick="getMeanVolume()">Click for sound analysis!</button> `
 
 **Contributors**
 1. Jad
@@ -109,9 +114,9 @@ from
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg3NTc2NzgsOTY1OTcwMDgxLC0xMT
-U4NDA5MTMxLDIwOTY4Njk4NDYsMzY3NjM3NjY4LDg4MzMzNTk5
-MiwxMTk2OTcyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMT
-U5MjEsLTE5NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3
-LDIyMDQ1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1OD
+QwOTEzMSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIs
+MTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OT
+IxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywy
+MjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
 -->
