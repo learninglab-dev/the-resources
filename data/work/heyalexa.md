@@ -2,7 +2,7 @@
 
 ## meets Bok.
 
-### ft. Jad & Connor (McGregor)
+### ft. Jad & Connor 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTgxOTE2Ml19
+eyJoaXN0b3J5IjpbLTUzMjQ1OTA3MSwtODA1ODE5MTYyXX0=
 -->
