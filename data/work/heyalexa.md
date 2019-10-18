@@ -1,12 +1,6 @@
 # Alexa...
 
-## meets ok
-
- t ad  onnor 
-
-Hey Alexa
-
-A Peas in a Pod Project ft. Marlon
+## A Peas in a Pod Project ft. Marlon
 
 1.  
 
@@ -16,8 +10,6 @@ A Peas in a Pod Project ft. Marlon
     
 2.
 -   Then linked Echo to the same account
-    
-	
 -   Now have:
 	    -
 
@@ -40,7 +32,10 @@ A Peas in a Pod Project ft. Marlon
 -   Hold button until turns orange
 	 -    
 -   Release, will turn blue when paired
+
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NTE3MTcxLC0xNDAwMDYzMjg3LC01Mz
-I0NTkwNzEsLTgwNTgxOTE2Ml19
+eyJoaXN0b3J5IjpbMTg2NTk1NTM0MywtMTQwMDA2MzI4NywtNT
+MyNDU5MDcxLC04MDU4MTkxNjJdfQ==
 -->
