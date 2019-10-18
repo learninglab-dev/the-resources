@@ -100,7 +100,7 @@ function getMeanVolume(audio, callback){
       }
 } `
 
-from 
+from  [https://medium.com/@SteveBarbera/volume-detection-for-a-audio-stream-dbe727085783](https://medium.com/@SteveBarbera/volume-detection-for-a-audio-stream-dbe727085783)
 
 html:
 
@@ -114,9 +114,10 @@ PEAK!
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1OD
-QwOTEzMSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIs
-MTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OT
-IxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywy
-MjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
+eyJoaXN0b3J5IjpbMTE4MDM1MjQxOSwyOTMwNjM0OTYsOTY1OT
+cwMDgxLC0xMTU4NDA5MTMxLDIwOTY4Njk4NDYsMzY3NjM3NjY4
+LDg4MzMzNTk5MiwxMTk2OTcyODY5LDY3MzkxMDIyNCw5MTY4Mj
+IxOSw0NzgwMTU5MjEsLTE5NTk2NTgzNTIsMjY0MDE2ODI4LC0x
+NTg5ODQ4MTE3LDIyMDQ1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMD
+A4NzQyXX0=
 -->
