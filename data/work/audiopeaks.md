@@ -45,15 +45,20 @@ Potential process:
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
+```
+ffmpeg -i in.mp3 -af astats=metadata=1:reset=1,ametadata=print:key=lavfi.astats.Overall.RMS_level:file=log.txt -f null -
+
+```
+
 **Contributors**
 1. Jad
 2. Sophie
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMz
-M1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3
-ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4ND
-gxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJd
-fQ==
+eyJoaXN0b3J5IjpbLTExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNj
+c2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0
+LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMT
+Y4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAs
+LTIwNjIwMDg3NDJdfQ==
 -->
