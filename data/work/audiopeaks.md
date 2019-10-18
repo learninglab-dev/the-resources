@@ -45,10 +45,35 @@ Potential process:
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
-```
-ffmpeg -i in.mp3 -af astats=metadata=1:reset=1,ametadata=print:key=lavfi.astats.Overall.RMS_level:file=log.txt -f null -
+```.on(‘end’, function(stdout, stderr){
 
-```
+// find the mean_volume in the output
+
+let meanVolumeRegex = stderr.match(/mean_volume:\s(-?[0–9]\d*(\.\d+)?)/);
+
+// return the mean volume
+
+if(meanVolumeRegex){
+
+let meanVolume = parseFloat(meanVolumeRegex[1]);
+
+return callback(meanVolume);
+
+}
+
+// if the stream is not available
+
+if(stderr.match(/Server returned 404 Not Found/)){
+
+return callback(false);
+
+}
+
+})
+
+.saveToFile(‘/dev/null’);
+
+}``
 
 **Contributors**
 1. Jad
@@ -56,9 +81,9 @@ ffmpeg -i in.mp3 -af astats=metadata=1:reset=1,ametadata=print:key=lavfi.astats.
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNj
-c2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0
-LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMT
-Y4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAs
-LTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbOTY1OTcwMDgxLC0xMTU4NDA5MTMxLDIwOT
+Y4Njk4NDYsMzY3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OTcyODY5
+LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NT
+gzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1Miwt
+MjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
