@@ -11,17 +11,8 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - route for glossary 
 - more glossary samples
 - finish pumpkin poster
-- 
--
-- add some better code styling to `.css` referenced in the `work.ejs` template
-- prep FCPX tutorial
-	- footage
-	- assignment ideas
-	- staffing
-- switch k8
-- handle page title (currently `undefined`) in second level of show.learninglab.xyz/work
-- add some better code styling to `.css` referenced in the `work.ejs` template
-- maybe think about splittingle the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
+
+- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - maybe switch lights in studio?
 - conceptual tools example
 - route for glossary
@@ -513,6 +504,6 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3NjQxNTMsLTE4OTAyMjMwODksMj
-czNTEyMDQ4LC0xMDg5MzY2MDgyXX0=
+eyJoaXN0b3J5IjpbLTkyOTg4ODk1MiwtMjA1Nzc2NDE1MywtMT
+g5MDIyMzA4OSwyNzM1MTIwNDgsLTEwODkzNjYwODJdfQ==
 -->
