@@ -13,17 +13,10 @@ small things, biggish things, but no complex clusters of things (those are in pr
 - finish pumpkin poster
 
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
-- maybe switch lights in studio?
-- conceptual tools example
-- route for glossary
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
 	- s3 first?
 - update 2020 skills
-- Laura's readings?teach jordan to edit hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz
-- wbrite show your work for everyone
-- talk to mike and katie about overhead stills and get them made
 - [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
 - [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundang mac air charger home
 - need command line tool for s3 and flickr still uploads sooner rather than later.
@@ -504,6 +497,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTg4ODk1MiwtMjA1Nzc2NDE1MywtMT
-g5MDIyMzA4OSwyNzM1MTIwNDgsLTEwODkzNjYwODJdfQ==
+eyJoaXN0b3J5IjpbMTk3NDg2ODMwMywtOTI5ODg4OTUyLC0yMD
+U3NzY0MTUzLC0xODkwMjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2
+NjA4Ml19
 -->
