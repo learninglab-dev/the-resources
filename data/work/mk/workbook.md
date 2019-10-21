@@ -5,10 +5,13 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY (
-20191009) in studio
+### TODAY (20191021) 
+
 - conceptual tools example
-- route for glossary
+- route for glossary 
+- more glossary samples
+- finish pumpkin poster
+- 
 -
 - add some better code styling to `.css` referenced in the `work.ejs` template
 - prep FCPX tutorial
@@ -510,6 +513,6 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAyMjMwODksMjczNTEyMDQ4LC0xMD
-g5MzY2MDgyXX0=
+eyJoaXN0b3J5IjpbLTIwNTc3NjQxNTMsLTE4OTAyMjMwODksMj
+czNTEyMDQ4LC0xMDg5MzY2MDgyXX0=
 -->
