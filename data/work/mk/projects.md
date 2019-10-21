@@ -1,4 +1,3 @@
-
 # LL PROJECTS
 
 ## CLIENT PROJECTS
@@ -10,69 +9,29 @@ There are many other projects.
 ### LLGFs
     
 * Aaron
-* poetry, comics, writing
+	* poetry, comics, writing
+* Anna
+	* C# tutorial videos, building a prototype scene of a rotating stage theater
+* Ceci
+	* rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
+* Christina
+	* photoshop workshop, digital-physical making tutorials
+* Clarisse
+	* Unity Hero, a troubleshooting guide for Unity beginners
+* Tommy
+	* kepler.gl workshop, intro tutorials for QGIS
     
 
--   Anna:
+### LLUFs
     
-
--   C# tutorial videos, building a prototype scene of a rotating stage theater
-    
-
--   Ceci:
-    
-
--   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
-    
-
--   Christina:
-    
-
--   photoshop workshop, digital-physical making tutorials
-    
-
--   Clarisse:
-    
-
--   Unity Hero, a troubleshooting guide for Unity beginners
-    
-
--   Tommy:
-    
-
--   kepler.gl workshop, intro tutorials for QGIS
-    
-
--   LLUFs
-    
-
--   By Project, organized by lab:
-    
-
-  
-  
-
--   codeLab
-    
-
--   Alexa Code
-    
-
--   Connor
-    
--   Jad
-    
-
--   Audiopeaks Code
-    
-
--   Sophie
-    
-
--   LL Intake Quiz
-    
-
--   Sara
+- codeLab
+	- Alexa Code
+		- Connor
+		- Jad
+	- Audiopeaks Code
+		- Sophie
+	- LL Intake Quiz
+		- Sara
     
 
   
