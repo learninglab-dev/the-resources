@@ -6,12 +6,12 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 small things, biggish things, but no complex clusters of things (those are in projects).
 
 ### TODAY (20191021) 
+test
 
-- conceptual tools example
-- route for glossary 
-- more glossary samples
-- finish pumpkin poster
-
+* conceptual tools example
+* route for glossary 
+* more glossary samples
+* finish pumpkin poster
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
@@ -497,7 +497,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDg2ODMwMywtOTI5ODg4OTUyLC0yMD
+eyJoaXN0b3J5IjpbMTE2OTAwNzE0NywtOTI5ODg4OTUyLC0yMD
 U3NzY0MTUzLC0xODkwMjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2
 NjA4Ml19
 -->
