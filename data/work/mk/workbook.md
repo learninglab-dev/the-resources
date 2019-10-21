@@ -8,7 +8,9 @@ small things, biggish things, but no complex clusters of things (those are in pr
 ### TODAY (20191021) 
 now
 * pumpkin vis plus code printed
-* prompt for tonight
+* prompt for e2
+* get blender running from command line on all basic LL macs
+* 
 
 now-ish
 * conceptual tools example
@@ -492,7 +494,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkzODQ4NDcsLTkyOTg4ODk1MiwtMj
-A1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1MTIwNDgsLTEwODkz
-NjYwODJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzE0ODQzNzcsLTEwMDkzODQ4NDcsLT
+kyOTg4ODk1MiwtMjA1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1
+MTIwNDgsLTEwODkzNjYwODJdfQ==
 -->
