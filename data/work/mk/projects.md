@@ -1,10 +1,10 @@
 
 -   project list
 -   [https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
--   LLGFs
-	 -   Aaron:
-		   -   poetry, comics, writing
-    -   Anna:
+* LLGFs
+	 * Aaron:
+		  * poetry, comics, writing
+     * Anna:
 	    -   C# tutorial videos, building a prototype scene of a rotating stage theater
     -   Ceci:
 	    -   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
@@ -438,5 +438,5 @@
 
 -   timelines and hero-shots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODYzOTM1OV19
+eyJoaXN0b3J5IjpbLTEzNTA2NzI1NzcsMTI4ODYzOTM1OV19
 -->
