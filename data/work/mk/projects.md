@@ -1,24 +1,225 @@
 
 -   project list
+    
+
 -   [https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
-* LLGFs
-	 * Aaron:
-		  * poetry, comics, writing
-     * Anna:
-	    -   C# tutorial videos, building a prototype scene of a rotating stage theater
-    -   Ceci:
-	    -   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
-	-   Christina:
-	    -   photoshop workshop, digital-physical making tutorials
-    -   Clarisse:
-	    -   Unity Hero, a troubleshooting guide for Unity beginners
-    -   Tommy:
-	    -   kepler.gl workshop, intro tutorials for QGIS
--   LLUFs  
-	-   PODs
-	    -   Alpha Testers: code+music+tech [ableton, max, video integration]
-	    -   Podashians:
-	    -   LL Yearbook
+    
+-   LLGFs
+    
+
+-   Aaron:
+    
+
+-   poetry, comics, writing
+    
+
+-   Anna:
+    
+
+-   C# tutorial videos, building a prototype scene of a rotating stage theater
+    
+
+-   Ceci:
+    
+
+-   rolling w/realityLab, working on Blender tutorials, guiding the C# tutorial building project
+    
+
+-   Christina:
+    
+
+-   photoshop workshop, digital-physical making tutorials
+    
+
+-   Clarisse:
+    
+
+-   Unity Hero, a troubleshooting guide for Unity beginners
+    
+
+-   Tommy:
+    
+
+-   kepler.gl workshop, intro tutorials for QGIS
+    
+
+-   LLUFs
+    
+
+-   By Project, organized by lab:
+    
+
+  
+  
+
+-   codeLab
+    
+
+-   Alexa Code
+    
+
+-   Connor
+    
+-   Jad
+    
+
+-   Audiopeaks Code
+    
+
+-   Sophie
+    
+
+-   LL Intake Quiz
+    
+
+-   Sara
+    
+
+  
+
+-   realityLab
+    
+
+-   C4d tutorials:
+    
+
+-   Yilan
+    
+-   Mario
+    
+
+-   2D Unity
+    
+
+-   Nicole
+    
+
+-   c4D assets
+    
+
+-   Daniel
+    
+
+-   Blender
+    
+
+-   Juliana
+    
+
+  
+
+-   mediaLab
+    
+
+-   Camera Lenses Resources
+    
+
+-   Alex
+    
+
+-   Video djing as Presentation (or something?)
+    
+
+-   (Alpha Testers)
+    
+-   Sam
+    
+-   Emmy
+    
+-   Brett
+    
+
+  
+
+-   studioLab
+    
+
+-   Mapping the LL
+    
+
+-   (Cephalopods)
+    
+-   Lara
+    
+-   Lila
+    
+-   Sophie
+    
+-   Shivi
+    
+
+-   Color Week:
+    
+
+-   (Cephalopods)
+    
+-   Lara
+    
+-   Lila
+    
+-   Sophie
+    
+-   Shivi
+    
+
+-   Brick Room LookBook+Manual
+    
+
+-   (Poddy in the USA)
+    
+-   Shavonna
+    
+-   Shirley
+    
+
+  
+
+-   info/graphicsLab
+    
+
+-   LL YearBok
+    
+
+-   (Podashians)
+    
+-   Ramona
+    
+-   Audrey
+    
+-   Frances
+    
+-   Joy
+    
+
+-   Poddy’s Brick Room Manual is a crossover with studioLab!
+    
+
+  
+
+-   interactionLab
+    
+
+-   interactionLab assignments?
+    
+
+-   Laura
+    
+
+-   Sara’s Quiz is a code/interaction crossover!
+    
+
+  
+  
+
+-   PODs
+    
+
+-   Alpha Testers: code+music+tech [ableton, max, video integration]
+    
+-   Podashians:
+    
+
+-   LL Yearbook
     
 
 -   Murder of Crows:
@@ -30,13 +231,23 @@
 -   Cephalopod:
     
 
--   (Indiv projects)
+-   Color
+    
+-   Mapping the LL
     
 
 -   Three Peas in a Pod:
     
 
--   (Indiv projects)
+-   Code+objects
+    
+
+-   Audiopeaks (Sophie)
+    
+-   Alexa (Jad and Connor)
+    
+
+-   Chalkboard wall
     
 
 -   Fairly Pod Parents:
@@ -213,13 +424,13 @@
 -   Sophie Webster:
     
 
--   tbd
+-   Pod project
     
 
 -   Lila Williams:
     
 
--   tbd
+-   Pod project
     
 
 -   Brett McLoughlin:
@@ -438,5 +649,6 @@
 
 -   timelines and hero-shots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA2NzI1NzcsMTI4ODYzOTM1OV19
+eyJoaXN0b3J5IjpbLTEwOTg5MTA3OTAsLTEzNTA2NzI1NzcsMT
+I4ODYzOTM1OV19
 -->
