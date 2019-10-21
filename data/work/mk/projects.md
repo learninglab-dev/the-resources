@@ -1,8 +1,10 @@
 
--   project list
-    
+# LL PROJECTS
 
--   [https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
+## CLIENT PROJECTS
+Course-level projects (including things like Harvard Horizons, etc.) will be in the [official project list](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
+
+other projects
     
 -   LLGFs
     
@@ -649,6 +651,6 @@
 
 -   timelines and hero-shots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg5MTA3OTAsLTEzNTA2NzI1NzcsMT
-I4ODYzOTM1OV19
+eyJoaXN0b3J5IjpbMTk1NTM5MjI4MSwtMTM1MDY3MjU3NywxMj
+g4NjM5MzU5XX0=
 -->
