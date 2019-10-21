@@ -25,15 +25,7 @@ later
 * [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
 * InDesign Essential Training
 * [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
-- [Blender Tutorial]([https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065](https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065)
--
 
-
-![podashians-svg](https://ll-show.s3.amazonaws.com/public/podashians-mockup.svg)
-
-![podashians again](https://ll-show.s3.amazonaws.com/public/svg/podashians-mockup.svg)
-
-![Ceci Poster](https://ll-summer-2019.s3.amazonaws.com/public/ceci-poster.jpg)
 
 ### TOMORROW
 or someday.
@@ -500,7 +492,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjkyNjM2OSwtOTI5ODg4OTUyLC0yMD
-U3NzY0MTUzLC0xODkwMjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2
-NjA4Ml19
+eyJoaXN0b3J5IjpbLTEwMDkzODQ4NDcsLTkyOTg4ODk1MiwtMj
+A1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1MTIwNDgsLTEwODkz
+NjYwODJdfQ==
 -->
