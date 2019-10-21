@@ -2,17 +2,15 @@
 # LL PROJECTS
 
 ## CLIENT PROJECTS
-Course-level projects (including things like Harvard Horizons, etc.) will be in the [official project list](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide)
+Course-level projects (including things like Harvard Horizons, etc.) will be in the [official project list](https://airtable.com/tblJEUtmO4tLtgqCj/viwkmyE0vVKfcav4U?blocks=hide). Some of the more important ones are:
 
-other projects
+## PEOPLE AND PODS
+There are many other projects.
     
--   LLGFs
+### LLGFs
     
-
--   Aaron:
-    
-
--   poetry, comics, writing
+* Aaron
+* poetry, comics, writing
     
 
 -   Anna:
@@ -651,6 +649,6 @@ other projects
 
 -   timelines and hero-shots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTM5MjI4MSwtMTM1MDY3MjU3NywxMj
-g4NjM5MzU5XX0=
+eyJoaXN0b3J5IjpbLTIwNzM2OTU2MDQsLTEzNTA2NzI1NzcsMT
+I4ODYzOTM1OV19
 -->
