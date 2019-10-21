@@ -6,22 +6,25 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 small things, biggish things, but no complex clusters of things (those are in projects).
 
 ### TODAY (20191021) 
-test
+now
+* pumpkin vis plus code printed
+* prompt for tonight
 
+now-ish
 * conceptual tools example
 * route for glossary 
 * more glossary samples
 * finish pumpkin poster
-- maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
-- need command line tool for s3 and flickr still uploads sooner rather than later.
+
+later
+* maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
+* need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
 	- s3 first?
-- update 2020 skills
-- [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
-- [InDesign Essential Training](https://www.linkedin.com/learning/indesign-cc-2019-essential-training/indesign-learn-the-fundang mac air charger home
-- need command line tool for s3 and flickr still uploads sooner rather than later.
-- automate the mentals?u=2194065) 2019
-- [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+* update 2020 skills
+* [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
+* InDesign Essential Training
+* [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
 - [Blender Tutorial]([https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065](https://www.linkedin.com/learning/blender-2-8-essential-training-2/multi-object-editing?u=2194065)
 -
 
@@ -497,7 +500,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTAwNzE0NywtOTI5ODg4OTUyLC0yMD
+eyJoaXN0b3J5IjpbLTM4NjkyNjM2OSwtOTI5ODg4OTUyLC0yMD
 U3NzY0MTUzLC0xODkwMjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2
 NjA4Ml19
 -->
