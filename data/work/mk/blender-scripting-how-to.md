@@ -27,7 +27,10 @@ One easy way to get started is to
 7. But where does the print statement itself show up? And where does error log happening if (as is inevitable) I accidentally mistype something? Right now, nowhere. To see the output, I actually need to run blender from a shell. So **close** Blender and open up Terminal, and enter the path to your Blender executable, which is probably `/Applications/Blender.app/Contents/MacOS/blender`. Hit enter, and you should open up Blender. If you now enter and run the script above, you **should** see the print statements (and, ultimately, any error messages) in your terminal.
 
 ## CLONING WITH LOOPS
-Blender doesn't come with a cloner like C4D's mograph module, but you can achieve even more complex things in your Python scripts! If you already know Python well, see if you can use that 
+Blender doesn't come with a cloner like C4D's mograph module, but you can achieve even more complex things in your Python scripts! If you already know Python well, see if you can use that `bpy.ops.mesh.primitive_cube_add()` method and then the `bpy.context.object.location` properties inside a couple of Python loops to generate a grid of cubes.
+If you are new to coding, not to worry, we'll lead you through it!
+```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTcyMDk5Ml19
+eyJoaXN0b3J5IjpbLTEzNTQ3NjgxMDNdfQ==
 -->
