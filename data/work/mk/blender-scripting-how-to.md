@@ -30,11 +30,22 @@ One easy way to get started is to
 Blender doesn't come with a cloner like C4D's mograph module, but you can achieve even more complex things in your Python scripts! If you already know Python well, see if you can use that `bpy.ops.mesh.primitive_cube_add()` method and then the `bpy.context.object.location` properties inside a couple of Python loops to generate a grid of cubes.
 If you are new to coding, not to worry, we'll lead you through it!
 ```
- c
+ import bpy
+
+print("starting up my script")
+
+
+for c in range(5):
+    for b in range(5):
+        for a in range(5):
+            bpy.ops.mesh.primitive_cube_add(size=1)
+            bpy.context.object.location[0] = a*1.1
+            bpy.context.object.location[1] = b*1.1
+            bpy.context.object.location[2] = c*1.1
 ```
 
 TODO: start with a and then nest it a couple of times, showing user how to build the grid axis by axis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NTg4OTIzLDE5MjEzNTY3MDQsLTEzNT
-Q3NjgxMDNdfQ==
+eyJoaXN0b3J5IjpbMTc3NDEzNDMxNiw5MDU1ODg5MjMsMTkyMT
+M1NjcwNCwtMTM1NDc2ODEwM119
 -->
