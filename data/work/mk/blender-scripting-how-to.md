@@ -11,21 +11,21 @@ One easy way to get started is to
 `. This is what's happening "under the hood" when you change properties in blender. What's cool is that you can simply copy this command, paste it into the python console, and use it as a template to manipulate your cube. Try changing the numerical value after the `=` sign.  You should be able to change your cube's size with code. Try changing the `[0]` to `[1]` or `[2]` to try to figure out what that's doing too.
 6. To accomplish more complex tasks, you won't type everything into the console. Instead, you'll write scripts in Blender's text editor (or, ultimately, in another text editor of your choice). So navigate to the text editor (which will be visible in the "scripting" tab), click the "New" button, and enter the following code:
 
-```
-import bpy
+     ```
+    import bpy
 
-print("starting up my script")
+    ("starting up my script")
 
-bpy.ops.mesh.primitive_cube_add(size=1)
-bpy.context.object.scale[0] = 5
-bpy.context.object.location[2] = .5
-bpy.ops.mesh.primitive_plane_add(size=10)
+    bpy.ops.mesh.primitive_cube_add(size=1)
+    bpy.context.object.scale[0] = 5
+    bpy.context.object.location[2] = .5
+    bpy.ops.mesh.primitive_plane_add(size=10)
 
-print("you should now have a 5x1x1 cube resting on a 10x10 plane")
-```
-If you now hit run, you should see just what that print statement suggests you'll see.
+    print("you should now have a 5x1x1 cube resting on a 10x10 plane")
+    ```
+    If you now hit run, you should see just what that print statement suggests you'll see.
 7. But where does the print statement itself show up? And where does error log happening if (as is inevitable) I accidentally mistype something? Right now, nowhere. To see the output, I actually need to run blender from a shell. So **close** Blender and open up Terminal, and enter the path to your Blender executable, which is probably `/Applications/Blender.app/Contents/MacOS/blender`. Hit enter, and you should open up Blender. If you now enter and run the script above, you **should** see the print statements (and, ultimately, any error messages) in your terminal.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjU4Mzg4Nl19
+eyJoaXN0b3J5IjpbLTExMTIzMTAwMzNdfQ==
 -->
