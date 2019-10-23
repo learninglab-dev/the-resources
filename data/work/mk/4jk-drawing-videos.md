@@ -6,7 +6,8 @@ All the following are from [this timeline of the very first LL sprint week!]([ht
 
 
 ## VIDEOS
-These 
+These are probably the most usable videos from that week.
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/138024004" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/138003598" width="640" height="360" frameborder="0" allowfullscreen></iframe>
@@ -21,5 +22,5 @@ These
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgxMDI1MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTUzMzg4NjldfQ==
 -->
