@@ -5,12 +5,22 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY (20191021) 
+### TODAY (20191023) 
 now
 * pumpkin vis plus code printed
 * prompt for e2
 * get blender running from command line on all basic LL macs
 * 
+
+### VTS DRAWING
+
+drawing links:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/138024004" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/138003598" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/139277499" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 now-ish
 * conceptual tools example
@@ -494,7 +504,7 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE0ODQzNzcsLTEwMDkzODQ4NDcsLT
-kyOTg4ODk1MiwtMjA1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1
-MTIwNDgsLTEwODkzNjYwODJdfQ==
+eyJoaXN0b3J5IjpbMTY5MzUxMDEzMywtMTA3MTQ4NDM3NywtMT
+AwOTM4NDg0NywtOTI5ODg4OTUyLC0yMDU3NzY0MTUzLC0xODkw
+MjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2NjA4Ml19
 -->
