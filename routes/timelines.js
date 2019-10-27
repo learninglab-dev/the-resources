@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 const Airtable = require('airtable');
 const airtableTools = require('../tools/airtable/airtable-tools');
-
+var twoWeeksGifs = require('../data/links/two-weeks-gifs');
 
 router.get('/', function(req, res, next){
   res.send('try /timelines/two-weeks for now')
@@ -29,7 +29,7 @@ router.get('/two-weeks', async function(req, res, next) {
   var timelineJson = {
     "title": {
         "media": {
-          "url": 'https://slackhq.com/admin-slacktips/wp-content/uploads/sites/2/2019/01/0_Custom-Slack-Emojis.png',
+          "url": randomElement(twoWeeksGifs),
           "caption": "timeline.",
         },
         "text": {
@@ -82,6 +82,11 @@ function makeTimelineEvents(airtableEvents){
       }
     }
   })
+}
+
+function randomElement(array){
+  var index = Math.floor(Math.random() * Math.floor(array.length));
+  return array[index];
 }
 
 module.exports = router;
