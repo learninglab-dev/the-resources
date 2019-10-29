@@ -13,14 +13,14 @@ Hand-animated explainer videos to general audience by Mario Gutierrez Rodriguez.
 <iframe src="https://player.vimeo.com/video/338308861" width="640" height="564" frameborder="0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 #### EXPOS20 
-"Video podcast" developed during the class section by 
+"Video podcast" developed during the class section by Alexa, Maegan, Shreyas.
 <iframe src="https://player.vimeo.com/video/367288510?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwODU0ODUsMTA3NzAzMTc0MiwtMj
-AzODAxNjcxMyw1ODkxNTMxMjYsLTY0OTE5MzU4MCw1Mzc4MDU0
-MTksLTE1ODYwODI1NDksLTQ4NTI1OTYxOSw2Nzc0MjAzMDgsLT
-E1MjQ2MDQ0NTIsNDM5MTI5NDczLC01ODAyMDMxMjFdfQ==
+eyJoaXN0b3J5IjpbNDU5ODUwMzE4LDEwNzcwMzE3NDIsLTIwMz
+gwMTY3MTMsNTg5MTUzMTI2LC02NDkxOTM1ODAsNTM3ODA1NDE5
+LC0xNTg2MDgyNTQ5LC00ODUyNTk2MTksNjc3NDIwMzA4LC0xNT
+I0NjA0NDUyLDQzOTEyOTQ3MywtNTgwMjAzMTIxXX0=
 -->
