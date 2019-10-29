@@ -5,7 +5,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY (20191023) 
+### TODAY (20191023)
 now
 * pumpkin vis plus code printed
 * prompt for e2
@@ -13,6 +13,8 @@ now
 
 	![connor makes light](https://ll-show.s3.amazonaws.com/public/uploads/connor-light_320.gif)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ldLJ3e8jQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### VTS DRAWING
@@ -33,7 +35,7 @@ drawing links:
 
 now-ish
 * conceptual tools example
-* route for glossary 
+* route for glossary
 * more glossary samples
 * finish pumpkin poster
 
@@ -54,7 +56,7 @@ or someday.
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later 
+- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later
 
 ### TOMORROW
 or someday.
@@ -296,7 +298,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 
 ### CODE TO ADD
-### CODE TO ADD\- 
+### CODE TO ADD\-
 
 
 
@@ -326,7 +328,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-- 
+-
 
 ### FRIDAY
 
