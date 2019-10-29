@@ -10,7 +10,10 @@ now
 * pumpkin vis plus code printed
 * prompt for e2
 * get blender running from command line on all basic LL macs
-* 
+
+	![connor makes light](https://ll-show.s3.amazonaws.com/public/uploads/connor-light_320.gif)
+
+
 
 ### VTS DRAWING
 
