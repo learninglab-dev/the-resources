@@ -8,7 +8,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nImC4aQ2tf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [**ESPP90e hand-animated explainer videos**]([https://www.dropbox.com/sh/fr5h2ciuwpiv7l6/AAAQJFze9VU0z-Lxc5_ZTPWea?dl=0&preview=005_ElizaAlston_Final.m4v](https://www.dropbox.com/sh/fr5h2ciuwpiv7l6/AAAQJFze9VU0z-Lxc5_ZTPWea?dl=0&preview=005_ElizaAlston_Final.m4v))
-![ESPP90e animation](image.jpg)
+![ESPP90e animation](https://drive.google.com/file/d/1slCRGlyfc6Oa-ckoBG_bPj1Gr77WPSWT/view?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MTI5NDczLC01ODAyMDMxMjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ2MDQ0NTIsNDM5MTI5NDczLC01OD
+AyMDMxMjFdfQ==
 -->
