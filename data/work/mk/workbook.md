@@ -14,7 +14,7 @@ now
 	![connor makes light](https://ll-show.s3.amazonaws.com/public/uploads/connor-light_320.gif)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ldLJ3e8jQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ldLJ3e8jQw" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### VTS DRAWING
@@ -34,8 +34,8 @@ drawing links:
 
 
 now-ish
-* conceptual tools example
-* route for glossary 
+* c
+ opt o ele ru for glossary 
 * more glossary samples
 * finish pumpkin poster
 
@@ -44,9 +44,11 @@ later
 * need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
 	- s3 first?
-* update 2020 skills
+ update 2020 skills
 * [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
-* InDesign Essential Training
+ InDesign Essential Training
+ [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+
 * [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
 
 
@@ -56,7 +58,7 @@ or someday.
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later 
+- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later
 
 ### TOMORROW
 or someday.
@@ -298,7 +300,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 
 ### CODE TO ADD
-### CODE TO ADD\- 
+### CODE TO ADD\-
 
 
 
@@ -328,7 +330,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
-- 
+-
 
 ### FRIDAY
 
@@ -515,8 +517,8 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODQyOTYwNSwxMzIzNzI4MjQwLC0xMD
-cxNDg0Mzc3LC0xMDA5Mzg0ODQ3LC05Mjk4ODg5NTIsLTIwNTc3
-NjQxNTMsLTE4OTAyMjMwODksMjczNTEyMDQ4LC0xMDg5MzY2MD
-gyXX0=
+eyJoaXN0b3J5IjpbMTUwOTU3NTg0NSwtMzQ4NDI5NjA1LDEzMj
+M3MjgyNDAsLTEwNzE0ODQzNzcsLTEwMDkzODQ4NDcsLTkyOTg4
+ODk1MiwtMjA1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1MTIwND
+gsLTEwODkzNjYwODJdfQ==
 -->
