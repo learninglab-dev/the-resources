@@ -67,10 +67,9 @@ It would be useful to continue to work with David and get feedback from him base
 For people excited about our project they are more than welcome to jump in! A good place to start would be getting familiar with the plug-ins we are using (currently exploring VIZZable) through video tutorials and the MAX/MSP/JITTER for music book.
     
 
-8.  Gallery
-    
-
--   We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
+**Gallery**
+We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODcwNzUzMywtNTYzMzEwMzYyXX0=
+eyJoaXN0b3J5IjpbNjkyOTc4NDgyLC0zNDg3MDc1MzMsLTU2Mz
+MxMDM2Ml19
 -->
