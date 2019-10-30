@@ -3,6 +3,8 @@
 # These are the 1s you 2 can d3!
 ## Nicole
 
+![Nicole's picture](https://files.slack.com/files-pri/T0HTW3H0V-FNSHXDFF1/5d4b7113.jpg?pub_secret=2931059e8f)
+
 **Description**
 I am going to try to make new labs for people who have never used d3 to learn how to use d3! Because I am taking 171, I have an idea of what a good curriculum order is, but being on the student side makes it pretty obvious where the downfalls are, especially if someone comes to class never having touched JS before (or, in my case, not having done so in ages)
 
@@ -22,5 +24,5 @@ Honestly, having someone go through the labs as I make them (preferably someone 
 I can display the code and display the running simulation :)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzkwMTg3NV19
+eyJoaXN0b3J5IjpbLTEyMjk4MTgwOTVdfQ==
 -->
