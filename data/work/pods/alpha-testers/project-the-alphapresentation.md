@@ -47,29 +47,24 @@ We have started research on the MAX/MSP/JITTER plug-ins that align with our proj
 
 	-   Creating presentation content
     
--   Packaging (Putting together one tool for all the media outputs)
+	-   Packaging (Putting together one tool for all the media outputs)
     
 
 -   Week 4 (November 21)
     
 
--   Finish packaging and presentation
+	-   Finish packaging and presentation
     
 
 -   Individual
     
 
--   Researching and trying out different plug-ins
-    
-
-  
-
-6.  Community
-    
-
--   It would be useful to continue to work with David and get feedback from him based on his experience with these plug-ins. It would also be helpful to hear from people working on learning experiences on what they would like to be able to launch from the Push.
-    
--   For people excited about our project they are more than welcome to jump in! A good place to start would be getting familiar with the plug-ins we are using (currently exploring VIZZable) through video tutorials and the MAX/MSP/JITTER for music book.
+	-   Researching and trying out different plug-ins
+ 
+ **Community**
+It would be useful to continue to work with David and get feedback from him based on his experience with these plug-ins. It would also be helpful to hear from people working on learning experiences on what they would like to be able to launch from the Push.
+ 
+For people excited about our project they are more than welcome to jump in! A good place to start would be getting familiar with the plug-ins we are using (currently exploring VIZZable) through video tutorials and the MAX/MSP/JITTER for music book.
     
 
 8.  Gallery
@@ -77,5 +72,5 @@ We have started research on the MAX/MSP/JITTER plug-ins that align with our proj
 
 -   We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTAxMDA4NywtNTYzMzEwMzYyXX0=
+eyJoaXN0b3J5IjpbLTM0ODcwNzUzMywtNTYzMzEwMzYyXX0=
 -->
