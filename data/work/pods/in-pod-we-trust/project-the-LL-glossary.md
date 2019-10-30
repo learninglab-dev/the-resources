@@ -21,20 +21,7 @@ This project will provide a toolkit for LLUF folks to quickly inform themselves 
 **Done**
 We have defined our Pod Project with Marlon. More to come.
 
-One glossary term is on the way: converting a YouTube video to an MP4!
-
-  
-
-4.  Doing
-    
-
-  
-
-This week, we’ll come up with a list of 30+ terms/tasks that we’d like to include, and then sort them into categories so that someone flipping through the binder can easily find what they are looking for. Starting next week, we’ll take high-quality photos of each item. Inevitably, some of the words that we originally come up with won’t end up in the final glossary, but we’ll try to be discerning about which ones are most useful! After editing the photos, the last step would be writing up the descriptions. By November 21st, we will have 20 terms glossaried (our goal will be to complete three terms a week each). We will then continue through December 19, adding as much as we can.
-
-  
-
-Starting Glossary:
+*Starting Glossary:*
 
 -   Warm and cool colors in a narrative
     
@@ -59,27 +46,19 @@ Starting Glossary:
 -   Lenses (ex. Portrait lenses)
     
 -   Editing (saturation, tint)
-    
 
-  
-  
-  
+One glossary term is on the way: converting a YouTube video to an MP4!
 
-5.  Community
-    
+**Doing**
+This week, we’ll come up with a list of 30+ terms/tasks that we’d like to include, and then sort them into categories so that someone flipping through the binder can easily find what they are looking for. Starting next week, we’ll take high-quality photos of each item. Inevitably, some of the words that we originally come up with won’t end up in the final glossary, but we’ll try to be discerning about which ones are most useful! After editing the photos, the last step would be writing up the descriptions. By November 21st, we will have 20 terms glossaried (our goal will be to complete three terms a week each). We will then continue through December 19, adding as much as we can.
 
-  
-
+**Community**
 It would be helpful if others suggested terms and objects for us to define as we move forward, whether those are items they were initially unsure about or words they think would benefit the community to make more widely understood.
 
   
 
-6.  Gallery
-    
-
-  
-
+**Gallery**
 A binder with an index and a reference page for all of the terms we have defined. A dictionary of the Learning Lab, if you will!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMTcxOTI2XX0=
+eyJoaXN0b3J5IjpbMTkyNTE5MDI0N119
 -->
