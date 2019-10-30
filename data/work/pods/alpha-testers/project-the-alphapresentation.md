@@ -13,16 +13,8 @@
 
 ### Brett
 
-1.  Title
-    
-
--   The Alphapresentation
-    
-
-3.  Description
-    
-
--   We are working with the Ableton Push to incorporate as many multimedia abilities as possible, such that the Push can launch video, audio, still images, documents, open links, even lighting cues all via MIDI inputs. The way we will cap off this project is to create our own fully immersive presentation that showcases all of the capabilities of the Push. We envision this to be a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience.
+**Description**
+We are working with the Ableton Push to incorporate as many multimedia abilities as possible, such that the Push can launch video, audio, still images, documents, open links, even lighting cues all via MIDI inputs. The way we will cap off this project is to create our own fully immersive presentation that showcases all of the capabilities of the Push. We envision this to be a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience.
     
 
 5.  Rationale
@@ -93,5 +85,5 @@
 
 -   We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NjI0MTAxXX0=
+eyJoaXN0b3J5IjpbLTU2MzMxMDM2Ml19
 -->
