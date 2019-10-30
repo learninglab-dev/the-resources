@@ -2,24 +2,23 @@
 
 # The LL Glossary
 
-  ## 
+  ## A Pod Project, featuring:
+### Elmer
+
+### Rachel
+
+### Joyce
   
 
-1.  Description
-    
-
+**Description**
 We will be working on the LLUF Glossary, defining terms and objects relevant to the learning lab and helping people identify their purpose and how to use them.
 
-2.  Rationale
-    
-
+**Rationale**
 This project will provide a toolkit for LLUF folks to quickly inform themselves about topics, processes, and objects they might use or come into contact with, helping smooth the work of the Learning Lab. The glossary will offer a reference or starting point for someone who is unfamiliar with the topic/physical space/Learning Lab in general.
 
   
 
-3.  Done
-    
-
+**Done**
 We have defined our Pod Project with Marlon. More to come.
 
 One glossary term is on the way: converting a YouTube video to an MP4!
@@ -82,5 +81,5 @@ It would be helpful if others suggested terms and objects for us to define as we
 
 A binder with an index and a reference page for all of the terms we have defined. A dictionary of the Learning Lab, if you will!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEyMzAxM119
+eyJoaXN0b3J5IjpbOTkxMTcxOTI2XX0=
 -->
