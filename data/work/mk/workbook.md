@@ -5,7 +5,7 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
-### TODAY (20191023)
+### TODAY (20191023) 
 now
 * pumpkin vis plus code printed
 * prompt for e2
@@ -35,7 +35,7 @@ drawing links:
 
 now-ish
 * conceptual tools example
-* route for glossary
+* route for glossary 
 * more glossary samples
 * finish pumpkin poster
 
@@ -56,7 +56,7 @@ or someday.
 - maybe think about splitting the `mk` **show (your work)** folder off from the rest, but serve it so as to make this distinction invisible.
 - slash for room availability
 - hello.learninglab.xyz
-- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later
+- teach jordan to style hello.learninglab.xyz tags of `og:image` sooner rather than later 
 
 ### TOMORROW
 or someday.
@@ -298,7 +298,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 - should we scrape folders for .md and even docs and then store these on the server? check for updates each 10 minutes or so? or more frequently? (obviously allow a force update)
 
 ### CODE TO ADD
-### CODE TO ADD\-
+### CODE TO ADD\- 
 
 
 
@@ -328,7 +328,7 @@ https://github.blog/2016-08-19-building-your-first-atom-plugin/
 20191009
 
 - Podcast event
--
+- 
 
 ### FRIDAY
 
@@ -515,7 +515,8 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzcyODI0MCwtMTA3MTQ4NDM3NywtMT
-AwOTM4NDg0NywtOTI5ODg4OTUyLC0yMDU3NzY0MTUzLC0xODkw
-MjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2NjA4Ml19
+eyJoaXN0b3J5IjpbLTM0ODQyOTYwNSwxMzIzNzI4MjQwLC0xMD
+cxNDg0Mzc3LC0xMDA5Mzg0ODQ3LC05Mjk4ODg5NTIsLTIwNTc3
+NjQxNTMsLTE4OTAyMjMwODksMjczNTEyMDQ4LC0xMDg5MzY2MD
+gyXX0=
 -->
