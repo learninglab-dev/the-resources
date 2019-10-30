@@ -9,9 +9,9 @@
 
 ## A Pod Project, featuring:
 
-### Sam
+**Sam:**
 
-### Emmy
+**Emmy:**
 
 **Brett:**
 ![](https://lh4.googleusercontent.com/VuXqLJWQ-fry2ndODLKEBNTd2MY7aT48WZsWWE7_8OuQnT2Hks6cAFTbu1Wv6pCO2sZ9ZVGMeU9YDF7hCTPhvkqsrP0VkT1Hle9llJyb6BPcbgtLYI4h5m38C8qssR2UASPK4wxr)
@@ -78,6 +78,6 @@ We would like to give a 5-10 minute long “lecture” on a fun topic that will 
 
 ![](https://lh6.googleusercontent.com/VV4g-J1vh8nwnAXmL_A1Oh5pi4KgeGKH2qkT_hJ0o73kqQnu805pdtL7JYo4-JUJBLZS_EdZGbq32wzNr1Q87CFRSkLE3BxrZO4VSGhSG4R_yQYBC1UV8PWKH-q3EoR1OZaEy_rS)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg3MTA0NTIsMzQyNzcwNjUyLDg0ND
-IzNzE4NywtMzQ4NzA3NTMzLC01NjMzMTAzNjJdfQ==
+eyJoaXN0b3J5IjpbMTkwMjA4NjQ5MiwzNDI3NzA2NTIsODQ0Mj
+M3MTg3LC0zNDg3MDc1MzMsLTU2MzMxMDM2Ml19
 -->
