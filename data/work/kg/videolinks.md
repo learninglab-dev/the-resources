@@ -17,15 +17,15 @@ Hand-animated explainer videos to general audience by Mario Gutierrez Rodriguez.
 <iframe src="https://player.vimeo.com/video/367288510?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 #### AFVS161
-A montage of a workshop for AFVS161 utilizing four overhead cameras in
+A montage of a workshop for AFVS161 utilizing four overhead cameras in the Learning Lab studio.
 <iframe src="https://player.vimeo.com/video/369666942?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzQxNDQ2LDE0NTM2MDE4MzQsNDU5OD
-UwMzE4LDEwNzcwMzE3NDIsLTIwMzgwMTY3MTMsNTg5MTUzMTI2
-LC02NDkxOTM1ODAsNTM3ODA1NDE5LC0xNTg2MDgyNTQ5LC00OD
-UyNTk2MTksNjc3NDIwMzA4LC0xNTI0NjA0NDUyLDQzOTEyOTQ3
-MywtNTgwMjAzMTIxXX0=
+eyJoaXN0b3J5IjpbMTk2ODk0OTkyMCwxNDUzNjAxODM0LDQ1OT
+g1MDMxOCwxMDc3MDMxNzQyLC0yMDM4MDE2NzEzLDU4OTE1MzEy
+NiwtNjQ5MTkzNTgwLDUzNzgwNTQxOSwtMTU4NjA4MjU0OSwtND
+g1MjU5NjE5LDY3NzQyMDMwOCwtMTUyNDYwNDQ1Miw0MzkxMjk0
+NzMsLTU4MDIwMzEyMV19
 -->
