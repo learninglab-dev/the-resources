@@ -136,7 +136,8 @@ There are many other projects.
 -   (Indiv projects)
     
 
--   Poddy in the USA
+-  
+- Poddy in the USA
 	- Brick Room development and manual?
 -:
     
@@ -542,7 +543,7 @@ There are many other projects.
 -   realityLab Unity assets 
     
 
--   KG
+-  - KG
 	- Mongo?
 	-    
 
@@ -588,8 +589,10 @@ There are many other projects.
 -   AN
 	-    
 
--   timelines and hero-shots
+-  fcpx standard assets
+- AN
+	- timelines and hero-shots
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA3NTUwNzNdfQ==
+eyJoaXN0b3J5IjpbMzMwODUyMjM3LC0xNzUwNzU1MDczXX0=
 -->
