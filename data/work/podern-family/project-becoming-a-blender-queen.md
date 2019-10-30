@@ -3,11 +3,9 @@
 
 # Becoming a Blender Queen
 
-##Juliana
+## Juliana
 
-I’m currently working on familiarizing myself with Blender. My immediate goal is to
-
-reach a point of proficiency that will allow me to start working on user tutorials. I was thinking of beginning with a simple screen capture video that walks folks through the program interface. This could be paired with a tutorial that focuses on constructing a single object (i.e. a donut and a cup of coffee). These tutorials would naturally progress into larger scenes with multiple different objects. I am particularly interested in character development through Blender, and I hope that as I learn how to do this, I will be able to produce instructive tutorials that reflect that skill acquisition.
+I’m currently working on familiarizing myself with Blender. My immediate goal is to reach a point of proficiency that will allow me to start working on user tutorials. I was thinking of beginning with a simple screen capture video that walks folks through the program interface. This could be paired with a tutorial that focuses on constructing a single object (i.e. a donut and a cup of coffee). These tutorials would naturally progress into larger scenes with multiple different objects. I am particularly interested in character development through Blender, and I hope that as I learn how to do this, I will be able to produce instructive tutorials that reflect that skill acquisition.
 
 2D Design/Animation in Blender 2.80 - I’m eventually aiming for something similar, but totally original!
 
@@ -23,5 +21,5 @@ on other programs will transfer to Blender specifically, but I would like to get
 
 Hopefully whatever character I design within the coming weeks will be what I present during gallery week.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU4MjcyNzNdfQ==
+eyJoaXN0b3J5IjpbMTUxODg5OTIzMV19
 -->
