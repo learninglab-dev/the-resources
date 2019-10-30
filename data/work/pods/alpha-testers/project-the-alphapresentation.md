@@ -16,44 +16,36 @@
 **Description**
 We are working with the Ableton Push to incorporate as many multimedia abilities as possible, such that the Push can launch video, audio, still images, documents, open links, even lighting cues all via MIDI inputs. The way we will cap off this project is to create our own fully immersive presentation that showcases all of the capabilities of the Push. We envision this to be a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience.
     
-
-5.  Rationale
+**Rationale**
+This will be an important contribution to student learning because it will facilitate transitions between media outlets in presentations and broaden the range of media available in creating a learning experience (workshops, presentations, etc.)
+    
+Trying out new media for generating academic ideas, helping us get better at something
     
 
--   This will be an important contribution to student learning because it will facilitate transitions between media outlets in presentations and broaden the range of media available in creating a learning experience (workshops, presentations, etc.)
+**Done**
+We have learned how to use the Push to create music tracks and explored how to use the interface through this process
     
--   Trying out new media for generating academic ideas, helping us get better at something
-    
+We have started research on the MAX/MSP/JITTER plug-ins that align with our project goals
 
-7.  Done
-    
-
--   We have learned how to use the Push to create music tracks and explored how to use the interface through this process
-    
--   We have started research on the MAX/MSP/JITTER plug-ins that align with our project goals
-    
-
-  
-
-5.  Doing
+**Doing**
     
 
 -   Week 1 (October 31)
     
 
--   Video
+	-   Video
     
 
 -   Week 2 (November 7)
     
 
--   Lighting
+	-   Lighting
     
 
 -   Week 3 (November 14)
     
 
--   Creating presentation content
+	-   Creating presentation content
     
 -   Packaging (Putting together one tool for all the media outputs)
     
@@ -85,5 +77,5 @@ We are working with the Ableton Push to incorporate as many multimedia abilities
 
 -   We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzMxMDM2Ml19
+eyJoaXN0b3J5IjpbMTQxMTAxMDA4NywtNTYzMzEwMzYyXX0=
 -->
