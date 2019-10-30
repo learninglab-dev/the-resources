@@ -14,6 +14,8 @@
 ### Emmy
 
 ### Brett
+![brett](https://files.slack.com/files-pri/T0HTW3H0V-FNBTG2AE5/alpha_testers_brett.jpg)
+
 
 **Description**
 We are working with the Ableton Push to incorporate as many multimedia abilities as possible, such that the Push can launch video, audio, still images, documents, open links, even lighting cues all via MIDI inputs. The way we will cap off this project is to create our own fully immersive presentation that showcases all of the capabilities of the Push. We envision this to be a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience.
@@ -74,6 +76,6 @@ We would like to give a 5-10 minute long “lecture” on a fun topic that will 
 
 ![](https://lh6.googleusercontent.com/VV4g-J1vh8nwnAXmL_A1Oh5pi4KgeGKH2qkT_hJ0o73kqQnu805pdtL7JYo4-JUJBLZS_EdZGbq32wzNr1Q87CFRSkLE3BxrZO4VSGhSG4R_yQYBC1UV8PWKH-q3EoR1OZaEy_rS)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MjM3MTg3LC0zNDg3MDc1MzMsLTU2Mz
-MxMDM2Ml19
+eyJoaXN0b3J5IjpbMzQyNzcwNjUyLDg0NDIzNzE4NywtMzQ4Nz
+A3NTMzLC01NjMzMTAzNjJdfQ==
 -->
