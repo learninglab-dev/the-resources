@@ -3,7 +3,7 @@
 
 # Mountain To Dew
 ## Kathryn
-
+![Kathryn](https://files.slack.com/files-pri/T0HTW3H0V-FND87ATJ7/5d4b7209.jpg?pub_secret=887808b93f)
 **Description**
 The goal of this project is to digitize the Learning Lab Mountain, a centralized dashboard for all projects, Scavenger Hunts, and other to-do’s, as well as skill-building exercises. Ideally, beyond basic functionality, we could also integrate some 3D modeling into making it a virtual experience and simulate as much actual climbing/overhead touring as possible. The more video-game-like the better!
 
@@ -47,5 +47,5 @@ Hopefully, the completed, interactive site!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTkzMjM2XX0=
+eyJoaXN0b3J5IjpbLTQ2MTkyNDg3N119
 -->
