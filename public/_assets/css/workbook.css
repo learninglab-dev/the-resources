@@ -1,40 +1,45 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap');
+
 body {
   padding: 50px;
-  font: 14px "Roboto Condensed", sans-serif;
-  width: 80%;
+  font: 1.3em "Roboto Condensed", sans-serif;
+  max-width: 640px;
   margin: auto;
+  background-color: #FCFCFC
+
 }
+
+
 
 a {
   color: #00B7FF;
 }
 
 img {
-  width: 100%;
+  width: 640px;
   display: block
 }
 
 h1 {
   /* font-family: "Avenir Next"; */
   font-weight: 900;
-  font-size: 50px;
+  font-size: 4em;
 }
 
 h2 {
   /* font-family: "Avenir Next"; */
   font-weight: 900;
-  font-size: 30px;
+  font-size: 2.5em;
 }
 
 h3 {
   /* font-family: "Avenir Next"; */
   font-weight: 900;
-  font-size: 20px;
+  font-size: 2em;
 }
 
 h4 {
   /* font-family: "Avenir Next"; */
   font-weight: 900;
-  font-size: 20px;
+  font-size: 1em;
 }
