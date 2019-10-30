@@ -5,7 +5,13 @@
 
 ![](https://lh6.googleusercontent.com/VV4g-J1vh8nwnAXmL_A1Oh5pi4KgeGKH2qkT_hJ0o73kqQnu805pdtL7JYo4-JUJBLZS_EdZGbq32wzNr1Q87CFRSkLE3BxrZO4VSGhSG4R_yQYBC1UV8PWKH-q3EoR1OZaEy_rS)
 
+## A Pod Project, featuring:
 
+### Sam
+
+### Emmy
+
+### Brett
 
 1.  Title
     
@@ -87,5 +93,5 @@
 
 -   We would like to give a 5-10 minute long “lecture” on a fun topic that will include interactive elements for the audience using the Push as our final deliverable, and this can also be used during the showcase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjAxMDE1NF19
+eyJoaXN0b3J5IjpbODg2NjI0MTAxXX0=
 -->
