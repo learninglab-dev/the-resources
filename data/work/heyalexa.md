@@ -20,8 +20,8 @@
 
 ## Voiceflow
 
-Voiceflow is a
+Slack Jad for log-in details.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzMwNjM4NCwtMTQwMDA2MzI4NywtNT
-MyNDU5MDcxLC04MDU4MTkxNjJdfQ==
+eyJoaXN0b3J5IjpbMTEzMDAwMjU0OSwxNTIzMzA2Mzg0LC0xND
+AwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgxOTE2Ml19
 -->
