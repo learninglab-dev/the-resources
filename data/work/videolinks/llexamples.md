@@ -16,11 +16,12 @@ Hand-animated explainer videos to general audience by Mario Gutierrez Rodriguez.
 "Video podcast" developed during the class section by Alexa, Maegan, Shreyas.
 <iframe src="https://player.vimeo.com/video/367288510?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+#### AFVS161
+A montage of a workshop for AFVS161 utilizing four overhead cameras in the Learning Lab studio.
+<iframe src="https://player.vimeo.com/video/369666942?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5ODUwMzE4LDEwNzcwMzE3NDIsLTIwMz
-gwMTY3MTMsNTg5MTUzMTI2LC02NDkxOTM1ODAsNTM3ODA1NDE5
-LC0xNTg2MDgyNTQ5LC00ODUyNTk2MTksNjc3NDIwMzA4LC0xNT
-I0NjA0NDUyLDQzOTEyOTQ3MywtNTgwMjAzMTIxXX0=
+eyJoaXN0b3J5IjpbMTk2ODk0OTkyMF19
 -->

@@ -21,7 +21,7 @@ now
 	![connor makes light](https://ll-show.s3.amazonaws.com/public/uploads/connor-light_320.gif)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ldLJ3e8jQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ldLJ3e8jQw" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### VTS DRAWING
@@ -41,8 +41,8 @@ drawing links:
 
 
 now-ish
-* conceptual tools example
-* route for glossary
+* c
+ opt o ele ru for glossary
 * more glossary samples
 * finish pumpkin poster
 
@@ -51,9 +51,11 @@ later
 * need command line tool for s3 and flickr still uploads sooner rather than later.
 	- flickr sdk on npm
 	- s3 first?
-* update 2020 skills
+ update 2020 skills
 * [designing with grids in InDesign](https://www.linkedin.com/learning/designing-with-grids-in-indesign-2/creating-better-designs-with-grids?u=2194065) on Lynda
-* InDesign Essential Training
+ InDesign Essential Training
+ [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
+
 * [InDesign Elements of Layout](https://www.linkedin.com/learning/indesign-elements-of-a-layout/welcome?u=2194065)
 
 
@@ -522,7 +524,8 @@ Is thinking of working on UX/UI.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzcyODI0MCwtMTA3MTQ4NDM3NywtMT
-AwOTM4NDg0NywtOTI5ODg4OTUyLC0yMDU3NzY0MTUzLC0xODkw
-MjIzMDg5LDI3MzUxMjA0OCwtMTA4OTM2NjA4Ml19
+eyJoaXN0b3J5IjpbMTUwOTU3NTg0NSwtMzQ4NDI5NjA1LDEzMj
+M3MjgyNDAsLTEwNzE0ODQzNzcsLTEwMDkzODQ4NDcsLTkyOTg4
+ODk1MiwtMjA1Nzc2NDE1MywtMTg5MDIyMzA4OSwyNzM1MTIwND
+gsLTEwODkzNjYwODJdfQ==
 -->
