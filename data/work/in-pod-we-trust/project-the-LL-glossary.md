@@ -5,11 +5,13 @@
 ## A Pod Project, featuring:
 
 ### Elmer
+![Elmer](https://ll-show.s3.amazonaws.com/public/pods/pods/inpodwetrust/elmer-portrait/Elmer.jpg)
 
 ### Rachel
+![Rachel](https://ll-show.s3.amazonaws.com/public/pods/inpodwetrust/rachel-portrait/RachelTropp.jpg)
 
 ### Joyce
-
+![Joyce](https://ll-show.s3.amazonaws.com/public/pods/inpodwetrust/joyce-portrait/Joyce_Lu.jpg)
 
 **Description**
 
