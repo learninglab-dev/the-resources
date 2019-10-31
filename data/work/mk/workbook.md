@@ -5,6 +5,13 @@ mk's daily tasks (going with a [Show Your Work](https://www.amazon.com/Show-Your
 ## TASKS
 small things, biggish things, but no complex clusters of things (those are in projects).
 
+[sci-fi landscape with nodes](https://www.youtube.com/watch?v=NOsImPUo1Vk)
+
+[creating nebulae and rendering with Eevee](https://www.youtube.com/watch?v=kYv3ZIlb_sU)
+
+[colors in Blender](https://www.youtube.com/watch?v=-ldLJ3e8jQw&feature=youtu.be)
+
+
 ### TODAY (20191023)
 now
 * pumpkin vis plus code printed
