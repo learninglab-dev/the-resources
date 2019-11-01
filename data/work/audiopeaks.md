@@ -36,7 +36,7 @@ Useful functions:
 
 Potential process:
 1. extract the audio file from the video file
-2. get the stats for the audio file
+2. get the stats for the audio file (with timestamps)
 3. isolate the moments with maximum amplitude (or close to it?)
 	- we'll need to write a new command line program for this
 4. store those seconds & trim the video file using those seconds
@@ -51,10 +51,10 @@ Potential process:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDQ3NDk0NiwyMDMwODMyNTcxLDExOD
-AzNTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEz
-MSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Nj
-k3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0x
-OTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NT
-UxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
+eyJoaXN0b3J5IjpbLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMT
+gwMzUyNDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkx
+MzEsMjA5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOT
+Y5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwt
+MTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwND
+U1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
 -->
