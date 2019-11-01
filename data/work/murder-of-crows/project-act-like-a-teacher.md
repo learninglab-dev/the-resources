@@ -1,6 +1,7 @@
 # Act Like a Teacher
 
 ## Laura
+![some rando image](
 
 **Description**
 
@@ -48,3 +49,6 @@ Definitely people can pick up with helping me compile excerpts or helping me lea
 **Gallery**
 
 I’d like to make a summary handout using inDesign or Adobe Illustrator, neither of which I have all too much experience with, so it will give me a chance to get familiar with one (or both!) of these new mediums.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI0NDkyNjIyN119
+-->
