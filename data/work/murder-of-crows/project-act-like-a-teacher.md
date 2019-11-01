@@ -1,7 +1,7 @@
 # Act Like a Teacher
 
 ## Laura
-![some rando image](<a data-flickr-embed="true" href="https://www.flickr.com/photos/boklearninglab/42596921961/in/photolist-27Ws1Zt-27RY1wf-26QXY2b-26ySmwF-27U9nqB-259vjX7-26NwYQN-27U9mQZ-26NwXQm-KLbcrs" title="20180504_007_LLUFReflections_LauraAudrey_C300a_001_14540601.jpg"><img src="https://live.staticflickr.com/1745/42596921961_495c2a6123_k.jpg" width="640" height="" alt="20180504_007_LLUFReflections_LauraAudrey_C300a_001_14540601.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/boklearninglab/42596921961/in/photolist-27Ws1Zt-27RY1wf-26QXY2b-26ySmwF-27U9nqB-259vjX7-26NwYQN-27U9mQZ-26NwXQm-KLbcrs" title="20180504_007_LLUFReflections_LauraAudrey_C300a_001_14540601.jpg"><img src="https://live.staticflickr.com/1745/42596921961_495c2a6123_k.jpg" width="640" height="" alt="20180504_007_LLUFReflections_LauraAudrey_C300a_001_14540601.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Description**
 
@@ -50,5 +50,5 @@ Definitely people can pick up with helping me compile excerpts or helping me lea
 
 I’d like to make a summary handout using inDesign or Adobe Illustrator, neither of which I have all too much experience with, so it will give me a chance to get familiar with one (or both!) of these new mediums.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE2ODc0MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc2MjIzNDVdfQ==
 -->
