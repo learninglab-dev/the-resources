@@ -27,11 +27,12 @@ Voiceflow is a startup that provides an easy-to-use platform for building voice 
  - After the Airtable steps, we created our Voiceflow Test Project. Note: the article uses an older version of Voiceflow, so we had to adjust a few of our steps. 
 	 - Instead of dragging the "API" block, we had to drag the "Integrate" block, and then select "Custom API".
 	 - The following steps, like adding URL endpoint and Result Variable Mapping, are intuitive since they appear in the same order they do in the tutorial. 
+ - We followed the demo through to step 5 and then uploaded the skill to Alexa. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTk0Njc1MSwxNTMzNTE4OTg5LDE5Mj
-c1ODY0NDAsLTY5MzA1OTExLDE0MDc1NjkyNDYsMzU3OTk0MzA0
-LC00Nzk4NjExNzAsLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNT
-IzMzA2Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgx
-OTE2Ml19
+eyJoaXN0b3J5IjpbLTEyMDM3OTYwOSwxNDQxOTQ2NzUxLDE1Mz
+M1MTg5ODksMTkyNzU4NjQ0MCwtNjkzMDU5MTEsMTQwNzU2OTI0
+NiwzNTc5OTQzMDQsLTQ3OTg2MTE3MCwtMTEzMjk0NDA5OCwxMT
+MwMDAyNTQ5LDE1MjMzMDYzODQsLTE0MDAwNjMyODcsLTUzMjQ1
+OTA3MSwtODA1ODE5MTYyXX0=
 -->
