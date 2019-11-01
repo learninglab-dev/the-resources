@@ -23,13 +23,15 @@
 Voiceflow is a startup that provides an easy-to-use platform for building voice applications for Alexa and Google Assistant. It build-your-uses two basic block types - "speak" and "choice" which are organized through on-screen drag-and-drop. It also provides more advanced features, and allows enterprise customers to integrate APIs into the voice app. 
 
 *What We Did*
- - We've created our own Airtable account to populate with demo records. We follow steps 1-3 in the "Using Airtable with your Alexa Skill" tutorial. 
+ - We've created our own Airtable account to populate with demo records. We follow steps 1-3 in the "Using Airtable with your Alexa Skill" [tutorial](https://learn.voiceflow.com/en/articles/2521183-using-airtable-with-your-alexa-skill). 
  - After the Airtable steps, we created our Voiceflow Test Project. Note: the article uses an older version of Voiceflow, so we had to adjust a few of our steps. 
 	 - Instead of dragging the "API" block, we had to drag the "Integrate" block, and then select "Custom API".
+	 - The following steps, like adding URL endpoint and Result Variable Mapping, are intuitive since they appear in the same order they do in the tutorial. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzUxODk4OSwxOTI3NTg2NDQwLC02OT
-MwNTkxMSwxNDA3NTY5MjQ2LDM1Nzk5NDMwNCwtNDc5ODYxMTcw
-LC0xMTMyOTQ0MDk4LDExMzAwMDI1NDksMTUyMzMwNjM4NCwtMT
-QwMDA2MzI4NywtNTMyNDU5MDcxLC04MDU4MTkxNjJdfQ==
+eyJoaXN0b3J5IjpbMTQ0MTk0Njc1MSwxNTMzNTE4OTg5LDE5Mj
+c1ODY0NDAsLTY5MzA1OTExLDE0MDc1NjkyNDYsMzU3OTk0MzA0
+LC00Nzk4NjExNzAsLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNT
+IzMzA2Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgx
+OTE2Ml19
 -->
