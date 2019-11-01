@@ -24,11 +24,11 @@ Voiceflow is a startup that provides an easy-to-use platform for building voice 
 
 *What We Did*
  - We've created our own Airtable account to populate with demo records. We follow steps 1-3 in the "Using Airtable with your Alexa Skill" tutorial. 
- - After the Airtable steps, we created our Voiceflow Test Project. 
+ - After the Airtable steps, we created our Voiceflow Test Project. Note: the article uses an older version of Voiceflow, so we had to adjust a few of our steps. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzA1OTExLDE0MDc1NjkyNDYsMzU3OT
-k0MzA0LC00Nzk4NjExNzAsLTExMzI5NDQwOTgsMTEzMDAwMjU0
-OSwxNTIzMzA2Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLT
-gwNTgxOTE2Ml19
+eyJoaXN0b3J5IjpbMTkyNzU4NjQ0MCwtNjkzMDU5MTEsMTQwNz
+U2OTI0NiwzNTc5OTQzMDQsLTQ3OTg2MTE3MCwtMTEzMjk0NDA5
+OCwxMTMwMDAyNTQ5LDE1MjMzMDYzODQsLTE0MDAwNjMyODcsLT
+UzMjQ1OTA3MSwtODA1ODE5MTYyXX0=
 -->
