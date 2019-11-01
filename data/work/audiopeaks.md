@@ -37,6 +37,7 @@ Useful functions:
 Potential process:
 1. extract the audio file from the video file
 2. get the stats for the audio file (with timestamps)
+	- [https://stackoverflow.com/questions/38056970/ffmpeg-txt-from-audio-levels](https://stackoverflow.com/questions/38056970/ffmpeg-txt-from-audio-levels)
 3. isolate the moments with maximum amplitude (or close to it?)
 	- we'll need to write a new command line program for this
 4. store those seconds & trim the video file using those seconds
@@ -51,10 +52,11 @@ Potential process:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMT
-gwMzUyNDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkx
-MzEsMjA5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOT
-Y5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwt
-MTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwND
-U1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbLTkyMDY4OTQyNiwtMTc3NDYwODA0MCwyMD
+MwODMyNTcxLDExODAzNTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4
+MSwtMTE1ODQwOTEzMSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4OD
+MzMzU5OTIsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTks
+NDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OT
+g0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0
+Ml19
 -->
