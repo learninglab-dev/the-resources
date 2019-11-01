@@ -44,7 +44,60 @@ Potential process:
 4. store those seconds & trim the video file using those seconds
 5. make that trimmed video file into a GIF
 6. upload that GIF to the Express app
+` var cp = require("child_process");
 
+function mainFunction() {
+  console.log("the main function is working!!");
+  var output = cp.spawnSync('ffprobe', [
+    '-f', 'lavfi',
+    '-i', 'amovie=/Users/llf/Desktop/Development/gif-machine/laugh.mp3,astats=metadata=1:reset=1',
+    '-show_entries', 'frame=pkt_pts_time:frame_tags=lavfi.astats.Overall.RMS_level',
+    '-of',  'csv=p=0',
+    '-print_format', 'json',
+    '-show_format', '-show_streams',
+  ], { encoding : 'utf8' }
+).stdout;
+   var parsedOutput = JSON.parse(output);
+   var data = JSON.stringify(parsedOutput.frames, null, 4);
+
+   // console.log("output is\n", data);
+   var fs = require('fs');
+   fs.writeFile('audiodata.json', data, 'utf8',  function (err) {
+     if (err) {
+          console.log("An error occured while writing JSON Object to File.");
+          return console.log(err);
+        }
+
+        console.log("JSON file has been saved.");
+
+
+
+      });
+
+// create a var of a low volume #, loop through all of the timestamps to see if they're greater than it, store those and then find the max of those
+
+
+}
+
+module.exports = mainFunction;
+
+// parsedOutput.sort(
+//   function(a, b) {
+//     return parseFloat(b['lavfi.astats.Overall.RMS_level']) - parseFloat(a['lavfi.astats.Overall.RMS_level']);
+//   }
+// ) [0]['pkt_pts_time']
+// function getMax(arr, prop) {
+//     var max;
+//     for (var i=0 ; i<arr.length ; i++) {
+//         if (max == null || parseInt(arr[i][tags][prop]) > parseInt(max[tags][prop]))
+//             max = arr[i];
+//     }
+//     return max;
+//     console.log("max" + max);
+// }
+//
+// var maxRms = getMax(parsedOutput, "lavfi.astats.Overall.RMS_level");
+// console.log("peak" + maxRms.pkt_pts_time); `
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
 **Contributors**
@@ -53,11 +106,11 @@ Potential process:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkxMDEwMzAsLTkyMDY4OTQyNiwtMT
-c3NDYwODA0MCwyMDMwODMyNTcxLDExODAzNTI0MTksMjkzMDYz
-NDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMSwyMDk2ODY5ODQ2LD
-M2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OSw2NzM5MTAy
-MjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2ND
-AxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4
-MF19
+eyJoaXN0b3J5IjpbLTEyOTkxODY0NTMsLTEyNTkxMDEwMzAsLT
+kyMDY4OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNTcxLDExODAz
+NTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMS
+wyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3
+Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOT
+U5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUx
+NTJdfQ==
 -->
