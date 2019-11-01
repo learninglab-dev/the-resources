@@ -38,6 +38,7 @@ Potential process:
 1. extract the audio file from the video file
 2. get the stats for the audio file (with timestamps)
 	- [https://stackoverflow.com/questions/38056970/ffmpeg-txt-from-audio-levels](https://stackoverflow.com/questions/38056970/ffmpeg-txt-from-audio-levels)
+	- ffprobe -f lavfi -i amovie=laugh.mp3,astats=metadata=1:reset=1 -show_entries frame=pkt_pts_time:frame_tags=lavfi.astats.Overall.RMS_level -of csv=p=0 1> log1.txt
 3. isolate the moments with maximum amplitude (or close to it?)
 	- we'll need to write a new command line program for this
 4. store those seconds & trim the video file using those seconds
@@ -52,11 +53,11 @@ Potential process:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDY4OTQyNiwtMTc3NDYwODA0MCwyMD
-MwODMyNTcxLDExODAzNTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4
-MSwtMTE1ODQwOTEzMSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4OD
-MzMzU5OTIsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTks
-NDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OT
-g0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0
-Ml19
+eyJoaXN0b3J5IjpbMTY2ODc2MDUzOCwtOTIwNjg5NDI2LC0xNz
+c0NjA4MDQwLDIwMzA4MzI1NzEsMTE4MDM1MjQxOSwyOTMwNjM0
+OTYsOTY1OTcwMDgxLC0xMTU4NDA5MTMxLDIwOTY4Njk4NDYsMz
+Y3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OTcyODY5LDY3MzkxMDIy
+NCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NTgzNTIsMjY0MD
+E2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1MiwtMjY1MDE1Mjgw
+XX0=
 -->
