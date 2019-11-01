@@ -97,7 +97,7 @@ module.exports = mainFunction;
 // }
 //
 // var maxRms = getMax(parsedOutput, "lavfi.astats.Overall.RMS_level");
-// console.log("peak" + maxRms.pkt_pts_time); `
+// console.log("peak" + maxRms.pkt_pts_time); ` 
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
@@ -107,11 +107,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzODc3NzIxLC0xMjU5MTAxMDMwLC05Mj
-A2ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUy
-NDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkxMzEsMj
-A5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4
-NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OT
-Y1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUy
-XX0=
+eyJoaXN0b3J5IjpbLTE4MTcyODI0MTcsMzgzODc3NzIxLC0xMj
+U5MTAxMDMwLC05MjA2ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgz
+MjU3MSwxMTgwMzUyNDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLT
+ExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1
+OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3OD
+AxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgx
+MTddfQ==
 -->
