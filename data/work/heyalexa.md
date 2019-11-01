@@ -20,8 +20,9 @@
 
 ## Voiceflow
 
-Slack Jad for log-in details.
+Voiceflow is an easy-to-use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDAwMjU0OSwxNTIzMzA2Mzg0LC0xND
-AwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgxOTE2Ml19
+eyJoaXN0b3J5IjpbLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNT
+IzMzA2Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgx
+OTE2Ml19
 -->
