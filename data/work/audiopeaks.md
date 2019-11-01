@@ -45,79 +45,16 @@ Potential process:
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
-` const Ffmpeg = require('fluent-ffmpeg');
-
-const LOUD_THRESHOLD = -23;
-
-var audio = new Sound ("audio.mp3", 100, true);
-
-getMeanVolume(audio, function (meanVolume){
-  if(meanVolume >= LOUD_THRESHOLD) {
-    console.log("this is loud!");
-  }else{
-    console.log("this is not loud");
-  }
-  }
-);
-
-function getMeanVolume(audio, callback){
-  new Ffmpeg({ source = audio })
-    .withAudioFilter('volumedetect')
-    .addOption('-f','null')
-    .addOption('-t', '30')
-    .noVideo()
-    .on('start', function(ffmpegCommand){
-      console.log('output the ffmpeg command', ffmpegCommand);
-    })
-    .on(‘end’, function(stdout, stderr){
-
-      // find the mean_volume in the output
-
-      let meanVolumeRegex = stderr.match(/mean_volume:\s(-?[0–9]\d*(.\d+)?)/);
-
-      // return the mean volume
-
-      if(meanVolumeRegex){
-
-      let meanVolume = parseFloat(meanVolumeRegex[1]);
-
-      return callback(meanVolume);
-
-      }
-
-      // if the stream is not available
-
-      if(stderr.match(/Server returned 404 Not Found/)){
-
-      return callback(false);
-
-      }
-
-      })
-
-      .saveToFile(‘/dev/null’);
-
-      }
-} `
-
-from  [https://medium.com/@SteveBarbera/volume-detection-for-a-audio-stream-dbe727085783](https://medium.com/@SteveBarbera/volume-detection-for-a-audio-stream-dbe727085783)
-
-html:
-
-` <script src="peak.js"></script>
-PEAK!
-<button type="button" name="button" onclick="getMeanVolume()">Click for sound analysis!</button> `
-
 **Contributors**
 1. Jad
 2. Sophie
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDgzMjU3MSwxMTgwMzUyNDE5LDI5Mz
-A2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkxMzEsMjA5Njg2OTg0
-NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOT
-EwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1Miwy
-NjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMT
-UyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbLTI4MDQ3NDk0NiwyMDMwODMyNTcxLDExOD
+AzNTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEz
+MSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Nj
+k3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0x
+OTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NT
+UxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
 -->
