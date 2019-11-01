@@ -12,6 +12,10 @@
 
 ### Joyce
 ![Joyce](https://ll-show.s3.amazonaws.com/public/pods/inpodwetrust/joyce-portrait/Joyce_Lu.jpg)
+### Rachel
+
+### Joyce
+
 
 **Description**
 
@@ -68,3 +72,6 @@ It would be helpful if others suggested terms and objects for us to define as we
 **Gallery**
 
 A binder with an index and a reference page for all of the terms we have defined. A dictionary of the Learning Lab, if you will!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAzMDA3NTEzNl19
+-->
