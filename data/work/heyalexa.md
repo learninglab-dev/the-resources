@@ -28,11 +28,12 @@ Voiceflow is a startup that provides an easy-to-use platform for building voice 
 	 - Instead of dragging the "API" block, we had to drag the "Integrate" block, and then select "Custom API".
 	 - The following steps, like adding URL endpoint and Result Variable Mapping, are intuitive since they appear in the same order they do in the tutorial. 
  - We followed the demo through to step 5 and then uploaded the skill to Alexa. 
+ - In order to customize your invocation word on Amazon, you need to save the model and then rebuild it. It takes a few seconds to upload to Alexa, so be patient!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM3OTYwOSwxNDQxOTQ2NzUxLDE1Mz
-M1MTg5ODksMTkyNzU4NjQ0MCwtNjkzMDU5MTEsMTQwNzU2OTI0
-NiwzNTc5OTQzMDQsLTQ3OTg2MTE3MCwtMTEzMjk0NDA5OCwxMT
-MwMDAyNTQ5LDE1MjMzMDYzODQsLTE0MDAwNjMyODcsLTUzMjQ1
-OTA3MSwtODA1ODE5MTYyXX0=
+eyJoaXN0b3J5IjpbMTQ5OTQ2MzA3MiwtMTIwMzc5NjA5LDE0ND
+E5NDY3NTEsMTUzMzUxODk4OSwxOTI3NTg2NDQwLC02OTMwNTkx
+MSwxNDA3NTY5MjQ2LDM1Nzk5NDMwNCwtNDc5ODYxMTcwLC0xMT
+MyOTQ0MDk4LDExMzAwMDI1NDksMTUyMzMwNjM4NCwtMTQwMDA2
+MzI4NywtNTMyNDU5MDcxLC04MDU4MTkxNjJdfQ==
 -->
