@@ -61,14 +61,14 @@ For anyone excited about jumping in on this project,  visit this link and try to
 
 We would like to see if Alexa is being responsive to different phrasing as well as to different accents/voices.
 
-For anyone is excited to pick up/about jumping in ton theis project, they can download the latest spread draft we have on our Pod_Podashians folder and edit it. Alternatively, they could create new template examples that visit this link and try to summarize your takeaways. This article is pretty detailed and we cwould collaborate on later. Finally, they could add to our Pinterest board or slack us Pinterest examples that we could model for future designs.love it if someone could help provide us with their insights on such a project!
+For anyone is excited to pick up/about one is excited to pick up/jumping in ton theis project, they can download the latest spread draft we have on our Pod_Podashians folder and edit it. Alternatively, they could create new template examples that visit this link and try to summarize your takeaways. This article is pretty detailed and we cwould collaborate on later. Finally, they could add to our Pinterest board or slack us Pinterest examples that we could model for future designs.love it if someone could help provide us with their insights on such a project!
 
 
 **Gallery**
 
 - We will hand out and display BOK STICKERS after printing and cutting out some existing designs,
-- In addition, we will also be displaycan easily demonstrate the commands we’ve created with Alexa by having the logo procesr right there. Since the commands we’vre begun with Snow as a precursor for Bok SWAG (sweaters etc.) next semester in order to show what we’ve been doing but to possibly also get feedback.
+- In addition, we will also be displaycan easily demonstrate the commands we’ve created with Alexa by having the logo procesr right there. Since the commanding the logo process we’vre begun with Snow as a precursor for Bok SWAG (sweaters etc.) next semester in order to show what we’ve been doing but to possibly also get feedback.
 - Display spreads from our Yearbook up until this point, which according to the current timeline should include our spreads of PODProfiles (of at least our Pod) and a Best of Slack Emoji infographic, and sPODlights (spotlights on projects/labs  LLUFs have done thus far) uilding are directly affecting the way the Learning Lab runs, it will be helpful showing visitors in the gallery firsthand how Alexa can be a helpful member of the space. Practically, we might have to demonstrate this in the fireplace room or elsewhere, so that the background noise is minimal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTQ3MDQyM119
+eyJoaXN0b3J5IjpbMTA1NjM4MTc0MywxMzY1NDcwNDIzXX0=
 -->
