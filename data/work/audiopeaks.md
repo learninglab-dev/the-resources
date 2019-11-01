@@ -98,6 +98,7 @@ module.exports = mainFunction;
 //
 // var maxRms = getMax(parsedOutput, "lavfi.astats.Overall.RMS_level");
 // console.log("peak" + maxRms.pkt_pts_time); `
+
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
 **Contributors**
@@ -106,11 +107,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkxODY0NTMsLTEyNTkxMDEwMzAsLT
-kyMDY4OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNTcxLDExODAz
-NTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMS
-wyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3
-Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOT
-U5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUx
-NTJdfQ==
+eyJoaXN0b3J5IjpbMzgzODc3NzIxLC0xMjU5MTAxMDMwLC05Mj
+A2ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUy
+NDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkxMzEsMj
+A5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4
+NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OT
+Y1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUy
+XX0=
 -->
