@@ -20,9 +20,9 @@
 
 ## Voiceflow
 
-Voiceflow is an easy-to-use 
+Voiceflow is a startup that provides an easy-to-use platform for building voice applications for Alexa and Google Assistant. It had started as a build-your-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNT
-IzMzA2Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgx
-OTE2Ml19
+eyJoaXN0b3J5IjpbLTkzMzEyOTQ5LC0xMTMyOTQ0MDk4LDExMz
+AwMDI1NDksMTUyMzMwNjM4NCwtMTQwMDA2MzI4NywtNTMyNDU5
+MDcxLC04MDU4MTkxNjJdfQ==
 -->
