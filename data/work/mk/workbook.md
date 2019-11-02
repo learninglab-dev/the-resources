@@ -11,6 +11,7 @@ small things, biggish things, but no complex clusters of things (those are in pr
 
 [colors in Blender](https://www.youtube.com/watch?v=-ldLJ3e8jQw&feature=youtu.be)
 
+[blender materials](https://www.youtube.com/watch?v=LpDbJduDibE&feature=youtu.be)
 
 ### TODAY (20191023)
 now
