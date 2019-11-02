@@ -11,7 +11,8 @@
 
 ![cat tacking toddler](https://media.giphy.com/media/uTCAwWNtz7U2c/giphy.gif)
 
+![cat jumps on bean bag](https://media.giphy.com/media/3xz2Bsp47l53EqFAwo/giphy.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTIzMzA0NCwyMDk5Njk2ODc4XX0=
+eyJoaXN0b3J5IjpbLTE1NjU5MTc1MzUsMjA5OTY5Njg3OF19
 -->
