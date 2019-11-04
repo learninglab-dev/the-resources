@@ -5,8 +5,8 @@ body {
   font: .9em "Roboto Condensed", sans-serif;
   max-width: 640px;
   margin: auto;
-  background-color: #FCFCFC
-
+  background-color: #FCFCFC;
+  margin-bottom: 0;
 }
 
 
