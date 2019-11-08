@@ -1,4 +1,4 @@
-# FOLLOWING LAUREN'S PATH 
+# FOLLOWING LAUREN'S PATH
 for the spring and the future beyond the spring
 
 ## THE TOOLS
@@ -21,6 +21,13 @@ Gatsby [main tutorial](https://www.gatsbyjs.org/tutorial/).
 The Gatsby site's [page](https://www.gatsbyjs.org/tutorial/part-zero/) on setting up your development environment is useful even not for Gatsby.
 
 [Why Gatsby uses GraphQl](https://www.gatsbyjs.org/docs/why-gatsby-uses-graphql/).
+
+Additional tutorial: https://www.storyblok.com/tp/gatsby-multilanguage-website-tutorial
+
+Apollo using Gatsby
+https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260
+
+
 
 ### GraphQL code generators
 
