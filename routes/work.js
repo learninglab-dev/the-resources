@@ -67,7 +67,7 @@ router.get('/:id', async function (req, res, next) {
       if (files && files.length) {
         for (var i = 0; i < files.length; i++) {
           links.push({
-            url: `/work/${req.params.id}/${(files[i].split(`/work/${req.params.id}`)[1]).split('.md')[0 ]}`,
+            url: `/work/${req.params.id}/${(files[i].split(`/work/${req.params.id}/`)[1]).split('.md')[0 ]}`,
             linkTitle: `${files[i].split("/work/")[1]}`
           })
         }
