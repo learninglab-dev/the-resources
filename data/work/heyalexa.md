@@ -30,8 +30,10 @@ Voiceflow is a startup that provides an easy-to-use platform for building voice 
  - We followed the demo through to step 5 and then uploaded the skill to Alexa. 
  - In order to customize your invocation word on Amazon, you need to save the model and then rebuild it. It takes a few seconds to upload to Alexa, so be patient!
  - Make sure that your Alexa speaks in English (US) because it considers different accents, like UK and AUS, to be different languages. 
+
+**After understanding how custom commands can be created through Voiceflow, we decided to delve deeper and make the functionality more useful. We want Alexa to be able to retrieve any record from our database of choice based on some "intent." **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzQyNTI5NCwxNDk5NDYzMDcyLC0xMj
+eyJoaXN0b3J5IjpbMTEyMDY4OTkxNSwxNDk5NDYzMDcyLC0xMj
 AzNzk2MDksMTQ0MTk0Njc1MSwxNTMzNTE4OTg5LDE5Mjc1ODY0
 NDAsLTY5MzA1OTExLDE0MDc1NjkyNDYsMzU3OTk0MzA0LC00Nz
 k4NjExNzAsLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNTIzMzA2
