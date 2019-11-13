@@ -31,12 +31,15 @@ Voiceflow is a startup that provides an easy-to-use platform for building voice 
  - In order to customize your invocation word on Amazon, you need to save the model and then rebuild it. It takes a few seconds to upload to Alexa, so be patient!
  - Make sure that your Alexa speaks in English (US) because it considers different accents, like UK and AUS, to be different languages. 
 
-**After understanding how custom commands can be created through Voiceflow, we decided to delve deeper and make the functionality more useful. We want Alexa to be able to retrieve any record from our database of choice based on some "intent." **
+**After understanding how custom commands can be created through Voiceflow, we decided to delve deeper and make the functionality more useful. We want Alexa to be able to retrieve any record from our database of choice based on some "intent."  To do this, we referred to this link. **
+
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDY4OTkxNSwxNDk5NDYzMDcyLC0xMj
-AzNzk2MDksMTQ0MTk0Njc1MSwxNTMzNTE4OTg5LDE5Mjc1ODY0
-NDAsLTY5MzA1OTExLDE0MDc1NjkyNDYsMzU3OTk0MzA0LC00Nz
-k4NjExNzAsLTExMzI5NDQwOTgsMTEzMDAwMjU0OSwxNTIzMzA2
-Mzg0LC0xNDAwMDYzMjg3LC01MzI0NTkwNzEsLTgwNTgxOTE2Ml
-19
+eyJoaXN0b3J5IjpbNjg1Mzg2NTYyLDE0OTk0NjMwNzIsLTEyMD
+M3OTYwOSwxNDQxOTQ2NzUxLDE1MzM1MTg5ODksMTkyNzU4NjQ0
+MCwtNjkzMDU5MTEsMTQwNzU2OTI0NiwzNTc5OTQzMDQsLTQ3OT
+g2MTE3MCwtMTEzMjk0NDA5OCwxMTMwMDAyNTQ5LDE1MjMzMDYz
+ODQsLTE0MDAwNjMyODcsLTUzMjQ1OTA3MSwtODA1ODE5MTYyXX
+0=
 -->
