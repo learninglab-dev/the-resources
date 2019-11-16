@@ -1,5 +1,6 @@
 # GATSBY WORKBOOK
 
+
 ## THE TOOLS
 these are things. to learn.
 
@@ -27,6 +28,8 @@ Apollo using Gatsby
 https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260
 
 
+
+
 ### TINA
 
 https://tinacms.org/docs/getting-started/introduction
@@ -40,3 +43,27 @@ Here are a few GraphQL code generators:
 * [Prisma GraphQL generator](https://github.com/prisma-labs/graphqlgen)
 
 and before graphQL [swagger](https://github.com/swagger-api/swagger-codegen)
+
+
+## NOTES
+
+
+### ADD TO GATSBY WORKBOOK
+
+link to gatsby basics site: https://mkuzmick.github.io/gatsby-basics/
+
+adding global styles with a layout component: https://www.gatsbyjs.org/docs/global-css/
+
+typography.js looks useful and cool: https://kyleamathews.github.io/typography.js/
+
+key article on styling: https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
+
+gatsby steps:
+* start new app
+```
+gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-hello-world
+cd tutorial-part-four
+```
+*
+
+next up: https://www.gatsbyjs.org/tutorial/part-five/
