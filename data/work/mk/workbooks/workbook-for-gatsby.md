@@ -1,6 +1,5 @@
 # GATSBY WORKBOOK
 
-
 ## THE TOOLS
 these are things. to learn.
 
