@@ -28,8 +28,6 @@ Apollo using Gatsby
 https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260
 
 
-
-
 ### TINA
 
 https://tinacms.org/docs/getting-started/introduction

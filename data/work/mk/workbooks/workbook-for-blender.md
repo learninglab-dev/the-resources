@@ -26,8 +26,6 @@ https://www.youtube.com/watch?v=Dy177PrxRfs&list=PLB0wXHrWAmCw0ijNJs4rt9g1GhOS5v
 
 think about this and other cgcookie courses: https://cgcookie.com/course/the-blender-substance-texturing-workflow/?utm_source=youtube&utm_medium=social&utm_campaign=teaser&utm_term=description&utm_content=substance-workflow
 
-procedural 2.8 asphalt
-https://www.youtube.com/watch?v=Hb81bSTygt4&feature=youtu.be
 
 and then into unity and elsewhere
 https://www.youtube.com/watch?v=YsXe11YA7AM&feature=youtu.be
