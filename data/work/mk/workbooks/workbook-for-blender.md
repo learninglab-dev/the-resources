@@ -18,7 +18,6 @@ shape keys for animation:
 
 https://www.youtube.com/watch?v=YDu6y_2jFg0
 
-bok material possibility: https://www.youtube.com/watch?v=3H8OrX6ztkI
 
 
 must do substance/unity
