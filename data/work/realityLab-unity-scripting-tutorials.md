@@ -34,7 +34,9 @@ Learn how to print messages to the console using three common forms of input. Us
 ## Coding Other Outputs
 Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following are merely examples.
 
-Change Object Size with Arrow Keys.
+Change Object Size with Arrow Keys. Make an object grow or shrink 
+
+Spawn an Object with the
 
 Change Object Color on Mouse Click.
 
@@ -45,12 +47,14 @@ Change Object Color on Mouse Click.
 
 ---
 
-A major project of the Unity/C# arm of realityLab during Fall 2019, with assists by Anna White-Nockelby, Clarisse Wells, Ceci Mancuso, and Lauren.
-
-
-
-
+> A major project of the Unity/C# arm of realityLab during Fall 2019,
+> with assists by Anna White-Nockelby, Clarisse Wells, Ceci Mancuso, and Lauren.
+> 
+> 
+> 
+> 
 > Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njc4MDgxMywxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTExNzE2ODc1MzgsMTE1ODkwNjgwMl19
 -->
