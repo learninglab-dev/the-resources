@@ -35,11 +35,11 @@ Learn how to print messages to the console using three common forms of input. Us
 ## Coding Other Outputs
 Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following are merely examples.
 
-Change Object Size with Arrow Keys. Make an object grow or shrink by pressing the arrow keys.
+**Change Object Size with Arrow Keys.** Make an object grow or shrink by pressing the arrow keys.
 
-Spawn Object with Space Bar.
+**Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
 
-Change Object Color on Mouse Click. Make an object change col
+**Change Object Color on Mouse Click.** Make an object change color when you click the mouse.
 
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
@@ -57,5 +57,5 @@ Change Object Color on Mouse Click. Make an object change col
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY4MTExOTUsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbLTEzMDgwNTI3NiwxMTU4OTA2ODAyXX0=
 -->
