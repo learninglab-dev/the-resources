@@ -45,7 +45,7 @@ C --> G[Play Sound on Collision with Object]
 
 **Print Message on Collision with Object.** Get Unity to send you a message in the debug log whenever your controller runs into an object in the game world.
 
-**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
+**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game wo`rld.
 
 ## Other Resources
 **[The Unity Scripting Troubleshooter.](https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt)** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
@@ -61,6 +61,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg1NTAyMDcsLTg3OTcxNTI4NywtMj
-A1NzcyOTEwMywxMDA3OTE5MzIyLDExNTg5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbMTY2MTMwMjY4MywtMTQzODU1MDIwNywtOD
+c5NzE1Mjg3LC0yMDU3NzI5MTAzLDEwMDc5MTkzMjIsMTE1ODkw
+NjgwMl19
 -->
