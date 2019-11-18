@@ -9,12 +9,13 @@ These tutorials are modular - they can be pursued in any order. Below is merely 
 
 ```mermaid
 graph LR
-A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
-A --
+A[Basic UI] --> B[Print Message on Keyboard Press]
+A --> H[Print Message on Mouse Click]
 A --> C[Print Message On Collision with Object]
 B --> D[Change Object Size with Arrow Keys]
 B --> E[Spawn Object with Space Bar]
-B --> F[Change Object Color on Mouse Click]
+H --> F[Change Object Color on Mouse Click]
+H --> I[Make Something Happen Only to a Specific Object on Mouse Click]
 C --> G[Play Sound on Collision with Object]
 
 
@@ -60,6 +61,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQ1ODcwOCwxMDA3OTE5MzIyLDExNT
-g5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbOTE2ODkzMjI5LDEwMDc5MTkzMjIsMTE1OD
+kwNjgwMl19
 -->
