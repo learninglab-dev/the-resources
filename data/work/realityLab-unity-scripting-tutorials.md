@@ -25,10 +25,17 @@ C --> G[Play Sound on Collision with Object]
  
 **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
+Making Things Happen with the Keyboard
+
+Making Things Happen with the Mouse
+
+Making Things Happen on Collision
+
+
 ## Printing Messages with Common Inputs
 Learn how to print messages to the console using three common forms of input (keyboard press, mouse click, and collision). Useful for debugging, and as a first step / foundation for most other scripts.
 
-**[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard.
+**[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debwhenever you press a key on the keyboard.
 
 **[Print Message on Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you click the mouse. 
 
@@ -65,6 +72,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDYwMjYyOSwtODc5NzE1Mjg3LC0yMD
+eyJoaXN0b3J5IjpbMjA3NjI5OTI0OSwtODc5NzE1Mjg3LC0yMD
 U3NzI5MTAzLDEwMDc5MTkzMjIsMTE1ODkwNjgwMl19
 -->
