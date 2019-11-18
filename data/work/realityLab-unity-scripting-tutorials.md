@@ -7,10 +7,11 @@ A series of tutorials and resources around learning to write C# scripts for the 
 These tutorials are modular - they can be pursued in any order. Below is merely a suggested sequence for the indecisive uninitiated!
 
 
-***mermaid
+```mermaid
 graph LR
-Castle in the Sky --> keyboard/mouse
-***
+Castle in the Sky[Square Rect] --> Print Message on Keyboard Press & Mouse Click
+
+```
 
 ## Castle in the Sky
 
@@ -32,5 +33,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwODY3NTNdfQ==
+eyJoaXN0b3J5IjpbMTI3MjQ5MjM5MV19
 -->
