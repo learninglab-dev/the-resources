@@ -9,7 +9,10 @@ These tutorials are modular - they can be pursued in any order. Below is merely 
 
 ```mermaid
 graph LR
-Castle in the Sky[Square Rect] --> Print Message on Keyboard Press & Mouse Click
+A[Castle in the Sky (Basi] --> B[Print Message on Keyboard Press & Mouse Click]
+A --> C[Print Message On Collision with Object]
+B --> D
+
 
 ```
 
@@ -33,5 +36,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjQ5MjM5MV19
+eyJoaXN0b3J5IjpbLTEwMzg1NzAwNjRdfQ==
 -->
