@@ -29,13 +29,23 @@ C --> G[Play Sound on Collision with Object]
 
 **[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you press a key on the keyboard.
 
+**[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
+
+**Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
+
 ## Making Things Happen with the Mouse
 
 **[Print Message on Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you click the mouse. 
 
+**Change Object Color on Mouse Click.** Make an object change color when you click the mouse *anywhere on the screen*.
+
+**Make Text Appear on Mouse Click.** Make a text box or similar po
+
 ## Making Things Happen on Collision
 
 **Print Message on Collision with Object.** Get Unity to send you a message in the debug log whenever your controller runs into an object in the game world.
+
+**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
 
 ## Printing Messages with Common Inputs
@@ -52,17 +62,16 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 
 **[KEYBOARD]**
 
-**[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
-**Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
+
 
 **[MOUSE]**
 
-**Change Object Color on Mouse Click.** Make an object change color when you click the mouse.
+
 
 **[COLLISION]**
 
-**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
+
 
 ## Other Resources
 **[The Unity Scripting Troubleshooter.](https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt)** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
@@ -78,6 +87,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTAwMjAzOSwtODc5NzE1Mjg3LC0yMD
-U3NzI5MTAzLDEwMDc5MTkzMjIsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbMTIzNDY0NjYsLTg3OTcxNTI4NywtMjA1Nz
+cyOTEwMywxMDA3OTE5MzIyLDExNTg5MDY4MDJdfQ==
 -->
