@@ -10,11 +10,12 @@ These tutorials are modular - they can be pursued in any order. Below is merely 
 ```mermaid
 graph LR
 A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
+A --
 A --> C[Print Message On Collision with Object]
 B --> D[Change Object Size with Arrow Keys]
-B --> G[Spawn Object with Space Bar]
-B --> E[Change Object Color on Mouse Click]
-C --> F[Play Sound on Collision with Object]
+B --> E[Spawn Object with Space Bar]
+B --> F[Change Object Color on Mouse Click]
+C --> G[Play Sound on Collision with Object]
 
 
 ```
@@ -28,7 +29,9 @@ C --> F[Play Sound on Collision with Object]
 ## Printing Messages with Common Inputs
 Learn how to print messages to the console using three common forms of input (keyboard press, mouse click, and collision). Useful for debugging, and as a first step / foundation for most other scripts.
 
-**[Print Message on Keyboard Press & Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard or click the mouse. 
+**[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard.
+
+**[Print Message on Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you click the mouse. 
 
 **Print Message on Collision with Object.** Get Unity to send you a message whenever your controller runs into an object in the game world.
 
@@ -57,5 +60,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzkxOTMyMiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTU4MTQ1ODcwOCwxMDA3OTE5MzIyLDExNT
+g5MDY4MDJdfQ==
 -->
