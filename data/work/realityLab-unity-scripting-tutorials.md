@@ -13,7 +13,7 @@ A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
 A --> C[Print Message On Collision with Object]
 B --> D[Change Object Size with Arrow Keys]
 B --> E[Change Object Color on Mouse Click]
-C --> F[Play a Sound on Collision with Object]
+C --> F[Play Sound on Collision with Object]
 
 
 ```
@@ -38,7 +38,9 @@ Change Object Size with Arrow Keys.
 
 Change Object Color on Mouse Click.
 
-Play a Sound on Collisi
+**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
+
+
 
 ---
 
@@ -49,5 +51,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxNjQ5MiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTE3OTg5NDIzNzQsMTE1ODkwNjgwMl19
 -->
