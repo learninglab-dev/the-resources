@@ -40,7 +40,8 @@ Change Object Color on Mouse Click.
 
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
-
+## Other Resources
+**The Unity Scripting Debugger.** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
 
 ---
 
@@ -51,5 +52,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg5NDIzNzQsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbMTU2Njc4MDgxMywxMTU4OTA2ODAyXX0=
 -->
