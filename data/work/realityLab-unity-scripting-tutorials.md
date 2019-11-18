@@ -23,7 +23,9 @@ C --> F[Play a Sound on Collision with Object]
  **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)** Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
 ## Printing Messages
-Learn how to print messages to the console. Useful for debugging. 
+Learn how to print messages to the console using three common forms of input. Useful for debugging, and as a first step for most other scripts.
+
+Print Messages on Keyboard Press & Mouse Click
 
 
 
@@ -42,5 +44,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3NTE1NTAxXX0=
+eyJoaXN0b3J5IjpbMTEyNDQ5MTE3OV19
 -->
