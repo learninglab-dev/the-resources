@@ -13,7 +13,7 @@ A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
 A --> C[Print Message On Collision with Object]
 B --> D[Change Color on Mouse Click]
 B --> E[Change Object Size with Arrow Keys]
-C -
+C --> F[Play a Sound on Collision with Object]
 
 
 ```
@@ -38,5 +38,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDcwMDMxXX0=
+eyJoaXN0b3J5IjpbMTg4Mjg2MjE2Ml19
 -->
