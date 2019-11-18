@@ -26,16 +26,16 @@ C --> F[Play Sound on Collision with Object]
 **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
 ## Printing Messages with Common Inputs
-Learn how to print messages to the console using three common forms of input. Useful for debugging, and as a first step / foundation for most other scripts.
+Learn how to print messages to the console using three common forms of input (keyboard press, mouse click, and collision). Useful for debugging, and as a first step / foundation for most other scripts.
 
 **[Print Message on Keyboard Press & Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard or click the mouse. 
 
 **Print Message on Collision with Object.** Get Unity to send you a message whenever your controller runs into an object in the game world.
 
 ## Coding Other Outputs
-Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following are merely examples.
+Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following combinations are merely examples.
 
-**Change Object Size with Arrow Keys.** Make an object grow or shrink by pressing the arrow keys.
+**[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
 **Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
 
@@ -57,5 +57,5 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgwNTI3NiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTE5MjQxMTgxNzIsMTE1ODkwNjgwMl19
 -->
