@@ -54,7 +54,7 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
 ## Other Resources
-**The Unity Scripting Debugger.** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
+**[The Unity Scripting Troubleshooter.](https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt)** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
 
 ---
 
@@ -67,6 +67,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3MjkxMDMsMTAwNzkxOTMyMiwxMT
-U4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMD
+A3OTE5MzIyLDExNTg5MDY4MDJdfQ==
 -->
