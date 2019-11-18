@@ -20,14 +20,15 @@ C --> F[Play a Sound on Collision with Object]
 
 ## Basic UI Tutorials
 
-**[Tiniest World](https://docs.google.com/document/d/1HICcZzxWDP6cL9Y6xMmYOgyY1Ym7-_HHbYp5XHS6zbQ/edit?usp=sharing)** - Get your first, tiny Unity world up and running in no time!
+**[Tiniest World.](https://docs.google.com/document/d/1HICcZzxWDP6cL9Y6xMmYOgyY1Ym7-_HHbYp5XHS6zbQ/edit?usp=sharing)**  Get your first, tiny Unity world up and running in no time!
  
-**[Castle in the  Sky](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)** - Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
+**[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
 ## Printing Messages
 Learn how to print messages to the console using three common forms of input. Useful for debugging, and as a first step / foundation for most other scripts.
 
-Print Message on Keyboard Press & Mouse Click
+**[Print Message on Keyboard Press & Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard or click the mouse. 
+
 Print Message on Collision with Object
 
  
@@ -49,5 +50,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5Njc5NDk2LDExNTg5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbLTEyOTE4NDM2NDQsMTE1ODkwNjgwMl19
 -->
