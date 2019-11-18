@@ -1,5 +1,3 @@
-
-
 # realityLab Unity Scripting Tutorials
 
 A series of tutorials and resources around learning to write C# scripts for the Unity game engine that help you make cool things happen in your game/project.
@@ -67,6 +65,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMD
-A3OTE5MzIyLDExNTg5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbMTQzMDYwMjYyOSwtODc5NzE1Mjg3LC0yMD
+U3NzI5MTAzLDEwMDc5MTkzMjIsMTE1ODkwNjgwMl19
 -->
