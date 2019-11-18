@@ -4,6 +4,9 @@
 
 A series of tutorials and resources around learning to write C# scripts for the Unity game engine that let you make cool things happen in your game/project.
 
+These tutorials 
+
+###
 ---
  
 
@@ -19,5 +22,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjMyNDk2OF19
+eyJoaXN0b3J5IjpbMjAxNjAwMzI4OV19
 -->
