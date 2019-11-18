@@ -45,9 +45,11 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 
 **Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
 
-**[MOUSE CLICK]**
+**[MOUSE]**
 
 **Change Object Color on Mouse Click.** Make an object change color when you click the mouse.
+
+**[COLLISION]**
 
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
@@ -65,6 +67,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDgzNzExLDEwMDc5MTkzMjIsMTE1OD
-kwNjgwMl19
+eyJoaXN0b3J5IjpbLTIwNTc3MjkxMDMsMTAwNzkxOTMyMiwxMT
+U4OTA2ODAyXX0=
 -->
