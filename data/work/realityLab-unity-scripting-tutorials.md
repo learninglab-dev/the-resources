@@ -39,9 +39,13 @@ Learn how to print messages to the console using three common forms of input (ke
 ## Coding Other Outputs
 Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following combinations are merely examples.
 
+**[KEYBOARD]**
+
 **[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
 **Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
+
+**[MOUSE CLICK]**
 
 **Change Object Color on Mouse Click.** Make an object change color when you click the mouse.
 
@@ -61,6 +65,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2ODkzMjI5LDEwMDc5MTkzMjIsMTE1OD
+eyJoaXN0b3J5IjpbMTY5NDgzNzExLDEwMDc5MTkzMjIsMTE1OD
 kwNjgwMl19
 -->
