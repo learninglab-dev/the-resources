@@ -9,9 +9,11 @@ These tutorials are modular - they can be pursued in any order. Below is merely 
 
 ```mermaid
 graph LR
-A[Castle in the Sky (Basi] --> B[Print Message on Keyboard Press & Mouse Click]
+A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
 A --> C[Print Message On Collision with Object]
-B --> D
+B --> D[Change Color on Mouse Click]
+B --> E[Change Object Size with Arrow Keys]
+C -
 
 
 ```
@@ -36,5 +38,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg1NzAwNjRdfQ==
+eyJoaXN0b3J5IjpbMTU3NDcwMDMxXX0=
 -->
