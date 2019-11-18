@@ -12,6 +12,7 @@ graph LR
 A[Basic UI] --> B[Print Message on Keyboard Press & Mouse Click]
 A --> C[Print Message On Collision with Object]
 B --> D[Change Object Size with Arrow Keys]
+B --> G[Spawn Object with Space Bar]
 B --> E[Change Object Color on Mouse Click]
 C --> F[Play Sound on Collision with Object]
 
@@ -34,11 +35,11 @@ Learn how to print messages to the console using three common forms of input. Us
 ## Coding Other Outputs
 Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following are merely examples.
 
-Change Object Size with Arrow Keys. Make an object grow or shrink 
+Change Object Size with Arrow Keys. Make an object grow or shrink by pressing the arrow keys.
 
-Spawn an Object with the
+Spawn Object with Space Bar.
 
-Change Object Color on Mouse Click.
+Change Object Color on Mouse Click. Make an object change col
 
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
@@ -56,5 +57,5 @@ Change Object Color on Mouse Click.
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2ODc1MzgsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbLTExMzY4MTExOTUsMTE1ODkwNjgwMl19
 -->
