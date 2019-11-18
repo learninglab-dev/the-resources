@@ -29,7 +29,7 @@ Learn how to print messages to the console using three common forms of input. Us
 
 **[Print Message on Keyboard Press & Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message whenever you press a key on the keyboard or click the mouse. 
 
-Print Message on Collision with Object
+**Print Message on Collision with Object.** Get Unity to send you a message whenever your controller runs into an object in the game world.
 
  
 
@@ -50,5 +50,5 @@ A major project of the Unity/C# arm of realityLab during Fall 2019, with assists
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE4NDM2NDQsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbOTE2OTMwNjQ4LDExNTg5MDY4MDJdfQ==
 -->
