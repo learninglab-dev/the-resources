@@ -13,7 +13,7 @@ A --> C[Print Message On Collision with Object]
 B --> D[Change Object Size with Arrow Keys]
 B --> E[Spawn Object with Space Bar]
 H --> F[Change Object Color on Mouse Click]
-H --> I[Make Something Happen Only to a Specific Object on Mouse Click]
+H --> I[Make Text Appear on Mouse Click]
 C --> G[Play Sound on Collision with Object]
 
 
@@ -39,39 +39,13 @@ C --> G[Play Sound on Collision with Object]
 
 **Change Object Color on Mouse Click.** Make an object change color when you click the mouse *anywhere on the screen*.
 
-**Make Text Appear on Mouse Click.** Make a text box or similar po
+**Make Text Appear on Mouse Click.** Make a text box or similar pop up when you click on a *specific object* in the game world.
 
 ## Making Things Happen on Collision
 
 **Print Message on Collision with Object.** Get Unity to send you a message in the debug log whenever your controller runs into an object in the game world.
 
 **Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
-
-
-## Printing Messages with Common Inputs
-Learn how to print messages to the console using three common forms of input (keyboard press, mouse click, and collision). Useful for debugging, and as a first step / foundation for most other scripts.
-
-
-
-
-
-
-
-## Coding Other Outputs
-Learn how to code outputs other than message printing. Any of these outputs should be combinable with any of the inputs covered (keyboard, mouse, and collision) - the following combinations are merely examples.
-
-**[KEYBOARD]**
-
-
-
-
-**[MOUSE]**
-
-
-
-**[COLLISION]**
-
-
 
 ## Other Resources
 **[The Unity Scripting Troubleshooter.](https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt)** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
@@ -87,6 +61,6 @@ Learn how to code outputs other than message printing. Any of these outputs shou
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDY0NjYsLTg3OTcxNTI4NywtMjA1Nz
-cyOTEwMywxMDA3OTE5MzIyLDExNTg5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzg1NTAyMDcsLTg3OTcxNTI4NywtMj
+A1NzcyOTEwMywxMDA3OTE5MzIyLDExNTg5MDY4MDJdfQ==
 -->
