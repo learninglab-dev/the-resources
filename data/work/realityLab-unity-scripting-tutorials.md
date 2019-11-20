@@ -10,7 +10,7 @@ graph LR
 A[Basic UI] --> B[Print Message on Keyboard Press]
 A --> H[Print Message on Mouse Click]
 A --> C[Print Message On Collision with Object]
-B
+B --> J[Move Object with Arrow Keys]
 B --> D[Change Object Size with Arrow Keys]
 B --> E[Spawn Object with Space Bar]
 H --> F[Change Object Color on Mouse Click]
@@ -64,7 +64,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTUxMTY4MywxNjYxMzAyNjgzLC0xND
-M4NTUwMjA3LC04Nzk3MTUyODcsLTIwNTc3MjkxMDMsMTAwNzkx
-OTMyMiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTQ2MDMwMTUyLDE2NjEzMDI2ODMsLTE0Mz
+g1NTAyMDcsLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMDA3OTE5
+MzIyLDExNTg5MDY4MDJdfQ==
 -->
