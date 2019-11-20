@@ -30,7 +30,7 @@ C --> G[Play Sound on Collision with Object]
 
 **[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you press a key on the keyboard.
 
-**Move Object with Arrow Keys.** Control an object's cardinal movement using the arrow keys. Useful for making your own basic controller if you don't want to use the Standard Assets ones!
+**[Move Object with Arrow Keys.](https://www.youtube.com/watch?v=C0r451Oj540)** Control an object's cardinal movement using the arrow keys. Useful for making your own basic controller if you don't want to use the Standard Assets ones!
 
 **[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
@@ -64,7 +64,8 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODQ0MzEzLC00NjAzMDE1MiwxNjYxMz
-AyNjgzLC0xNDM4NTUwMjA3LC04Nzk3MTUyODcsLTIwNTc3Mjkx
-MDMsMTAwNzkxOTMyMiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTE3MzkzNjk1MzUsMzA0ODQ0MzEzLC00Nj
+AzMDE1MiwxNjYxMzAyNjgzLC0xNDM4NTUwMjA3LC04Nzk3MTUy
+ODcsLTIwNTc3MjkxMDMsMTAwNzkxOTMyMiwxMTU4OTA2ODAyXX
+0=
 -->
