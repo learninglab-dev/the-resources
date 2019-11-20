@@ -10,6 +10,7 @@ graph LR
 A[Basic UI] --> B[Print Message on Keyboard Press]
 A --> H[Print Message on Mouse Click]
 A --> C[Print Message On Collision with Object]
+B
 B --> D[Change Object Size with Arrow Keys]
 B --> E[Spawn Object with Space Bar]
 H --> F[Change Object Color on Mouse Click]
@@ -29,11 +30,11 @@ C --> G[Play Sound on Collision with Object]
 
 **[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you press a key on the keyboard.
 
-**Move Object with the Arrow Keys.** Control an object's cardinal movement using the arrow keys. Useful for making your own basic controller if you don't want to use the Standard Assets ones!
+**Move Object with Arrow Keys.** Control an object's cardinal movement using the arrow keys. Useful for making your own basic controller if you don't want to use the Standard Assets ones!
 
 **[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
-**Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
+**[Spawn Object with Space Bar.](https://www.youtube.com/watch?v=5zpGC8uaCl4&feature=youtu.be)** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
 
 ## Making Things Happen with the Mouse
 
@@ -63,7 +64,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDIwODAxMSwxNjYxMzAyNjgzLC0xND
+eyJoaXN0b3J5IjpbMTUwMTUxMTY4MywxNjYxMzAyNjgzLC0xND
 M4NTUwMjA3LC04Nzk3MTUyODcsLTIwNTc3MjkxMDMsMTAwNzkx
 OTMyMiwxMTU4OTA2ODAyXX0=
 -->
