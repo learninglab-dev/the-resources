@@ -7,7 +7,7 @@ These tutorials are modular - they can be pursued in any order. Below is merely 
 
 ```mermaid
 graph LR
-A[Basic UI] --> B[Print Message on Keyboard Press]
+A[Basic UI Tutorials] --> B[Print Message on Keyboard Press]
 A --> H[Print Message on Mouse Click]
 A --> C[Print Message On Collision with Object]
 B --> J[Move Object with Arrow Keys]
@@ -48,7 +48,7 @@ C --> G[Play Sound on Collision with Object]
 
 **Print Message on Collision with Object.** Get Unity to send you a message in the debug log whenever your controller runs into an object in the game world.
 
-**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game wo`rld.
+**Play Sound on Collision with Object.** Get Unity to play a sound effect, dialogue clip, song, etc. when your controller runs into an object or zone in the game world.
 
 ## Other Resources
 **[The Unity Scripting Troubleshooter.](https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt)** Code not working? Work through your problem with the aid of this troubleshooting tool to catch the most common kinds of coding errors.
@@ -64,7 +64,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDMwMTUyLDE2NjEzMDI2ODMsLTE0Mz
-g1NTAyMDcsLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMDA3OTE5
-MzIyLDExNTg5MDY4MDJdfQ==
+eyJoaXN0b3J5IjpbMzA0ODQ0MzEzLC00NjAzMDE1MiwxNjYxMz
+AyNjgzLC0xNDM4NTUwMjA3LC04Nzk3MTUyODcsLTIwNTc3Mjkx
+MDMsMTAwNzkxOTMyMiwxMTU4OTA2ODAyXX0=
 -->
