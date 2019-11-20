@@ -29,6 +29,8 @@ C --> G[Play Sound on Collision with Object]
 
 **[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you press a key on the keyboard.
 
+**Move an Object with the Arrow Keys.** Control an object's cardinal movement using the arrow keys. Useful for making your own basic controller if you don't want to use the Standa
+
 **[Change Object Size with Arrow Keys.](https://www.youtube.com/watch?v=NaKjmQqp5uA&feature=youtu.be)** Make an object grow or shrink by pressing the arrow keys.
 
 **Spawn Object with Space Bar.** Make an object appear in the scene when the space bar is pressed - in this case, a growing tower of neatly stacked cubes.
@@ -61,7 +63,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTMwMjY4MywtMTQzODU1MDIwNywtOD
-c5NzE1Mjg3LC0yMDU3NzI5MTAzLDEwMDc5MTkzMjIsMTE1ODkw
-NjgwMl19
+eyJoaXN0b3J5IjpbMTIwNTk5OTc1LDE2NjEzMDI2ODMsLTE0Mz
+g1NTAyMDcsLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMDA3OTE5
+MzIyLDExNTg5MDY4MDJdfQ==
 -->
