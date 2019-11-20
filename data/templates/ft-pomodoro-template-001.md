@@ -1,5 +1,5 @@
 ## Pomodoro.schedule
-Start : 2019-11-17 14:37:35
+Start : 2019-11-19 20:39:25
 First pomodoro for 25 minutes
 Break for 5 minutes
 Second pomodoro for 25 minutes
@@ -12,7 +12,7 @@ Long break for 15 minutes
 ## Today.todo
 
 - Do some actual work.
-- Write about this Pomodoro template
+- Write about this Pomodoro template @done(2019-11-19)
 - Put together a Pomodoro template @time(1,1) @done
 
 ## Activity Inventory
