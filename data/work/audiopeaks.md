@@ -24,8 +24,9 @@ Steps:
 		- search the synonyms of an input word for any that match the adjectives in airtable
 		- if it matches, pull out one at random of the gifs associated with that adjective!
 		- have a function that enables you to see the available adjectives in slack?
-- writing script that sends something to Airtable through Amazon 
-- build a slack command
+		- writing script that sends something to Airtable through Amazon 
+		- build a slack command
+- [http://compromise.cool/](http://compromise.cool/) for making sure a given word is an adjective? do that before searching for synonyms (but wordnet probably has this capability as well)
 
 
 Helpful command line links:
@@ -119,11 +120,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODM0MDQ1MiwtMTQxNzY4NjU0MiwtMT
-gxNzI4MjQxNywzODM4Nzc3MjEsLTEyNTkxMDEwMzAsLTkyMDY4
-OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNTcxLDExODAzNTI0MT
-ksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMSwyMDk2
-ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OS
-w2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4
-MzUyXX0=
+eyJoaXN0b3J5IjpbLTEwNjA0NDcwNTIsLTE0MTc2ODY1NDIsLT
+E4MTcyODI0MTcsMzgzODc3NzIxLC0xMjU5MTAxMDMwLC05MjA2
+ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUyND
+E5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkxMzEsMjA5
+Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4Nj
+ksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1
+ODM1Ml19
 -->
