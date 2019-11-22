@@ -27,6 +27,8 @@ Steps:
 		- writing script that sends something to Airtable through Amazon 
 		- build a slack command
 - [http://compromise.cool/](http://compromise.cool/) for making sure a given word is an adjective? do that before searching for synonyms (but wordnet probably has this capability as well)
+- uploading images to airtable using their API [https://chinarajames.com/how-to-upload-images-to-airtable-using-their-api/](https://chinarajames.com/how-to-upload-images-to-airtable-using-their-api/)
+- 
 
 
 Helpful command line links:
@@ -120,11 +122,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA0NDcwNTIsLTE0MTc2ODY1NDIsLT
-E4MTcyODI0MTcsMzgzODc3NzIxLC0xMjU5MTAxMDMwLC05MjA2
-ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUyND
-E5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLTExNTg0MDkxMzEsMjA5
-Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4Nj
-ksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1
-ODM1Ml19
+eyJoaXN0b3J5IjpbMTYzODg3ODc4MywtMTA2MDQ0NzA1MiwtMT
+QxNzY4NjU0MiwtMTgxNzI4MjQxNywzODM4Nzc3MjEsLTEyNTkx
+MDEwMzAsLTkyMDY4OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNT
+cxLDExODAzNTI0MTksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1
+ODQwOTEzMSwyMDk2ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OT
+IsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1
+OTIxXX0=
 -->
