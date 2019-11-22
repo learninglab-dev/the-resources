@@ -15,8 +15,10 @@ Steps:
 - [ ] And, take notes the whole time!
 
 ---
-/bokgif project
-- natural language processing
+`/bokgif` project
+- natural language processing library
+- writing script that sends something to Airtable through Amazon 
+- build a slack command
 
 
 Helpful command line links:
@@ -110,11 +112,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjcwMDUwNiwtMTgxNzI4MjQxNywzOD
-M4Nzc3MjEsLTEyNTkxMDEwMzAsLTkyMDY4OTQyNiwtMTc3NDYw
-ODA0MCwyMDMwODMyNTcxLDExODAzNTI0MTksMjkzMDYzNDk2LD
-k2NTk3MDA4MSwtMTE1ODQwOTEzMSwyMDk2ODY5ODQ2LDM2NzYz
-NzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOT
-E2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgy
-OF19
+eyJoaXN0b3J5IjpbLTE0MTc2ODY1NDIsLTE4MTcyODI0MTcsMz
+gzODc3NzIxLC0xMjU5MTAxMDMwLC05MjA2ODk0MjYsLTE3NzQ2
+MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUyNDE5LDI5MzA2MzQ5Ni
+w5NjU5NzAwODEsLTExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNjc2
+Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LD
+kxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4
+MjhdfQ==
 -->
