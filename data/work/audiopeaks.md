@@ -17,6 +17,10 @@ Steps:
 ---
 `/bokgif` project
 - natural language processing library
+		- use [https://wordnet.princeton.edu/documentation](https://wordnet.princeton.edu/documentation)
+		- find synonyms of a word entered
+		- pick a certain number of words that are associated with mthe airtle gifs
+		- 
 - writing script that sends something to Airtable through Amazon 
 - build a slack command
 
@@ -112,11 +116,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc2ODY1NDIsLTE4MTcyODI0MTcsMz
-gzODc3NzIxLC0xMjU5MTAxMDMwLC05MjA2ODk0MjYsLTE3NzQ2
-MDgwNDAsMjAzMDgzMjU3MSwxMTgwMzUyNDE5LDI5MzA2MzQ5Ni
-w5NjU5NzAwODEsLTExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNjc2
-Mzc2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LD
-kxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4
-MjhdfQ==
+eyJoaXN0b3J5IjpbMjA3NzA0OTM5NCwtMTQxNzY4NjU0MiwtMT
+gxNzI4MjQxNywzODM4Nzc3MjEsLTEyNTkxMDEwMzAsLTkyMDY4
+OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNTcxLDExODAzNTI0MT
+ksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMSwyMDk2
+ODY5ODQ2LDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OS
+w2NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4
+MzUyXX0=
 -->
