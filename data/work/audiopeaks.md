@@ -22,7 +22,7 @@ Steps:
 		- pick a certain number of words that are associated with the airtable gifs
 		-  have a form in gif machine where it asks you to describe a gif using multiple choice (this is when it might be fun to have a web app of some kind?), send those adjectives to airtable too
 		- search the synonyms of an input word for any that match the adjectives in airtable
-		- if it matches, pull out one at random of the gifs associated with that adjectiv e
+		- if it matches, pull out one at random of the gifs associated with that adjective!
 		- have a function that enables you to see the available adjectives in slack?
 - writing script that sends something to Airtable through Amazon 
 - build a slack command
@@ -119,7 +119,7 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDEyMDM0NywtMTQxNzY4NjU0MiwtMT
+eyJoaXN0b3J5IjpbMTE3ODM0MDQ1MiwtMTQxNzY4NjU0MiwtMT
 gxNzI4MjQxNywzODM4Nzc3MjEsLTEyNTkxMDEwMzAsLTkyMDY4
 OTQyNiwtMTc3NDYwODA0MCwyMDMwODMyNTcxLDExODAzNTI0MT
 ksMjkzMDYzNDk2LDk2NTk3MDA4MSwtMTE1ODQwOTEzMSwyMDk2
