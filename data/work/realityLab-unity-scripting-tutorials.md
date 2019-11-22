@@ -26,6 +26,8 @@ C --> G[Play Sound on Collision with Object]
  
 **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
+Three Ways to Add a Controller. Need an avatar in your scene that your player can control?  Learn how to add three different kinds of controllers to your scene and troubleshoot common problems with th
+
 ## Making Things Happen with the Keyboard
 
 **[Print Message on Keyboard Press.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you press a key on the keyboard.
@@ -64,8 +66,8 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkzNjk1MzUsMzA0ODQ0MzEzLC00Nj
-AzMDE1MiwxNjYxMzAyNjgzLC0xNDM4NTUwMjA3LC04Nzk3MTUy
-ODcsLTIwNTc3MjkxMDMsMTAwNzkxOTMyMiwxMTU4OTA2ODAyXX
-0=
+eyJoaXN0b3J5IjpbLTc5NDA5MzYwNywtMTczOTM2OTUzNSwzMD
+Q4NDQzMTMsLTQ2MDMwMTUyLDE2NjEzMDI2ODMsLTE0Mzg1NTAy
+MDcsLTg3OTcxNTI4NywtMjA1NzcyOTEwMywxMDA3OTE5MzIyLD
+ExNTg5MDY4MDJdfQ==
 -->
