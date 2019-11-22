@@ -15,6 +15,9 @@ Steps:
 - [ ] And, take notes the whole time!
 
 ---
+/bokgif project
+
+
 
 Helpful command line links:
 - [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
@@ -107,11 +110,11 @@ module.exports = mainFunction;
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcyODI0MTcsMzgzODc3NzIxLC0xMj
-U5MTAxMDMwLC05MjA2ODk0MjYsLTE3NzQ2MDgwNDAsMjAzMDgz
-MjU3MSwxMTgwMzUyNDE5LDI5MzA2MzQ5Niw5NjU5NzAwODEsLT
-ExNTg0MDkxMzEsMjA5Njg2OTg0NiwzNjc2Mzc2NjgsODgzMzM1
-OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3OD
-AxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgx
-MTddfQ==
+eyJoaXN0b3J5IjpbNzcwMjQyNDY5LC0xODE3MjgyNDE3LDM4Mz
+g3NzcyMSwtMTI1OTEwMTAzMCwtOTIwNjg5NDI2LC0xNzc0NjA4
+MDQwLDIwMzA4MzI1NzEsMTE4MDM1MjQxOSwyOTMwNjM0OTYsOT
+Y1OTcwMDgxLC0xMTU4NDA5MTMxLDIwOTY4Njk4NDYsMzY3NjM3
+NjY4LDg4MzMzNTk5MiwxMTk2OTcyODY5LDY3MzkxMDIyNCw5MT
+Y4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NTgzNTIsMjY0MDE2ODI4
+XX0=
 -->
