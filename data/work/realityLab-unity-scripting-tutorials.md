@@ -22,7 +22,7 @@ C --> G[Play Sound on Collision with Object]
 
 ## Basic UI Tutorials
 
-**[Tiniest World.](https://docs.google.com/document/d/1HICcZzxWDP6cL9Y6xMmYOgyY1Ym7-_HHbYp5XHS6zbQ/edit?usp=sharing)**  Get your first, tiny Unity world up and running in no time! A fun first foray into Unity.
+**[Tiniest World.](https://docs.google.com/document/d/1HICcZzxWDP6cL9Y6xMmYOgyY1Ym7-_HHbYp5XHS6zbQ/edit?usp=sharing)**  Get your first, tiny Unity world up and running in no time! A fun, fast first foray into Unity.
  
 **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
@@ -66,9 +66,9 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc0NTI2NDMsLTMxMjE5Njk3MywtMT
-Q0NDIyODk0MCw5NjMxNTAzODYsLTE3MzkzNjk1MzUsMzA0ODQ0
-MzEzLC00NjAzMDE1MiwxNjYxMzAyNjgzLC0xNDM4NTUwMjA3LC
-04Nzk3MTUyODcsLTIwNTc3MjkxMDMsMTAwNzkxOTMyMiwxMTU4
-OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbLTgwMjg2MjQxOSwtMzEyMTk2OTczLC0xND
+Q0MjI4OTQwLDk2MzE1MDM4NiwtMTczOTM2OTUzNSwzMDQ4NDQz
+MTMsLTQ2MDMwMTUyLDE2NjEzMDI2ODMsLTE0Mzg1NTAyMDcsLT
+g3OTcxNTI4NywtMjA1NzcyOTEwMywxMDA3OTE5MzIyLDExNTg5
+MDY4MDJdfQ==
 -->
