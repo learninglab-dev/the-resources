@@ -1,3 +1,7 @@
+---
+title: "Gatsby Workbook"
+tags: "
+---
 # GATSBY WORKBOOK
 
 ## THE TOOLS
@@ -64,3 +68,6 @@ cd tutorial-part-four
 *
 
 next up: https://www.gatsbyjs.org/tutorial/part-five/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2NjE0NDgyMV19
+-->
