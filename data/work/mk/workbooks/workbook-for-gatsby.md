@@ -1,6 +1,8 @@
 ---
 title: "Gatsby Workbook"
-tags: "
+tags: 
+  - gatsby
+  - 
 ---
 # GATSBY WORKBOOK
 
@@ -69,5 +71,5 @@ cd tutorial-part-four
 
 next up: https://www.gatsbyjs.org/tutorial/part-five/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjE0NDgyMV19
+eyJoaXN0b3J5IjpbMTI1MjU0NjI2M119
 -->
