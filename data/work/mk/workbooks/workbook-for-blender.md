@@ -51,6 +51,24 @@ start with [this simple one](https://www.youtube.com/watch?v=2bv973aqx-w).
 then maybe go on to try for the bok snowglobe idea?
 
 
+### COMPOSITING
+
+
+Blender Compositing:
+
+https://www.youtube.com/watch?v=946A9Qq0BmY
+
+https://www.youtube.com/watch?v=CCPW9bVRYaE
+
+https://www.youtube.com/watch?v=W5KqXPCKBuI
+
+https://www.youtube.com/watch?v=thc0-1ze8po
+
+https://www.youtube.com/watch?v=n2WvmLjuog0
+
+https://www.youtube.com/watch?v=Eka75kHHBrA
+
+
 
 ### BOKS TO MAKE
 
