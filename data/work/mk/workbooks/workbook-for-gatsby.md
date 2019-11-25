@@ -1,6 +1,6 @@
 ---
 title: "Gatsby Workbook"
-tags: 
+tags:
   - gatsby
   - code
   - marlon
@@ -17,8 +17,7 @@ tags:
 - github for [gatsby-source-airtable](https://github.com/jbolda/gatsby-source-airtable/blob/master/examples/recipes-with-photos/src/templates/recipeTemplate.js)
 - [additional gatsby tutorials](https://www.gatsbyjs.org/tutorial/additional-tutorials/)
 - [gatsby plugin for remote images](https://www.gatsbyjs.org/packages/gatsby-plugin-remote-images/)
-- 
-
+- gatsby without `gatsby new` right [here](https://www.gatsbyjs.org/docs/setting-up-gatsby-without-gatsby-new/).
 
 * gatsby
 	* create new site
@@ -42,7 +41,7 @@ tags:
 	* some links
 		* [troubleshooting trailing slashes](https://spectrum.chat/gatsby-js/general/serving-gatsby-website-on-path~93ef04bc-4749-4648-8ddb-ef8aedfec56a)
 		* gatsby [pathPrefix](https://www.gatsbyjs.org/docs/path-prefix/) docs
-		* 
+		*
 * write a custom list of Airtable stuff
 * [additional gatsby tutorials](https://www.gatsbyjs.org/tutorial/additional-tutorials/)
 * need `function normMarkdownMetadata (node) { return newNodeWithNormedMetadata }`
