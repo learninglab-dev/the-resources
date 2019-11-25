@@ -28,7 +28,7 @@ C --> G[Play Sound on Collision with Object]
 
 **How to Add a Standard Assets Controller.** Need an avatar in your scene that your player can control?  Learn how to add the two kinds of controllers that come free with Unity's Standard Assets package.
 
-**How to Make Your Own Simple Controller.** Need an avatar in your scene that your player can control? Learn how to make a
+**[How to Make Your Own Simple Controller.](https://www.youtube.com/watch?v=C0r451Oj540)** Need an avatar in your scene that your player can control, but don't want to use the Standard Assets? Learn how to make any game object (in this case, a cube) into a controller with simple movement capabilities.
 
 ## Making Things Happen with the Keyboard
 
@@ -68,9 +68,9 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NzAxMzU2LC04MDI4NjI0MTksLTMxMj
-E5Njk3MywtMTQ0NDIyODk0MCw5NjMxNTAzODYsLTE3MzkzNjk1
-MzUsMzA0ODQ0MzEzLC00NjAzMDE1MiwxNjYxMzAyNjgzLC0xND
-M4NTUwMjA3LC04Nzk3MTUyODcsLTIwNTc3MjkxMDMsMTAwNzkx
-OTMyMiwxMTU4OTA2ODAyXX0=
+eyJoaXN0b3J5IjpbMTYxNDE0Mzg4OCwtODAyODYyNDE5LC0zMT
+IxOTY5NzMsLTE0NDQyMjg5NDAsOTYzMTUwMzg2LC0xNzM5MzY5
+NTM1LDMwNDg0NDMxMywtNDYwMzAxNTIsMTY2MTMwMjY4MywtMT
+QzODU1MDIwNywtODc5NzE1Mjg3LC0yMDU3NzI5MTAzLDEwMDc5
+MTkzMjIsMTE1ODkwNjgwMl19
 -->
