@@ -1,3 +1,10 @@
+---
+title: "Gatsby Workbook"
+tags: 
+  - gatsby
+  - code
+  - marlon
+---
 # GATSBY WORKBOOK
 
 ## LINKS TO LEARN FROM
@@ -119,8 +126,14 @@ cd tutorial-part-four
 *
 
 next up: https://www.gatsbyjs.org/tutorial/part-five/
+<<<<<<< HEAD
 
 
 #### AIRTABLE DEEP LINKING
 
 NOTE: when perfoming "deep linking" of Airtable tables, you need to grab all of the tables you need to perform the links (it doesn't "see" that you need linked records from another table and grab them for you automatically--you need to pull in that table, and, presumably, to make sure that the view you've chosen contains everything you need to make all those links work)k
+=======
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxNzUwNjU2OF19
+-->
+>>>>>>> 0a4ddd78c770b0a9590cd30cd6283b3872297124
