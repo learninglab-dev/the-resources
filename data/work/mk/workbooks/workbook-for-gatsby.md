@@ -62,7 +62,10 @@ tags:
 
 
 ## THE TOOLS
+# GATSBY WORKBOOK
 
+## THE TOOLS
+these are things. to learn.
 
 ![graphyQL](https://cdn-media-1.freecodecamp.org/images/1*49DDRZhUWvVnH-QNHuSUSw.png)
 
@@ -136,3 +139,6 @@ NOTE: when perfoming "deep linking" of Airtable tables, you need to grab all of 
 eyJoaXN0b3J5IjpbLTIxNzUwNjU2OF19
 -->
 >>>>>>> 0a4ddd78c770b0a9590cd30cd6283b3872297124
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMxNzczOTIyOF19
+-->
