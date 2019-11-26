@@ -47,7 +47,7 @@ C --> G[Play Sound on Collision with Object]
 
 **[Print Message on Mouse Click.](https://youtu.be/2Vdnk1WNIHI)** Get Unity to send you a message in the debug log whenever you click the mouse. 
 
-**Change Object Color on Mouse Click.** Make an object change color when you click the mouse *anywhere on the screen*.
+**[Change Object Color on Mouse Click.](https://www.youtube.com/watch?v=yHqdbiX9rDc&feature=youtu.be)** Make an object change color when you click the mouse *anywhere on the screen*.
 
 **Make Text Appear on Mouse Click.** Make a text box or similar pop up when you click on a *specific object* in the game world.
 
@@ -71,7 +71,7 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMzExMTIyLDE2MTQxNDM4ODgsLTgwMj
+eyJoaXN0b3J5IjpbLTQwNDQwOTcwLDE2MTQxNDM4ODgsLTgwMj
 g2MjQxOSwtMzEyMTk2OTczLC0xNDQ0MjI4OTQwLDk2MzE1MDM4
 NiwtMTczOTM2OTUzNSwzMDQ4NDQzMTMsLTQ2MDMwMTUyLDE2Nj
 EzMDI2ODMsLTE0Mzg1NTAyMDcsLTg3OTcxNTI4NywtMjA1Nzcy
