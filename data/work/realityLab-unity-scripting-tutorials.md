@@ -26,6 +26,8 @@ C --> G[Play Sound on Collision with Object]
  
 **[Castle in the  Sky.](https://www.youtube.com/watch?v=14N5oHBaOSE&feature=youtu.be)**  Build a Unity scene fit for a monarch while getting a tour of the user interface and learning basic transform tools, camera manipulation, and how to add objects.
 
+## Adding Controllers
+
 **How to Add a Standard Assets Controller.** Need an avatar in your scene that your player can control?  Learn how to add the two kinds of controllers that come free with Unity's Standard Assets package.
 
 **[How to Make Your Own Simple Controller.](https://www.youtube.com/watch?v=C0r451Oj540)** Need an avatar in your scene that your player can control, but don't want to use the Standard Assets? Learn how to make any game object (in this case, a cube) into a controller with simple movement capabilities.
@@ -68,9 +70,9 @@ C --> G[Play Sound on Collision with Object]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDE0Mzg4OCwtODAyODYyNDE5LC0zMT
-IxOTY5NzMsLTE0NDQyMjg5NDAsOTYzMTUwMzg2LC0xNzM5MzY5
-NTM1LDMwNDg0NDMxMywtNDYwMzAxNTIsMTY2MTMwMjY4MywtMT
-QzODU1MDIwNywtODc5NzE1Mjg3LC0yMDU3NzI5MTAzLDEwMDc5
-MTkzMjIsMTE1ODkwNjgwMl19
+eyJoaXN0b3J5IjpbLTQ3MjcxNDc2LDE2MTQxNDM4ODgsLTgwMj
+g2MjQxOSwtMzEyMTk2OTczLC0xNDQ0MjI4OTQwLDk2MzE1MDM4
+NiwtMTczOTM2OTUzNSwzMDQ4NDQzMTMsLTQ2MDMwMTUyLDE2Nj
+EzMDI2ODMsLTE0Mzg1NTAyMDcsLTg3OTcxNTI4NywtMjA1Nzcy
+OTEwMywxMDA3OTE5MzIyLDExNTg5MDY4MDJdfQ==
 -->
