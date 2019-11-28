@@ -109,6 +109,13 @@ and before graphQL [swagger](https://github.com/swagger-api/swagger-codegen)
 ## NOTES
 
 
+### WORKING ON PATH-PREFIX
+
+lots of issues. links to common.js and socket.io seem broken.
+
+Ultimately do a standalon socket tutorial like [this](https://alligator.io/nodejs/intro-to-socketio/) to understand what's happening under the hood?
+
+
 ### ADD TO GATSBY WORKBOOK
 
 link to gatsby basics site: https://mkuzmick.github.io/gatsby-basics/
