@@ -1,3 +1,59 @@
+# PROJECT UNICORN
+
+most of this is secret for now . . . but elements involving the technical requirements will show up here.
+
+## GATSBY
+* nice [link to Gatsby-netlify-blog example](https://www.gatsbyjs.org/starters/?v=2)
+* [another Gatsby blog template](https://www.gatsbyjs.org/starters/greglobinski/gatsby-starter-hero-blog/) to check out
+
+
+### gatbsby-subfolder.schedule
+Start : 2019-11-26 12:50
+work on gatsby in folder for 15 minutes
+rest for 5 minutes
+work for 15 minutes
+rest for 5 minutes
+work for 15 minutes
+
+### GATSBY-UNICORN.todo
+- fork the show
+- create new gatsby within `the-show/gatsby/`
+- add relevant elements to .gitignore (or does it already ignore them)
+- use `gatsby-source-filesystem` to reference markdown files in `/data/work`
+- create a new build script that builds and then copies all static gatsby files to `/work` subfolder of public
+	- OR handle work route by sending file from relevant spot in `/gatsby` folder?
+- if this works, then duplicate in `the-show` itself
+- start creating components (and routes?)
+	- svg cutouts as backgrounds for relevant stuff
+	- video embed component
+	- still embed component
+	- still gallery component
+- styling in react
+	- [this](https://blog.alexdevero.com/style-react-components-pt1/) overview
+	- styled components
+	- css modules
+	- emotion
+- try
+	- github pages
+	- aws amplify
+	- netlify
+	- gatsby [gallery](https://www.gatsbyjs.org/packages/gatsby-theme-gallery/)
+	- [masonry with Gatsby](https://blog.usejournal.com/building-highly-performant-masonry-layouts-with-gatsby-js-54115acc3e72) but without client side js?
+	- look into [gatsby-source-github](https://www.gatsbyjs.org/packages/gatsby-source-github/?=)
+
+handle video in gatsby
+- gatsby [working with video](https://www.gatsbyjs.org/docs/working-with-video/) page
+- [gatsby-source-youtube](https://www.gatsbyjs.org/packages/gatsby-source-youtube/) reference
+- [gatsby-remark-embed-youtube](https://www.gatsbyjs.org/packages/gatsby-remark-embed-youtube/) looks ok too
+- or [gatsby-remark-embed-video](https://www.gatsbyjs.org/packages/gatsby-remark-embed-video/?=video) may be even better
+
+* nice [link to Gatsby-netlify-blog example](https://www.gatsbyjs.org/starters/?v=2)
+* [another Gatsby blog template](https://www.gatsbyjs.org/starters/greglobinski/gatsby-starter-hero-blog/) to check out
+
+
+
+
+
 ---
 title: "Gatsby Workbook"
 tags:
