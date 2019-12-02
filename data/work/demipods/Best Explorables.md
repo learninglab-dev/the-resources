@@ -17,16 +17,21 @@ Let's Learn About Waveforms
 
 **Explorable 2:**
 Something Something Soup Something
-<insert photo link here>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJ07joGPvfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<insert photo link here>
 
 **Explorable 3:**
 Get started making music.
 <insert photo link here>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SGFy1ig1L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Explorable 4:**
+Get started making music.
+<insert photo link here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SGFy1ig1L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njk5NDE4MCwtMTg0NTM1MDI2NCwtMT
+eyJoaXN0b3J5IjpbLTExNTI1ODUwNiwtMTg0NTM1MDI2NCwtMT
 IwMDcwNjU3NCwtODQ4MzUyMTU1LDQ5NzgxODgxMCw3MzA5OTgx
 MTZdfQ==
 -->
