@@ -12,8 +12,14 @@ Explorables come in all shapes and sizes, but, some are more effective at commun
 **Explorable 1:**
 Let's Learn About Waveforms
 <insert photo link here>
-<<iframe width="560" height="315" src="https://www.youtube.com/embed/MWKBLV7AwPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWKBLV7AwPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**Explorable 1:**
+Let's Learn About Waveforms
+<insert photo link here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWKBLV7AwPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODM1MjE1NSw0OTc4MTg4MTAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA4NzU3OTQ3NSwtODQ4MzUyMTU1LDQ5Nz
+gxODgxMCw3MzA5OTgxMTZdfQ==
 -->
