@@ -37,12 +37,11 @@ Get started making music:
 
 
 **Explorable 4:**
-Get started making music.
+A Taste of Artificial Intelligence (AI)
 <insert photo link here>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4SGFy1ig1L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6UB2vGKOlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDQzMzIyNSwtMTg0NTM1MDI2NCwtMT
-IwMDcwNjU3NCwtODQ4MzUyMTU1LDQ5NzgxODgxMCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTM5MjUzNTExNiwxMDc0NDMzMjI1LC0xOD
+Q1MzUwMjY0LC0xMjAwNzA2NTc0LC04NDgzNTIxNTUsNDk3ODE4
+ODEwLDczMDk5ODExNl19
 -->
