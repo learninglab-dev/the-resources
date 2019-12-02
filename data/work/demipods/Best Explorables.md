@@ -16,10 +16,11 @@ Let's Learn About Waveforms
 
 
 **Explorable 2:**
-Let's Learn About Waveforms
+Something Something Soup Something
 <insert photo link here>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJ07joGPvfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzcyNjU2LC0xMjAwNzA2NTc0LC04ND
-gzNTIxNTUsNDk3ODE4ODEwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA2MDQ1ODU5MywtMTIwMDcwNjU3NCwtOD
+Q4MzUyMTU1LDQ5NzgxODgxMCw3MzA5OTgxMTZdfQ==
 -->
