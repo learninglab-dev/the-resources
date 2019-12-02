@@ -16,7 +16,7 @@ Let's Learn About Waveforms:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MWKBLV7AwPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+<insert comments about this explorable>
 
 **Explorable 2:**
 Something Something Soup Something:
@@ -24,10 +24,17 @@ Something Something Soup Something:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJ07joGPvfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <insert photo link here>
 
+<insert comments about this explorable>
+
+
 **Explorable 3:**
-Get started making music.
+Get started making music:
+[https://learningmusic.ableton.com/index.html](https://learningmusic.ableton.com/index.html)
 <insert photo link here>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SGFy1ig1L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<insert comments about this explorable>
+
 
 **Explorable 4:**
 Get started making music.
@@ -35,7 +42,7 @@ Get started making music.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SGFy1ig1L8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzE4NTE3NCwtMTg0NTM1MDI2NCwtMT
+eyJoaXN0b3J5IjpbMTA3NDQzMzIyNSwtMTg0NTM1MDI2NCwtMT
 IwMDcwNjU3NCwtODQ4MzUyMTU1LDQ5NzgxODgxMCw3MzA5OTgx
 MTZdfQ==
 -->
