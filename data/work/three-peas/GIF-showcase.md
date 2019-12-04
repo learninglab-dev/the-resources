@@ -8,12 +8,14 @@
 - [ ] record a video!
 	- open the QuickTime Player application
 	- go to File -> New Video Recording (shortcut: command + option + N)
+		- tip: make some noise at some point in the recording! 
 	- save your video to the Desktop
 	- copy the file pathname 
 		- right click the file, hold down option, and click Copy "[filename].mov" as Pathname
 - [ ] in the Terminal, run `tools --peakGif [file pathname]
+- [ ] enjoy your GIF!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA0MTI1MTddfQ==
+eyJoaXN0b3J5IjpbMTU2Njg5MTY1OF19
 -->
