@@ -1,16 +1,18 @@
 
 
-1. open Terminal
-2. navigate to gif-machine
+- [ ] open Terminal
+- [ ] navigate to gif-machine
 	- `cd Desktop`
 	- `cd Development`
 	- `cd gif-machine`
-3. record a video!
+- [ ] record a video!
 	- open the QuickTime Player application
-	- go to File --> New Video Recording (shortcut: command + option + N)
-	- 
+	- go to File -> New Video Recording (shortcut: command + option + N)
+	- save your video to the Desktop
+	- copy the file pathman 
+		- right click the file, hold down option,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNjI5Mzc4XX0=
+eyJoaXN0b3J5IjpbMTk0Njg2NDI0M119
 -->
