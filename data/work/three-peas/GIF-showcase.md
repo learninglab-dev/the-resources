@@ -6,8 +6,8 @@
 *Happy GIF making! <3*
 
 Steps:
-- [ ] open Terminal 
-- [ ] navigate to gif-machine
+[ ] open Terminal 
+[ ] navigate to gif-machine
 	- `cd Desktop`
 	- `cd Development`
 	- `cd gif-machine`
@@ -23,5 +23,6 @@ Steps:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMTEwMjUyLC0yMTI0MTU4OTE0XX0=
+eyJoaXN0b3J5IjpbLTE0NjIxNTc5MzQsLTIxMjQxNTg5MTRdfQ
+==
 -->
