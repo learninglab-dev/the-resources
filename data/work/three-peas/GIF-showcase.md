@@ -1,6 +1,6 @@
-
-
-- [ ] open Terminal
+## Audio Peak GIF Generator
+### make your own GIF with these steps:
+- [ ] open Terminal 
 - [ ] navigate to gif-machine
 	- `cd Desktop`
 	- `cd Development`
@@ -17,5 +17,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njg5MTY1OF19
+eyJoaXN0b3J5IjpbLTEwNzQyOTAyNDRdfQ==
 -->
