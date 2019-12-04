@@ -1,6 +1,7 @@
 ## Audio Peak GIF Generator
 ### make your own GIF with these simple steps!
-> this program combined the audiopeaks project (which sought to develop code that located the moments of peak audio within a video clip) and the GIFmachine project (which produced a program that enabled users to create gifs in the command line!)
+> this program combined the **audiopeaks** project (which sought to develop code that located the moments of peak audio within a video clip) and the **GIF-machine** project (which produced a program that enabled users to create gifs in the command line!)
+
 - [ ] open Terminal 
 - [ ] navigate to gif-machine
 	- `cd Desktop`
@@ -18,5 +19,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDYxNjAyMF19
+eyJoaXN0b3J5IjpbMTcyMjkxNjA5M119
 -->
