@@ -10,9 +10,9 @@
 	- go to File -> New Video Recording (shortcut: command + option + N)
 	- save your video to the Desktop
 	- copy the file pathman 
-		- right click the file, hold down option,
+		- right click the file, hold down option, and click Copy "filename" as Pathname
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njg2NDI0M119
+eyJoaXN0b3J5IjpbMjA3MjU2NTE3Nl19
 -->
