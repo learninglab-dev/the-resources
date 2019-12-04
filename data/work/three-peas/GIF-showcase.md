@@ -2,6 +2,7 @@
 ### Make your own GIF from your own videos with these simple steps!
 > this program combined the **audiopeaks** project (which sought to develop code that located the moments of peak audio within a video clip) and the **GIF-machine** project (which produced a program that enabled users to create gifs in the command line!)
 
+
 *Happy GIF making! <3*
 
 Steps:
@@ -22,5 +23,5 @@ Steps:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQxNTg5MTRdfQ==
+eyJoaXN0b3J5IjpbNzMxMTEwMjUyLC0yMTI0MTU4OTE0XX0=
 -->
