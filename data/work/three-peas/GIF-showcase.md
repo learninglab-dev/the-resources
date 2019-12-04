@@ -6,22 +6,23 @@
 *Happy GIF making! <3*
 
 Steps:
-[ ] open Terminal 
-[ ] navigate to gif-machine
+1. open Terminal 
+2. navigate to gif-machine
 	- `cd Desktop`
 	- `cd Development`
 	- `cd gif-machine`
-- [ ] record a video!
+3. record a video!
 	- open the QuickTime Player application
 	- go to File -> New Video Recording (shortcut: command + option + N)
 		- tip: make some noise at some point in the recording! 
 	- save your video to the Desktop
 	- copy the file pathname 
 		- right click the file, hold down option, and click Copy "[filename].mov" as Pathname
-- [ ] in the Terminal, run `tools --peakGif [file pathname]`
-- [ ] enjoy your GIF!
+4. in the Terminal, run `tools --peakGif [file pathname]`
+5. enjoy your GIF!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQyODkwMiwtMjEyNDE1ODkxNF19
+eyJoaXN0b3J5IjpbMTc1OTYzNTUxMCwxOTg1NDI4OTAyLC0yMT
+I0MTU4OTE0XX0=
 -->
