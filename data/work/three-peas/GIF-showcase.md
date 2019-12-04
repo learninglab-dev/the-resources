@@ -11,9 +11,9 @@
 	- save your video to the Desktop
 	- copy the file pathname 
 		- right click the file, hold down option, and click Copy "[filename].mov" as Pathname
-- [ ] in the Terminal, run `--tools peakGif [file pathname]
+- [ ] in the Terminal, run `tools --peakGif [file pathname]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NTE1ODAzXX0=
+eyJoaXN0b3J5IjpbLTE1NDA0MTI1MTddfQ==
 -->
