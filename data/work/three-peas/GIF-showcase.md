@@ -2,8 +2,10 @@
 
 Make a GIF from your own videos with these simple steps!
 > this program combined the **audiopeaks** project (which sought to develop code that located the moments of peak audio within a video clip) and the **GIF-machine** project (which produced a program that enabled users to create gifs in the command line!)
+
 *Happy GIF making! <3*
-Steps:
+
+**Steps:**
 1. open Terminal 
 2. navigate to gif-machine
 	- `cd Desktop`
@@ -21,6 +23,6 @@ Steps:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQyOTcyNjMsMzk4MTQ0MjU0LDE3NT
-k2MzU1MTAsMTk4NTQyODkwMiwtMjEyNDE1ODkxNF19
+eyJoaXN0b3J5IjpbNDQxNDk3Mzg5LDM5ODE0NDI1NCwxNzU5Nj
+M1NTEwLDE5ODU0Mjg5MDIsLTIxMjQxNTg5MTRdfQ==
 -->
