@@ -8,9 +8,8 @@ Make a GIF from your own videos with these simple steps!
 **Steps:**
 1. open Terminal 
 2. navigate to gif-machine
-	- `cd Desktop`
 	- `cd Development`
-	- `cd gif-machine`
+	- `cd the-tools`
 3. record a video!
 	- find a loud noisemaking device
 	- open the QuickTime Player application
@@ -24,7 +23,7 @@ Make a GIF from your own videos with these simple steps!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTYxNTEwNCw0NDE0OTczODksMzk4MT
-Q0MjU0LDE3NTk2MzU1MTAsMTk4NTQyODkwMiwtMjEyNDE1ODkx
-NF19
+eyJoaXN0b3J5IjpbLTE5NTg2NTg1MjcsMTk5OTYxNTEwNCw0ND
+E0OTczODksMzk4MTQ0MjU0LDE3NTk2MzU1MTAsMTk4NTQyODkw
+MiwtMjEyNDE1ODkxNF19
 -->
