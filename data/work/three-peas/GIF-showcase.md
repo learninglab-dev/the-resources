@@ -7,7 +7,7 @@ Make a GIF from your own videos with these simple steps!
 
 **Steps:**
 1. open Terminal 
-2. navigate to gif-machine
+2. navigate to the right folder
 	- `cd Development`
 	- `cd the-tools`
 3. record a video!
@@ -23,7 +23,7 @@ Make a GIF from your own videos with these simple steps!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg2NTg1MjcsMTk5OTYxNTEwNCw0ND
+eyJoaXN0b3J5IjpbLTEyMTQ3OTg2NzgsMTk5OTYxNTEwNCw0ND
 E0OTczODksMzk4MTQ0MjU0LDE3NTk2MzU1MTAsMTk4NTQyODkw
 MiwtMjEyNDE1ODkxNF19
 -->
