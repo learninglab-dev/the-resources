@@ -12,9 +12,10 @@ Make a GIF from your own videos with these simple steps!
 	- `cd Development`
 	- `cd gif-machine`
 3. record a video!
+	- find a loud noisemaking device
 	- open the QuickTime Player application
 	- go to File -> New Video Recording (shortcut: command + option + N)
-		- tip: make some noise at some point in the recording! 
+	- record yourself making sound!!
 	- save your video to the Desktop
 	- copy the file pathname 
 		- right click the file, hold down option, and click Copy "[filename].mov" as Pathname
@@ -23,6 +24,7 @@ Make a GIF from your own videos with these simple steps!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNDk3Mzg5LDM5ODE0NDI1NCwxNzU5Nj
-M1NTEwLDE5ODU0Mjg5MDIsLTIxMjQxNTg5MTRdfQ==
+eyJoaXN0b3J5IjpbODU4MjM2NTEzLDQ0MTQ5NzM4OSwzOTgxND
+QyNTQsMTc1OTYzNTUxMCwxOTg1NDI4OTAyLC0yMTI0MTU4OTE0
+XX0=
 -->
