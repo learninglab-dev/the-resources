@@ -46,7 +46,10 @@ Crowd Wisdom
 <insert photo link here>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVzRIcspgLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Best Example Explorables
+
+##
+## Best Tools to Make Amazing Explorables
+
 
 idyll : [https://idyll-lang.org/](https://idyll-lang.org/)
 
@@ -64,7 +67,7 @@ g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g
 
 ‘Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams’:  [http://aprt.us/](http://aprt.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjI3NzI1NSw0NTA0NjcyNDMsMTM5Mj
-UzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUwMjY0LC0xMjAwNzA2
-NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTU1MTE2ODI0LDQ1MDQ2NzI0MywxMzkyNT
+M1MTE2LDEwNzQ0MzMyMjUsLTE4NDUzNTAyNjQsLTEyMDA3MDY1
+NzQsLTg0ODM1MjE1NSw0OTc4MTg4MTAsNzMwOTk4MTE2XX0=
 -->
