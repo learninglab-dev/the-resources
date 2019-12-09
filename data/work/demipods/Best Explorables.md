@@ -40,8 +40,12 @@ Get started making music:
 A Taste of Artificial Intelligence (AI)
 <insert photo link here>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6UB2vGKOlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Explorable 5:**
+A Taste of Artificial Intelligence (AI)
+<insert photo link here>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjUzNTExNiwxMDc0NDMzMjI1LC0xOD
-Q1MzUwMjY0LC0xMjAwNzA2NTc0LC04NDgzNTIxNTUsNDk3ODE4
-ODEwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDUwNDY3MjQzLDEzOTI1MzUxMTYsMTA3ND
+QzMzIyNSwtMTg0NTM1MDI2NCwtMTIwMDcwNjU3NCwtODQ4MzUy
+MTU1LDQ5NzgxODgxMCw3MzA5OTgxMTZdfQ==
 -->
