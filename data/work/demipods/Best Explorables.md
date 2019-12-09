@@ -66,8 +66,37 @@ D3: [https://d3js.org/](https://d3js.org/)
 g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g9/gallery/](http://omrelli.ug/g9/gallery/)
 
 ‘Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams’:  [http://aprt.us/](http://aprt.us/)
+
+
+
+
+##
+## Quotes on Design that 
+
+Designing Interactions, Bill Moggridge:
+
+  
+
+‘In user interface design, a lot of it was by trial and error. We tried a bunch of things and out what did and what didn't work. A lot of it was empirically determined. I kept bringing new stuff in and saying ‘What about this?” and Larry would set up tests so that different people could try it.’
+
+  
+
+A really good question to ask is, “What do people expect? When people say an arrow, which way do they think it will move?”
+
+  
+
+“Oh right!”, I went, “This is what we want. We want everything to be apparent.”
+
+  
+
+“...the physical design had a perky cuteness that was very appealing”
+
+  
+
+“... something that would be both a tool and a toy, something that was fun to play with as well as as a tool for more serious drawings”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MTE2ODI0LDQ1MDQ2NzI0MywxMzkyNT
-M1MTE2LDEwNzQ0MzMyMjUsLTE4NDUzNTAyNjQsLTEyMDA3MDY1
-NzQsLTg0ODM1MjE1NSw0OTc4MTg4MTAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5MzE2OTg5NTQsNDUwNDY3MjQzLDEzOT
+I1MzUxMTYsMTA3NDQzMzIyNSwtMTg0NTM1MDI2NCwtMTIwMDcw
+NjU3NCwtODQ4MzUyMTU1LDQ5NzgxODgxMCw3MzA5OTgxMTZdfQ
+==
 -->
