@@ -68,10 +68,9 @@ g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g
 ‘Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams’:  [http://aprt.us/](http://aprt.us/)
 
 
-
-
 ##
 ## Quotes on Design that One Should Keep in Mind For Best User and Learner Experience
+     
 
 #### After reading through 'Designing Interactions' by Bill Moggridge:
 
@@ -85,7 +84,7 @@ g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g
 
 5. “... something that would be both a tool and a toy, something that was fun to play with as well as as a tool for more serious drawings”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTAzMjg1NiwtMTkzMTY5ODk1NCw0NT
+eyJoaXN0b3J5IjpbMTYxODc2NDg1OCwtMTkzMTY5ODk1NCw0NT
 A0NjcyNDMsMTM5MjUzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUw
 MjY0LC0xMjAwNzA2NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLD
 czMDk5ODExNl19
