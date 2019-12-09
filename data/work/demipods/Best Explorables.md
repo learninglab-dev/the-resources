@@ -42,10 +42,14 @@ A Taste of Artificial Intelligence (AI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6UB2vGKOlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Explorable 5:**
-A Taste of Artificial Intelligence (AI)
+Crowd Wisdom
 <insert photo link here>
+
+
+## Best Example Explorables
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDY3MjQzLDEzOTI1MzUxMTYsMTA3ND
-QzMzIyNSwtMTg0NTM1MDI2NCwtMTIwMDcwNjU3NCwtODQ4MzUy
-MTU1LDQ5NzgxODgxMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTYyNzA2Myw0NTA0NjcyNDMsMTM5Mj
+UzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUwMjY0LC0xMjAwNzA2
+NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLDczMDk5ODExNl19
 -->
