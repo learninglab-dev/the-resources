@@ -75,28 +75,18 @@ g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g
 
 #### After reading through 'Designing Interactions' by Bill Moggridge:
 
- 
+1.  ‘In user interface design, a lot of it was by trial and error. We tried a bunch of things and out what did and what didn't work. A lot of it was empirically determined. I kept bringing new stuff in and saying ‘What about this?” and Larry would set up tests so that different people could try it.’
 
-‘In user interface design, a lot of it was by trial and error. We tried a bunch of things and out what did and what didn't work. A lot of it was empirically determined. I kept bringing new stuff in and saying ‘What about this?” and Larry would set up tests so that different people could try it.’
+2. A really good question to ask is, “What do people expect? When people say an arrow, which way do they think it will move?”
 
-  
+3. “Oh right!”, I went, “This is what we want. We want everything to be apparent.”
 
-A really good question to ask is, “What do people expect? When people say an arrow, which way do they think it will move?”
+ 4. “...the physical design had a perky cuteness that was very appealing”
 
-  
-
-“Oh right!”, I went, “This is what we want. We want everything to be apparent.”
-
-  
-
-“...the physical design had a perky cuteness that was very appealing”
-
-  
-
-“... something that would be both a tool and a toy, something that was fun to play with as well as as a tool for more serious drawings”
+5. “... something that would be both a tool and a toy, something that was fun to play with as well as as a tool for more serious drawings”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTAzNjUsLTE5MzE2OTg5NTQsNDUwND
-Y3MjQzLDEzOTI1MzUxMTYsMTA3NDQzMzIyNSwtMTg0NTM1MDI2
-NCwtMTIwMDcwNjU3NCwtODQ4MzUyMTU1LDQ5NzgxODgxMCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU4MTAzMjg1NiwtMTkzMTY5ODk1NCw0NT
+A0NjcyNDMsMTM5MjUzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUw
+MjY0LC0xMjAwNzA2NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLD
+czMDk5ODExNl19
 -->
