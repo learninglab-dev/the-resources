@@ -61,11 +61,11 @@ ScrollLlamaJS: [https://github.com/russellgoldenberg/scrollama#scrollamajs](http
 
 D3: [https://d3js.org/](https://d3js.org/)
 
-[https://explorabl.es/tools/](https://explorabl.es/tools/)
-
 g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g9/gallery/](http://omrelli.ug/g9/gallery/)
 
 ‘Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams’:  [http://aprt.us/](http://aprt.us/)
+
+Explorables' Tools Section Provides a great Toolkit for such tools: [https://explorabl.es/tools/](https://explorabl.es/tools/)
 
 
 ##
@@ -84,8 +84,8 @@ g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g
 
 5. “... something that would be both a tool and a toy, something that was fun to play with as well as as a tool for more serious drawings”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODc2NDg1OCwtMTkzMTY5ODk1NCw0NT
-A0NjcyNDMsMTM5MjUzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUw
-MjY0LC0xMjAwNzA2NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzU3MjU2MTUzLC0xOTMxNjk4OTU0LDQ1MD
+Q2NzI0MywxMzkyNTM1MTE2LDEwNzQ0MzMyMjUsLTE4NDUzNTAy
+NjQsLTEyMDA3MDY1NzQsLTg0ODM1MjE1NSw0OTc4MTg4MTAsNz
+MwOTk4MTE2XX0=
 -->
