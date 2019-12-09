@@ -44,12 +44,27 @@ A Taste of Artificial Intelligence (AI)
 **Explorable 5:**
 Crowd Wisdom
 <insert photo link here>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVzRIcspgLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Best Example Explorables
 
+idyll : [https://idyll-lang.org/](https://idyll-lang.org/)
+
+Observable: [https://observablehq.com/](https://observablehq.com/)
+
+StackEdit: [https://stackedit.io/](https://stackedit.io/)
+
+ScrollLlamaJS: [https://github.com/russellgoldenberg/scrollama#scrollamajs](https://github.com/russellgoldenberg/scrollama#scrollamajs)
+
+D3: [https://d3js.org/](https://d3js.org/)
+
+[https://explorabl.es/tools/](https://explorabl.es/tools/)
+
+g9: easy interactive way to learn how explorables are made: [http://omrelli.ug/g9/gallery/](http://omrelli.ug/g9/gallery/)
+
+‘Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams’:  [http://aprt.us/](http://aprt.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYyNzA2Myw0NTA0NjcyNDMsMTM5Mj
+eyJoaXN0b3J5IjpbMTE5MjI3NzI1NSw0NTA0NjcyNDMsMTM5Mj
 UzNTExNiwxMDc0NDMzMjI1LC0xODQ1MzUwMjY0LC0xMjAwNzA2
 NTc0LC04NDgzNTIxNTUsNDk3ODE4ODEwLDczMDk5ODExNl19
 -->
