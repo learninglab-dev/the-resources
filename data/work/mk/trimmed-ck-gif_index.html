@@ -1,0 +1,71 @@
+
+  <style>
+    h1 {
+      text-align: center;
+      font-size: 100px;
+      font-weight: 900;
+      font-family: "Avenir Next";
+      margin-bottom: 0px;
+    }
+    h2 {
+      font-size: 20px;
+      font-weight: 500;
+      font-family: "Avenir Next"
+    }
+    .gif-wrap {
+      margin:auto;
+      width: 640px;
+    }
+
+    .img {
+      display: block;
+      margin: auto
+    }
+    .palette {
+      width: 100%;
+      image-rendering: optimizeSpeed;
+      image-rendering: -moz-crisp-edges;
+      image-rendering: -webkit-optimize-contrast;
+      image-rendering: optimize-contrast;
+      image-rendering: pixelated;
+    }
+  </style>
+  <body>
+    <div class="title">
+      <h1>gifMachine</h1>
+    </div>
+    <div class="gif-wrap">
+      <img class='gif' src='/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif_360.gif'></img>
+      <h2>input</h2>
+      <pre>{
+    &quot;width&quot;: 360,
+    &quot;height&quot;: 360,
+    &quot;ffmpegPath&quot;: &quot;ffmpeg&quot;,
+    &quot;keepPalette&quot;: true,
+    &quot;html&quot;: true,
+    &quot;inputFile&quot;: false,
+    &quot;configOptions&quot;: [
+        &quot;width&quot;,
+        &quot;height&quot;,
+        &quot;ffmpegPath&quot;,
+        &quot;outputFolder&quot;,
+        &quot;outputFilePath&quot;,
+        &quot;framerate&quot;,
+        &quot;html&quot;,
+        &quot;keepPalette&quot;
+    ],
+    &quot;_&quot;: [
+        &quot;/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif.mov&quot;
+    ],
+    &quot;$0&quot;: &quot;/usr/local/bin/gif&quot;,
+    &quot;outputFolder&quot;: &quot;/Users/mk/Development/the-show/data/work/mk&quot;
+}</pre>
+      <h2>output</h2>
+      <p>path to gif:</p>
+      <a href=/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif_360.gif><pre>/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif_360.gif</pre></a>
+      <p>path to palette: = .</p>
+      <pre>/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif_palette.png</pre>
+      <img class='palette' src='/Users/mk/Development/the-show/data/work/mk/trimmed-ck-gif_palette.png'></img>
+      <p>Delete them if you wish, but then this page won't work.</p>
+    </div>
+  </body>
