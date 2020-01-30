@@ -1,0 +1,14 @@
+{
+  "name": "@mkuzmick/logarithms",
+  "main": "43ce1d8135291d7d@3262.js",
+  "version": "3262.0.0",
+  "homepage": "https://observablehq.com/@mkuzmick/logarithms",
+  "author": {
+    "name": "mkuzmick",
+    "url": "https://observablehq.com/@mkuzmick"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
