@@ -7,9 +7,11 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var peopleRouter = require('./routes/people');
-var codelabRouter = require('./routes/codelab');
-var timelinesRouter = require('./routes/timelines');
-var workRouter = require('./routes/work');
+var simpleRouter = require('./routes/simple');
+var styledRouter = require('./routes/styled');
+var toolsRouter = require('./routes/tools');
+var projectsRouter = require('./routes/projects');
+var playlistsRouter = require('./routes/playlists');
 
 var app = express();
 require('dotenv').config();
@@ -26,9 +28,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/people', peopleRouter);
-app.use('/codelab', codelabRouter);
-app.use('/timelines', timelinesRouter);
-app.use('/work', workRouter);
+app.use('/simple', simpleRouter);
+app.use('/styled', styledRouter);
+app.use('/tools', toolsRouter);
+app.use('/projects', projectsRouter);
+app.use('/playlists', playlistsRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

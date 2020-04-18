@@ -3,9 +3,11 @@
   <head>
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/swiss.css' />
+    <meta property="og:image" content=<%- heroImage %>>
   </head>
   <body>
-    <h1><%= title %></h1>
-    <pre><%- JSON.stringify(json, null, 4)%></pre>
+    <div class="container">
+      <%- convertedMarkdown %>
+    </div>
   </body>
 </html>

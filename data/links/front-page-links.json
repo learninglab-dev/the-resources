@@ -1,0 +1,27 @@
+[
+  {
+    "url": "/simple",
+    "linkTitle": "simple folder-based index of resources",
+    "text": ""
+  },
+  {
+    "url": "/people",
+    "linkTitle": "resources by person",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+  },
+  {
+    "url": "/tools",
+    "linkTitle": "resources by tool",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+  },
+  {
+    "url": "/projects",
+    "linkTitle": "resources by project",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+  },
+  {
+    "url": "/playlists",
+    "linkTitle": "resources by playlist",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+  }
+]
