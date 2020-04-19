@@ -12,7 +12,6 @@ var prepMarkdown = async function(mdPath, options){
   try {
     var theStuff = await fm(await readFile(mdPath, {encoding: 'utf-8'}));
     theStuff.html = await marked(theStuff.body);
-
     if (/!\[.*\]\(.*\)/.test(theStuff.body)) {
       console.log("there's an image in the .md file!");
       theStuff.heroImage = theStuff.body.match(/!\[.*\]\(.*\)/)
@@ -24,7 +23,7 @@ var prepMarkdown = async function(mdPath, options){
       theStuff.heroImage = "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg"
     }
     theStuff.convertedMarkdown = marked(theStuff.body);
-    theStuff.title = path.basename(mdPath)
+    theStuff.title = theStuff.attributes.title ? theStuff.attributes.title : path.basename(mdPath);
     return theStuff;
   } catch (e) {
     console.log(e);
