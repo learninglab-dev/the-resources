@@ -6,6 +6,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
+var greatestHitsRouter = require('./routes/greatest-hits');
 var peopleRouter = require('./routes/people');
 var simpleRouter = require('./routes/simple');
 var styledRouter = require('./routes/styled');
@@ -33,6 +34,8 @@ app.use('/styled', styledRouter);
 app.use('/tools', toolsRouter);
 app.use('/projects', projectsRouter);
 app.use('/playlists', playlistsRouter);
+app.use('/greatest-hits', greatestHitsRouter);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
