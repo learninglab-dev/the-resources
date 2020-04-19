@@ -3,5 +3,15 @@
     "url": "/simple/projects/spark/animating-a-character",
     "linkTitle": "Animating a Character",
     "text": "A tutorial on animating a character with Adobe Character Animator."
+  },
+  {
+    "url": "/simple/projects/the-tools/tool-rename-tutorial",
+    "linkTitle": "Rename Script Tutorial",
+    "text": "How to write a simple renaming script with nodejs. Useful for video production."
+  },
+  {
+    "url": "/simple/projects/the-tools/documentation/modules/macsetup-for-slack.md",
+    "linkTitle": "Mac Setup Instructions",
+    "text": "Simple instructions for setting up an LL Mac."
   }
 ]
