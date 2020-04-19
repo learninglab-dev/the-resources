@@ -15,8 +15,17 @@
     "text": "Simple instructions for setting up an LL Mac."
   },
   {
-    "url": "/simple/projects/the-tools/documentation/modules/macsetup-for-slack.md",
-    "linkTitle": "Mac Setup Instructions",
-    "text": "Simple instructions for setting up an LL Mac."
+    "url": "/simple/projects/the-art-of-code/recipes/make-an-airtable-tool",
+    "linkTitle": "Make an Airtable Tool",
+    "text": "Simple instructions for accessing Airtable from the command line."
+  },
+  {
+    "url": "/simple/projects/the-art-of-code/recipes/rock-the-party-quickly",
+    "linkTitle": "Rock the Party, Quickly",
+    "text": "Simple instructions for writing a youtube downloading script."
   }
+
+
+
+
 ]
