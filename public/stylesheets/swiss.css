@@ -326,3 +326,11 @@ img {
   max-width: 100%;
   margin: auto;
 }
+
+.middle-gray {
+  color: rgba(150, 150, 150, 0.7);
+}
+
+.light-gray {
+  color: rgba(150, 150, 150, 0.59);
+}

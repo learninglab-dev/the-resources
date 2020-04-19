@@ -6,22 +6,22 @@
   },
   {
     "url": "/people",
-    "linkTitle": "resources by person",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+    "linkTitle": "(slick) resources by person",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
   },
   {
     "url": "/tools",
-    "linkTitle": "resources by tool",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+    "linkTitle": "(slick) resources by tool",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
   },
   {
     "url": "/projects",
-    "linkTitle": "resources by project",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+    "linkTitle": "(slick) resources by project",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
   },
   {
     "url": "/playlists",
-    "linkTitle": "resources by playlist",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo."
+    "linkTitle": "(slick) resources by playlist",
+    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
   }
 ]
