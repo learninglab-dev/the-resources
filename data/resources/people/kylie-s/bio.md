@@ -1,5 +1,5 @@
 # Kylie Simms
-![headshot](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNXzbkIMyZDAPkwZUyuSVMuqIuHWye9bSiSofk5cSljcF_ICoM&usqp=CAU)
+![headshot](https://files.slack.com/files-pri/T0HTW3H0V-FUQ8X8TK9/kyliee_360.gif?pub_secret=395d230225)
 
 ## Tools I work with:
 * Adobe Lightroom
