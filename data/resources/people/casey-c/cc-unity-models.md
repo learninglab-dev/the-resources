@@ -65,32 +65,38 @@ Unity always stores their materials separate from their objects, mostly this pre
 
 ## The How
 
+![Object, material](https://files.slack.com/files-pri/T0HTW3H0V-F012B2WV9FV/screen_shot_2020-04-21_at_2.08.05_pm.png?pub_secret=f716dd1d5d)
+
 We've almost made it now, we're about to get that asset all squared away and your game up and running! Now you just need to take your object file and your image file(and if you have one, your descriptor file) and drag them from your file system into the Unity Project Panel.
 
 From there, you should be able to see your 3d object and drag it into your scene. Its also possible that your object has a material at this point(frequently true with .fbx files), in which case, congratulations! You're set!
 
 If you are seeing a dark grey object that's the right shape, but the wrong color, then don't worry, you just have a few more steps.
 
+![Blank Object](https://files.slack.com/files-pri/T0HTW3H0V-F012B5H9Z5Z/step1.png?pub_secret=a9ffdb59a2)
+
 First of all, you'll need to extract the material, nagivate to the inspector tab with the object selected and click Select(if it doesn't look like the image below, skip this):
 
-
+![inspector](https://files.slack.com/files-pri/T0HTW3H0V-F0129HKLRKP/step2.png?pub_secret=46645ff8a6)
 
 Next up, click the Material tab, and select "Extract Materials":
 
-
+![](https://files.slack.com/files-pri/T0HTW3H0V-F012H4A9952/step3.png?pub_secret=d839b2bbf7)
 
 Just click "Choose", it's okay that nothing's selected:
 
-
+![](https://files.slack.com/files-pri/T0HTW3H0V-F012AURTY2E/step4.png?pub_secret=66faf1c04f)
 
 Now your Material should be separate from the object and editable, go ahead and select it:
 
-
+![](https://files.slack.com/files-pri/T0HTW3H0V-F0130Q3P07J/step5.png?pub_secret=fed7c109ea)
 
 Navigate to the inspector and select the tiny little "o" next to "Albedo":
 
-
+![](https://files.slack.com/files-pri/T0HTW3H0V-F0130Q40XK2/step6.png?pub_secret=578897f933)
 
 And finally, select the image that bears the same/similar name to your object!
+
+https://files.slack.com/files-pri/T0HTW3H0V-F012PHSQK09/step7.png?pub_secret=a89b1728c8
 
 From here on out, whenever you bring that object into your scene, it should retain the material information. If it doesn't, all you have to do is find that material in your Project panel and drag it over top of your object!
