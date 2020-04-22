@@ -1,0 +1,48 @@
+body {
+background: url(http://media.giphy.com/media/Jrd9E2kuPuOYM/giphy.gif) 50%;
+background-size: cover;
+}
+
+h1 {
+color: #9194FF;
+font-size: 42px;
+font-weight: 100;
+text-shadow: 2px 2px 4px #b7b9bd;
+text-align: center;
+font-family: Rockwell Extra Bold, Rockwell Bold, monospace;
+}
+
+h2 {
+color: #9D84E8;
+font-size: 34px;
+font-weight: 400;
+text-shadow: 2px 2px 4px #b7b9bd;
+font-family: Rockwell Extra Bold, Rockwell Bold, monospace;
+}
+
+h3 {
+color: #CF9EFE;
+font-size: 30px;
+font-weight: 300;
+text-shadow: 2px 2px 4px #b7b9bd;
+font-family: Rockwell Extra Bold, Rockwell Bold, monospace;
+}
+
+h4 {
+color: #D384E8;
+font-size: 25px;
+font-weight: 200;
+font-family: Rockwell Extra Bold, Rockwell Bold, monospace;
+}
+
+h5 {
+color: #FF91F3;
+font-size: 20px;
+font-weight: 100;
+font-family: monaco, monospace;
+}
+
+p {
+color: white;
+font-size: 12px;
+}
