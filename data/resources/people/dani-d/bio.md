@@ -13,4 +13,4 @@ _"Dani, perhaps embraced, perhaps imprisoned by velvet and truss, looks towards 
 * Github
 * Cameras
 
-I am a Program Coordinator at the Bok Center. I get to work with the Learning Lab on various media-focused projects, so I have been lucky to learn lots of different programs. I am currently learning basic html, markdown, and github, to help create a site to display the Pedagogy Fellows' capstone projects. This is allowing some great P&P and LL collaboration and giving me a greater understanding of web design which I will be able to use in the rest of my work at the Bok Center.
+Hi! I'm one of the Program Coordinators at the Bok Center. I get to work with the Learning Lab on various media-focused projects, so I have been lucky to learn lots of different programs. I am currently learning basic html, markdown, and github, to help create a site to display the Pedagogy Fellows' capstone projects. This is allowing some great P&P and LL collaboration as both sides of Bok explore these tools. It is also giving me a greater understanding of web design which I will be able to use in the rest of my work at the Bok Center.
