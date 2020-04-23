@@ -97,6 +97,26 @@ Navigate to the inspector and select the tiny little "o" next to "Albedo":
 
 And finally, select the image that bears the same/similar name to your object!
 
-https://files.slack.com/files-pri/T0HTW3H0V-F012PHSQK09/step7.png?pub_secret=a89b1728c8
+![](https://files.slack.com/files-pri/T0HTW3H0V-F012PHSQK09/step7.png?pub_secret=a89b1728c8)
 
 From here on out, whenever you bring that object into your scene, it should retain the material information. If it doesn't, all you have to do is find that material in your Project panel and drag it over top of your object!
+
+#### The How: pt II(because nothing is cut and dry)
+
+Sometimes you won't actually see the round, grey material ball, instead you might find a blank shape file, along with one or a few image files. This is just as simple, just follow these steps!
+
+Right click anywhere in the project pane and navigate to "Create" and select "Material"
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F011YULAXTR/screen_shot_2020-04-23_at_9.51.25_am.png?pub_secret=667dba599e)
+
+This will give you that round, grey material ball, select that.
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F0130Q3P07J/step5.png?pub_secret=fed7c109ea)
+
+Over in the Inspector pane, select the little circle next to "Albedo" and choose your image!
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F012PHSQK09/step7.png?pub_secret=a89b1728c8)
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F0130Q40XK2/step6.png?pub_secret=578897f933)
+
+You may be finished here. If you have more image files that might just look the same, but different colors, then what you have are texture maps or depth maps. They aren't necessary for rendering, they just create a greater depth of realism. If you'd like to add them in, you can follow the last two steps(on the same new Material you made). Only this time, selecting ["Depth map",](https://docs.unity3d.com/Manual/StandardShaderMaterialParameterHeightMap.html) ["Normal map",](https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html) or ["Detail mask"](https://docs.unity3d.com/Manual/StandardShaderMaterialParameterDetail.html)
