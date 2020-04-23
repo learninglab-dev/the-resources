@@ -8,4 +8,4 @@ For example, punctuation (e.g., commas, periods, etc.) and the spelling of prope
 
 Should you need to go in and adjust the captions that Youtube automatically generates for the videos that you upload, then this tutorial will be able to help.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45cgMqrd7qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2yrchzhhrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
