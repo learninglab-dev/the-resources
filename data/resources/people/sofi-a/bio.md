@@ -1,6 +1,5 @@
 # Sofi Andrade
-
-![picture of sofi](https://slack-files.com/T0HTW3H0V-F012MG4PED7-c7c23bfc0c) 
+![picture of sofi](https://files.slack.com/files-pri/T0HTW3H0V-F012MG4PED7/66c5d7b2-88aa-4227-a168-8d5bb0379a9b.jpg?pub_secret=c7c23bfc0c) 
 
 ## Tools I Work With
 ---
