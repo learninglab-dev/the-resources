@@ -1,4 +1,4 @@
-# Editing Auto-generated Captions in Youtube Videos
+# Editing Auto-Generated Captions in Youtube Videos
 
 ![Youtube screenshot](https://files.slack.com/files-pri/T0HTW3H0V-F012T02PGQH/screen_shot_2020-04-23_at_1.33.13_pm.png?pub_secret=99033622bc)
 
