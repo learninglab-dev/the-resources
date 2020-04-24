@@ -4,7 +4,7 @@ Hello hello, or, "meow meow" as Carole Baskin would say.
 
 I'm one of the MPA's at the Learning Lab. I get my paws dirty with assisting the creation of exciting multimedia projects!
 
-#### Recent work:
+### Recent work:
 
 - <https://spark.adobe.com/page/dJUTTLDI1gQkW>
 - <https://spark.adobe.com/sp/design/page/a9dd6e71-2eea-4cfa-97c9-a86f1c2b1c24>
@@ -44,7 +44,7 @@ Great question. As I mentioned, I'm a semester away from graduating from Emerson
 
 
 
-### Why Is This Story Important To Tell?
+## Why Is This Story Important To Tell?
 
 The films thematic elements is a blend of autobiographical experiences. The film explores themes from my life, as well as, some friends.  It's challenging, because all work is personal but not always directly autobiographical.
 
