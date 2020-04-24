@@ -1,5 +1,5 @@
 # Sophie Bauder
-[live footage of a cotton-candy bulldozer!](https://files.slack.com/files-pri/T0HTW3H0V-F012GR08WD9/sophie.jpg?pub_secret=925634f3a0)
+![live footage of a cotton-candy bulldozer!](https://files.slack.com/files-pri/T0HTW3H0V-F012GR08WD9/sophie.jpg?pub_secret=925634f3a0)
 ## Tools I Work With
 * HTML/CSS/Javascript
 * React.js
