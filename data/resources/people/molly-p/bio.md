@@ -1,7 +1,7 @@
 # Molly Peterson
 
 
-https://files.slack.com/files-pri/T0HTW3H0V-F012GP8E68K/ll-me.jpg?pub_secret=85c42d3563
+![it'sme!](https://files.slack.com/files-pri/T0HTW3H0V-F012GP8E68K/ll-me.jpg?pub_secret=85c42d3563)
 
 
 ## My Tools (with varying levels of proficiency)
