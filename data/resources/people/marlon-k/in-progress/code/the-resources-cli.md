@@ -30,11 +30,10 @@ If you now open up your project in your text editor (`atom .`) you'll see a `pac
 The "front door" to our command line tool is going to be a file we call `cli.js` and put in the root folder of our application. For now let's just put in some starter code to confirm that we can get it to run. Enter the following at the top of the file and then save:
 
 ```
+#!/usr/bin/env node
 console.log(`it's working`);
 ```
-Once you've done this, you'll be able to run the file by typing `node cli.js` into your terminal if the present working directory is your  `the-resources` folder (if you are elsewhere, you'll need to enter the full path to `cli.js`).
-
-
+Once you've done this, you'll be able to run the file by typing `./cli.js` into your terminal if the present working directory is your  `the-resources` folder (if you are elsewhere, you'll need to enter the full path to `cli.js`).
 
  Then we need to point to this file in the `package.json` document that we'll also find in the root of the repository. So add in the following json:
 
@@ -43,4 +42,4 @@ Once you've done this, you'll be able to run the file by typing `node cli.js` in
   "resource": "./cli.js"
 },
 ```
-You can check out this repo's completed doc [here](https://github.com/learninglab-dev/the-resources/blob/master/package.json) if you want to compare and contrast it with yours.
+You can check out this repo's completed doc [here](https://github.com/learninglab-dev/the-resources/blob/master/package.json) if you want to compare and contrast it with yours. This chunk of JSON is telling your computer (and any computer that installs your tool in the future) to run the
