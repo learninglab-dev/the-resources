@@ -4,7 +4,7 @@ So we received a request from CV on how to perform a series of different moves, 
 
 ![](https://i.gifer.com/2DTH.gif)
 
-Currently, we have several people working on this, so please consider this page to be a living document, to be repeatedly updated between now and 4/29, as answers come in. 
+Currently, we have several people working on this, so please consider this page to be a living document, to be repeatedly updated between now and 4/29, as answers come in.
 
 ### [Secreting cells](https://youtu.be/CEEi1TizGLA)
 
@@ -12,7 +12,7 @@ I want to illustrate a cell "secreting" things, such as antibodies and circles t
 
 - It's an interesting question, in that the process of "secreting" something away is rooted in social behaviors, so you're required to consider how someone acts when they're secreting and just apply motion that emphasizes those actions. In some ways, this also requires "peers" to be the ones that are being secreted from, hence all the other circles in the animation.
 
-### Applying a Throb Effect
+### [Applying a Throb Effect](https://www.youtube.com/watch?v=45Wbd8F65e0&amp=&feature=youtu.be)
 
 Are there ways to animate objects, like circles, so that they look like they are throbbing? I want to give an abstract representation of an inflamed cell/tissue.
 
