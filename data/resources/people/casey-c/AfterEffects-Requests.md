@@ -30,14 +30,14 @@ I want to illustrate a dying cell by having it gradually fade colors from white 
 
 - This is a function, that while simple, may be a bit unintuitive. The action of keyframing a Fill value is something that can be replicated in hundreds of applications within After Effects alone.
 
-### Scaling a Composition
+### [Scaling a Composition](https://youtu.be/uLrvHxb4roE)
 
 If I have a flow chart/diagram is there a way to "zoom into" individual elements of the flow chart to further elaborate on an individual step?
 
-- This is a conceptual challenge, although the idea is extraordinarily simple. It's a bit like laying all your materials out on a table top, and then zooming in onto each individual material. Video to follow.
+- This is a conceptual challenge, although the idea is extraordinarily simple. It's a bit like laying all your materials out on a table top, and then zooming in onto each individual material.
 
-### Animating Along Paths
+### [Animating Along Paths](https://youtu.be/1ITn1tg8QpU)
 
 How can I have multiple path-following animations going at once? I'm not sure how I will integrate this yet, but anticipate that it'll come up.
 
-- This is a cool effect that After Effects has that simply enables shape layers to be seen as "paths". All you have to do is stack a few series of paths and attach them to the objects you'd like to move along them. Video to follow.
+- This is a cool effect that After Effects has that simply enables shape layers to be seen as "paths". All you have to do is stack a few series of paths and attach them to the objects you'd like to move along them.
