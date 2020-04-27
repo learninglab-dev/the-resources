@@ -1,7 +1,7 @@
 # VIDEO EDITING TECHNIQUES
 This page discusses various video editing techniques you can perform, using FCPX.
 
-##L&J CUTS
+## L&J CUTS
 L-cuts are when the audio of the previous scene carries over into the next one, despite there being a picture change. J-cuts are when the audio of the of the next scene precedes the picture change, so it starts playing before the picture change.  
 
 In the walkthrough below I show you how to perform these cuts using FCPX.  
