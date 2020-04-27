@@ -20,8 +20,8 @@ This first video will tackle:
 * Retiming video clips
 * Creating freeze frames from your videos
 
-![](https://www.youtube.com/watch?v=CYZqpE31CXw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYZqpE31CXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And once all of your editing work is complete, you may be wondering how to export your sequence in a format that is shareable and up-loadable to Youtube, Vimeo, Google Drive, Canvas, etc. This second video will walk you through that. Good luck!
 
-![](https://youtu.be/1aUSkDGx_sA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1aUSkDGx_sA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
