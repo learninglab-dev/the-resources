@@ -31,7 +31,6 @@ You may find that you need a certain type of footage to reinforce an argument yo
 * [Pexels.com](https://www.pexels.com/videos/)
 * [Dareful.com](https://www.dareful.com/)
 * [Pixabay.com](https://pixabay.com/videos/)
-
 ## If all else fails...
 
 It may not be the most elegant solution, but you can also record video content that you intend to use, with your smartphone, a camera, or another external recording device.
