@@ -38,6 +38,8 @@ You may find that you need a certain type of footage to reinforce an argument yo
 
 It may not be the most elegant solution, but you can also record video content that you intend to use, with your smartphone, a camera, or another external recording device.
 
+You will need to cue up the footage on your laptop or tablet, then position your recording device such that you can see the entire screen of your video source, and then record that screen after pressing play. 
+
 ## A brief explanation of Fair Use
 
 If you have further questions about the application of Fair Use as it relates to incorporating third party media in creative academic projects, then [this page](https://www.youtube.com/about/copyright/fair-use/) will provide a bit more information on the subject.
