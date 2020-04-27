@@ -6,4 +6,4 @@ Unfortunately, there aren't many ways to speed up Unity, the main thing is closi
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F0125M79S1M/screen_shot_2020-04-27_at_10.41.00_am.png?pub_secret=69edce1f11)
 
-The unfortunate part of all of this is that once you get to the stage of recording your walkthrough, you'll obviously need these objects to be visible. At that point, you'll just want to make sure every other running process is terminated. For those that simply can't run the program because of computer limitations, we may be able to connect with someone that has a sufficiently fast machine. 
+The unfortunate part of all of this is that once you get to the stage of recording your walkthrough, you'll obviously need these objects to be visible. At that point, you'll just want to make sure every other running process is terminated. If you've followed all of these tips and are still having difficulty recording a walkthrough of your seen, get in touch with the learning lab at [help.learninglab.xyz](help.learninglab.xyz)
