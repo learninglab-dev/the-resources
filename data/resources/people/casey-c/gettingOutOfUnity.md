@@ -31,3 +31,12 @@ Once you've found the right screen recording software for you, all you'll need t
 If you're looking to talk while you're walking through, make sure the recording software you chose can support this. If it doesn't, you can always record it on your phone and connect the video and audio using iMovie or Adobe Premiere(which is temporarily free for anyone with a college email).
 
 Once this is done(don't forget to hit stop!), you should have a
+
+
+# [Challenge Mode](https://unity.com/unity/features/editor/art-and-design/cinemachine)
+
+If you're really looking to create something beautiful and cinematic after investing so much time and energy into your gallery, there are other tools you can use for this. Cinemachine is the go-to engine for creating game cinematics and 3D animations in Unity. The documentation is linked above, but below I'll put some extra resources that might help you move down this path! Happy Building! 
+
+  - [Unity's official "Getting Started" walkthrough](https://www.youtube.com/watch?v=x6Q5sKXjZOM)
+  - [Brackey's Intro to Cinemachine tutorial](https://www.youtube.com/watch?v=Gx9gZ9cfrys)
+  - [Chipp Walters' Video Output Workflow guide](https://www.youtube.com/watch?v=Fd85DmMr4pU)
