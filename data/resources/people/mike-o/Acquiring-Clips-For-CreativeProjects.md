@@ -1,5 +1,7 @@
 # Acquiring Video Clips for Creative Projects
 
+![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
+
 A lot of the protection that exists around video exists to stop piracy, and you have to be careful that what you're doing is actually legal. This response is going to bracket that question, but you are typically covered by [Fair Use](https://fairuse.stanford.edu/overview/fair-use/four-factors/) if you want to use clips from a video in an academic project. However, actually getting those clips legally is sometimes difficult.
 
 Here are some options for acquiring video clips from different types of sources.
