@@ -12,7 +12,7 @@ Here are some options for acquiring video clips from different types of sources.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ipwh2ketcO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Option 2: [VLC](https://www.videolan.org/vlc/) - Here is more widely known as a media player, but it also has functionality for ripping DVD's. Here is a Youtube video showing how to install and use the program for this purpose:
+* Option 2: [VLC](https://www.videolan.org/vlc/) - VLC is more widely known as a media player, but it also has functionality for ripping DVD's. Here is a Youtube video showing how to install and use the program for this purpose:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOAeL0vxmDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
