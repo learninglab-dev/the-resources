@@ -1,0 +1,36 @@
+h1 {
+  color: #4e6785;
+  font-size: 48px;
+  font-weight: regular;
+  font-family: Brushstroke, fantasy;
+  text-shadow: -2px 1px 4px black;
+  text-align: center; 
+}
+h2 {
+  color: #cfa5ce;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Impact, fantasy;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h3 {
+  color: #203247;
+  font-size: 36px;
+  font-weight: regular;
+  font-family: Florence, cursive;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+p {
+  color: black;
+  font-size: 12px;
+  font-weight: regular;
+  font-family: Palatino, serif;
+  text-align: left;
+  line-height: 1.5;
+  margin-left: 20px;
+  margin-right: 20px;
+}

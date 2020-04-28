@@ -1,5 +1,7 @@
 # Importing Open Source Models into Unity
 
+Often times the Sketchfab to Unity workflow can be a bit frustrating. There really is a relatively simple process that will get you set up. Feel free to skip to the "How" for a step-by-step workflow, but the rest of the document may be able to alert you to potential troubleshooting stumbling blocks, so I'd encourage not to jump too quickly to skip over what might seem immediately unnecessary. 
+
 ## The What
 
 Unity tends to be a little bit finicky on how it would like to import your models. Added to this, there isn't a singular format that has been normalized as the go-to option for delivering 3D models. So when you go to download a model from an open source site, you might find a combination of several different options. In this, I'm going to attempt to parse these options out and help you decide which one is best for you. Note: this is not a completely comprehensive list, and there are some file types out there that may not work with Unity, this just covers the vast majority of them.
