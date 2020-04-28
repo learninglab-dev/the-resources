@@ -1,6 +1,3 @@
-
-
-
 # Acquiring Video Clips for Creative Projects
 
 ![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
