@@ -18,11 +18,11 @@ Are there ways to animate objects, like circles, so that they look like they are
 
 - This is a great opportunity for an aesthetic challenge. The actual animation itself is actually extremely simple, just to scale up ~20% and then scale down ~20%, repeat. We took the opportunity, though, to highlight how you might punch up the style of this a little bit, you can find it linked above.
 
-### Divide and Multiply Animation
+### [Divide and Multiply Animation](https://youtu.be/43sTSOgB69E)
 
 I want to illustrate cancer. Is there a way to have a bunch of circles, representing cells, to rapidly divide and multiply in a way that forms a tumor-like cluster?
 
-- This is by far the more complicated animation of this set, we'll be releasing a video soon, addressing exactly this!
+- This is by far the more complicated animation of this set. Here is how you might approach creating it using simple, if repetitive motions. 
 
 ### [Fading a Shape Layer](https://youtu.be/DojwLWjF-10)
 
