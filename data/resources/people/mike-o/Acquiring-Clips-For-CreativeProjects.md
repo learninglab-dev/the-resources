@@ -2,9 +2,11 @@
 
 ![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
 
-A lot of the protection that exists around video exists to stop piracy, and you have to be careful that what you're doing is actually legal. This response is going to bracket that question, but you are typically covered by [Fair Use](https://fairuse.stanford.edu/overview/fair-use/four-factors/) if you want to use clips from a video in an academic project. However, actually getting those clips legally is sometimes difficult.
+NOTE: The methods covered in this response can aid you with the technical solutions to acquiring clips for your project, but to understand the legal side of things you should consult expert guidelines on [Fair Use](https://fairuse.stanford.edu/overview/fair-use/four-factors/) to make sure that what you are doing falls within those guidelines. Generally speaking if you are "quoting" a small piece of a film in a video essay you create for a course you should be covered, but, again, consult the expert guidelines to get a clearer picture of the rules surrounding Fair Use.
 
-Here are some options for acquiring video clips from different types of sources.
+As well, popular streaming apps such as Netflix, Hulu, and others, incorporate anti-piracy technology that can prevent you from even taking a screenshot of a video that you are watching on those platforms. So navigating this issue can be challenging!
+
+With that said, though, here are some options for acquiring video clips from different types of sources.
 
 ## Capturing from DVD
 
@@ -38,7 +40,7 @@ You may find that you need a certain type of footage to reinforce an argument yo
 
 It may not be the most elegant solution, but you can also record video content that you intend to use, with your smartphone, a camera, or another external recording device.
 
-You will need to cue up the footage on your laptop or tablet, then position your recording device such that you can see the entire screen of your video source, and then record that screen after pressing play. 
+You will need to cue up the footage on your laptop or tablet, then position your recording device such that you can see the entire screen of your video source, and then record that screen after pressing play.
 
 ## A brief explanation of Fair Use
 
