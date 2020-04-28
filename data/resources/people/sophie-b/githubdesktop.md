@@ -1,4 +1,5 @@
 # A Quick Guide to GitHub Desktop
+![logo image](https://education.github.com/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg)
 With this tutorial, you'll learn how to download & use GitHub Desktop for all your coding needs! Once you get the hang of it, this app makes collaborating over GitHub super easy! After reading this guide, try the simple HTML/CSS tutorial at the end to test your new skills.
 
 ## Table of Contents
