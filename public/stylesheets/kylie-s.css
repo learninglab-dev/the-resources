@@ -1,0 +1,45 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Girassol&family=Lato&display=swap');
+/* CSS Document */
+
+body{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+h1 {
+  color: #610b0b;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Girassol', cursive;
+  text-align: center;
+}
+
+h2 {
+  color: #8c0f0f;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: 'Girassol', cursive;
+}
+
+h3 {
+  color: #bf3939;
+  font-size: 25px;
+  font-family: 'Girassol', cursive;
+}
+
+p {
+  color: #914a4a;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+  text-align: justify;
+  line-height: 1.75;
+}
+img {
+  width: 75vw;
+  height: auto;
+  display: block;
+  border: 5px #610b0b;
+  border-radius: 25px;
+  filter: grayscale(65%);
+}
