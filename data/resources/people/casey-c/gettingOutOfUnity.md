@@ -30,8 +30,11 @@ Once you've found the right screen recording software for you, all you'll need t
 
 If you're looking to talk while you're walking through, make sure the recording software you chose can support this. If it doesn't, you can always record it on your phone and connect the video and audio using iMovie or Adobe Premiere(which is temporarily free for anyone with a college email).
 
-Once this is done(don't forget to hit stop!), you should have a video file you can upload to Youtube or Google Drive. 
+Once this is done(don't forget to hit stop!), you should have a video file you can upload to Youtube or Google Drive.
 
+#### [Alternate Method](https://docs.unity3d.com/Packages/com.unity.recorder@2.0/manual/index.html)
+
+This is a Unity plugin that you can download from the Unity Asset store that will just be a higher quality recording, if a slightly more work-intensive one. It will allow you to dial in the settings that will work best for you and record the walkthrough without Unity's frame and display around it. 
 
 # [Challenge Mode](https://unity.com/unity/features/editor/art-and-design/cinemachine)
 
