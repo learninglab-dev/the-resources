@@ -1,6 +1,6 @@
 # Elmer Vivas Portillo
 
-![EVP image](https://files.slack.com/files-pri/T0HTW3H0V-F013156PX7A/evp_bok_edit.jpg?pub_secret=35e2b492ac)
+![EVP avatar](https://files.slack.com/files-pri/T0HTW3H0V-F012SJ00HC3/3._evp_avatar-square.png?pub_secret=3fdde4bea3)
 
 ## Tools I Work With: 
 * Adobe Lightroom
