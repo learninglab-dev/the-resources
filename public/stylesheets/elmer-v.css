@@ -6,12 +6,23 @@
 h1 { 
   text-align: center;
   font-family: Futura, Trebuchet MS, Arial, sans-serif; 
+  font-size: 35px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: bold; 
+  line-height: 35px; 
+  text-transform: uppercase;
+} 
+h2 { 
+  text-align: left; 
+  font-family: Futura, Trebuchet MS, Arial, sans-serif; 
   font-size: 23px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: bold; 
-  line-height: 23px; 
-  text-transform: uppercase;
+  line-height: 35px; 
+  margin-left: 150px;
+  margin-right: 150px;
 } 
 h3 { 
   text-align: left; 
@@ -24,7 +35,7 @@ h3 {
   margin-left: 150px;
   margin-right: 150px;
 } 
-p { 
+p, pre { 
   font-family: Futura, Trebuchet MS, Arial, sans-serif; 
   font-size: 14px; 
   font-style: normal; 
@@ -34,27 +45,27 @@ p {
   margin-left: 150px;
   margin-right: 150px;
 } 
-  blockquote { 
+blockquote { 
   font-family: Futura, Trebuchet MS, Arial, sans-serif; 
   font-size: 17px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 400; 
   line-height: 23px; 
+  margin-left: 150px;
+  margin-right: 150px;
 } 
-  pre { 
+ul, ol, ul ul, ol ol, ul ol, ol ul { 
   font-family: Futura, Trebuchet MS, Arial, sans-serif; 
-  font-size: 11px; 
+  font-size: 14px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 400; 
-  line-height: 2px; 
+  margin-left: 150px;
+  margin-right: 150px;
 }
-  div#imgHolder {
-
-}
-  img#customImg {
-  width: 50vw;
+img {
+  width: 40vw;
   height: auto;
   display: block;
   margin-left: auto;
