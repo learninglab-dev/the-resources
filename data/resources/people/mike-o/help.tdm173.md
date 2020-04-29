@@ -32,7 +32,7 @@ Framing and composition is another essential element of compelling video capture
 
 ## Lighting
 
-Now that you have a handle on stabilization and composition, another crucially important element to consider is lighting. Here are some practical resources that can give you tools on how to approach this so that you can leverage and manipulate light to maximize its effect on the subjects and the environment that you are filming.
+Now that you have a handle on stabilization and composition, another crucially important element to consider is lighting. Here are some practical resources that can give you tools on how to approach this so that you can creatively leverage and manipulate light in your videos.
 
 * [Assessing and leveraging natural light in your video capture](https://www.youtube.com/embed/ScEccuNE9vE)
 
