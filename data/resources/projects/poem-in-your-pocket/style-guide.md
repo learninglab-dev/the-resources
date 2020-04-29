@@ -11,8 +11,9 @@ Try to make sure that a large, soft light (rather than a point light like the su
 Somewhere between “10 o’clock” and “2 o’clock” if “12:00” is where the camera is located. 
 So, if your head is the center of a clock, and the phone camera is 12 o'clock, then stand about 2 ft away from a window that is either at your 10 o'clock, or your 2 o'clock
 
-![an image of backlit subject with an x below it]()
-![an image of well lit subject with a check below it]()
+![an image of backlit subject with an x below it](https://files.slack.com/files-pri/T0HTW3H0V-F013FJSE1NC/screen_shot_2020-04-29_at_10.55.29_am.png?pub_secret=ba6b931e5c)
+
+![an image of well lit subject with a check below it](https://files.slack.com/files-pri/T0HTW3H0V-F012RQJGZ0S/screen_shot_2020-04-29_at_11.05.09_am.png?pub_secret=e7bce21d2b)
 
 ### Composition
 
