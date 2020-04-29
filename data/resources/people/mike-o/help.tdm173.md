@@ -64,6 +64,8 @@ Now that you have a handle on stabilization and composition, another crucially i
 
 ## Audio capture
 
+Recording good quality audio with your smartphone is not always easy! The microphones themselves are not amazing, and in many instances the subject you are filming is much further away from the microphone than is ideal. Nevertheless, please check out the resources below to help you navigate the sometimes perilous waters of smartphone audio capture.
+
 * Recording intimate audio with your smartphone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gU3lZbgV7WY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
