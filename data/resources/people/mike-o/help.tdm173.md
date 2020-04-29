@@ -34,7 +34,7 @@ Without effective stabilization of the smartphone camera that you are using, you
 
 ## Composition
 
-Framing and composition is another essential element of compelling video capture. How much head room do you want your subject to have? Should your subject be situated on the left, or right third of the frame? These are important questions to consider, and here are some resources and best practices to help you navigate in this realm.
+Framing and composition is another essential element of compelling video capture. How much head room do you want your subject to have? Should your subject be situated on the left, or right third of the frame, etc.? These are important questions to consider (among others!), and here are some resources and best practices to help you navigate in this realm.
 
 * [Framing & composition considerations for smartphone videography](https://spark.adobe.com/page/qJHuu5kH4oXHr/)
 
