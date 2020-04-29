@@ -1,6 +1,6 @@
 # Help for TDM173
 
-![iPhoneVideo](https://www.smartphonefilmpro.com/wp-content/uploads/2017/04/best-camera-app.jpg)
+![iPhoneVideo](https://files.slack.com/files-pri/T0HTW3H0V-F012SQHTM2P/48919811117_67efdcfe66_k.jpg?pub_secret=c395722040)
 
 We are here to help you as you produce your final videos for TDM173. Below you'll find a group of resources designed to help you capture good video with just a phone or computer (rather than a fancy camera). But if you have any specific questions at all, please get in touch with us by filling out the help form at [help.learninglab.xyz](https://airtable.com/shrTvxaEPbet2j9Bj)
 
