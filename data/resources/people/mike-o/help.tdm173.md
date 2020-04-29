@@ -4,7 +4,7 @@
 
 We are here to help you as you produce your final videos for TDM173. Below you'll find a group of resources designed to help you capture good video with just a phone or computer (rather than a fancy camera). But if you have any specific questions at all, please get in touch with us by filling out the help form at [help.learninglab.xyz](https://airtable.com/shrTvxaEPbet2j9Bj)
 
-## Four elements of focus for capturing quality footage
+## Four elements to consider when capturing high quality footage
 
 There are four main elements of smartphone video capture that will be discussed below (stabilization; composition; lighting; sound), and all of them are important to consider when planning and executing shots for your final videos.
 
