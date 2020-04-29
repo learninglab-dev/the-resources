@@ -1,5 +1,5 @@
 body {
-background: url(http://media.giphy.com/media/Jrd9E2kuPuOYM/giphy.gif) 50%;
+background: url(https://img.freepik.com/free-vector/minimal-diagonal-zigzag-pattern-design_1017-15351.jpg?size=338&ext=jpg) 50%;
 background-size: cover;
 }
 
@@ -43,6 +43,17 @@ font-family: monaco, monospace;
 }
 
 p {
-color: white;
+color: black;
 font-size: 12px;
+font-weight: bold;
+}
+
+img {
+ width: 40vw;
+ height: auto;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ border: 3px solid black;
+ border-radius: 25px;
 }
