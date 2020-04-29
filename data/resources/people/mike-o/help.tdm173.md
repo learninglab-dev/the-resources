@@ -62,7 +62,7 @@ Now that you have a handle on stabilization and composition, another crucially i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6RMNRjN3gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Audio Capture and sound
+## Audio capture
 
 * Recording intimate audio with your smartphone
 
