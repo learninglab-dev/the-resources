@@ -30,7 +30,7 @@ Youtube has just about everything you can imagine in terms of content, and ClipG
 
 You may find that you need a certain type of footage to reinforce an argument you are making, and online footage banks are definitely worth exploring for this. Here are some options:
 
-* [Prelinger Archives](https://archive.org/details/prelinger)
+* [Prelinger Archives](https://archive.org/details/prelinger) - a collection of films relating to U.S. cultural history, the evolution of the American landscape, everyday life, and social history. All are free to download and use for commercial and personal purposes.
 * [creativecommons.org](https://creativecommons.org/)
 * [Pexels.com](https://www.pexels.com/videos/)
 * [Dareful.com](https://www.dareful.com/)
