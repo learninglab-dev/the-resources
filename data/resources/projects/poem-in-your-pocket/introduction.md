@@ -1,0 +1,15 @@
+# Introduction to the Poem In Your Pocket Project
+
+LLUF Abby pitched this project...
+
+## The Premise
+
+April 30 this year is my favorite holiday: Poem in Your Pocket Day. April is National Poetry Month, and Poem in Your Pocket Day is an opportunity to share poems that matter to you. It’s very simple: put a poem in your pocket, and if you feel moved, give poems to others. In the past, I would usually choose 3-4 poems, fold them into origami hearts, and then choose one to give to people based on their mood. However, obviously, giving things to people en masse isn’t super feasible this year. 
+
+## The Question
+
+Is there a way that we can celebrate Poem in Your Pocket Day digitally? 
+
+## What We Decided
+
+Yes! Although giving people small printed out poems isn’t possible, we can still send poems to their pockets through their phones! And in order to preserve the personal nature of being given a poem in person, individuals can send videos of themselves reading. To add another layer, the recipients can send videos of them reacting to the poem back to the reader. They’ll also send a video of themself reading that person’s poem and the original reader will record themselves reacting to that. Not only does this make it more personal -- actually seeing and hearing a person read poetry that they love, but it also allows us to see the ways in which different people interpret and are touched by poems in unique ways. I’m so excited to celebrate this holiday in a new, but touching way!
