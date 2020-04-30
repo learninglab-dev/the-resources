@@ -4,7 +4,7 @@
 
 ### Lighting
 
-![A gif of our LLUF Connor with lighting going around the clock]()
+![A gif of our LLUF Connor with lighting going around the clock](https://files.slack.com/files-pri/T0HTW3H0V-FT12H4EMQ/output.gif?pub_secret=5c84a77325)
 
 Try to make sure that a large, soft light (rather than a point light like the sun-with-no-clouds) is in front of you (rather than behind you).  
 
