@@ -13,7 +13,7 @@ So, if your head is the center of a clock, and the phone camera is 12 o'clock, t
 
 ![an image of backlit subject with an x below it](https://files.slack.com/files-pri/T0HTW3H0V-F012S878ERY/backlighting.jpeg?pub_secret=dc4581d74d)
 
-![an image of well lit subject with a check below it](https://files.slack.com/files-pri/T0HTW3H0V-F012RQJGZ0S/screen_shot_2020-04-29_at_11.05.09_am.png?pub_secret=e7bce21d2b)
+![an image of well lit subject with a check below it](https://files.slack.com/files-pri/T0HTW3H0V-F012BKLH3QF/the_good_one.jpeg?pub_secret=ff7bb06fe5)
 
 ### Composition
 
@@ -39,12 +39,12 @@ Keep phone lens at eye level
 
 Hold the camera steady, or, better yet, try to stabilize it by leaning it against something or clamping it to something.
 
-![a gif of unsteady camera with x]()
-![a gif of gorgeously steady camera work with check]()
+![a gif of unsteady camera with x](https://media.giphy.com/media/QUQyHyYx1V1PfRBvsu/giphy.gif)
+![a gif of gorgeously steady camera work with check](https://media.giphy.com/media/duoMpOShI7cOpLrVq5/giphy.gif)
 
 When you "look up at the camera" look into the lens, not at the screen.
-![a gif of subject looking up at screen with x]()
-![a gif of subject looking into lens with check]()
+![a gif of subject looking up at screen with x](https://media.giphy.com/media/KEeE02g5STpzcLwEhy/giphy.gif)
+![a gif of subject looking into lens with check](https://media.giphy.com/media/lOOLKGYuD7sZ4bXoIQ/giphy.gif)
 
 
 ### Sound
