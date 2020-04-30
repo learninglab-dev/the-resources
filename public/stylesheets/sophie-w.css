@@ -15,8 +15,6 @@ div::after {
   right: 0;
   position: absolute;
   z-index: -1;
-  background-repeat: no-repeat;
-  background-size: auto;
 }
 
 body {
@@ -117,6 +115,8 @@ img {
   animation: logo-spin infinite 20s linear;
   display: block;
   margin: auto;
-  width: 500px;
+  width: 10vw;
   height: auto;
+  border: 0px solid black;
+  border-radius: 50%;
 }
