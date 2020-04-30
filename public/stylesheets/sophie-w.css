@@ -19,11 +19,11 @@ div::after {
   background-size: auto;
 }
 
-div body {
 body {
+
 opacity: 1;
 }
-}
+
 
 h1 {
 opacity: 1;
@@ -83,6 +83,7 @@ line-height: 1.5;
 }
 
 p {
+
 margin-left: 60px;
 margin-right: 60px;
 color: black;
@@ -90,6 +91,7 @@ font-family: Arial;
 font-size: 14px;
 font-style: normal;
 line-height: 1.5;
+
 }
 
 img {
