@@ -32,9 +32,9 @@ If you're looking to talk while you're walking through, make sure the recording 
 
 Once this is done(don't forget to hit stop!), you should have a video file you can upload to Youtube or Google Drive.
 
-#### [Alternate Method](https://docs.unity3d.com/Packages/com.unity.recorder@2.0/manual/index.html)
+# [Alternate Method](https://docs.unity3d.com/Packages/com.unity.recorder@2.0/manual/index.html)
 
-This is a Unity plugin that you can download from the Unity Asset store that will just be a higher quality recording, if a slightly more work-intensive one. It will allow you to dial in the settings that will work best for you and record the walkthrough without Unity's frame and display around it. 
+This is a Unity plugin that you can download from the Unity Asset store that will just be a higher quality recording, if a slightly more work-intensive one. It will allow you to dial in the settings that will work best for you and record the walkthrough without Unity's frame and display around it.
 
 # [Challenge Mode](https://unity.com/unity/features/editor/art-and-design/cinemachine)
 
