@@ -4,11 +4,13 @@ const cheerio = require('cheerio');
 const moment = require('moment');
 const path = require('path');
 const cp = require('child_process');
+const resourceTemplate = require('./resource-template');
 
-module.exports.resourceFromUrl = async function (options){
-  if (options.url) {
-    console.log(`working on ${options.url}`);
-    axios.get(options.url)
+module.exports = async function (url){
+  // TODO: test to see if URL is really a URL
+  if (url) {
+    console.log(`working on ${url}`);
+    axios.get(url)
       .then(function (response) {
         const $ = cheerio.load(response.data);
         var timestamp = moment();
@@ -41,19 +43,7 @@ list of elements:
 ## CODE SNIPPETS
 \`var fs = require('fs');\`
 
-`
-        var filepath = path.join(process.env.MY_RESOURCE_DRAFTS, `${(data.title.replace(/ /gi, "-")).substring(0,20)}.md`);
-        fs.writeFileSync(filepath, initialText);
-        if (process.env.MARKDOWN_EDITOR) {
-          cp.spawnSync('open', [filepath, '-a', process.env.MARKDOWN_EDITOR]);
-        }
-        if (process.env.MARKDOWN_PREVIEW_APP) {
-          cp.spawnSync('open', [filepath, '-a', process.env.MARKDOWN_PREVIEW_APP]);
-        }
-        console.log("filepath:");
-        console.log(filepath);
-        console.log("data.title");
-        console.log(data.title);
+
       })
       .catch(function (error) {
         console.log(error);
