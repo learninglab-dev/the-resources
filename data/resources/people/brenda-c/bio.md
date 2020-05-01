@@ -1,13 +1,7 @@
 # Brenda Ceja
 
 ***
-    <img
-      src="https://files.slack.com/files-pri/T0HTW3H0V-F012VHJCXFC/sydney_half_body.jpg?pub_secret=139a9a40d5"
-      alt="Headshot of Brenda Ceja against a dark gray background. They are wearing a bright pink dress and have curly hair."
-      title="me!"
-      height="600"
-      width="400"
-    />
+![photo of brenda. they are wearing a pink dress and have black curly hair.](https://files.slack.com/files-pri/T0HTW3H0V-F012VHJCXFC/sydney_half_body.jpg?pub_secret=139a9a40d5 "me!")
 
 ## Tools I Work With
 
@@ -34,10 +28,4 @@ Hello! My name is Brenda (they/them/theirs) and I am a rising sophomore proudly 
 - Crafting earrings
 - Animal Crossing!
 ```
-    <img
-      src="https://cdn.ac-pocketcamp.com/images/site/official_fb_share_en-GB.jpg"
-      alt="Image of Animal Crossing Pocket Camp characters and title screen."
-      title="Animal Crossing!"
-      height="200"
-      width="400"
-    />
+![image of the game animal crossing pocket camp](https://cdn.ac-pocketcamp.com/images/site/official_fb_share_en-GB.jpg "Animal Crossing") 
