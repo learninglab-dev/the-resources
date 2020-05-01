@@ -75,11 +75,12 @@
     <h4>
       My Hobbies :)
     </h4>
-    <pre><code>- Yoga
-- Drawing
-- Crafting earrings
-- Animal Crossing!
-</code></pre>
+    <pre><code>
+    - Yoga
+    - Drawing
+    - Crafting earrings
+    - Animal Crossing!
+    </code></pre>
     <img
       src="https://cdn.ac-pocketcamp.com/images/site/official_fb_share_en-GB.jpg"
       alt="Image of Animal Crossing Pocket Camp characters and title screen."
