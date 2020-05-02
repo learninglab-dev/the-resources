@@ -1,19 +1,27 @@
-
+const moment = require('moment');
+const placeholderImage = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png';
 
 module.exports = function(data){
-  var templateText = `
+  if (!(data.title)) {
+    console.log("the resource template requires .title argument");
+    return `<h1>sorry, no data</h1>` ;
+  } else {
+    var templateText = `
 # ${data.title}
-${data.formattedTime}
-![${data.title}](${data.image})
+Resource pulled from [${data.title}](${data.url}) ${moment().format('YYYYMMDD-HH:mm:ss.SSS')}.
+![${data.title}](${data.image ? data.image : placeholderImage })
 
-## OUTLINE
-list of elements:
-- one
-- two
+## DESCRIPTION
+${data.description ? data.description : ""}
 
-## CODE SNIPPETS
-\`var fs = require('fs');\`
+## KEYWORDS
+${data.videoTags ? `\n${data.videoTags.join(", ")}` :  data.keywords}
 
+## SCRAPED CONTENT
+\`\`\`
+${JSON.stringify(data, null, 4)}
+\`\`\`
 `
-  return templateText;
+    return templateText;
+  }
 }
