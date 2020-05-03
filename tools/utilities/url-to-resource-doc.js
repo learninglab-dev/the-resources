@@ -14,7 +14,7 @@ module.exports = async function (options){
     console.log(`received formatted data from getSiteContent:\n\n${JSON.stringify(siteContent)}`);
     const markdownString = await resourceTemplate(siteContent);
     console.log(`markdownString:\n\n${markdownString}`);
-    const fileName = `${moment().format('YYYYMMDD-HHMMss.SSS')}-${siteContent.title.split(' ').slice(0,3).join('-')}.md`
+    const fileName = `${moment().format('YYYYMMDD-HHmmss.SSS')}-${siteContent.title.split(' ').slice(0,3).join('-')}.md`
     const filePath = `${markdownFolder}/${fileName}`
     fs.writeFileSync(filePath, markdownString, 'utf8');
     if (process.env.MARKDOWN_EDITOR) {
