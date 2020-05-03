@@ -5,6 +5,7 @@ const fs = require('fs');
 const moment = require('moment');
 const url = require('url');
 
+// scrape the site and hand back structured data
 module.exports = async function (theUrl){
   if (theUrl) {
     console.log(`working on ${theUrl}`);
@@ -25,6 +26,11 @@ module.exports = async function (theUrl){
       timestamp: timestamp.format('YYYYMMDD-HHmmss.SSS'),
       resourceId: process.env.MY_AUTHOR_ID ? `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-${process.env.MY_AUTHOR_ID}` : `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-anon`
     }
+    // consolidating keywords and removing duplicates:
+    //
+    // TODO: compare against an inventory of keywords on Airtable?
+    // or should this happen the next level up?
+    //
     if ($("meta[property='og:video:tag']")) {
       for (var i = 0; i < $("meta[property='og:video:tag']").length; i++) {
         resourceData.videoTags.push($($("meta[property='og:video:tag']")[i]).attr("content"))
