@@ -11,21 +11,27 @@ module.exports = async function (theUrl){
     const response = await axios.get(theUrl)
       .catch(e => {console.log(e)});
     const $ = cheerio.load(response.data);
+    const timestamp = moment()
     var resourceData = {
       title: $('title').text() ? $('title').text() : `added`,
       description: $("meta[property='og:description']").attr("content") ? $("meta[property='og:description']").attr("content") : "",
       previewImage: $("meta[property='og:image']").attr("content") ? $("meta[property='og:image']").attr("content") : "",
       url: $("meta[property='og:url']").attr("content") ? $("meta[property='og:url']").attr("content") : theUrl,
       type: $("meta[property='og:type']").attr("content") ? $("meta[property='og:type']").attr("content") : "",
-      keywords: $("meta[name='keywords']").attr("content") ? $("meta[name='keywords']").attr("content") : "",
+      ogKeywords: $("meta[name='keywords']").attr("content") ? $("meta[name='keywords']").attr("content").split(',').map(e=>{return e.trim()}) : [],
       videoTags: [],
       originalUrl: theUrl,
-      images: []
+      images: [],
+      timestamp: timestamp.format('YYYYMMDD-HHmmss.SSS'),
+      resourceId: process.env.MY_AUTHOR_ID ? `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-${process.env.MY_AUTHOR_ID}` : `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-anon`
     }
     if ($("meta[property='og:video:tag']")) {
       for (var i = 0; i < $("meta[property='og:video:tag']").length; i++) {
         resourceData.videoTags.push($($("meta[property='og:video:tag']")[i]).attr("content"))
       }
+      resourceData.keywords = [...resourceData.videoTags, ...resourceData.ogKeywords].reduce((unique, item)=>unique.includes(item) ? unique : [...unique, item], []);
+    } else {
+      resourceData.keywords = resourceData.ogKeywords
     }
     const youtubeRegex = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})?$/
     const youTubeIdRegex = /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/

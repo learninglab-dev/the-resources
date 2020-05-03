@@ -2,8 +2,6 @@ const moment = require('moment');
 const placeholderImage = 'https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg';
 
 module.exports = function(data){
-  const timestamp = moment()
-
   if (!data.previewImage) {
     data.previewImage = placeholderImage
   }
@@ -16,11 +14,11 @@ title: ${data.title}
 description: ${data.description}
 thumbnail: ${data.previewImage}
 author: ${process.env.MY_AUTHOR_ID}
-id: ${timestamp.format('YYYYMMDD-HHmmss.SSS')}-${process.env.MY_AUTHOR_ID}
+id: ${data.resourceId}
 ---
 # ${data.title}
 Resource pulled from [${data.title}](${data.url}).
-${timestamp.format('YYYYMMDD-HH:mm:ss.SSS')}
+${data.timestamp}
 
 ${ data.embedCode ? data.embedCode
   : `![${data.title}](${data.previewImage})`
