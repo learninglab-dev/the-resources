@@ -6,22 +6,22 @@ const moment = require('moment');
 const url = require('url');
 
 // scrape the site and hand back structured data
-module.exports = async function (theUrl){
-  if (theUrl) {
-    console.log(`working on ${theUrl}`);
-    const response = await axios.get(theUrl)
+module.exports = async function (site){
+  if (site) {
+    console.log(`working on ${site}`);
+    const response = await axios.get(site)
       .catch(e => {console.log(e)});
     const $ = cheerio.load(response.data);
-    const timestamp = moment()
+    const timestamp = moment();
     var resourceData = {
       title: $('title').text() ? $('title').text() : `added`,
       description: $("meta[property='og:description']").attr("content") ? $("meta[property='og:description']").attr("content") : "",
       previewImage: $("meta[property='og:image']").attr("content") ? $("meta[property='og:image']").attr("content") : "",
-      url: $("meta[property='og:url']").attr("content") ? $("meta[property='og:url']").attr("content") : theUrl,
+      url: $("meta[property='og:url']").attr("content") ? $("meta[property='og:url']").attr("content") : site,
       type: $("meta[property='og:type']").attr("content") ? $("meta[property='og:type']").attr("content") : "",
       ogKeywords: $("meta[name='keywords']").attr("content") ? $("meta[name='keywords']").attr("content").split(',').map(e=>{return e.trim()}) : [],
       videoTags: [],
-      originalUrl: theUrl,
+      originalUrl: site,
       images: [],
       timestamp: timestamp.format('YYYYMMDD-HHmmss.SSS'),
       resourceId: process.env.MY_AUTHOR_ID ? `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-${process.env.MY_AUTHOR_ID}` : `${timestamp.format('YYYYMMDD-HHmmss.SSS')}-anon`
