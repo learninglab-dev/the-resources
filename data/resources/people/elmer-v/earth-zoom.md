@@ -1,5 +1,5 @@
 # Vox Unbox
-## How to Make the Earth Zoom effect with Adobe Apps
+## How to Make the Earth Zoom Effect with Adobe Apps
 
 We're going to recreate the Earth zoom out and in effect, seen in the first few seconds of Vox's video "How the US outsourced border security to Mexico."
 
