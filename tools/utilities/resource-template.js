@@ -10,11 +10,11 @@ module.exports = function(data){
     return `<h1>sorry, no data</h1>` ;
   } else {
     var templateText = `---
-title: ${data.title}
-description: ${data.description}
-thumbnail: ${data.previewImage}
-author: ${process.env.MY_AUTHOR_ID}
-id: ${data.resourceId}
+title: "${escapeDoubleQuotes(data.title)}"
+description: "${escapeDoubleQuotes(data.description)}"
+thumbnail: "${data.previewImage}"
+author: "${process.env.MY_AUTHOR_ID}"
+id: "${data.resourceId}"
 ---
 # ${data.title}
 Resource pulled from [${data.title}](${data.url}).
@@ -49,4 +49,9 @@ ${JSON.stringify(data, null, 4)}
 
     return templateText;
   }
+}
+
+
+function escapeDoubleQuotes(str) {
+	return str.replace(/\\([\s\S])|(")/g,"\\$1$2");
 }
