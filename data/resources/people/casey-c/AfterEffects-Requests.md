@@ -1,10 +1,10 @@
 # After Effects Cell Behavior Challenge
 
-So we received a request from CV on how to perform a series of different moves, all based around animating cell behaviors.
+Hope you find these helpful!
 
 ![](https://i.gifer.com/2DTH.gif)
 
-Currently, we have several people working on this, so please consider this page to be a living document, to be repeatedly updated between now and 4/29, as answers come in.
+This has become a cool little repository of how you might go about animating cell behaviors, each one is rooted from a request we received from a student in one of the courses we support.
 
 ### [Secreting cells](https://youtu.be/CEEi1TizGLA)
 
@@ -22,7 +22,7 @@ Are there ways to animate objects, like circles, so that they look like they are
 
 I want to illustrate cancer. Is there a way to have a bunch of circles, representing cells, to rapidly divide and multiply in a way that forms a tumor-like cluster?
 
-- This is by far the more complicated animation of this set. Here is how you might approach creating it using simple, if repetitive motions. 
+- This is by far the more complicated animation of this set. Here is how you might approach creating it using simple, if repetitive motions.
 
 ### [Fading a Shape Layer](https://youtu.be/DojwLWjF-10)
 
