@@ -1,0 +1,14 @@
+# InkScape Basics
+Inkscape is a free vector graphics tool similar to Adobe Illustrator. Here's a [link](https://www.youtube.com/watch?v=8oGsjLSHol0) to a quick video walkthrough of the basic tools. 
+
+## How to Download
+To download Inkscape, go to [this link](https://inkscape.org/release/inkscape-1.0/) and click on your operating system type. If you use Windows, you'll have to choose between the 32-bit and the 64-bit version. This depends on your computer, follow these steps to find out which you have:
+
+Windows 10 and Windows 8.1:
+* Select the Start button, then select Settings -> System -> About
+* Open About settings
+* At the right, under Device specifications, see System type.
+
+Windows 7:
+* Select the Start button, right-click Computer, and then select Properties
+* Under System, see the system type
