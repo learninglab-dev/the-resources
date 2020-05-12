@@ -69,7 +69,7 @@ router.get('/:style/*', async function(req, res, next) {
       res.render("styled-resource",  resourcePackage);
       // res.render('json', {title: "test", json: resourcePackage})
     } else {
-      res.render('styled-resource', {title: "no resource found", heroImage: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg", convertedMarkdown: `nothing here yet: ${pathToTest}`})
+      res.render('styled-resource', {title: "no resource found", thumbnail: "https://live.staticflickr.com/2871/33129125296_1ef184d0c9_h.jpg", convertedMarkdown: `nothing here yet: ${pathToTest}`})
     }
   } catch(err) {
     console.error(err)
