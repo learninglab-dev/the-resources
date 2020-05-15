@@ -3,13 +3,14 @@ ___
 ![Emmy in Confetti!](https://files.slack.com/files-pri/T0HTW3H0V-F013NHYP0M8/emmy_confetti.jpeg?pub_secret=4a4ca59258)
 ___
 ## Tools I Work In
-* Aftereffects
-* Final Cut Pro X
-* Ableton Push
 * Indesign
+* Aftereffects
+* FCPX
+* Ableton Push
 * Lightroom
 * Garage Band
-___
+
+
 ## My LL Bio
 #### What I'm learning in the LL and why
 I came into the learning lab because I've always known I've wanted to teach and the opportunity to work on finding new, creative ways to support Harvard faculty in achieving their teaching goals sounded perfect for me. Little did I know, I would be doing a lot of learning and growing myself. When I started as a LLUF, I had never used any of the tools mentioned above.
