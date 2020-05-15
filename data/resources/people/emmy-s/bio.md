@@ -10,7 +10,6 @@ ___
 * Lightroom
 * Garage Band
 
-___
 
 ## My LL Bio
 #### What I'm learning in the LL and why
