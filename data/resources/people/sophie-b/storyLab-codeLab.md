@@ -1,1 +1,1 @@
-!(codeLab image)[codelab_timeline.png]
+![codeLab image](codelab_timeline.png)
