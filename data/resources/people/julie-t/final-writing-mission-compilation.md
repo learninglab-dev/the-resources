@@ -1,25 +1,25 @@
 # A Compilation of the LLUF Final Writing Mission  
 
 ## The LLUFs❤️
-**[Abby M.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#abby-m)**  
-**[Connor R.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#connor-r)**  
-**[Elmer V.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#elmer-v)**  
-**[Emmy S.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#emmy-s)**  
-**[Julie T.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#julie-t)**  
-**[Kai F.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#kai-f)**  
-**[Kylie S.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#kylie-s)**  
-**[Laura F.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#laura-f)**  
-**[Mario G.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#mario-g)**  
-**[Molly P.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#molly-p)**  
-**[Sarah D.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#sarah-d)**  
-**[Sharleen L.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#sharleen-l)**  
-**[Sofi A.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#sofi-a)**  
-**[Sophie B.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#sophie-b)**  
-**[Sophie W.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#sophie-w)**  
-**[Yilan Y.](https://github.com/learninglab-dev/the-resources/new/master/data/resources/people/julie-t#yilan-y)**
+**[Abby M.](#abby-m)**  
+**[Connor R.](#connor-r)**  
+**[Elmer V.](#elmer-v)**  
+**[Emmy S.](#emmy-s)**  
+**[Julie T.](#julie-t)**  
+**[Kai F.](#kai-f)**  
+**[Kylie S.](#kylie-s)**  
+**[Laura F.](#laura-f)**  
+**[Mario G.](#mario-g)**  
+**[Molly P.](#molly-p)**  
+**[Sarah D.](#sarah-d)**  
+**[Sharleen L.](#sharleen-l)**  
+**[Sofi A.](#sofi-a)**  
+**[Sophie B.](#sophie-b)**  
+**[Sophie W.](#sophie-w)**  
+**[Yilan Y.](#yilan-y)**
 
 
-# Abby M.   
+# Abby M. 
 
 How quarantine has complicated my expectations: an expos outline  
 
