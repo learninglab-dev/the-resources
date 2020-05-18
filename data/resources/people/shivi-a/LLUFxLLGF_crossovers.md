@@ -1,0 +1,13 @@
+# The Story of Intergenerational Crossover at the Learning Lab
+
+Before becoming a LLUF at the Learning Lab, my interactions with graduate students and even professors and administrators was somewhat limited. I saw my teaching fellows during our appointed hour of section each week, but no more, except the rare occassion when I'd dare to stop by office hours. It was all too easy to fall into a mode in which I viewed them as static agents in my learning -- there to shepard us through the course. That all changed when I became a LLUF. At the Learning Lab, graduate students work with undergraduate students work with the staff work with professors in active dialogue about how to innovate and improve on course assignments. 
+
+My experiences interacting with graduate stuents and professors in the context of the truly intergenerational Learning Lab have allowed me to realize the sometimes messy, constantly improving process of teaching and learning. By participating in that process, I now better appreciate the efforts of my teaching fellows and professors and take more agency in my own learning. 
+
+One of the best parts about being a LLUF is the ability to forge a unique connection with courses across the College by helping with their development. When Gen Ed 1080: Engineering the Acoustical World was being workshopped by Bok, I remember helping test a format for short explainer videos that Professor Wood was hoping to include with the course so as to ensure students of all math backgrounds could feel comfortable in this cross-disciplinary course. I was an eager participant as Professor Wood explained frequency and amplitude, drawings of sine waves spilling across the paper. It was such a memorable experience to interact with a professor in this setting -- to witness his excitement about the development of this course bringing math, physics, and music in conversaton and his desire to make it accessible. A year later when the course was in the catalog and a friend casually mentioned that they were thinking of taking it, I remembered sitting in the small studio with Professor Wood and enthusiastically endorsed the course. 
+
+As an OEB concentrator, I still remember being awed when I met an LLGF in the OEB department who was working on assignments for OEB 52: Plants. Seeing her enthusiasm and her presentation of her assignment for the class to the LLGF working group, I began to see the syllabus and course assignments no longer seemed like rote markers set in stone and duly executed, but adaptive attempts to engage students in learning. 
+
+## Spotlight: Testing LLGF assignments for GameLab
+
+tbc :)
