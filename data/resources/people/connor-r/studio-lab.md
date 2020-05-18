@@ -1,27 +1,38 @@
 # The Story of StudioLab
-## **September**
-### 09/01/19: Solution to "Gray Zone"... the Birth of StudioLab
+
+Meeting every Wednesday (and the *occasional* Thursday) evening, the Learning Lab becomes a dedicated space to StudioLab.
+StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing projects and designs.** As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
+
+## *September*
+### 09/01/19: Marlon's Solution to the "Gray Zone"... the Birth of StudioLab
+> With StudioLab originally being imagined as a way to redesign the space, its first impact originated as a happy accident. The plain gray wall at the back of the Learning lab had always irked Marlon, but a temporary position to lean a magnetic board presented us with a permanent solution.
+
 ![Whiteboard resting on gray wall](https://files.slack.com/files-pri/T0HTW3H0V-FMX6TCK7A/image_from_ios.jpg?pub_secret=1a4ef223c0)
 
 ### 09/01/19: Brick Room Becomes Computer Room
+> Another *temporary* change by Marlon gains popularity and becomes **permanent.** The room adjacent to the main studio became the hub for desktop PCs; an incredibly convenient location for those editing images/footage in real-time.
+
 ![Make-shift tables set up for computers](https://files.slack.com/files-pri/T0HTW3H0V-FMXA3SZ24/image_from_ios.jpg?pub_secret=5cc3bcfe5e)
 
-### 09/19/19: Truss, Tables and Talent!
-On our very first official StudioLab, the tables and truss were rearranged to create what would be the first iteration 
+### 09/18/19: Truss, Tables and Talent!
+> On our very first *official* StudioLab, the tables and truss were rearranged to create what would be the first iteration 
 of our 2019/20 Learning Lab! In the background, you can also see the very beginning of the chalk wall. A preliminary outline 
 was sketched out, laying the foundations for what turned out to be a staple of the Learning Lab this year!  
 
 ![LL tables landscape](https://files.slack.com/files-pri/T0HTW3H0V-FNM1K08CE/image_from_ios.jpg?pub_secret=c42fd2200f)
+---
 
-## **October**: The Month of the Chalk Wall
+## *October:* The Month of the Chalk Wall
+> The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life.
+
 ![Chalk wall mountains](https://files.slack.com/files-pri/T0HTW3H0V-F013WDRV268/img_2182.jpg?pub_secret=4c701cca2d)
 ![LL landscape with chalk mountains in backdrop](https://files.slack.com/files-pri/T0HTW3H0V-FQ3A040LU/image_from_ios.jpg?pub_secret=d8d7b0bc76)
 ![Saturn drawing](https://files.slack.com/files-pri/T0HTW3H0V-F013NUGQDQD/img_3280.jpg?pub_secret=878f314b96)
+---
 
-## **November**
+## *November*
 ### EMR 135 - Climate Migration: Histories, Borders, and Activism
-In November, we started our work with EMR 135. We focused on creating a physical tree that could be utilized in a workshop for
-students to interact with, each with their own project in mind.
+> In November, we started our work with EMR 135. We focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind.
 
 ![Tree skeleton](https://files.slack.com/files-pri/T0HTW3H0V-FQH37AJ9X/img_1172.jpg?pub_secret=be25bd7dfa)
 ![Tree papier mache](https://files.slack.com/files-pri/T0HTW3H0V-F0142T8K01X/img_2460.jpg?pub_secret=3f9ce33bfb)
