@@ -21,6 +21,8 @@
 
 # Abby M. 
 
+![Abby Timeline Pic](https://files.slack.com/files-pri/T0HTW3H0V-F0147SN8XLH/screen_shot_2020-05-18_at_3.37.22_pm.png?pub_secret=6520c5215f)
+
 How quarantine has complicated my expectations: an expos outline  
 
 One of the very first things I learned at Harvard was how to write an argumentative essay. My Expos preceptor had a handy outline that I have used for basically every essay I’ve written since learning it: first, create an expectation, then, highlight something which complicates it, and finally, ask a question which results from the clash. 
@@ -60,9 +62,15 @@ We Tested:
 While we were still on campus, I tested a lighting tutorial for GENED 1049: East Asian Cinema. Marlon tasked me and 3 other LLUFS with the following assignment: recreate the lighting in this screenshot. 
 And so we got started! I, like most of the students in the GenEd, had no experience with lighting. Everything from how to attach the lights to how to turn them on to how to aim them was something novel to learn. The workshop was incredibly physical, with us moving around constantly. 
 
-One person was the model at all times, and we did our best to switch so that everyone could also have the opportunity to do the tutorial. We had to work as a team to both arrange the lights and to dissect the image, discussing as people brand-new to lighting where we thought the light sources for the different shadows should be.
+One person was the model at all times, and we did our best to switch so that everyone could also have the opportunity to do the tutorial. We had to work as a team to both arrange the lights and to dissect the image, discussing as people brand-new to lighting where we thought the light sources for the different shadows should be.  
+
 But how did this help the Learning Lab? 
-Doing this tutorial gave me more than just a (very) basic understanding of how lighting works. It also prepared the Learning Lab to offer a tutorial to the GenEd students. By having equally inexperienced undergraduates give it a try, Marlon was able to alter the workshop to better fit the time/number of students in the class. They also were able to test out alternatives with different levels of studio light. Having the four of us mess around with the lights let us learn and served as a model for the way that other students like us might learn. It was also fun -- it felt creative and collaborative, low-stakes but motivating. We were able to joke with each other -- serving as yet another model of a way in which learning does not have to be stressful or boring. Instead, modeling this workshop was just another example of the ways in which the Learning Lab makes learning fun and engaging :)
+Doing this tutorial gave me more than just a (very) basic understanding of how lighting works. It also prepared the Learning Lab to offer a tutorial to the GenEd students. By having equally inexperienced undergraduates give it a try, Marlon was able to alter the workshop to better fit the time/number of students in the class. They also were able to test out alternatives with different levels of studio light. Having the four of us mess around with the lights let us learn and served as a model for the way that other students like us might learn. It was also fun -- it felt creative and collaborative, low-stakes but motivating. We were able to joke with each other -- serving as yet another model of a way in which learning does not have to be stressful or boring. Instead, modeling this workshop was just another example of the ways in which the Learning Lab makes learning fun and engaging :)  
+
+![Original Pic to Mimic](https://files.slack.com/files-pri/T0HTW3H0V-F013V82BAGJ/screen_shot_2020-05-18_at_3.32.36_pm.png?pub_secret=8f6b4a0863)  
+
+![Abby's Cool Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013TRTEFS9/screen_shot_2020-05-18_at_3.24.34_pm.png?pub_secret=a2dccad4a9)  
+
 
 We Learned:  
 
@@ -78,13 +86,14 @@ This might sound like an exaggeration, but the idea of having to use anything ev
 
 # Connor R.  
 
+![Connor](https://files.slack.com/files-pri/T0HTW3H0V-F013EKD3T9D/screen_shot_2020-05-18_at_3.44.33_pm.png?pub_secret=2c8e1c18c0)
+
 No one could have guessed how 2020 was going to turn out, and as an international Senior at the college, it’s been a little challenging to say the least. I remember the exact moment when we all got the news that we would have to leave campus within a few days; my heart sunk. Everyone I spoke to felt so angry and upset, not realising the emotion that they were experiencing was grief. Looking back, despite so many students being frustrated at the university for its decision, there was clearly no other way – I don’t think anyone who originally disagreed with the decision can still feel the same way. The health of us and our loved ones is of paramount importance, and everyone is feeling the effects - not just students. 
 Which brings me to my next emotion: guilt. Although still grieving, I now feel guilty for having found the last few weeks extremely challenging. I feel guilty for not attending a single Zoom class because I have so many responsibilities back home, I feel guilty for not keeping in touch with my friends in the U.S., and I feel guilty for not being able to work at the Learning Lab as much. I feel guilty for struggling when I know everyone else is struggling, too.
 
 That all being said, I’ve started to experience a newfound appreciation for life and its components. Call it a “stopping to smell the roses” kind of thing or whatever you like, but I’m enjoying this feeling and I want it to stay. When I see that my loved ones are happy and healthy, or when I go for a walk and hear nothing but nature, I feel as though the challenges that 2020 has brought so far have allowed me to truly appreciate what we have around us and to not take it for granted. Although I painfully miss seeing my friends, it will make it all the more sweet when I’m allowed to see them for the first time in months. And although I painfully miss McDonald’s, it’ll make that first bite of a Big Mac all the more tasty when they eventually decide that it’s safe to reopen. I’m starting to realise that this is what these last couple of months have been about for me.
  
-As for learning, I’ve taken a few leaves out of the Learning Lab’s book. With regards to my academic work, my classes have taken a bit of a back seat. I think that I ended up playing myself with Senior Spring; the classes I originally chose were to give me as relaxed a schedule as possible (primarily so I could spend more time in the Learning Lab each week). These schedules did not translate into remote learning, and so I was left with three of my four classes not being relevant for me and not having as nice schedules as they did before. For these three classes, I did what was required to pass, but not too much more. For my final class, however, I really enjoyed the topics and found them to be extremely relevant for me. I’d like to say I put in enough effort to do really well in the class, regardless of the changes to the grading policy. Therefore, due to only having one class that
-I found relevant and interesting enough to work more thoroughly for, I found myself wanting to learn but not having the right modes of output (classes) to do so. Enter the Learning Lab Thinking ModeTM. I’ve used this extra time to learn more technical skills, including those on the Adobe Creative Suite. I’m most excited about using time this summer to enhance my current coding skills; I can only imagine how helpful they’ll be in the near future.  
+As for learning, I’ve taken a few leaves out of the Learning Lab’s book. With regards to my academic work, my classes have taken a bit of a back seat. I think that I ended up playing myself with Senior Spring; the classes I originally chose were to give me as relaxed a schedule as possible (primarily so I could spend more time in the Learning Lab each week). These schedules did not translate into remote learning, and so I was left with three of my four classes not being relevant for me and not having as nice schedules as they did before. For these three classes, I did what was required to pass, but not too much more. For my final class, however, I really enjoyed the topics and found them to be extremely relevant for me. I’d like to say I put in enough effort to do really well in the class, regardless of the changes to the grading policy. Therefore, due to only having one class that I found relevant and interesting enough to work more thoroughly for, I found myself wanting to learn but not having the right modes of output (classes) to do so. Enter the Learning Lab Thinking ModeTM. I’ve used this extra time to learn more technical skills, including those on the Adobe Creative Suite. I’m most excited about using time this summer to enhance my current coding skills; I can only imagine how helpful they’ll be in the near future.  
 
 The remote Learning Lab has been one of the few things that has kept me grounded, sane, and connected to both Harvard and my friends. Although circumstances at home have meant that I’ve not been able to work with the LL much over the last few weeks, I still found myself checking through our Slack channels almost every day in order to keep up with what everyone has been up to. Not only this, but it has been a way of keeping in touch with others and ensuring that they are doing okay. As someone who has struggled to stay engaged by their courses since moving away from campus, the LL has been the only part of Harvard that I’ve felt I can truly rely on – it’s the primary thing which has kept me connected to the university as a whole. Each week it has been heartwarming to hear from my peers and learn how they are coping with the transition. Having these relationships have helped me to understand that I’m not alone in my struggles, and that even though I’m 3000 miles away, I have others that I can count on.  
 
@@ -94,9 +103,18 @@ I fully intend to keep touch with those I’ve met through the LL; the virtual s
 
 I fully intend to keep touch with those I’ve met through the LL; the virtual system has shown me that this is absolutely possible, and is something I’m excited for in the future.  
 
+![Connor Made](https://files.slack.com/files-pri/T0HTW3H0V-F013TSY1BRB/screen_shot_2020-05-18_at_3.43.18_pm.png?pub_secret=ba28154194)
+
+![Connor Made](https://files.slack.com/files-pri/T0HTW3H0V-F0147T2MERX/screen_shot_2020-05-18_at_3.44.14_pm.png?pub_secret=add9ad449f)
+
+![Connor Made](https://files.slack.com/files-pri/T0HTW3H0V-F013TT11F2R/screen_shot_2020-05-18_at_3.44.26_pm.png?pub_secret=947207d733)
+
+
 
 
 # Elmer V.  
+
+![Elmer](https://files.slack.com/files-pri/T0HTW3H0V-F013NM78C0N/screen_shot_2020-05-18_at_5.01.10_pm.png?pub_secret=d044514218)
 
 These last few weeks have truly been an experience like no other. The primary way in which I have been able to manage this transition is by creating a routine for myself that allows me to be goal-oriented. While I have more limited access to extracurriculars and external activities, I still keep my calendar blocked off and I try to follow it as closely as possible.
  
@@ -105,6 +123,8 @@ I used Spring break mostly as an opportunity to cope with the shock of having to
 Academics certainly suffered during this period. As a student, Zoom proved to be a frustrating barrier that never allowed me to fully feel present in my classes because having to stare at my computer for extended periods of time leads to fatigue really quickly. Sections were also initially awkward because I did not know my classmates well and could not make small talk. However, over the last few weeks, I have found it a bit easier to converse, even if it’s only for a few seconds. In terms of complete schoolwork, I have done my best to complete all my assignments, but the desire to make them the best they can possibly be has decreased – this may also be a product of the change in grading policy.
  
 Socially, I have mostly relied on video communication to stay connected with my friends. Early on, my friends and I decided to host bi-weekly (Mon/Fri) Zoom workouts for our friends and peers. We have consistently had around 10 other people join us and the workouts have proven to be a highlight of my week. Similarly, the Bok Center has also been a highlight given that I am able to consistently do productive and meaningful work. The task of having to compile and create resources for others is a fun, motivating challenge. 
+
+![Elmer Zoom Workouts](https://files.slack.com/files-pri/T0HTW3H0V-F0141G5DHB6/screen_shot_2020-05-18_at_4.19.47_pm.png?pub_secret=f0acbb2a33)
 
 My work at the LL has been critical in keeping me connected to both school and my peers. By being able to work on creating resources I have been able to supplement my existing knowledge on tools with new material, all while teaching other people how to use those resources. During this time, when it can be difficult to find the same level of motivation you had as when you were at school, working on these projects has kept me focused and driven on being a student and a teacher. A lot of this is due to the help requests that have come in which have been an opportunity for me to think creatively how I can best create a web page that explains the material clearly and efficiently. 
 
@@ -118,7 +138,9 @@ We Learned:
 
 I do not think I can remember everything that the LL has taught me. However, some of the biggest things include: the basics of using InDesign to create layouts (LL Glossary), using terminal to convert YouTube videos to MP4s and how to pull stills from videos, editing in FCPX and thinking about the narrative that even a short clip has, editing images in Lightroom to achieve  the “Bok Center” look, learning some of the basic animations you can do in After Effects, learning what markdown is and how Github can be used for collaborative purposes, and finally, how you can do picture tracing in Illustrator.  
 
-We Made:
+We Made:  
+
+![Elmer Made](https://files.slack.com/files-pri/T0HTW3H0V-F013TTXNCTX/screen_shot_2020-05-18_at_3.58.50_pm.png?pub_secret=196023dcb5)
 
 Title:  Vox Unbox: How to Make An Earth Zoom Effect Using Adobe Apps ([Linked Here](http://resources.learninglab.xyz/simple/people/elmer-v//earth-zoom))
 
@@ -126,40 +148,77 @@ Description: This page is a walkthrough that shows the viewer how to create an E
 
 Rationale: This walkthrough is part of a larger effort to create asynchronous resources that can teach someone how to develop new skills using the tools available to them. In this case, while the source material is a journalistic bod of work, the effect itself allows a viewer to orient themselves geographically. Therefore, this effect can have a wide range of application and the style of the video does not have to be journalistic, but can be more academic or creative if desired.  
 
+Click on the image below to watch the YouTube video of the effect.
+[![Elmer Made](http://img.youtube.com/vi/aGaVH5eY1sw/0.jpg)](https://www.youtube.com/watch?v=aGaVH5eY1sw&feature=youtu.beA "Click here to watch the YouTube video!")
 
 
 
 # Emmy S.  
+
+![Emmy](https://files.slack.com/files-pri/T0HTW3H0V-F013VKZD743/screen_shot_2020-05-18_at_4.43.03_pm.png?pub_secret=a270f5c8a6)
 
 I turned in my last final about an hour ago and could not believe I finished this eternal semester. 
 About a year ago, on my 18th birthday, I realized my college life was getting really hectic and I wasn’t taking enough time to think about what I was doing all the time so I decided to write down everything I do every day. 
 Not really a diary, more of a list of random events that I would understand when I read it back. Through this experience, I really surprised myself with how easy it is to forget a day once it’s in your rearview mirror. 
 When we were on campus, even if it felt like I did the same thing every day (class, food, etc.), looking back I had all these little things jotted down like “caught up with ___ and decided to try __” or “had heart to heart with roommates”.   
 
-I didn’t think those things were making my days special until we moved to remote learning and for once I’ve really struggled not making what I write down everyday just a repetition of the last. I found myself relying on the Learning Lab to fill my life with the new creative things I was missing. The random moments were replaced with deliberate acts of trying out a new Adobe app or reading articles about storytelling in the distance lab slack channel. 
-The learning lab has always been such an inspiring space for me, but during this time it became an even bigger part of my life (even without the physical space). It’s reminded me to be deliberate with my time and make things that make me happy but also help people, whether it’s for the learning lab as a whole, other LLUFs, or a class.
+I didn’t think those things were making my days special until we moved to remote learning and for once I’ve really struggled not making what I write down everyday just a repetition of the last. I found myself relying on the Learning Lab to fill my life with the new creative things I was missing. The random moments were replaced with deliberate acts of trying out a new Adobe app or reading articles about storytelling in the distance lab slack channel.  
 
+The learning lab has always been such an inspiring space for me, but during this time it became an even bigger part of my life (even without the physical space). It’s reminded me to be deliberate with my time and make things that make me happy but also help people, whether it’s for the learning lab as a whole, other LLUFs, or a class.  
+
+We Tested:  
+
+Looking back on all of the activities I’ve had a chance to try at the LL this year, a few stand out among them. The first definitely being watching all of the math review videos and written documents for the Gened1080 toolkit. This was my first major project as a LLUF and I loved the feeling of getting to see all of my notes and edits, from an animation made in procreate to analogies I had thought of to explain differential equations, go into making a cohesive finished product. More recently, I have participated in Snow’s animation workshop over zoom and talked about a “synchronous asynchronous” teaching kind of technique for remote learning and completed and gave feedback on the Indesign timeline tutorial.   
+
+![Emmy Timeline](https://files.slack.com/files-pri/T0HTW3H0V-F0141GQRNDA/screen_shot_2020-05-18_at_4.29.25_pm.png?pub_secret=c51c2cb83c)
+
+We Learned:  
+
+How to use all of these amazing tools to do all these fun things:  
+
+-Lightroom (editing portraits)  
+-Photoshop (editing portraits)  
+-Garageband (making podcasts)  
+-Indesign (infographic type layouts)  
+-Aftereffects (Infographic animations)  
+-ARkit (augmented reality to give info about pics around the LL)  
+-Ableton (to make music and for Alphapresentation)  
+-FCPX (basic edits to make reels)  
+-Trusses (Learned how to assemble and more around trusses in studioLab)  
+
+We Made:
+
+![Emmy Made](https://files.slack.com/files-pri/T0HTW3H0V-F014K6GEXEC/screen_shot_2020-05-18_at_4.26.18_pm.png?pub_secret=dd51b6ebfa)
+
+Alphatesters Presentation  
+
+As a pod, Sam, Brett and I made a program for the Fall showcase that used the Ableton to set off light cues, show certain videos, play songs and change slides to be used in a presentation. We also made videos of nests of tools and descriptions of spaces in the learning lab that can be used in future workshops. Using Max MSP and Jitter, we learned how to make programs from scratch to communicate with the Ableton. This is the project I’m most proud of out of all of the ones I’ve been lucky enough to be a part of at the learning lab because it took a lot of work and thinking outside of the box, but really paid off. With some debugging, I think this could give us a whole new way to host workshops, using every element of the space to teach. 
 
 
 
 # Julie T.  
 
-When I created the timeline mapping out my first day back to classes and work, I didn’t realize that that would be what the next few months would look like. Taking notes as I attend zoom classes or watch lecture recordings, chatting with my family over meals, lacing up my sneakers to go for a run, logging into a zoom distanceLab check in, and facetiming friends covers most of the first day. 
+![Julie](https://files.slack.com/files-pri/T0HTW3H0V-F013EMDKF0F/screen_shot_2020-05-18_at_5.06.09_pm.png?pub_secret=cd76624652)
+
+When I created a timeline mapping out my first day back to classes and work, I didn’t realize that that would be what the next few months would look like. Taking notes as I attend zoom classes or watch lecture recordings, chatting with my family over meals, lacing up my sneakers to go for a run, logging into a zoom distanceLab check in, and facetiming friends covers most of the first day. 
+
 Now, I continue to do those things, but I’ve also been babysitting my 9 month old niece 2-3 times a week so my brother and sister-in-law can have a few hours to actually focus on their work. This has been a silver lining for me because I was pretty sad I hadn’t gotten to spend much time with her before leaving for college.  
+
 
 Throughout the first week, I felt like I was morphing back into my high school self because I had returned to the same workspace. We didn’t get much done in classes because people still weren’t really focused on school with everything going on. Classes that week mostly consisted of getting everyone acclimated to what the courses would look like going forward. 
 I was honestly feeling pretty good about things, though. I had started doing things I always wanted to do more of but didn’t have the time for, like experimenting with new cooking recipes, journaling, and trying to learn HTML.  
 
 By the first month in, the workload seemed like it picked up, and I found myself spending many hours on schoolwork and less time on doing those fun things I had been experimenting with. My work-life balance was all over the place. I probably spend more time on schoolwork at home than when we were on campus because I felt like I always had to be doing something productive since my workspace was always right there, but also because it was so difficult to focus. 
+
 Part of the difficulty was just having to sit in the same position for hours on end, hunched over my laptop, but part of it came from the distractions from my family too. I’ve definitely had to get used to working in a less-than-silent space. I also spent longer trying to figure concepts out on my own because I didn’t have friends right next to me to talk it over with.  
 
 Since then, I’ve been working on keeping myself productive, while also giving myself time to relax, so trying to get that work-life balance back on track. I’m happy to say I’ve gotten better at creating good habits for myself. I’ve kept to a daily exercise schedule to get myself moving, and I’m really proud of myself for sticking to it. Exercising has become my favorite part of the day. I’ve also started writing 3-5 things I’m grateful for every morning, and I’ve been doing that every day for the past two weeks. That has definitely made me look at things from a better perspective.  
 
 I’m so grateful that home is a good place for me, that my family is all safe and healthy, that I’ve been able to continue working at the LL, that I can still contact friends whenever I want, that I can use this time to improve myself, and for everyone working to make this transition smoother. The list goes on and on. Of course, there are days where my thoughts take me on an emotional roller coaster. I do miss hanging out with my friends, crying laughing in the dining hall, having conversations with new people, looking around in awe at the physical space of the LL, walking around Harvard Yard feeling amazed that I actually go here, and, again, the list goes on and on. Plus, it’s pretty frustrating how the future is so uncertain; we might have to get used to a new normal that’s just not the same, and that’s upsetting.
+
 I try to stay positive when I can, but I do let myself have those moments to be sad or upset because I know burying and smothering emotions never goes well. It helps to know that everyone, nearly the whole world, is going through this as well, although everyone in their own way. It’s also been inspiring to see how people are spending the time; I’ve seen so many videos of people showing off their creativity. More people than ever are picking up their cameras, paintbrushes, pens, laptops, and more to make amazing creations. I’ve seen videos of people singing together over zoom, learning dances, and practicing new skills. It’s inspiring to see the resiliency of the human spirit; we’re all facing a challenge, but we’re finding ways to make the most of it and still connect with others and with ourselves.  
 
-My work at the LL has been an important aspect of this new undergrad experience. I’m now more involved with the LL, and it’s been something that I genuinely look forward to. It’s been extremely valuable to learn new skills that I might not have been exposed to otherwise and to then use that newfound knowledge to create resources to help others. It’s given me a greater appreciation for all the hard work that goes behind improving the learning process. Especially with this transition to remote learning, everyone at the LL has been determined to help make the process the best it can be, and it’s just really cool to be a part of that behind-the-scenes action. 
-It also gives me hope that no matter what happens in the fall, we’ll find a way to make things work out and to make this new learning environment even more effective than it was this spring.  
+My work at the LL has been an important aspect of this new undergrad experience. I’m now more involved with the LL, and it’s been something that I genuinely look forward to. It’s been extremely valuable to learn new skills that I might not have been exposed to otherwise and to then use that newfound knowledge to create resources to help others. It’s given me a greater appreciation for all the hard work that goes behind improving the learning process. Especially with this transition to remote learning, everyone at the LL has been determined to help make the process the best it can be, and it’s just really cool to be a part of that behind-the-scenes action. It also gives me hope that no matter what happens in the fall, we’ll find a way to make things work out and to make this new learning environment even more effective than it was this spring.  
 
 We Tested:  
 
@@ -167,11 +226,15 @@ Although I only started in the spring semester, I still got the chance to test o
 
 We Learned:  
 
+![Julie Learned](https://files.slack.com/files-pri/T0HTW3H0V-F013NNZGWES/screen_shot_2020-05-18_at_5.34.03_pm.png?pub_secret=cab9bb0afe)
+
 This semester, I was introduced to a ton of new tools and technology with the Learning Lab. I started learning how to position lights and cameras to recreate a shot from a movie. I learned how to use Adobe Apps including Photoshop, After Effects, and Illustrator. I also learned how to use Github and to write with Markdown, as well as some CSS. Although I’m certainly not an expert with these tools and technology, I feel comfortable using all of them, and I genuinely enjoyed challenging myself. I also learned more about my own learning style; I need to understand the why of what I’m doing and I enjoy hands-on activities that force me to find solutions to problems as I go. 
 
 We Made: 
 
-Title: Unboxing Vox ([Linked Here](https://spark.adobe.com/page/ox1pz99bnGcQB/))  
+![Julie Made](https://files.slack.com/files-pri/T0HTW3H0V-F013VCT5ASW/screen_shot_2020-05-18_at_4.52.35_pm.png?pub_secret=c471d275cc)  
+
+Title: Unboxing Vox ([Linked Here](https://spark.adobe.com/page/ox1pz99bnGcQB/))
 
 Description: 
 For this project, we chose a small clip from a Vox YouTube video to recreate using Adobe Apps. I used Photoshop and After Effects to make a moving graph. 
