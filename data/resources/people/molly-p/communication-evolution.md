@@ -5,8 +5,10 @@
 LLUFs tested and reviewed different virtual communication tools at the start of the online semester. We are going to take a look at how their original assessments compare to their current opinions of these platforms--and find out which tools have stood the test of two months' time.
 
 
+
+
+
 ## The Tools
-- [Zoom](#zoom)
 - [Houseparty](#houseparty)
 - [FaceTime](#facetime)
 - [Squad](#squad)
@@ -35,6 +37,7 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### Houseparty
 
 Tested by: Elmer Vivas-Portillo, Sofi Andrade, Sam Benkelman, Molly Peterson, Abby McElroy
@@ -49,11 +52,13 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### FaceTime
 
 Tested by: Molly Peterson
 
 ![facetime icon](https://kitv.images.worldnow.com/images/18066602_G.png)
+
 
 ###### Original Assessment
 
@@ -62,6 +67,7 @@ Pros:
 Cons:
 
 ###### Do you still use this tool?
+
 
 ### Squad
 
@@ -91,6 +97,7 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### Club Penguin
 
 Tested by: Yilan Yang, Mario Guiterrez-Rodriguez, Carlos Guiterrez
@@ -104,6 +111,7 @@ Pros:
 Cons:
 
 ###### Do you still use this tool?
+
 
 ### Google Docs
 
@@ -133,6 +141,7 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### Discord
 
 Tested by: Lara Teich, Julie Tassinari
@@ -146,6 +155,7 @@ Pros:
 Cons:
 
 ###### Do you still use this tool?
+
 
 ### Netflix Party
 
@@ -161,6 +171,7 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### Watch2Gether
 
 Tested by: Molly Peterson, Jongtae Jeon
@@ -174,6 +185,7 @@ Pros:
 Cons:
 
 ###### Do you still use this tool?
+
 
 ### Metastream
 
@@ -203,16 +215,18 @@ Cons:
 
 ###### Do you still use this tool?
 
+
 ### Vemos
 
 Tested by: Molly Peterson, Jongtae Jeon
 
 ![vemos icon](https://lh3.googleusercontent.com/9JgoW_0ahWj-wVW2TddoGTRo5KBAOE0ADrWr87t3CIutdIqW-Ypv0HSPt-eymYwX6aLO8j7k=w128-h128-e365)
 
-###### Original Assessment
+\###### Original Assessment
 
 Pros:
 
 Cons:
 
 ###### Do you still use this tool?
+
