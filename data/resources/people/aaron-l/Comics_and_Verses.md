@@ -14,7 +14,7 @@
 
 ---
 
-![Comics](images/comics.png)
+![Comics](https://files.slack.com/files-pri/T0HTW3H0V-F014Q97QSM6/comics.png?pub_secret=eba06f4927)
 
 # &
 # Verses
@@ -24,7 +24,7 @@
 
 ---
 
-![Comics & Verses](images/comics_and_verses.png)
+![Comics & Verses](https://files.slack.com/files-pri/T0HTW3H0V-F014D2Y63L1/comics_and_verses.png?pub_secret=515f8666e5)
 
 ---
 
@@ -50,7 +50,7 @@ The point of the assignment is to make students navigate various kinds of constr
 
 **Sample Cartoon:**
 
-![A Sample Cartoon](images/sample_cartoon.png)
+![A Sample Cartoon](https://files.slack.com/files-pri/T0HTW3H0V-F0146KANQEQ/sample_cartoon.png?pub_secret=2d162addf2)
 
 **In the second part of the assignment**, the student writes a list of potential counterarguments (objections that a potential reader might bring up) and rebuttals (responses to those counterarguments), and then writes a poem based on these arguments.  The poem will eventually become the body paragraphs of an essay.
 
@@ -201,7 +201,7 @@ Feel free to be a bit silly and to say things in your cartoon and poem that you 
 
 **Sample Cartoon:**
 
-![A Sample Cartoon](images/sample_cartoon.png)
+![A Sample Cartoon](https://files.slack.com/files-pri/T0HTW3H0V-F0146KANQEQ/sample_cartoon.png?pub_secret=2d162addf2)
 
 
 **Sample of opposing arguments and rebuttals:**
