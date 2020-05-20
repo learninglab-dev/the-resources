@@ -36,6 +36,7 @@ Cons:
 Academic Use:
 
 ###### Do you still use this tool?
+  - Of course. It's the gold standard for formal, professional communications in the remote era. Students tend to avoid wanting to communicate via Zoom in their free time, however, because it is so rigidly associated with higher-pressure or less casual environments.
 
 ### Houseparty
 
@@ -66,6 +67,7 @@ Academic Use:
   - Quick discussions during class with a lot of mobility allowed between groups (unlike with Breakout Rooms on Zoom)
 
 ###### Do you still use this tool?
+  - Though some students are still using Houseparty, the craze has largely died down, and many haven't used the platform in more than a month. One theory as to why is that, during the first few weeks of quarantining, students were still adjusting after the abrupt switch from spontaneous on-campus social environment to isolation, and were more energized to speak with less familiar faces online. As quarantine has gone on, however, and the memory of being on campus becomes more and more distant, the thought of connecting with a mere acquaintance or even a stranger on the fly starts to seem less and less comfortable.
 
 ### FaceTime
 
@@ -154,9 +156,10 @@ Cons:
   - Postcards, dance moves, and emojis are limited in their scope: they are not very customizable and fail to convey clear or complex information
   - Has potential to be extremely distracting
   - Messages don't last very long and chat history quickly exceeds its memory
+  - Requires a lot of bandwidth
 
 Academic Use:
-  - 
+  - Not a lot of practical academic use beyond levity or stress relief
 
 ###### Do you still use this tool?
 
@@ -169,12 +172,32 @@ Tested by: Brenda Ceja, Jeremy Tsai
 ###### Original Assessment
 
 Pros:
+  - Facilitates collaborative, simultaneous editing
+  - Edits appear in real-time
+  - Is easily accessible with an intuitive user interface
+  - Has basic embed capabilities (photos, hyperlinks, videos)
+  - Provides 3 different modes to toggle--view, comment, and edit--allowing control over user involvement capacities
+  - Includes chat side bar (chatting is also easy in-document)
+  - Saves automatically! Huge!
+  - Can save changes offline, though these changes will be lost if the computer is turned off or dies before access to internet can be restored
+  - Supports many Chrome extensions, such as Zotero, a citation generator and resource-saving cloud
+  - Google Drive integration allows access to many other types of media/files and provides opportunity to organize projects across mediums
 
 Cons:
+  - Can lag when multiple users are editing the same file
+  - Formatting errors can occur with simultaneous editing or when exporting document
+  - Has no checks against freeloading, hard to determine which group members contributed what
+  - Requires a reliable internet connection for most effective use
 
 Academic Use:
+  - Fast way to take notes
+  - Study guide making/sharing
+  - Group project work
+  - Sharing documents
+  - Taking minutes for student group meetings
 
 ###### Do you still use this tool?
+  - Resolutely yes, Google Docs is essential for any student or collaborative person
 
 ### Google Hangouts
 
@@ -185,12 +208,23 @@ Tested by: Brenda Ceja, Jeremy Tsai
 ###### Original Assessment
 
 Pros:
+  - Is highly accessible--no sign-up cost or download necessary
+  - Does not place time limits on calls (unlike Zoom, which will limit calls to 40 minutes outside of professional/educational accounts)
+  - Intuitive user interface
+  - Requires no personal information from user
+  - Works on many devices, unlike Apple product-specific platforms like FaceTime and Houseparty
+  - Little lagging and high resolution
 
 Cons:
+  - Fewer features than Zoom (e.g. no virtual backgrounds, breakout rooms, hand-raising functions)
+  - Lack of virtual background feature specifically entails students who may not be comfortable sharing visual information about their home environment have no easy way to avoid doing so
 
 Academic Use:
+  - Student group projects outside of class (no phone number is required to make an account, a huge plus)
+  - In-class or moderated needs would be better served by Zoom
 
 ###### Do you still use this tool?
+  - Yes; many students have transitioned away from using Houseparty for their social needs to more intentional, controlled communication tools like Google Hangouts
 
 ### Discord
 
@@ -201,12 +235,25 @@ Tested by: Lara Teich, Julie Tassinari
 ###### Original Assessment
 
 Pros:
+  - Is free!
+  - Very similar to Slack in facilitation of many project threads or group communication spaces
+  - Has voice chat feature that allows you to easily speak in-person with members within a given channel (biggest difference from Slack)
+  - Sends information about who is typing in real-times
+  - Downloadable on many devices
+  - Can be operated easily in an internet browser without download
 
 Cons:
+  - Has a stigma of catering primarily to "gamers"
+  - Voice chat does not offer hierarchy control (for example, professors would not have the ability to mute students were they abusing the voice chat function)
+  - Can be confusing when first getting started, though a help section is easily accessible and many online walkthroughs are available
+  - Some functions are only available with a "Nitro" subscription (premium upgrade) of $9.99 a month--though the added features are more of fun bonuses than essentials
 
 Academic Use:
+  - Professors could make a free account on Discord and create a server for their whole class--TFs could be made co-administrators of the server by assigning them the responsibility in the server's "roles" section
+  - Offers a more relaxed, accessible, and unified environment for classroom engagement than email or other analog methods of communication--it's nice to have everything in one place
 
 ###### Do you still use this tool?
+  - Though our student testers have not used this tool since testing it, they have very positive opinions of the interface and affirm its potential as an educational tool. A big reason why they haven't used it since testing is that its functionality is best suited for communication between large numbers of people, which generally entails an initial effort to get everyone registered and an institutional commonality/unified mission among users.
 
 ### GroupMe
 
@@ -217,10 +264,19 @@ Tested by: Molly Peterson
 ###### Original Assessment
 
 Pros:
+  - Allows group messaging between users of all phone brands
+  - Can be used as a phone app or on the computer
+  - Syncs phone contacts for quick access
+  - Notifications can be toggled--even provides the option of muting individual conversations
+  - Individual and group avatars and names are customizable
 
 Cons:
+  - Requires wifi
+  - Often glitchy for some users (failing to load messages, only partially syncing contact lists, etc.)
+  - Offers little opportunity for hierarchical regulation
 
 Academic Use:
+  - Because GroupMe is not easily regulated, it is best used for communicating with students outside of a formal classroom context--for example, small tutorials with a strong interpersonal component could communicate via GroupMe
 
 ###### Do you still use this tool?
 
