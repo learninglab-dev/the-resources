@@ -1,8 +1,26 @@
 # Remote Learning/Working Sets
-### Brenda
-![Brenda](https://files.slack.com/files-pri/T0HTW3H0V-F013TG9S6QM/brenda.jpg?pub_secret=e25d37208d "Brenda")
+![Final Collage](https://files.slack.com/files-pri/T0HTW3H0V-F0144AD4352/version7.png?pub_secret=255c1b630a "Final Collage")
+While the physical Learning Lab has been closed for the last view months, Learning Lab Undergraduate Fellows have set up their own personal Learning Lab in the remote environment. These workspaces are likely also used for lectures, sections, and assignments. Basically, they are where students are spending the majority of their time. The collage above showcases the workspaces of several of the LLUFs. As you can see, the common thread and focus of each image is the laptop, which is students' ticket to the outside world. Beyond that, the LLUFs took different approaches in the rest of their environment, as some chose to work at desks, in their bed, on tables, outside, or even on the floor. These images give a snapshot of what the Learning Lab has looked like for the majority of this semester.  Despite the varied surroundings, we were able to maintain the LL-community and work to improve online learning.  
+## Photo Resources
+- [Abby](#abby)
+- [Brenda](#brenda)
+- [Connor](#connor)
+- [Elmer](#elmer)
+- [Emmy](#emmy)
+- [Julie](#julie)
+- [Kathryn](#kathryn)
+- [Kylie](#kylie)
+- [Laura](#laura)
+- [Molly](#molly)
+- [Sarah](#sarah)
+- [Sofi](#sofi)
+- [Sophie B.](#sophie-b)
+- [Sophie W.](#sophie-w)
+
 ### Abby
 ![Abby](https://lh4.googleusercontent.com/-YsGgbWYBAQ_dtc47ZPwl9j5ZLCIjs3aAHTfxUxbtSiaHiU2yFUIY-wwYPnHABqg1GSklTJaglW7ldyXpq_2EfgOB9k3kZYFk9qE4CHXTvU429CujIa4BFCJZTAZehVIr_jlZm77fk0 "Abby")
+### Brenda
+![Brenda](https://files.slack.com/files-pri/T0HTW3H0V-F013TG9S6QM/brenda.jpg?pub_secret=e25d37208d "Brenda")
 ### Connor
 ![Connor1](https://files.slack.com/files-pri/T0HTW3H0V-F013E6C3X55/connor2.png?pub_secret=371c9e24e2 "Connor")
 ![Connor2](https://files.slack.com/files-pri/T0HTW3H0V-F01413Z9FGC/connor1.png?pub_secret=4336ed22d5 "Also  Connor")
