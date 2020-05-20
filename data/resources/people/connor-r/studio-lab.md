@@ -3,7 +3,7 @@
 Meeting every Wednesday (and the *occasional* Thursday) evening, the Learning Lab becomes a dedicated space to StudioLab.
 StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing projects and designs.** As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
 
-## *September*
+## *September 2019*
 ### 09/01/19: Marlon's Solution to the "Gray Zone"... the Birth of StudioLab
 > With StudioLab originally being imagined as a way to redesign the space, its first impact originated as a happy accident. The plain gray wall at the back of the Learning lab had always irked Marlon, but a temporary position to lean a magnetic board presented us with a permanent solution.
 
@@ -22,7 +22,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![LL tables landscape](https://files.slack.com/files-pri/T0HTW3H0V-FNM1K08CE/image_from_ios.jpg?pub_secret=c42fd2200f)
 ---
 
-## *October:* The Month of the Chalk Wall
+## *October 2019:* The Month of the Chalk Wall
 > The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life.
 
 ![Chalk wall mountains](https://files.slack.com/files-pri/T0HTW3H0V-F013WDRV268/img_2182.jpg?pub_secret=4c701cca2d)
@@ -30,22 +30,51 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![Saturn drawing](https://files.slack.com/files-pri/T0HTW3H0V-F013NUGQDQD/img_3280.jpg?pub_secret=878f314b96)
 ---
 
-## *November*
+## *November 2019*
 ### EMR 135 - Climate Migration: Histories, Borders, and Activism
 > In November, we started our work with EMR 135. We focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind.
 
+### 11/15/19: Tree Trunk Skeleton
 ![Tree skeleton](https://files.slack.com/files-pri/T0HTW3H0V-FQH37AJ9X/img_1172.jpg?pub_secret=be25bd7dfa)
-![Tree papier mache](https://files.slack.com/files-pri/T0HTW3H0V-F0142T8K01X/img_2460.jpg?pub_secret=3f9ce33bfb)
+
+### 11/18/19: Creating the Branches
 ![Tree branch in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013QF2QJRH/img_2462.jpg?pub_secret=beeedd86c8)
+
+### 11/19/19: Inside the Branches
 ![Gif of inside branch](https://files.slack.com/files-pri/T0HTW3H0V-FQC953JJX/inside-the-tentacle_360.gif?pub_secret=ac5a72f087)
-![Tree painting in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013HGT731U/img_2530.jpg?pub_secret=89628e3fca)
-![Assembly of tree parts](https://files.slack.com/files-pri/T0HTW3H0V-F013WE6Q328/img_2541.jpg?pub_secret=d820f9e0bc)
+
+### 11/21/19: Layering the Trunk!
+![Tree papier mache](https://files.slack.com/files-pri/T0HTW3H0V-F0142T8K01X/img_2460.jpg?pub_secret=3f9ce33bfb)
+
+### 11/25/19: Leaves and Butterflies
 ![Connor cutting leaves/butterflies for class](https://files.slack.com/files-pri/T0HTW3H0V-F013QF2QJSF/img_2525_2.jpg?pub_secret=2677fb188e)
+
+### 11/26/19: Time to Paint!
+![Tree painting in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013HGT731U/img_2530.jpg?pub_secret=89628e3fca)
+
+### 11/27/19: Putting It All Together
+![Assembly of tree parts](https://files.slack.com/files-pri/T0HTW3H0V-F013WE6Q328/img_2541.jpg?pub_secret=d820f9e0bc)
+
+### 11/29/19: The Finished Product
 ![Final tree](https://files.slack.com/files-pri/T0HTW3H0V-F013HGYJVFG/img_2609_2.jpg?pub_secret=ff4cae4f96)
+
+## Other November Projects
 
 ### 19th November: "Video Capture: Composition + Storytelling"
 ### 20th November: "FCPX Video Editing Basics, Montages, 3 Minute Stories"
-### Preparing for Winter Gallery
-### 1000:1 Project
+
+## *December 2019*
+
+### 12/10/19: The Learning Lab Winter Gallery
+
+## *January 2020*
+
+### 01/30/20: The 1000:1 Project
 ### Chalk Art
-### Parker Quartet
+
+## *February 2020*
+### 02/24/20: The Parker Quartet
+![New lab setup](https://files.slack.com/files-pri/T0HTW3H0V-FUEUXJ7SS/image_from_ios.jpg?pub_secret=57070f8481)
+![Jordan with screens recording quartet](https://files.slack.com/files-pri/T0HTW3H0V-FUGGFAZC6/image_from_ios.jpg?pub_secret=368d5cf669)
+![Parker Quartet in positions](https://files.slack.com/files-pri/T0HTW3H0V-FU4HWLNUR/20200224_001_music224_parkerquartet_hyper2_001.mov_02241005.jpg?pub_secret=6bf01269d6)
+
