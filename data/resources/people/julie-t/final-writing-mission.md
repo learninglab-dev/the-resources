@@ -248,19 +248,23 @@ I had to google everything, and it took a lot of trial and error. Although it wa
 
 # Kai F.  
 
-Distance lab, unfortunately, was born and developed in the shadow of COVID-19. The first day back was like a movie in which I was spectating from outside the screen. 
-I didn’t really believe what was happening was real and the feeling persisted throughout the first week. However, the distance lab helped break through the fantastical monotony. 
-Catching up with coworkers not only gave me that much needed social interaction but reminded me that quarantine isn’t the time to sulk but to create and imagine. 
-Helping other students traverse this new situation alleviated much of the loneliness that came from having left school and gave me more of a sense of purpose to help ease others in this transition.
-My recent work at the lab has revolved around learning and teaching new digital skills that many students find themselves needing to acquire for online classes. 
-For me, this has largely revolved around filming alone for projects and navigating adobe photo products. Beyond simply answering questions, the work has sparked an interest in expressing one’s self through social media and showcasing work on digital platforms. 
-This has paired incredibly with distance lab’s GitHub lessons and website design. I am super excited to utilize these skills on various passion products over the summer (including tackling adobe spark and portfolio).   
+![Kai](https://files.slack.com/files-pri/T0HTW3H0V-F013KQT3NG7/screen_shot_2020-05-20_at_3.57.45_pm.png?pub_secret=529d4576e4)
+
+Distance lab, unfortunately, was born and developed in the shadow of COVID-19. The first day back was like a movie in which I was spectating from outside the screen. I didn’t really believe what was happening was real and the feeling persisted throughout the first week. However, the distance lab helped break through the fantastical monotony. 
+
+Catching up with coworkers not only gave me that much needed social interaction but reminded me that quarantine isn’t the time to sulk but to create and imagine. Helping other students traverse this new situation alleviated much of the loneliness that came from having left school and gave me more of a sense of purpose to help ease others in this transition.
+
+My recent work at the lab has revolved around learning and teaching new digital skills that many students find themselves needing to acquire for online classes. For me, this has largely revolved around filming alone for projects and navigating adobe photo products. Beyond simply answering questions, the work has sparked an interest in expressing one’s self through social media and showcasing work on digital platforms. This has paired incredibly with distance lab’s GitHub lessons and website design. I am super excited to utilize these skills on various passion products over the summer (including tackling adobe spark and portfolio).   
+
+We Tested:  
 
 When I try and think up a specific workshop that I was moved by, I am always drawn back to my first essentials lab where I was introduced to the other LLUFs and the Learning Lab for the first time. 
 Prior to this meeting, I was both excited and terrified by the the prospect of joining the lab because I had seen some of the amazing projects produced from its minds. 
 It didn’t help that the portrayal of Ivy league education promotes the idea of competition and survival of the fittest. However, that first meeting reminded me that learning isn’t a competitive endeavor, but a collaborative one. 
 The first meeting was a showcase of current projects at the lab, but the way in which it was presented was not “Look what I did!”, but “ Look what you can do too!” I think that immediately following that meeting was when I began to rethink what learning really was and the many ways I could go about it. 
 I started seeing more things as inspiration and not a competition.  
+
+We Learned:  
 
 In addition to gaining various soft skills such as brainstorming and fine-tuning the learning process, I gained tactile skills in adobe photoshop and procreate. 
 I think my skills as an artist still have a long way to go, but it’s been an eye-opening experience to learn about the animation process and breaking down motion and scenes into numerous parts and layers.
@@ -271,7 +275,9 @@ My personal photography interest tends to lean towards a street photography styl
 
 
 
-# Kylie S.  
+# Kylie S. 
+
+![Kylie](https://files.slack.com/files-pri/T0HTW3H0V-F0146PH6RE0/screen_shot_2020-05-20_at_4.14.36_pm.png?pub_secret=22e013d730)
 
 Coming into this remote learning experience, I expected my academic experience to stay relatively the same. 
 My classes were still at the same time and maintained the original format for the most part. Even though they were going relatively well in person, I quickly discovered that they didn’t work well for me at home. 
@@ -311,12 +317,13 @@ We Learned:
 
 We Made:  
 
-Title: Earth’s Magnetosphere  
+![Kylie Made](https://files.slack.com/files-pri/T0HTW3H0V-F013Z6TRA2H/screen_shot_2020-05-20_at_4.10.21_pm.png?pub_secret=b4c5f04027)
+
+Title: Earth’s Magnetosphere [Click Here to See the Animation](https://docs.google.com/presentation/d/1pimAed0mNtqCkyfZkRxQ2PhMIYjhHd2pTdeT36gxo-k/edit#slide=id.g773f4b93c6_0_1)
 
 Description: This animation shows how the magnetosphere protects protects Earth from particles in solar wind.  
 
 Rationale: This is my recreation of a Vox video. The purpose of creating this was to learn how to use different Adobe Apps together. I chose to use a scientific video because I think animations can be particularly useful for explaining complex scientific ideas. 
-
 
 
 
@@ -362,9 +369,12 @@ We Learned:
 
 I definitely picked up some new tricks in Adobe Suite (illustrator, though that tends to crash my computer sometimes, Photoshop, Adobe Spark). Also, CSS and Markdown!!  
 
+![Laura's Cat Creation](https://files.slack.com/files-pri/T0HTW3H0V-F0140RP3Q11/screen_shot_2020-05-20_at_4.34.35_pm.png?pub_secret=f96a7e0a53)  
+
 We Made:  
 
 What I’m most proud of that I created this semester is the Storytelling Sparkpage ([Linked Here](https://spark.adobe.com/page/A49LvcvvwLVnF/))
+
 The Art of Digital Storytelling
 It’s a curation of resources for learning to tell stories more effectively, with special emphasis on digital media. 
 I had all of these amazing resources that LLUFs collaborated to find, and I was able to screen and sort these resources into a manageable and extremely thorough Spark Page. 
@@ -383,6 +393,8 @@ It turns out that I was right to be afraid. I ended up dropping a class and aski
 
 
 # Molly P.  
+
+![Molly](https://files.slack.com/files-pri/T0HTW3H0V-F014QFU7J9E/screen_shot_2020-05-20_at_4.51.40_pm.png?pub_secret=a2ce55e753)
 
 It takes a second for me to process that we have been away from campus for nearly two months. It’s even stranger to realize the semester is coming to a close, marking the completion of three years at Harvard. 
 Like... that’s… (robot voice) = does/n0t/cOmpUt3. Because next year will be my senior year, I plan to take time off in the fall if the semester is to occur remotely. 
@@ -414,6 +426,8 @@ It would be so easy to annotate for English classes with InDesign, or compile re
 
 We Tested:  
 
+![Molly Tested](https://files.slack.com/files-pri/T0HTW3H0V-F0140LGSEPL/screen_shot_2020-05-20_at_4.50.06_pm.png?pub_secret=40cf53e63d)
+
 Christina’s Adobe vector graphics tutorial! I loved this workshop (which I attended over zoom) because it enabled me to make something which I would have had absolutely no clue how to approach otherwise and that is SO useful in SO many different contexts. 
 I particularly liked the way the graphic integrated data, art, and storytelling (with the little blurbs). I think it demonstrates how many disciplines and skills graphic design draws on, and why it is valuable for any person to know how to make simple, yet unbelievably sleek vectorworks, which can easily be tweaked to suit a variety of needs. 
 I think having a live/recorded instruction paired with a written document is particularly effective. Though I lost my way a couple times during the live tutorial, I was easily able to course correct using the write-up, and the bonus tips from the Zoom session made for a more polished product with a little extra original flair.  
@@ -427,6 +441,8 @@ Now that I think about it, using the distance diary to orient everyone when we s
 I think the most important and maybe most overlooked skill that you learn at the Bok Center is how to communicate. LLUFs are trusted with a lot of autonomy and being able to communicate how they are putting their freedom to good use is a constantly-sharpened effort. It would be cool to do a guide on the pros and cons of different communication platforms and styles… hmm….   
 
 We Made:  
+
+![Molly Made](https://files.slack.com/files-pri/T0HTW3H0V-F013TUK170W/screen_shot_2020-05-20_at_4.53.21_pm.png?pub_secret=1e83bad86c)
 
 This collage for my free media slide way back in March, reflecting on the first week back in school since the beginning of quarantine. The reason I loved this so much is that I got a chance to catalog all the good things that were still present in my life, and organize them in such a fashion that so many disparate parts came to have a sense of cohesion. 
 I think collaging could be so applicable to many courses in the humanities or social sciences, which study the ways different elements interact, whether thematically, practically, aesthetically, affectively, societally, etc. Because it took a long time to get everything looking just right, there’s a kind of meditative quality about the creation process, inspiring you to think deeply about the stimuli before you, something that happens less easily when rushed. 
@@ -445,10 +461,12 @@ My work at the Learning Lab has revitalized my undergraduate experience given th
 
 We Learned:  
 
-Ihave learned so much at the Learning Lab! My first memories are of editing footage on Final Cut Pro and standing in front of a professional camera and learning how to use it to manipulate the scene. But my favorite memory has been creating an “Beginner’s Guide to HTML, CSS, JS, and Markdown” tutorial with a LLGF, David. I have always wanted to learn how to code and really understand the relationship between the various languages and the process of creating a web page. 
+I have learned so much at the Learning Lab! My first memories are of editing footage on Final Cut Pro and standing in front of a professional camera and learning how to use it to manipulate the scene. But my favorite memory has been creating an “Beginner’s Guide to HTML, CSS, JS, and Markdown” tutorial with a LLGF, David. I have always wanted to learn how to code and really understand the relationship between the various languages and the process of creating a web page. 
 I would have never imagined that after just a few 1-hour lessons, I would be able to write very basic code in HTML and produce a tutorial teaching others the wonders I had learned!
 
 We Made:  
+
+![Sarah Made](https://files.slack.com/files-pri/T0HTW3H0V-F0140M74D9Q/screen_shot_2020-05-20_at_5.00.35_pm.png?pub_secret=db08330c68)
 
 Title: The Ecosystem: A Beginner’s Guide to HTML, CSS, JS & Markdown  
 
@@ -480,9 +498,10 @@ Although I constantly yearn to be back on campus with my friends and community, 
 
 We Tested:  
 
+![Sharleen Tested](https://files.slack.com/files-pri/T0HTW3H0V-F0140TXK80K/screen_shot_2020-05-20_at_5.09.19_pm.png?pub_secret=a269a12e36)
+
 I really enjoyed testing out the Vector Graphics Tutorial! Adobe Illustrator is such a useful tool that is often overshadowed by Photoshop. Although I’ve worked a bit with vector graphics in the past, I hadn’t really touched Illustrator yet. This opportunity helped me rediscover my interest in creating vector graphics, and let me learn more about a new tool! I nearly forgot how much I enjoyed creating simple, aesthetic icons until I looked up and realized that I’d already spent hours perfecting my sample graphic. I’m now using the skills I’ve learned through this tutorial to create graphics for my own projects. I hope others may also discover more about themselves through the simple calm of manipulating geometries and find new applications for vector graphics.
 
-[insert pic here from [this slide](https://docs.google.com/presentation/d/1ueKyc-KYbyNWjjeH76LmuxppBb7CT5P0U0B9rmun7fI/edit#slide=id.g840e1cd6ed_0_0)]  
 
 We Learned:  
 
@@ -501,6 +520,8 @@ Traditional animation: ProCreate, claymation
 -Videography  
 
 We Made:  
+
+![Sharleen Made](https://files.slack.com/files-pri/T0HTW3H0V-F013ZAQ8AKF/screen_shot_2020-05-20_at_5.10.50_pm.png?pub_secret=494671e564)
 
 A donut!  
 
@@ -527,7 +548,9 @@ My experience working at the virtual Learning Lab has been nothing short of amaz
 The Learning Lab also helps me feel connected to campus and the community I was a part of there. It’s always great to see everyone during our weekly Zoom meetings! These meetings and our “Distance Diaries” (which are Google Slides files where we log all the work we’ve done each shift) have helped so much to keep me motivated and productive on days when I feel particularly disconnected from my learning experience. I’m able to come in and work on a specific task for a specific amount of time, which is especially refreshing now that my schedule outside of the Learning Lab has become more and more nebulous. 
 Getting the opportunity to be creative for the Learning Lab, too, has provided a much-needed change of pace. I also believe that the work we do at the Learning Lab is becoming increasingly meaningful as we move towards the possibility of more remote learning in the fall, and the subsequent need to diversify the experience past Zoom meetings and lecture recordings.    
 
+We Made:
 
+![Sofi Made](https://files.slack.com/files-pri/T0HTW3H0V-F013ZAVQP61/screen_shot_2020-05-20_at_5.13.42_pm.png?pub_secret=14e7b57895)
 
 
 # Sophie B.  
@@ -559,6 +582,8 @@ We Learned:
 This year, I picked up skills in React, Firebase, Javascript more generally, styling in CSS, working with Markdown & GitHub, using libraries like SoX, making GIFs via code, creating images in Adobe Illustrator, & more!  
 
 We Made:  
+
+![Sophie B. Made](https://files.slack.com/files-pri/T0HTW3H0V-F013ZB2E67P/screen_shot_2020-05-20_at_5.17.05_pm.png?pub_secret=f9f47fbbff)
 
 Title: Video Interaction App  
 
@@ -625,13 +650,17 @@ I consider it one of my greatest privileges not only that I’m employed during 
 
 
 
-# Yilan Y.  
+# Yilan Y. 
+
+![Yilan](https://files.slack.com/files-pri/T0HTW3H0V-F014QJ7SZPA/screen_shot_2020-05-20_at_5.31.09_pm.png?pub_secret=c8b4579f0b)
 
 My first day back consisted of getting set up on Zoom and adjusted to my new home/work environment. Within that first week, my schedule changed a lot. I was in a different time zone, and some of my courses had changed meeting times. After a month, I realized that while working from home posed several struggles (bad wifi, disruptions, etc), I was able to get my homework done more efficiently since I could work on them for a long stretch of time, rather than broken up into bits due to extracurricular activities when I was on campus. Despite, the period of transition, I learned a lot about how I work and learn this semester, and I feel good about the work that I have done.   
 
 The LL has fit into my schedule seamlessly. I work on distanceLab tasks on Thursdays and Fridays once my classes are over for the week. I have learned so many new skills due to our free access to Adobe Creative Cloud. Additionally, the reflection prompts have really allowed me to explore and think about how remote learning has impacted my college experience. 
 
 We Tested:  
+
+![Yilan Tested](https://files.slack.com/files-pri/T0HTW3H0V-F014QJCCR96/screen_shot_2020-05-20_at_5.33.30_pm.png?pub_secret=985666b52e)
 
 During my time at home, the favorite test I completed was the Adobe Illustrator Vector Tutorial. I really wanted a refresher on Illustrator, and this tutorial was the perfect way to do it! It was just the right length, and it took me through all the basic functions and tools to create my own vector graphics!  
 
@@ -640,6 +669,8 @@ We Learned:
 This semester, I focused on building skills using Adobe Creative Cloud and Adobe Spark. I became quite comfortable with Spark and Photoshop, and I have improved my skills in Illustrator and Lightroom. I also learned Markdown and how to navigate github. I really like Latex and writing in Markdown reminded me a lot of using Latex.  
 
 We Made:  
+
+![Yilan Made](https://files.slack.com/files-pri/T0HTW3H0V-F014QJA1K16/screen_shot_2020-05-20_at_5.32.16_pm.png?pub_secret=780b73294a)
 
 This was not something I made for the LL. This was part of my creative final project for WGS 1225. I really wanted to showcase it here, although it is unrelated to the LL, because it represents what the LL has empowered me to be able to do. I used to be afraid of creative projects because I felt I didn’t have the skills to do well. However this semester I chose the creative option, and I was able to create this collage using Photoshop, Illustrator, and Spark using the skills that I gained this semester working for the LL. This part of the project is a satirical representation of the current body positivity movement promoted by social media influencers and social media ad campaigns. I was able to contribute the the current discourse about the movement using the creative skills I picked up here!
 
