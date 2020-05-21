@@ -1,4 +1,4 @@
-# Potentially Useful Links for Creating Clickable Browser-Based Maps
+# Creating Clickable Browser-Based Maps
 a.k.a. getting maps to do stuff :)
 
 ## Examples
@@ -32,7 +32,7 @@ a.k.a. getting maps to do stuff :)
 ## Tutorials & Other Code Resources
 
 1. [https://medium.com/@heatherbooker/how-to-make-an-interactive-map-in-react-f4e6e074b500](https://medium.com/@heatherbooker/how-to-make-an-interactive-map-in-react-f4e6e074b500) Blog re: making interactive maps with React, CSS, SVG
- 
+
 2. [https://medium.com/@zimrick/how-to-create-pure-react-svg-maps-with-topojson-and-d3-geo-e4a6b6848a98](https://medium.com/@zimrick/how-to-create-pure-react-svg-maps-with-topojson-and-d3-geo-e4a6b6848a98) Topojson and d3-geo interactive map tutorial
 
 3. [https://www.storybench.org/how-to-build-an-interactive-choropleth-map-with-barely-any-code/](https://www.storybench.org/how-to-build-an-interactive-choropleth-map-with-barely-any-code/) Low code option for cloropleth maps!
