@@ -330,6 +330,8 @@ Rationale: This is my recreation of a Vox video. The purpose of creating this wa
 
 # Laura F.  
 
+![Laura](https://files.slack.com/files-pri/T0HTW3H0V-F014SEDQ200/laura.jpg?pub_secret=0062b3cd89)  
+
 The first day back, I was still in shock. The first week back I was still in shock. Only now, that I’ve had almost two months to process what’s happened, have I even started to think more about what this transition has meant and will mean for the future of both learning and life.
 It’s actually hard to believe we’ve been in quarantine for seven weeks now. The time has simultaneously stretched into an infinity and flown past in a shock. 
 The biggest challenge I faced was learning to make each day feel different somehow, and I relied on both my class schedule and my work schedule to do that. 
@@ -478,7 +480,9 @@ It is truly an introduction to the vast terrain of the World Wide Web. ([Linked 
 
 
 
-# Sharleen L.  
+# Sharleen L.   
+
+![Sharleen](https://files.slack.com/files-pri/T0HTW3H0V-F01419XMFSR/screen_shot_2020-05-21_at_1.44.53_pm.png?pub_secret=553d5e5a2b)
 
 We adapt quickly to change--finding new ways to complete our daily tasks, new ways to stay entertained, new ways to continue learning. Although working and living in quarantine is unideal, we are constantly adjusting our lifestyles to continue living the best lives we can.  
 
