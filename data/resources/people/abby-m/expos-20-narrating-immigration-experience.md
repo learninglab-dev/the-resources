@@ -11,7 +11,7 @@ Eventually, with the help of the class GroupMe, I found my way to the second flo
 
 I was grateful to be a few minutes early -- it gave me time to marvel with my fellow students and to take everything (well a lot of it) in. 
 
-![what an awesome place](https://files.slack.com/files-pri/T0HTW3H0V-F014FDA9XPA/screen_shot_2020-05-15_at_3.47.59_pm.png?pub_secret=a193ca87dc)
+![what an awesome place](https://files.slack.com/files-pri/T0HTW3H0V-F013N1X0279/bok_collage.png?pub_secret=fa55d68c6c)
 
 Then we got started on workshopping our projects according to Jordan’s newest procedure. Instead of coming to class with our narratives scripted or thoroughly planned, we were just told to have an idea ready. Then, Jordan ran us through the process. First, we would have two minutes to brainstorm on Bok cards, then we would have three minutes each to present to our partners. After that, we would have three minutes to give each other feedback. We would do this three times, with three different partners. 
 
