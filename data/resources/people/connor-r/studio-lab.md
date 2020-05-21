@@ -32,7 +32,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 
 ## *November 2019*
 ### EMR 135 - Climate Migration: Histories, Borders, and Activism
-> In November, we started our work with EMR 135. We focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind.
+> In November, we started our work with EMR 135. The class had many objectives it wanted to achieve over the course of the semester. At the Learning Lab, we focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind. At the very beginning of December, we hosted their final event in the Learning Lab, setting up the tree and other resources for the students to use.
 
 ### 11/15/19: Tree Trunk Skeleton
 ![Tree skeleton](https://files.slack.com/files-pri/T0HTW3H0V-FQH37AJ9X/img_1172.jpg?pub_secret=be25bd7dfa)
@@ -66,6 +66,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ## *December 2019*
 
 ### 12/10/19: The Learning Lab Winter Gallery
+> Back in December, the Learning Lab hosted its annual Winter Galley, presenting the effort and work that had been produced by members throughout the Fall semester. For such an event to be successful, the space of the main studio needed to be changed once again. Not only this, but we had to figure out the where each project would be situated, and how it was going to be presented to those visiting the Learning Lab. The Gallery was a huge success; guests from across the university came to view our work and to celebrate the end of the semester with us.
 
 ## *January 2020*
 
@@ -74,7 +75,8 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 
 ## *February 2020*
 ### 02/24/20: The Parker Quartet
+> Earlier this year, the Learning Lab had the pleasure of hosting the Grammy Award-winning Parker Quartet for an inspiring performance. The main studio space within the Learning Lab had to be reimagined for such an event; a total reconfiguration of the tables and truss was required. Enter StudioLab! Members of StudioLab loved the challenge of figuring out the solution. Not only did the setup need to be visually appealing, but the acoustics had to be inch-perfect and the final arrangement had to be practical, taking into account the many cables and cameras that were required to record the performance. Furthermore, our setup had to be in harmony with what the Parker Quartet were comfortable with, as they have already have a setup that they are familiar with.
+
 ![New lab setup](https://files.slack.com/files-pri/T0HTW3H0V-FUEUXJ7SS/image_from_ios.jpg?pub_secret=57070f8481)
 ![Jordan with screens recording quartet](https://files.slack.com/files-pri/T0HTW3H0V-FUGGFAZC6/image_from_ios.jpg?pub_secret=368d5cf669)
 ![Parker Quartet in positions](https://files.slack.com/files-pri/T0HTW3H0V-FU4HWLNUR/20200224_001_music224_parkerquartet_hyper2_001.mov_02241005.jpg?pub_secret=6bf01269d6)
-
