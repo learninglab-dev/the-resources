@@ -1,4 +1,4 @@
-# The Story of StudioLab
+# The Great Story of StudioLab
 
 Meeting every Wednesday (and the *occasional* Thursday) evening, the Learning Lab becomes a dedicated space to StudioLab.
 StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing projects and designs.** As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
@@ -10,7 +10,7 @@ StudioLab started out as a time that anyone who was interested in being creative
 ![Whiteboard resting on gray wall](https://files.slack.com/files-pri/T0HTW3H0V-FMX6TCK7A/image_from_ios.jpg?pub_secret=1a4ef223c0)
 
 ### 09/01/19: Brick Room Becomes Computer Room
-> Another *temporary* change by Marlon gains popularity and becomes **permanent.** The room adjacent to the main studio became the hub for desktop PCs; an incredibly convenient location for those editing images/footage in real-time.
+> Another *~temporary~* change by Marlon gains popularity and becomes **permanent.** The room adjacent to the main studio became the hub for desktop PCs; an incredibly convenient location for those editing images/footage in real-time.
 
 ![Make-shift tables set up for computers](https://files.slack.com/files-pri/T0HTW3H0V-FMXA3SZ24/image_from_ios.jpg?pub_secret=5cc3bcfe5e)
 
@@ -26,7 +26,13 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 > The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life.
 
 ![Chalk wall mountains](https://files.slack.com/files-pri/T0HTW3H0V-F013WDRV268/img_2182.jpg?pub_secret=4c701cca2d)
+
+> Here you can see how the drawings complement the main studio in the background!
+
 ![LL landscape with chalk mountains in backdrop](https://files.slack.com/files-pri/T0HTW3H0V-FQ3A040LU/image_from_ios.jpg?pub_secret=d8d7b0bc76)
+
+> This drawing of saturn was later added to help fill out some blank space and to add even more color.
+
 ![Saturn drawing](https://files.slack.com/files-pri/T0HTW3H0V-F013NUGQDQD/img_3280.jpg?pub_secret=878f314b96)
 ---
 
@@ -35,30 +41,46 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 > In November, we started our work with EMR 135. The class had many objectives it wanted to achieve over the course of the semester. At the Learning Lab, we focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind. At the very beginning of December, we hosted their final event in the Learning Lab, setting up the tree and other resources for the students to use.
 
 ### 11/15/19: Tree Trunk Skeleton
+> We used chicken wire to create the base and shape of the structures we were hoping for.
+
 ![Tree skeleton](https://files.slack.com/files-pri/T0HTW3H0V-FQH37AJ9X/img_1172.jpg?pub_secret=be25bd7dfa)
 
 ### 11/18/19: Creating the Branches
+> The branches were created to extend as far as possible (within the realm of physics), so that they could be utilized by students of the class.
+
 ![Tree branch in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013QF2QJRH/img_2462.jpg?pub_secret=beeedd86c8)
 
 ### 11/19/19: Inside the Branches
+> Check out this cool gif Marlon made from within one of the branches!
+
 ![Gif of inside branch](https://files.slack.com/files-pri/T0HTW3H0V-FQC953JJX/inside-the-tentacle_360.gif?pub_secret=ac5a72f087)
 
 ### 11/21/19: Layering the Trunk!
+> After researching many methods for papier mache, we got to work with solidifying our tree!
+
 ![Tree papier mache](https://files.slack.com/files-pri/T0HTW3H0V-F0142T8K01X/img_2460.jpg?pub_secret=3f9ce33bfb)
 
 ### 11/25/19: Leaves and Butterflies
+> The class required many leaves/butterflies to be cut out that could be hung from various objects around the Lab. The students had to write specific messages on each of these relevant to their projects - here is Connor, proud with his cutting work!
+
 ![Connor cutting leaves/butterflies for class](https://files.slack.com/files-pri/T0HTW3H0V-F013QF2QJSF/img_2525_2.jpg?pub_secret=2677fb188e)
 
 ### 11/26/19: Time to Paint!
-![Tree painting in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013HGT731U/img_2530.jpg?pub_secret=89628e3fca)
+> Once the tree had been fully solidified, we got to work on painting. We experimented with different browns in order to make the tree as realistic as possible. However, upon a visit from the Course Head, the chalk drawing of the "rainbow tree" was asked to be replicated. We absolutely loved the idea, and tried our best to make the tree look as creative (and colorful) as possible, whilst still of course resembling a tree!
+
+![Tree painting in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013PBRPBE3/img_2530_2.jpg?pub_secret=b16e0d5267)
 
 ### 11/27/19: Putting It All Together
+> Now painted, the tree could be put together using a piece of truss as a base to hold it in place.
+
 ![Assembly of tree parts](https://files.slack.com/files-pri/T0HTW3H0V-F013WE6Q328/img_2541.jpg?pub_secret=d820f9e0bc)
 
 ### 11/29/19: The Finished Product
+> Behold, the completed tree!
+
 ![Final tree](https://files.slack.com/files-pri/T0HTW3H0V-F013HGYJVFG/img_2609_2.jpg?pub_secret=ff4cae4f96)
 
-## Other November Projects
+## Other November Projects (Marlon Checking)
 
 ### 19th November: "Video Capture: Composition + Storytelling"
 ### 20th November: "FCPX Video Editing Basics, Montages, 3 Minute Stories"
@@ -71,7 +93,25 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ## *January 2020*
 
 ### 01/30/20: The 1000:1 Project
-### Chalk Art
+> As January kicked off our 2020, the new semester brought us new courses. New courses meant new projects! Enter StudioLab. Itching for another "big" project, members of StudioLab met with __ to discuss a project for an Expos course. The course revolved around studying features/demographics along the Charles River. For the final project, the goal was to create a 1000:1 scale model of the Charles River, running throughout the Learning Lab. After further discussions, we StudioLab members helped craft the intermediate project for the course; students would require 1000:1 scale models of Boston Common to use with their own research on features/demographics.
+
+> Before we met to discuss the intermediate project, we wanted to ensure the final project was in the works from the very beginning; we knew that it would not be easy and would take extensive planning. To begin with, we used Cinema4D to see whether the 1000:1 scale was feasible... it was!
+
+![Map of Charles projected onto Lab](https://files.slack.com/files-pri/T0HTW3H0V-FS4CVA54H/ll_studio_mapofthecharles_202001081601.jpg?pub_secret=98ab9fd6ce)
+
+> With this in mind, we began working on the scale models of Boston Common. Around 8-10 would be required, so we had to ensure that any method was replicable and doable within the timeframe given. The best method was to use an overhead projecter at the correct magnififcation which would present a 1000:1 scale of Google Maps onto the table. We then traced the revelant outlines for Boston Common from the projection, and used this drawing to trace the other remaining models.
+
+![Connor drawing from projection](https://files.slack.com/files-pri/T0HTW3H0V-FTAC42QJD/20200204_003_studiolab_cr_5d4b_005.mov_17492813.jpg?pub_secret=bb4495490b)
+![Close-up of Connor drawing](https://files.slack.com/files-pri/T0HTW3H0V-FTLH9HYGM/20200204_003_studiolab_cr_5d4b_006.mov_17501519.jpg?pub_secret=e983939a1d)
+
+> The resulting drawings were individually mounted onto foam boards and cut out; students could then use them as physical bases for their projects!
+
+![Boston Common base](https://files.slack.com/files-pri/T0HTW3H0V-FV7TTN8A2/20200309_002_expos20case_mappingintro_hyper1_001.mov_03555009.jpg?pub_secret=bf3787fa09)
+![Decorated map](https://files.slack.com/files-pri/T0HTW3H0V-FUSTVUS9G/20200309_002_expos20case_mappingintro_hyper1_001.mov_06161009.jpg?pub_secret=741bea80f4)
+
+> Due to the sooner-than-expected departure from on-campus classes, the final project involving the Charles River as a scale model was not required, but we were thankful that the Boston Common project was able to be used and be successful.
+
+### Chalk Art?
 
 ## *February 2020*
 ### 02/24/20: The Parker Quartet
@@ -80,3 +120,6 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![New lab setup](https://files.slack.com/files-pri/T0HTW3H0V-FUEUXJ7SS/image_from_ios.jpg?pub_secret=57070f8481)
 ![Jordan with screens recording quartet](https://files.slack.com/files-pri/T0HTW3H0V-FUGGFAZC6/image_from_ios.jpg?pub_secret=368d5cf669)
 ![Parker Quartet in positions](https://files.slack.com/files-pri/T0HTW3H0V-FU4HWLNUR/20200224_001_music224_parkerquartet_hyper2_001.mov_02241005.jpg?pub_secret=6bf01269d6)
+
+## *March 2020*
+### Anything from the week or two before we left campus?
