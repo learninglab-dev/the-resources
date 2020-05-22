@@ -1,0 +1,9 @@
+# Unity Troubleshooter
+
+The [Unity Troubleshooter] (https://harvard.az1.qualtrics.com/jfe/form/SV_0Drc0IHiLqermkt) was created in the fall of 2019 to help new users of the Unity3D software figure out commonly encountered errors in Unity with the help of an online tool.
+While originally the idea was to create the troubleshooter for each window in Unity, I decided to focus solely on console errors related to coding since these were in general more difficult for new users to find answers for online.
+The troubleshooter branches into two fields: syntax errors and logic errors. Syntax errors show up in the console whenever the computer doesn't understand the grammar of the code. A common example is when there isn't an even number of {}. In this case, there's an { somewhere missing it's } pair and as a result the computer doesn't know how to read the code without it.
+Logic errors have the grammar of coding correct, but the coder is asking the computer to do something it considers impossible. A popular one everyone learns early on is trying write code that divides by zero. It can't be done, so the computer throws an error.
+
+The troubleshooter isn't complete at this stage. Most of the common cased are included in it right now, but it's far from exhaustive. That would be difficult to accomplish given that there are hundreds of potential error codes Unity could possibly generate and multiple errors could be combined together in the console to produce complicated error messages.
+However, this project was designed to get new comers to unity up and running, and it does that well enough. At some point, the best thing for any coder to do is to move away from tools like this and learn to navigate the Unity Answers forum or Stack Exchange. Those two are more comprehensive overall. They can be intimidating at first, so this tool is a nice intermediary between those who are just starting out and the next level of troubleshooting via web forums.
