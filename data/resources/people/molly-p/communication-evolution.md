@@ -29,18 +29,29 @@ Tested by: Molly Peterson
 
 ###### Original Assessment
 
-Pros:
+Pros
+  - Has so much functionality; provides different mode options (for example, conference call vs. webinar)
+  - Provides hierarchical controls, so professors can maintain command of a virtual classroom
+  - Supports many users at once
+  - Supports screen share
+  - Is widely familiar; most people have probably used it by now
+  - Allows you to chat with the entire group or privately with an individual
+  - Has many unique features like hand-raising, breakout rooms, polling, and even a whiteboard option
 
 Cons:
+  - Video quality can be poor and unpredictable; the view of other members on a call is generally blurry
+  - Costs money to use; subscriptions are paid for monthly
+  - Because there are so many options, extra literacy is required--and there may be technical difficulties in a meeting when users don't know how to change settings or properly use a certain feature
 
 Academic Use:
+  - Zoom is excellent for academic use and is obviously Harvard's platform of choice. However, we are lucky the University pays for our subscriptions. Zoom might not be an option for everybody in all contexts.
 
 ###### Do you still use this tool?
-  - Of course. It's the gold standard for formal, professional communications in the remote era. Students tend to avoid wanting to communicate via Zoom in their free time, however, because it is so rigidly associated with higher-pressure or less casual environments.
+  - Of course. It's the gold standard for formal, professional communications in the remote era. Students tend to avoid wanting to communicate via Zoom in their free time, however, because it is so rigidly associated with higher-pressure or less casual environments... but it allows for so many people on a call at once that for some scenarios it simply can't be beat.
 
 ### Houseparty
 
-Tested by: Elmer Vivas-Portillo, Sofi Andrade, Sam Benkelman, Molly Peterson, Abby McElroy
+Tested by: Elmer Vivas Portillo, Sofi Andrade, Sam Benkelman, Molly Peterson, Abby McElroy
 
 ![houseparty icon](https://pbs.twimg.com/profile_images/1075405169104379905/oAb1WFs4_400x400.jpg)
 
@@ -75,17 +86,24 @@ Tested by: Molly Peterson
 
 ![facetime icon](https://kitv.images.worldnow.com/images/18066602_G.png)
 
-Academic Use:
-
 ###### Original Assessment
 
 Pros:
+  - Makes it easy to see friends' and family's faces at the click of a button
+  - Has been around a while, so it is familiar to many and reliable
+  - Straightforward connection process: doesn't require you to manifest a link and mess around with settings
+  - Group FaceTime allows up to 32 simultaneous users
 
 Cons:
+  - Limited to Apple users
+  - Requires disclosing your phone number
+  - Can disconnect frequently for users with lower bandwidth
 
 Academic Use:
+  - FaceTime is not appropriate for in-class academic use because it is accessible only to those with Apple products.
 
 ###### Do you still use this tool?
+  - Yes; FaceTime is so tried and true for Apple users that it probably isn't going anywhere any time soon. However, with the advent of so many new streaming platforms, students have been using FaceTime less than pre-quarantine, because they've been exposed to more options, each with its own unique functionality.
 
 ### Squad
 
@@ -96,7 +114,7 @@ Tested by: Kylie Simms, Sophie Bauder
 ###### Original Assessment
 
 Pros:
-  - Allows screen share with friends while watching Youtube, TikTok, and Snapchat
+  - Allows screen share with friends while watching YouTube, TikTok, and Snapchat
   - Video chat continues while streaming; simultaneous video/audio streams (one being that of the online content, the other your friend's face/words)
 
 Cons:
@@ -109,6 +127,7 @@ Academic Use:
   - Inappropriate for class use because of the requirement to share phone contacts
 
 ###### Do you still use this tool?
+  - No; the platform supports only small-scale video streaming, which is more convenient to approximate just by texting/messaging YouTube videos, Snapchats, or TikToks to friends.
 
 ### Flock Draw
 
@@ -135,6 +154,7 @@ Academic Use:
   - A good way to help students decompress--could take a break from lecture/discussion to let students doodle or visually synthesize together for a few minutes
 
 ###### Do you still use this tool?
+  - Our student tester Laura says she hasn't used Flock Draw since she tested it, but would love to if anyone else was interested in logging on with her. Some of these more niche platforms can feel weird or unlikely to propose to friends who are not already using them.
 
 ### Club Penguin
 
@@ -159,10 +179,11 @@ Cons:
   - Requires a lot of bandwidth
 
 Academic Use:
-  - Not a lot of practical academic use beyond levity or stress relief
+  - Not a lot of practical academic use beyond levity or stress relief.
 
 ###### Do you still use this tool?
-
+  - Perhaps for fun every once in a while, but a lot of its appeal stems from nostalgia, since a lot of Gen Zers (and probably some younger millennials) played it growing up. New users might not find the website that worthwhile as a potential outlet. 
+  
 ### Google Docs
 
 Tested by: Brenda Ceja, Jeremy Tsai
@@ -197,7 +218,7 @@ Academic Use:
   - Taking minutes for student group meetings
 
 ###### Do you still use this tool?
-  - Resolutely yes, Google Docs is essential for any student or collaborative person
+  - Resolutely yes, Google Docs is essential for any student or collaborative person. The organizational benefit it supplies is relevant to both professional and person contexts.
 
 ### Google Hangouts
 
@@ -224,7 +245,7 @@ Academic Use:
   - In-class or moderated needs would be better served by Zoom
 
 ###### Do you still use this tool?
-  - Yes; many students have transitioned away from using Houseparty for their social needs to more intentional, controlled communication tools like Google Hangouts
+  - Yes; many students have transitioned away from using Houseparty for their social needs to more intentional, controlled communication tools like Google Hangouts.
 
 ### Discord
 
@@ -276,9 +297,10 @@ Cons:
   - Offers little opportunity for hierarchical regulation
 
 Academic Use:
-  - Because GroupMe is not easily regulated, it is best used for communicating with students outside of a formal classroom context--for example, small tutorials with a strong interpersonal component could communicate via GroupMe
+  - Because GroupMe is not easily regulated, it is best used for communicating with students outside of a formal classroom context--for example, small tutorials with a strong interpersonal component could communicate via GroupMe.
 
 ###### Do you still use this tool?
+  - Yes; GroupMe has been used by many for a long time--old group chats require perennial attention, and new group chats are created often.  
 
 ### Netflix Party
 
@@ -289,12 +311,24 @@ Tested by: Molly Peterson, Jongtae Jeon
 ###### Original Assessment
 
 Pros:
+  - Allows you to easily sync Netflix with friends
+  - Rarely lags, if ever
+  - Has a high image retention (no annoying pixellation)
+  - Comes with a chat window
+  - If one person pauses the video, everyone else's video will be paused too
+  - Is a free Chrome extension!
 
 Cons:
+  - Does not sync audio, chat must be conducted via instant messaging
+  - Only services Netflix, cannot be used with other streaming platforms
+  - Ends the streaming session when the view window is exited, so you'll have to start a new session every time you switch shows
+  - If streaming gets out of sync, the only way to fix is by restarting the party
 
 Academic Use:
+  - Netflix Party could be useful if a professor is desiring to stream a video for all of their students, but because every student must have Netflix, there are many accessibility contingencies to its usage.
 
 ###### Do you still use this tool?
+  - Yes; it is great for digital movie nights with friends. Though some of our student testers like to supplement with FaceTime or Discord for a real-time audio/video feed. It can be preferable to just share screen over Zoom for more functionality, although screen sharing can result in low-quality streaming on slower wifi networks.
 
 ### Watch2Gether
 
@@ -305,12 +339,21 @@ Tested by: Molly Peterson, Jongtae Jeon
 ###### Original Assessment
 
 Pros:
+  - Allows you to stream YouTube videos and other embedded web content
+  - Is a free Chrome extension
+  - Add-on is easy to use
+  - Video feature allows you to see your friends' faces and hear their voices while you are watching together
 
 Cons:
+  - Requires the user to manually search for and select videos to Watch2Gether each time; this gets tiring quickly because YouTube videos tend not to be very long in length
+  - Streaming quality is variable
+  - User interface can be unwieldy; it's confusing to figure out how to use the video chat and clicking "Watch Next" links within YouTube windows will open that video for you only, rather than streaming it for the whole party
 
 Academic Use:
+  - Though Watch2Gether is probably my least favorite of the watchparty extensions I tested, it is one of the most accessible, making it more suitable for academic use than, for example, Netflix Party. However, I would recommend Metastream over Watch2Gether, because it streams a wider variety of accessible sites--though its diversity comes at the expense of a video chat feature.
 
 ###### Do you still use this tool?
+  - No; there are other preferable streaming platforms, in our testers' opinions.
 
 ### Metastream
 
@@ -321,12 +364,21 @@ Tested by: Molly Peterson, Jongtae Jeon
 ###### Original Assessment
 
 Pros:
+  - Provides access to a diverse range of sites, including those as uncommonly supported as Twitch, Crunchyroll, Reddit, and even Soundcloud, as well as favorite like Netflix, Hulu, and YouTube
+  - Features a "Next Up" dock, so a streaming playlist can be curated without constant manual intervention
+  - Chat disappears a few seconds after the last message is sent, so there are fewer unnecessary distractions
+  - Ideal for Firefox users, which the platform is tailored to
+  - Is accessible: provides access to many sites which require no paid subscription
 
 Cons:
+  - Has no voice chat feature
+  - Is in beta mode, so there are frequent and potentially unforeseeable glitches--however, the development team does provide a troubleshooting guide
 
 Academic Use:
+  - Metastream is recommended for academic use, particularly for its ambient potential. Professors could curate playlists of Soundcloud songs/podcasts, Twitch videos, Youtube fascinations, etc. and send their class a link. It is also widely accessible because of the sheer number of sites it supports, unlike so many other streaming services.
 
 ###### Do you still use this tool?
+  - LLUF tester Molly is a big fan of this tool and would like to use it more frequently, but many of her friends prefer to communicate via platforms that have a voice chat function.
 
 ### Watch Party
 
@@ -337,12 +389,19 @@ Tested by: Molly Peterson, Jongtae Jeon
 ###### Original Assessment
 
 Pros:
+  - Is essentially Netflix Party, but also streams Disney+
+  - Allows you to customize your avatar
 
 Cons:
+  - Will end the session when you exit the video player
+  - Has no video chat stream
+  - Requires all users to have Netflix and/or Disney+ subscriptions to work
 
 Academic Use:
+  - As with Netflix party, this could be great for video streaming, but accessibility is an issue.
 
 ###### Do you still use this tool?
+  - Not really; it's perfectly fine to use and is probably the go-to for Disney+, but Netflix Party is the more popular choice for any Netflix streaming, which is what our testers have been watching lately.
 
 ### Vemos
 
@@ -353,9 +412,17 @@ Tested by: Molly Peterson, Jongtae Jeon
 ###### Original Assessment
 
 Pros:
+  - Supports virtually any internet webpage with video, as well as streaming sites like Netflix, Hulu, etc.
+  - Syncs audio for the video stream and video chat through the same output -- this means that both sound feeds will be the same volume, and users don't have to mess around with syncing one audio stream through headphones and another through the computer or phone
 
 Cons:
+  - Simultaneous audio sync requires headphone use to prevent feedback
+  - Is quite glitchy: the signal for pausing/playing the video isn't always sent through to all the party members, audio streams will frequently cut out, often requires multiple attempts to initiate a streaming session, etc.
+  - Can be confusing to navigate with computer permissions
+  - Will end the streaming session when you exit the video player
 
 Academic Use:
+  - Vemos is a potential option if professors would like the class to be able to vocally discuss a video stream while it is running. Otherwise, other apps are better bets to furnish a non-frustrating virtual learning experience. 
 
 ###### Do you still use this tool?
+  - LLUF tester Molly used this extension for a while mainly because of its simultaneous audio sync (Vemos' biggest advantage over similar services), but the number of glitches and technical difficulties have led her away from it in recent weeks. She has uninstalled the extension.
