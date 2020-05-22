@@ -14,16 +14,6 @@
 
 ---
 
-![Comics](https://files.slack.com/files-pri/T0HTW3H0V-F014Q97QSM6/comics.png?pub_secret=eba06f4927)
-
-# &
-# Verses
-# Verses
-# Verses
-# Verses
-
----
-
 ![Comics & Verses](https://files.slack.com/files-pri/T0HTW3H0V-F014D2Y63L1/comics_and_verses.png?pub_secret=515f8666e5)
 
 ---
