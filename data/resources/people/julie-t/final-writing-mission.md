@@ -7,6 +7,7 @@
 **[Emmy S.](#emmy-s)**  
 **[Julie T.](#julie-t)**  
 **[Kai F.](#kai-f)**  
+**[Kathryn W.](#kathryn-w)**   
 **[Kylie S.](#kylie-s)**  
 **[Laura F.](#laura-f)**  
 **[Mario G.](#mario-g)**  
@@ -21,7 +22,7 @@
 
 # Abby M. 
 
-![Abby Timeline Pic](https://files.slack.com/files-pri/T0HTW3H0V-F0147SN8XLH/screen_shot_2020-05-18_at_3.37.22_pm.png?pub_secret=6520c5215f)
+![Abby's Cool Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013TRTEFS9/screen_shot_2020-05-18_at_3.24.34_pm.png?pub_secret=a2dccad4a9) 
 
 How quarantine has complicated my expectations: an expos outline  
 
@@ -29,7 +30,9 @@ One of the very first things I learned at Harvard was how to write an argumentat
 This will ensure that your argument is original and actually has a direction. This technique has been incredibly helpful to me in my classes. Who knew I was going to be thrown into a real life version of the “expectation/complication/question format” before my freshman year even finished? Over the past six weeks, self-isolating with my family, I have found myself with a lot of questions, which result from a lot of complications to my expectations. 
 There’s the big one: I did NOT expect to be sent home mid-year thanks to a global pandemic. But within that complication, there are so many expectations that were completely ruined.  
 
-Let’s begin (with the formatting of an expos outline):  
+Let’s begin (with the formatting of an expos outline): 
+
+![Abby Timeline Pic](https://files.slack.com/files-pri/T0HTW3H0V-F0147SN8XLH/screen_shot_2020-05-18_at_3.37.22_pm.png?pub_secret=6520c5215f)
 
 EXPECTATIONS FOR QUARANTINE (as established by my first day back):  
 -I would follow rigorous self-care goals (meditation, exercise, eating very healthy!).  
@@ -67,9 +70,7 @@ One person was the model at all times, and we did our best to switch so that eve
 But how did this help the Learning Lab? 
 Doing this tutorial gave me more than just a (very) basic understanding of how lighting works. It also prepared the Learning Lab to offer a tutorial to the GenEd students. By having equally inexperienced undergraduates give it a try, Marlon was able to alter the workshop to better fit the time/number of students in the class. They also were able to test out alternatives with different levels of studio light. Having the four of us mess around with the lights let us learn and served as a model for the way that other students like us might learn. It was also fun -- it felt creative and collaborative, low-stakes but motivating. We were able to joke with each other -- serving as yet another model of a way in which learning does not have to be stressful or boring. Instead, modeling this workshop was just another example of the ways in which the Learning Lab makes learning fun and engaging :)  
 
-![Original Pic to Mimic](https://files.slack.com/files-pri/T0HTW3H0V-F013V82BAGJ/screen_shot_2020-05-18_at_3.32.36_pm.png?pub_secret=8f6b4a0863)  
-
-![Abby's Cool Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013TRTEFS9/screen_shot_2020-05-18_at_3.24.34_pm.png?pub_secret=a2dccad4a9)  
+![Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013V82BAGJ/screen_shot_2020-05-18_at_3.32.36_pm.png?pub_secret=8f6b4a0863)
 
 
 We Learned:  
@@ -155,7 +156,7 @@ Click on the image below to watch the YouTube video of the effect.
 
 # Emmy S.  
 
-![Emmy](https://files.slack.com/files-pri/T0HTW3H0V-F013VKZD743/screen_shot_2020-05-18_at_4.43.03_pm.png?pub_secret=a270f5c8a6)
+![Emmy](https://files.slack.com/files-pri/T0HTW3H0V-F0143JM43D3/screen_shot_2020-05-22_at_1.15.33_pm.png?pub_secret=73f4aba784)
 
 I turned in my last final about an hour ago and could not believe I finished this eternal semester. 
 About a year ago, on my 18th birthday, I realized my college life was getting really hectic and I wasn’t taking enough time to think about what I was doing all the time so I decided to write down everything I do every day. 
@@ -198,7 +199,7 @@ As a pod, Sam, Brett and I made a program for the Fall showcase that used the Ab
 
 # Julie T.  
 
-![Julie](https://files.slack.com/files-pri/T0HTW3H0V-F013EMDKF0F/screen_shot_2020-05-18_at_5.06.09_pm.png?pub_secret=cd76624652)
+![Julie](https://files.slack.com/files-pri/T0HTW3H0V-F01456TP42X/julie.jpg?pub_secret=8d69c8be66)
 
 When I created a timeline mapping out my first day back to classes and work, I didn’t realize that that would be what the next few months would look like. Taking notes as I attend zoom classes or watch lecture recordings, chatting with my family over meals, lacing up my sneakers to go for a run, logging into a zoom distanceLab check in, and facetiming friends covers most of the first day. 
 
@@ -269,7 +270,30 @@ We Learned:
 In addition to gaining various soft skills such as brainstorming and fine-tuning the learning process, I gained tactile skills in adobe photoshop and procreate. 
 I think my skills as an artist still have a long way to go, but it’s been an eye-opening experience to learn about the animation process and breaking down motion and scenes into numerous parts and layers.
 I’ve been much more adventurous in my use of photoshop (though I have just scratched the surface). The biggest advances in my skills have come in color correction, selecting and masking, as well as layering. 
-My personal photography interest tends to lean towards a street photography style which doesn’t lend itself to many editing techniques. So it’s been exciting to explore new photography forms in combination with photoshop.
+My personal photography interest tends to lean towards a street photography style which doesn’t lend itself to many editing techniques. So it’s been exciting to explore new photography forms in combination with photoshop.  
+
+# Kathryn W.  
+
+![Kathryn](https://files.slack.com/files-pri/T0HTW3H0V-F014UQQ7QSC/screen_shot_2020-05-22_at_1.11.08_pm.png?pub_secret=7c199c1225)
+
+These few weeks at home have truly flown. Some of that is the fact that days at home tend to blend together with their sameness, especially for the last few days of finals. In many ways, this routine has been good, kept me on my toes, and a lot of that energy I owe to having my role at Bok. Over this period, as the Bok center stands at the forefront of education innovation as Harvard reimagines its experience, I’ve continued to take away so much from the ways I get to contribute in the Bok community. 
+
+As I look back to the first few weeks of being a distance student, there are many themes that still ring true. Among them are my gratitude I feel for the privilege of good internet/supportive family/quiet desk area/health/etc., the renewing happiness I derive from keeping in touch with my “virtual community”, and the luck that I still have this job that drives me to keep working and gives me purpose. 
+
+Truly, I think having my job at Bok be one of my few extracurricular activities left standing got me excited. The LLUF community is already something I looked to for inspiration and a creative challenge, and with so many clubs/programs canceled due to the circumstances, I got to turn my attention to just managing remote learning and being a part of distance-lab. I felt very lucky to still have a job, especially as I watched students everywhere have so many of their valued groups and activities cancelled. In a void of nothing to do but stay home, stay safe, I threw myself into being a part of distance-lab, reinforcing to me the value of work to my identity. It gives me a purpose that excites me and contributes to alleviating the pressure of our current academic situation, and it continues to be the most innovative, fun, colorful place on campus for me. Since I’ve started working at Bok (it’s been a year now), I always hype this job up to anyone who asks me what I do in my free time.
+
+I was surprised when I first started how seamlessly Bok fit into my academic life. My first semester, I was testing the waters of CS as a concentration with a Data Visualization class, and when I walked into work one day, I was just in time to participate in a workshop exploring a tool that let users explore information about the buildings and people in New York, complete with a fully interactive map that visualized the data with building-like towers that grew from the land area. I was starting to think about what my final project could look like, and this was just the exposure I needed to broaden my imagination and think about what would be a cool, innovative way to display information. 
+
+Other times, the workshops were nothing close to anything I’d ever done or even considered before, like when this spring, I sat in on one of Snow’s first animation workshops. I got to draw a series of images that, put-together, would create a walk-cycle, and I quickly remembered how much I used to love drawing and how much thinking about the proportions and positioning that created clean motion excited me. In all my time studying Economics, I was always too busy to ever really see myself as a truly creative person. But Bok encourages a broadening of perspective, and I slowly started to decide that, you know what, I’m kind of into this animation/drawing/art stuff, and another great thing about Bok is that it provides an environment to pursue those fringe interests seriously. In my case, they ultimately shaped my interests, pulling me all the way into CS and now have me very interested in design, something that I hadn’t spent time pursuing in YEARS. 
+
+During distance-lab, I got to develop further those skills using the Adobe Suite, completing a Adobe Illustrator/Animate tutorial on recreating an animated vocal range diagram and piano, complete with a gradient I painstakingly applied, seeking to understand the tools fully by being as precise as I possibly could. I also got introduced to InDesign by making a timeline of my day, alternatively used Illustrator to create a donut chart with figurines signifying different activities, and also CSS flex-boxes to simulate a Medium article layout.   
+
+![Kathryn CSS practice](https://files.slack.com/files-pri/T0HTW3H0V-F01453W5TS7/screen_shot_2020-05-22_at_12.34.31_pm.png?pub_secret=b3e2224954)  
+
+This facet of the Bok Center is one of the things that I think makes it such a valuable part of Harvard: in a sea of classes where workload is high, class sizes are large, and time and bandwidth are often strained, at Bok things seem to move more slowly, thoughtfully, and offer students an opportunity to receive individual help and encouragement on projects and ideas that might otherwise be impossible to support. It adds the element of unconventional and challenges all of us to find ways to make cool things and thereby enhance our learning and the learning of whole classes of students that now have confidence to think of bolder ideas. 
+
+I hype Bok up because I think even if a student doesn’t work here, the hackathons, workshops, and general approach Bok takes to education should be more prevalent throughout Harvard, and I think that the role Bok is playing now in redesigning our education and providing support to Harvard in these unfamiliar times is very well-founded. Every time I go into work, I see just how much effort the Learning Lab staff puts into every single workshop, tutorial, and student interaction, and at least in my case, I can attest that being in the midst of all that filming and brainstorming and actualizing has certainly made me a better thinker and creator. So yeah fellow student (and others), you should 100% totally check them out.
+
 
 
 
@@ -555,6 +579,8 @@ We Made:
 
 # Sophie B.  
 
+![Sophie B.](https://files.slack.com/files-pri/T0HTW3H0V-F0143JF7LGM/bok_.jpeg?pub_secret=339b3b2d59)
+
 First Day Back: Because I spent most of “Spring Break” writing my Junior Essay for Hist&Lit, my first day back to classes didn’t feel particularly unique. In fact, compared to the amount of work I was doing the week before, my regular coursework was not as demanding, and many teachers chose to postpone the first week back in order to give us time to adjust to our new situations—which I greatly appreciated. My typical day those first few days looked like:  
 
 1. getting up early to make breakfast  
@@ -597,7 +623,9 @@ We made this app in order to bring together our work teaching how to build apps 
 
 
 
-# Sophie W.  
+# Sophie W.   
+
+![Sophie](https://files.slack.com/files-pri/T0HTW3H0V-F0143GRRQLD/screen_shot_2020-05-22_at_12.46.53_pm.png?pub_secret=d9e2141b44)  
 
 First Day Back:  
 
@@ -647,7 +675,9 @@ My work itself has also been instrumental to my growth during this time. At scho
 
 I consider it one of my greatest privileges not only that I’m employed during this time but that my place of work is the Bok Center.  
 
+We Made:  
 
+![Sophie Made](https://files.slack.com/files-pri/T0HTW3H0V-F014URT7BJ4/screen_shot_2020-05-22_at_1.29.20_pm.png?pub_secret=0e5fc5ab5e)
 
 
 # Yilan Y. 
