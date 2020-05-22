@@ -1,4 +1,5 @@
 # A Year in Lightroom
+![lightroom](https://files.slack.com/files-pri/T0HTW3H0V-F013QK5ATKR/lightroom.png?pub_secret=a98694c389)
 
 ## The LLUFS 
 - Elmer V
