@@ -4,6 +4,7 @@
 ## Tools I work with:
 * Adobe Lightroom
 * Adobe Photoshop
+* Adobe After Effects
 
 ## Resources I've made:
 * [Creating a Stop-Motion Animation Using Adobe](https://spark.adobe.com/page/s52eRz5lfP0F4/)
