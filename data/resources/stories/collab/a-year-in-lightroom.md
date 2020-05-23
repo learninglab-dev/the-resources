@@ -17,6 +17,10 @@
 
 ### Kylie S
 - [link to bio](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/people/kylie-s/bio.md)
+- I starting playing around with Lightroom by editing some portraits taken earlier in the semester. 
+- Here's a couple examples:
+![example1](https://files.slack.com/files-pri/T0HTW3H0V-F0143QSLAR3/normaleyes.jpg?pub_secret=962d334128 "Example 1)
+![example2](https://files.slack.com/files-pri/T0HTW3H0V-F014546A27L/headshot.jpg?pub_secret=c027eb6dee "Example 2"
 
 ### Molly P
 - [link to bio](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/people/molly-p/bio.md)
