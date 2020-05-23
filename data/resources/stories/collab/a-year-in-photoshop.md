@@ -27,6 +27,14 @@
 
 ### Kylie S
 - [link to bio](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/people/kylie-s/bio.md)
+- I developed my Photoshop skills during Distance Lab. 
+- Here are some examples:
+![My journey](https://files.slack.com/files-pri/T0HTW3H0V-F0145D13SJF/photoboard.jpg?pub_secret=0f729b7758 "My Journey")
+This photoboard is a representation of my journey from Harvard to my house after we all got kicked out. 
+![Magnetosphere](https://files.slack.com/files-pri/T0HTW3H0V-F014BD3G7HA/magnetosphere14.png?pub_secret=6cd303de9b "Magnetoshpere")
+This was part of my Vox Unbox project. I used Photoshop to make many frames like this and then combined them into a stop-motion video using After Effects. 
+![Workspaces](https://files.slack.com/files-pri/T0HTW3H0V-F0144AD4352/version7.png?pub_secret=255c1b630a "Workspaces")
+I made this collage using Photoshop to showcase the remote learning/working sets of LLUFs
 
 ### Laura F
 - [link to bio](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/people/laura-f/bio.md)
