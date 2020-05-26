@@ -1,4 +1,4 @@
-# The Great Story of StudioLab
+# The Staggering Story of StudioLab
 
 Meeting every Wednesday (and the *occasional* Thursday) evening, the Learning Lab becomes a dedicated space to StudioLab.
 StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing projects and designs.** As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
@@ -23,7 +23,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ---
 
 ## *October 2019:* The Month of the Chalk Wall
-> The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life.
+> The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life. A rainbow tree was seen as a creative solution to merge with the existing truss drawing - but what would the tree be looking over? Why, a mountain range of course!
 
 ![Chalk wall mountains](https://files.slack.com/files-pri/T0HTW3H0V-F013WDRV268/img_2182.jpg?pub_secret=4c701cca2d)
 
@@ -38,7 +38,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 
 ## *November 2019*
 ### EMR 135 - Climate Migration: Histories, Borders, and Activism
-> In November, we started our work with EMR 135. The class had many objectives it wanted to achieve over the course of the semester. At the Learning Lab, we focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind. At the very beginning of December, we hosted their final event in the Learning Lab, setting up the tree and other resources for the students to use.
+> In November, we started our work with EMR 135. The class had many objectives it wanted to achieve over the course of the semester. At the Learning Lab, we focused on creating a physical tree that could be utilized in a workshop for students to interact with, each with their own project in mind. At the very beginning of December, we hosted their final event in the Learning Lab, setting up the tree and other resources for the students to use. The event was a huge success; everyone who attended thoroughly enjoyed hearing what the students had been working on.
 
 ### 11/15/19: Tree Trunk Skeleton
 > We used chicken wire to create the base and shape of the structures we were hoping for.
@@ -80,11 +80,6 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 
 ![Final tree](https://files.slack.com/files-pri/T0HTW3H0V-F013HGYJVFG/img_2609_2.jpg?pub_secret=ff4cae4f96)
 
-## Other November Projects (Marlon Checking)
-
-### 19th November: "Video Capture: Composition + Storytelling"
-### 20th November: "FCPX Video Editing Basics, Montages, 3 Minute Stories"
-
 ## *December 2019*
 
 ### 12/10/19: The Learning Lab Winter Gallery
@@ -102,23 +97,35 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 > With this in mind, we began working on the scale models of Boston Common. Around 8-10 would be required, so we had to ensure that any method was replicable and doable within the timeframe given. The best method was to use an overhead projecter at the correct magnififcation which would present a 1000:1 scale of Google Maps onto the table. We then traced the revelant outlines for Boston Common from the projection, and used this drawing to trace the other remaining models.
 
 ![Connor drawing from projection](https://files.slack.com/files-pri/T0HTW3H0V-FTAC42QJD/20200204_003_studiolab_cr_5d4b_005.mov_17492813.jpg?pub_secret=bb4495490b)
+
+> Here, you can see a close-up of how the tracing process was carried out by Connor.
+
 ![Close-up of Connor drawing](https://files.slack.com/files-pri/T0HTW3H0V-FTLH9HYGM/20200204_003_studiolab_cr_5d4b_006.mov_17501519.jpg?pub_secret=e983939a1d)
 
 > The resulting drawings were individually mounted onto foam boards and cut out; students could then use them as physical bases for their projects!
 
 ![Boston Common base](https://files.slack.com/files-pri/T0HTW3H0V-FV7TTN8A2/20200309_002_expos20case_mappingintro_hyper1_001.mov_03555009.jpg?pub_secret=bf3787fa09)
+
+> Students were encouraged to take their own photos in Boston Common and place these on the matching parts of the model. Their photos were related in some way to their essays. For example, a project on waste/trash might document the location of trash cans around the gardens. They could add whatever they wanted to their models; some students chose to keep it two-dimensional, with others opting for a three-dimensional approach.
+
 ![Decorated map](https://files.slack.com/files-pri/T0HTW3H0V-FUSTVUS9G/20200309_002_expos20case_mappingintro_hyper1_001.mov_06161009.jpg?pub_secret=741bea80f4)
 
 > Due to the sooner-than-expected departure from on-campus classes, the final project involving the Charles River as a scale model was not required, but we were thankful that the Boston Common project was able to be used and be successful.
-
-### Chalk Art?
 
 ## *February 2020*
 ### 02/24/20: The Parker Quartet
 > Earlier this year, the Learning Lab had the pleasure of hosting the Grammy Award-winning Parker Quartet for an inspiring performance. The main studio space within the Learning Lab had to be reimagined for such an event; a total reconfiguration of the tables and truss was required. Enter StudioLab! Members of StudioLab loved the challenge of figuring out the solution. Not only did the setup need to be visually appealing, but the acoustics had to be inch-perfect and the final arrangement had to be practical, taking into account the many cables and cameras that were required to record the performance. Furthermore, our setup had to be in harmony with what the Parker Quartet were comfortable with, as they have already have a setup that they are familiar with.
 
+> This is how we decided to set the space up:
+
 ![New lab setup](https://files.slack.com/files-pri/T0HTW3H0V-FUEUXJ7SS/image_from_ios.jpg?pub_secret=57070f8481)
+
+> We tried to get as many camera angles as possible when recording, in order to have a wealth of material we could edit later.
+
 ![Jordan with screens recording quartet](https://files.slack.com/files-pri/T0HTW3H0V-FUGGFAZC6/image_from_ios.jpg?pub_secret=368d5cf669)
+
+> We are thankful to the Parker Quartet for joining us, and would love to host them again in the future!
+
 ![Parker Quartet in positions](https://files.slack.com/files-pri/T0HTW3H0V-FU4HWLNUR/20200224_001_music224_parkerquartet_hyper2_001.mov_02241005.jpg?pub_secret=6bf01269d6)
 
 ## *March 2020*
