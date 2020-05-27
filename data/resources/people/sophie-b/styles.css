@@ -24,7 +24,6 @@ body {
   grid-gap: 1px;
 }
 .item {
-  border: 1px solid white;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -32,4 +31,10 @@ body {
 }
 .image {
   margin: auto;
+}
+#grid13 {
+  padding: 30px;
+}
+#grid36 {
+  padding: 20px;
 }
