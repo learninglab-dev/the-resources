@@ -561,7 +561,9 @@ One of the most valuable skills I learned throughout this tutorial is paying clo
 
 
 
-# Sofi A.  
+# Sofi A.   
+
+![Sofi](https://files.slack.com/files-pri/T0HTW3H0V-F014K0R4F8U/image_from_ios.jpg?pub_secret=b5bca90989)
 
 My first week back to classes after being sent home was quite hectic. I spent so much time trying to keep up with class, homework, and extracurriculars while at the same time managing family responsibilities that I didn’t have to worry about back on campus that I would get burnt out quite quickly. I was trying so hard to simply superimpose my Harvard schedule to my new life back at home that I forgot how different the situation really was. 
 Online learning demanded a complete restructuring of my routine, but in the spirit of wanting things to stay as close to campus life as possible, I neglected that need. Instead, I contorted my time around my old work schedule until I could barely find the motivation to work at all. Staring at the computer for the majority of the day, whether during lectures or in an attempt to be productive was incredibly draining to the point that I started to get headaches in the afternoons from all the mental stress and eye strain. 
