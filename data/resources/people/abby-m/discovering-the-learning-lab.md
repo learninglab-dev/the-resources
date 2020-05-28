@@ -12,6 +12,48 @@
 
 ### Abby M
 
+1. What class did you first come to the Learning Lab with, and what term?
+
+I came to the Bok Center with my expos class, Narrating Immigration, in Fall 2019.
+
+2. What activities did you work on while you were in the Learning Lab?
+
+We workshopped and recorded reflection videos about a time we had caused harm to the immigrant community for our Capstone projects. We visited the lab twice, first doing a workshopping activity developed by Jordan and then later returning to film the videos.
+
+3. What was your first impression of the Learning Lab?
+
+ I was in AWE. I thought the Learning Lab was the most beautiful, colorful, creative space I had been in since I got to Harvard and honestly since about kindergarten. I loved the way it felt so so whimsical, while also being professional and put-together. It was a combination that seemed almost impossible before I saw it and now feels somewhat like a miracle
+ 
+4. Who did you meet from the Learning Lab during your first class visit(s) there?
+
+Our main contact was with Jordan, although other folks were in and out throughout the workshop. We had a chance to meet more Learning Lab staff during our Capstone Fair, and the LLUF exhibition was the next day, so I stopped by that too and met Marlon.
+
+5. When did you decide to apply to be a LLUF?
+
+I knew I wanted to be a LLUF as soon as I walked into the Learning Lab, well before I knew the position existed. One of my first thoughts upon seeing the space was “I want to spend all my time here. I want to come here and sit in the corner and do my homework,” so when Jordan told us that there was a way to spend time in the lab and get paid, I was all in. I applied during reading period, and started right when we got back after winter break.
+
+6. What factors went into making the decision to apply?
+
+I was so excited about the creative learning that the job promised. As part of the application, you had to indicate which of about three thousand tools you were interested in using. I spent about two hours researching each of them, and while it was a bit overwhelming, it was also amazing to see all of the different things I could learn to use. Working as a LLUF felt like a job where I would grow as a person, in addition to just making money.
+
+7. What other classes have you taken that you wished would have utilized the Learning Lab?
+
+GENED1064
+ENGLISH 162BB
+SPANSH 40 
+
+8. Is there anything you wish the Learning Lab could have done differently with your class?
+
+I was really happy with our workshop. It would have been cool if we could have had a more hands on project, but because of the prompt and time constraints, I think they did a great job helping us develop our stories and tell them effectively on camera.
+
+9. If you could choose one thing that stood out the most from your first visit, what would it be?
+
+Definitely the whimsy of the space. It felt strange to be writing all of my comments and ideas on small cards using fancy brush pens, but it was also surprisingly fun and decadent.
+
+10. How could the class that brought you to the Learning Lab utilize it in a remotely-based world?
+
+I think an activity similar to Poem-in-Your-Pocket Day reaction videos could be really effective for the workshopping. Rather than taking place over an hour, it could be over a day or two, and you could exchange videos and feedback asynchronously with a series of partners. The Learning Lab could also have a live session beforehand to give tips on storytelling and filming on phones.
+
 ### Connor R
 
 1.    What class did you first come to the Learning Lab with, and what term?
