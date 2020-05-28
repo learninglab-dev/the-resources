@@ -1,19 +1,12 @@
 # Discovering the Learning Lab
 
-## LLUFs who found the Learning Lab Because of a Class: 
-- Abby M: EXPOS20
-- Ammara V: EXPOS20
-- Brenda C: EXPOS20 
-- Connor R: MCB81
-- Emmy S: EXPOS20 
-- James B: SOCIOL1104
-- Kai F: EXPOS20
-- Kylie S: EXPOS20
-- Mercedes F-D: MUSIC178R and GENED1036
-- Sarah D: EXPOS20
-- Shirley C: EXPOS20 
-- Ramona P: EXPOS20
-- Uzo N: EXPOS20
+## The Classes 
+
+![collage of the classes](https://files.slack.com/files-pri/T0HTW3H0V-F014RRB36JV/the_classes.png?pub_secret=e36b0a0888)
+
+## The LLUFs: 
+
+![pictures of all the LLUFs](https://files.slack.com/files-pri/T0HTW3H0V-F014BP77SQ5/discovering_the_bok_center.collage.png?pub_secret=d3c3ef0baa)
 
 ### Abby M
 
