@@ -70,7 +70,9 @@ One person was the model at all times, and we did our best to switch so that eve
 But how did this help the Learning Lab? 
 Doing this tutorial gave me more than just a (very) basic understanding of how lighting works. It also prepared the Learning Lab to offer a tutorial to the GenEd students. By having equally inexperienced undergraduates give it a try, Marlon was able to alter the workshop to better fit the time/number of students in the class. They also were able to test out alternatives with different levels of studio light. Having the four of us mess around with the lights let us learn and served as a model for the way that other students like us might learn. It was also fun -- it felt creative and collaborative, low-stakes but motivating. We were able to joke with each other -- serving as yet another model of a way in which learning does not have to be stressful or boring. Instead, modeling this workshop was just another example of the ways in which the Learning Lab makes learning fun and engaging :)  
 
-![Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013V82BAGJ/screen_shot_2020-05-18_at_3.32.36_pm.png?pub_secret=8f6b4a0863)
+![Lighting Pic](https://files.slack.com/files-pri/T0HTW3H0V-F013V82BAGJ/screen_shot_2020-05-18_at_3.32.36_pm.png?pub_secret=8f6b4a0863)  
+
+![Lighting Gif](https://files.slack.com/files-pri/T0HTW3H0V-F0152CQ8YSC/gened1049_360.gif?pub_secret=b7f824f665)
 
 
 We Learned:  
@@ -301,7 +303,7 @@ I hype Bok up because I think even if a student doesn’t work here, the hackath
 
 # Kylie S. 
 
-![Kylie](https://files.slack.com/files-pri/T0HTW3H0V-F0146PH6RE0/screen_shot_2020-05-20_at_4.14.36_pm.png?pub_secret=22e013d730)
+![Kylie](https://files.slack.com/files-pri/T0HTW3H0V-F013XR9SL7R/headshot.jpg?pub_secret=506b4238f2)
 
 Coming into this remote learning experience, I expected my academic experience to stay relatively the same. 
 My classes were still at the same time and maintained the original format for the most part. Even though they were going relatively well in person, I quickly discovered that they didn’t work well for me at home. 
@@ -341,9 +343,9 @@ We Learned:
 
 We Made:  
 
-![Kylie Made](https://files.slack.com/files-pri/T0HTW3H0V-F013Z6TRA2H/screen_shot_2020-05-20_at_4.10.21_pm.png?pub_secret=b4c5f04027)
+![Kylie's Vox Unbox](https://files.slack.com/files-pri/T0HTW3H0V-F014HTG9G3T/gif.gif?pub_secret=1cd094c5b1 "Vox Unbox")
 
-Title: Earth’s Magnetosphere [Click Here to See the Animation](https://docs.google.com/presentation/d/1pimAed0mNtqCkyfZkRxQ2PhMIYjhHd2pTdeT36gxo-k/edit#slide=id.g773f4b93c6_0_1)
+Title: Earth’s Magnetosphere 
 
 Description: This animation shows how the magnetosphere protects protects Earth from particles in solar wind.  
 
@@ -559,7 +561,9 @@ One of the most valuable skills I learned throughout this tutorial is paying clo
 
 
 
-# Sofi A.  
+# Sofi A.   
+
+![Sofi](https://files.slack.com/files-pri/T0HTW3H0V-F014K0R4F8U/image_from_ios.jpg?pub_secret=b5bca90989)
 
 My first week back to classes after being sent home was quite hectic. I spent so much time trying to keep up with class, homework, and extracurriculars while at the same time managing family responsibilities that I didn’t have to worry about back on campus that I would get burnt out quite quickly. I was trying so hard to simply superimpose my Harvard schedule to my new life back at home that I forgot how different the situation really was. 
 Online learning demanded a complete restructuring of my routine, but in the spirit of wanting things to stay as close to campus life as possible, I neglected that need. Instead, I contorted my time around my old work schedule until I could barely find the motivation to work at all. Staring at the computer for the majority of the day, whether during lectures or in an attempt to be productive was incredibly draining to the point that I started to get headaches in the afternoons from all the mental stress and eye strain. 
