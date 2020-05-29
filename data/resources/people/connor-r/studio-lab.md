@@ -1,16 +1,18 @@
 # The Staggering Story of StudioLab
 
 Meeting every Wednesday (and the *occasional* Thursday) evening, the Learning Lab becomes a dedicated space to StudioLab.
-StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing projects and designs.** As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
+StudioLab started out as a time that anyone who was interested in being creative could come together and reimagine the ways in which the Learning Lab was set up. When courses needed something different from the space, StudioLab stepped in to save the day. Whether a stage needed creating or a new backdrop was requested, members of StudioLab would work to come up with creative solutions to such tasks. 
+
+StudioLab quickly evolved into a time that anyone who was interested in exploring their creativity outside of the regular labs could do so; often resulting in **amazing** projects and designs. As more courses requested the help of the Learning Lab, members of StudioLab began to channel their creative energies into the innovative ideas of course heads. Concepts which were once wishful thinking soon became a reality; courses would "pitch" their ideas to StudioLab, and members would help craft these ideas into incredible tools for learning.
 
 ## *September 2019*
 ### 09/01/19: Marlon's Solution to the "Gray Zone"... the Birth of StudioLab
-> With StudioLab originally being imagined as a way to redesign the space, its first impact originated as a happy accident. The plain gray wall at the back of the Learning lab had always irked Marlon, but a temporary position to lean a magnetic board presented us with a permanent solution.
+> With StudioLab originally being imagined as a way to redesign the space, its first impact originated as a happy accident. The plain gray wall at the back of the Learning lab had always irked Marlon, but a temporary position to lean a magnetic board presented us with a permanent solution. Thus, StudioLab was born.
 
 ![Whiteboard resting on gray wall](https://files.slack.com/files-pri/T0HTW3H0V-FMX6TCK7A/image_from_ios.jpg?pub_secret=1a4ef223c0)
 
 ### 09/01/19: Brick Room Becomes Computer Room
-> Another *~temporary~* change by Marlon gains popularity and becomes **permanent.** The room adjacent to the main studio became the hub for desktop PCs; an incredibly convenient location for those editing images/footage in real-time.
+> Another *~temporary~* change by Marlon gains popularity and becomes **permanent.** The room adjacent to the main studio became the main hub for desktop PCs; an incredibly convenient location for those editing images/footage in real-time.
 
 ![Make-shift tables set up for computers](https://files.slack.com/files-pri/T0HTW3H0V-FMXA3SZ24/image_from_ios.jpg?pub_secret=5cc3bcfe5e)
 
@@ -23,11 +25,11 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ---
 
 ## *October 2019:* The Month of the Chalk Wall
-> The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life. A rainbow tree was seen as a creative solution to merge with the existing truss drawing - but what would the tree be looking over? Why, a mountain range of course!
+> The majority of October's StudioLabs were dedicated to populating the large, blank chalk wall which spanned across the entire Learning Lab. Knowing that this would inevitably be the backdrop for many shoots throughout the year, StudioLab members Connor and Jordan spent time designing the wall before getting to work on bringing their ideas to life. A rainbow tree was seen as a creative solution to merge with the existing truss drawing - but what would the tree be looking over? Why, a mountain range of course! Once the mountain range was complete, the sky looked a little blank. Soon, a sunset and space-themed objects filled the night sky. Many of the drawings subtly incorporated aspects of the Learning Lab. For example, the satellite was created from truss pieces, and the mountain range has a hidden keyboard embedded within it.
 
 ![Chalk wall mountains](https://files.slack.com/files-pri/T0HTW3H0V-F013WDRV268/img_2182.jpg?pub_secret=4c701cca2d)
 
-> Here you can see how the drawings complement the main studio in the background!
+> Here, you can see how the drawings complement the main studio in the background!
 
 ![LL landscape with chalk mountains in backdrop](https://files.slack.com/files-pri/T0HTW3H0V-FQ3A040LU/image_from_ios.jpg?pub_secret=d8d7b0bc76)
 
@@ -66,12 +68,12 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![Connor cutting leaves/butterflies for class](https://files.slack.com/files-pri/T0HTW3H0V-F013QF2QJSF/img_2525_2.jpg?pub_secret=2677fb188e)
 
 ### 11/26/19: Time to Paint!
-> Once the tree had been fully solidified, we got to work on painting. We experimented with different browns in order to make the tree as realistic as possible. However, upon a visit from the Course Head, the chalk drawing of the "rainbow tree" was asked to be replicated. We absolutely loved the idea, and tried our best to make the tree look as creative (and colorful) as possible, whilst still of course resembling a tree!
+> Once the tree had been fully solidified, we got to work on painting. We experimented with different browns in order to make the tree as realistic as possible. However, upon a visit from the Course Head, the chalk drawing of the "rainbow tree" on the main wall in the studio was asked to be replicated. We absolutely loved the idea, and tried our best to make the tree look as creative (and colorful) as possible, whilst still of course resembling a tree!
 
 ![Tree painting in progress](https://files.slack.com/files-pri/T0HTW3H0V-F013PBRPBE3/img_2530_2.jpg?pub_secret=b16e0d5267)
 
 ### 11/27/19: Putting It All Together
-> Now painted, the tree could be put together using a piece of truss as a base to hold it in place.
+> Now painted, the tree could be put together using a piece of truss as a base to hold it in place. We even designed it so that a student could enter the tree and look out at the studio from within, if they wanted to!
 
 ![Assembly of tree parts](https://files.slack.com/files-pri/T0HTW3H0V-F013WE6Q328/img_2541.jpg?pub_secret=d820f9e0bc)
 
@@ -81,14 +83,14 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![Final tree](https://files.slack.com/files-pri/T0HTW3H0V-F013HGYJVFG/img_2609_2.jpg?pub_secret=ff4cae4f96)
 
 ## *December 2019*
-
 ### 12/10/19: The Learning Lab Winter Gallery
 > Back in December, the Learning Lab hosted its annual Winter Galley, presenting the effort and work that had been produced by members throughout the Fall semester. For such an event to be successful, the space of the main studio needed to be changed once again. Not only this, but we had to figure out the where each project would be situated, and how it was going to be presented to those visiting the Learning Lab. The Gallery was a huge success; guests from across the university came to view our work and to celebrate the end of the semester with us.
 
-## *January 2020*
+![Winter Gallery group](https://files.slack.com/files-pri/T0HTW3H0V-FRP63PRT9/20191210_002_llgallery_showcase_5d4a_003.mov_15533406.jpg?pub_secret=e20729626f)
 
+## *January 2020*
 ### 01/30/20: The 1000:1 Project
-> As January kicked off our 2020, the new semester brought us new courses. New courses meant new projects! Enter StudioLab. Itching for another "big" project, members of StudioLab met with __ to discuss a project for an Expos course. The course revolved around studying features/demographics along the Charles River. For the final project, the goal was to create a 1000:1 scale model of the Charles River, running throughout the Learning Lab. After further discussions, we StudioLab members helped craft the intermediate project for the course; students would require 1000:1 scale models of Boston Common to use with their own research on features/demographics.
+> As January kicked off our 2020, the new semester brought us new courses. New courses meant new projects! Enter StudioLab. Itching for another "big" project, members of StudioLab met to discuss a project for an Expos course. The course revolved around studying features and demographics along the Charles River. For the final project, the goal was to create a 1000:1 scale model of the Charles River, running throughout the Learning Lab. After further discussions, we StudioLab members helped craft the intermediate project for the course; students would require 1000:1 scale models of Boston Common to use with their own research on features and/or demographics.
 
 > Before we met to discuss the intermediate project, we wanted to ensure the final project was in the works from the very beginning; we knew that it would not be easy and would take extensive planning. To begin with, we used Cinema4D to see whether the 1000:1 scale was feasible... it was!
 
@@ -120,7 +122,7 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 
 ![New lab setup](https://files.slack.com/files-pri/T0HTW3H0V-FUEUXJ7SS/image_from_ios.jpg?pub_secret=57070f8481)
 
-> We tried to get as many camera angles as possible when recording, in order to have a wealth of material we could edit later.
+> We tried to get as many camera angles as possible when recording, in order to have a wealth of material we could edit later. LLUFs Connor and Elmer helped the team film the performance!
 
 ![Jordan with screens recording quartet](https://files.slack.com/files-pri/T0HTW3H0V-FUGGFAZC6/image_from_ios.jpg?pub_secret=368d5cf669)
 
@@ -129,4 +131,6 @@ was sketched out, laying the foundations for what turned out to be a staple of t
 ![Parker Quartet in positions](https://files.slack.com/files-pri/T0HTW3H0V-FU4HWLNUR/20200224_001_music224_parkerquartet_hyper2_001.mov_02241005.jpg?pub_secret=6bf01269d6)
 
 ## *March 2020*
-### Anything from the week or two before we left campus?
+Since the events that have shocked the world, StudioLab has understandably taken a back-seat with regards to Learning Lab planning. Figuring out solutions for students to work remotely has taken priority, and rightly so. However, this is by no means the end of StudioLab. In fact, it is just the beginning. The last academic year has shown that StudioLab can be a huge success; more and more classes requested our help as the semesters progressed. I can only imagine the great things that StudioLab will go on to achieve once we are back together in our physical spaces, wherever that may be. As the world begins to return to what we once knew, StudioLab will be needed more than ever. It will be needed to remind us all of what it's like to be back home (okay fine, back at *work*); we will design our studio space to reflect our people.
+
+# Here's to the future!
