@@ -48,9 +48,13 @@ In addition to these and other narrowly focused mapping projects, we hope to cre
 ## Demipod
 #### Meet the Pod!
 ![juhee](https://files.slack.com/files-pri/T0HTW3H0V-F0143KZPWBF/juheegoyal-3197.jpg?pub_secret=fd065f6c81)
-<strong>Juhee Goyal</strong>
+<strong>Juhee</strong> is a sophomore who loves all the sciences & engineering and ed-ucation. She is concentrating in Bio-engineering and Integrative Biology. She has lived in California and India for either halves of her life. On cam-pus, she is involved in the Learning Lab, research, Dharma, the Conser-vation Society, and CAing. She also loves to build and make stuff, inter-act with animals in all capacities, and plan and organize community build-ing events on campus. Going on long walks & bike rides and talking to old and new friends is her happy space.
+
 ![Martin](https://files.slack.com/files-pri/T0HTW3H0V-F01451RQUQJ/martinreyes.jpg?pub_secret=d6f9f57896)
-<strong>Martin Reyes</strong>
+<strong>Martin</strong> is a freshman at Harvard studying either mathematics, physics, and/or computer science. He is very passionate about education and wants to make an impact in educational systems around the world to educate students to become creative thinkers and problem-solvers. In his free time he likes to play instruments, learn languages, dance salsa, and hang out with his friends.
+
+### Podjects
+Explorables help students to learn more deeply by broadening the scope of empirical input to more senses. Explorables can have, for example, simulations, graphs, pictures, sounds, smells, textures, tastes, instructions, and interactive modules that help students internalize the content that would help them learn more deeply. In such ways, students can acquire more robust information not only to be able to understand it, but also to use it to develop higher-order thinking skills. In addition, explorables can help students develop intrinsic motivators towards knowledge by being engaging and providing flexibility as they have multiple dimensions through which students can acquire data. Explorables would not only benefit students as they would be more engaged in classes and understand the content better, but they would also benefit teachers as it would aid their teaching process. Explorable toolkits that can be used in and outside of class should be easy to use and readily accessible since the purpose of these is for students to better understand the content they are learning. For our project, we are going to become experts at designing and creating explorable toolkits. Interactive physical infographics, 3D and 2D models and simulations, augmented reality applications, and web-based interfaces are all resources that can function as explorables. Thus, we want to delve into the creation of explorable toolkits with multiple organized resources that would aid the learning process. The end goal is to make a sort of ‘guide’ to making and incorporating accessible explorables of all types and on potentially making ‘toolkits’ for classes to incorporate into their learning materials.
 
 ## Fairly Pod Parents
 
@@ -69,6 +73,16 @@ In addition to these and other narrowly focused mapping projects, we hope to cre
 ![Ramona](https://files.slack.com/files-pri/T0HTW3H0V-F014US0G2E4/ramona_portrait.jpg?pub_secret=871e4f043c)
 <strong>Ramona</strong>
 
+#### Origin Story: Our Name, Our Legacy
+The Podashians come from a regal lineage of women who have paved their way through the entertainment industry. Our name pays homage to the women that come before us, but we’re the upgraded version that presents itself as a pod, a new type of family. We hold the sass, the talent, the tenacity of our namesake but for infographics, design, comedy, and music.
+
+#### Podjects
+The Podashians have decided to create a YearBOK to showcase each of the pods,
+their projects, and data that we thought was imperative to show you. In this Year-
+BOK you’ll find the beginnings of each of our design careers as we fiddle around
+with InDesign, Photoshop, and Slack data. This YearBOK is a culmination of all of our
+finest works and we bring it to you so that you can enjoy and share with others.
+
 ## Poddy in the USA
 
 ## Murder of Crows
@@ -76,8 +90,15 @@ In addition to these and other narrowly focused mapping projects, we hope to cre
 ## Three Peas in a Pod
 #### Meet the Pod!
 ![connor](https://files.slack.com/files-pri/T0HTW3H0V-F013Y9TSGDU/connor_rice.jpg?pub_secret=eeb16d3ea7)
-<strong>Connor</strong>
+<strong>Connor</strong> is a senior in Winthrop House studying  Economics with a secondary in Neuroscience.  Connor hails from the midlands of England, more specifically a city called Derby (which is why he sounds like Jon Snow). He is the Co-Prime Minister of the Harvard British Club. He  is a veteran of the Learning Lab, having joined  it his sophomore year. Outside of the class-room and the Bok Center, Connor enjoys playing football. 
 ![jad](https://files.slack.com/files-pri/T0HTW3H0V-F013Y9U4RAA/jad_maayah.jpg?pub_secret=a20134ccd3)
-<strong>Jad</strong>
+<strong>Jad</strong> is a senior in Winthrop House studying Government with a secondary in Economics. He  is originally from Amman, Jordan (which is a fun little country in the Middle East). Jad was once heavily involved with extracurriculars like Harvard CBE and the Law Review, but has  since decided to exclusively dedicate his time to the Bok Center. When he’s not in the Learning Lab, Jad is watching Hasan Minhaj on Netflix or working on his senior thesis (ask him about it). 
 ![sophie](https://files.slack.com/files-pri/T0HTW3H0V-F0143L7LWH3/sophie_bauder.jpg?pub_secret=d6aa3e9aed)
-<strong>Sophie</strong>
+<strong>Sophie</strong> is a junior in Cabot House studying History and Literature, with a secondary in Government and language citation in Mandarin Chinese. She’s from Croton-on-Hudson, NY, a small town an hour north of the city, and started working at the Bok Center during the spring of her freshman year. Sophie is involved  with lots of organizations on campus, including the Harvard Radcliffe Dramatic Club, the Harvard Democrats, and the Harvard Advocate. The  Bok Center has been one of Sophie’s favorite places on this campus, and she can’t wait to see where the next semesters take her work here!
+
+#### Origin Story
+When generating pod names, we developed one we thought was excellent, but was  sadly rejected by Jordan in all her wisdom. Devastated from this loss, we struggled to come up with  another, equally powerful name as the one to which we had to say goodbye. As we were brainstorming, another LLUF remarked that the three of us resembled three peas in a pod. The key word there being “POD,” we soon adopted that name as our own. Thus, Three Peas in a Pod was born!
+
+#### Podjects
+
+Three Peas in a Pod have been working on two projects: Alexa, and Audio Peak GIFs! This semester, Sophie has worked with Marlon & co to create code that analyzes a video file to find the loudest few seconds and convert it automatically into a GIF! With that code finished, Sophie is now working on how to integrate that program into Slack and Airtable, so that those GIFs could be called with a Slack command, much like the /giphy command. The plan is to use Alexa devices / Amazon’s AI to help speed up processes within the LL and make them more convenient. This includes using code to allow Alexa to upload items to Slack, retrieve information from airtable, and even connect to local devices so that we can control some camera settings using our voices in real-time!

@@ -1,0 +1,31 @@
+[5 Things a Virtual Reality Game Can Do For Your Online Classroom] (https://spark.adobe.com/page/ZkhXqYtGznLFG/)is a post authored 
+by Ceci Mancuso with digital recordings by Clarisse Wells showcasing how sandbox MMOs could be a tool for small seminar online
+classes. This post highlights the game [Rec Room] (https://recroom.com/). This game is designed as a place for friends to hangout
+in VR together playing anything from paintball, dodgeball, escape rooms, and more. A key feature of the game is being able to 
+create your own rooms to hangout in much like Google's [Game Builder] (https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/)
+There are also template rooms that a player can launch as a restricted space only for them and their friends.
+
+We saw potential in this game as an alternative classroom space to ZOOM. Key features are the following:
+- the immersive feel to being in class with your friends
+- the use of the digital white board 
+- the in-game mic that turns on depending on how close each person is to each other in-game
+- the breakout rooms in the Lounge space in particular
+- the gestures feature that allows for handraising and other body language
+
+There were some drawbacks, however, in that this beta version isn't available on MacOS and it seems to be buggy on the iPhone. The PC
+version works great and the iPad version works decently enough. 
+
+Another game we playtested and recorded [videos] (https://drive.google.com/drive/folders/1RFygFLCQLZn8JiNsEGV2xoUh4To3lRtp)
+for is called [VRChat] (https://vrchat.com/). We tested this before Rec Room and initially thought this game might be useful 
+for online seminars. VRChat has a few good things going for it:
+- VRChat is really immersive too as a 3D classroom experience
+- It also has white boards, albiet, they aren't as intuitive as in Rec Room
+- The in-game mic works the same
+- Gestures allow for body language too in-game
+
+There were some drawbacks, though. The two major ones were the default private room cap of 12 people meaning that if you had more 
+than 11 students they couldn't all be in the same classroom. This could be fixed if you created your own world (called rooms in 
+Rec Room), but in order to make your own room you need both a intermediate knowledge of level building in Unity 3D and enough play
+hours in VRChat to upload the world you made to their server. Unlike in Rec Room, this isn't really friendly to anyone who doesn't
+have a background or the time to build they own levels and makes it impossible to set up a private classroom quickly with the 
+playtime requirement. 

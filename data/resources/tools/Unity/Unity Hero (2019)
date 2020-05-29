@@ -1,0 +1,26 @@
+# Unity Hero (Fall 2019)
+
+[Unity Hero] (https://github.com/Omegaxinfinity/UnityHero) was a project inspired by Google's [Game Builder] (https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/).
+The idea as to use a video game to teach someone new to Unity how to use Unity 3D.
+The aesthetic of the game was a high fantasy RPG based very roughly on the art of Skyrim or Dragon Age. However, in the end
+we went with a more cartoonish art style reminiscent of a Zelda title rather than the realism of those games. 
+
+The intial idea was to use theories in game design around difficulty level and achievement to teach the following concepts:
+- The basics of the 1st person controller
+- Collision and triggers
+- The Asset Store
+- The foundation of coding in C#
+
+While we debated whether or not to have a realistic screen of the Unity 3D Editor in the game for players to solve
+challenges, we decided against it because the Editor is relatively easy to learn itself. What to do with it is the hard part,
+and that was what we intended to show our players with Unity Hero.
+
+The plan was to accomplish much of the above list via the use of villagers giving quest info or by exchanging dialogue with the player.
+While Unity Hero is still incomplete, we were able to have a working village implemented where talking with the villagers
+communicated the basics of the 1st person controller, collision, and a prototype of an Asset Store. We even added elements
+about how to make an NPC or Enemy track player movements and information differentiating rigid bodies from colliders with respect
+to how they react to the physics of the 3D world. 
+
+Perhaps the most excited element of the game that we couldn't add that year was teaching the foundations of C# in Unity Hero.
+We would have introduced a magic system in our game where the player character could cast spells altering the 3D world by 
+completing code snippets. 

@@ -27,3 +27,38 @@ h2 {
   font-weight: normal;
   font-size: 2.6em;
 }
+
+h3 {
+  font-family: 'Londrina Sketch', cursive;
+  font-weight: normal;
+  font-size: 2em;
+}
+
+h4 {
+  font-family: 'Londrina Sketch', cursive;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+ul {
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  margin: auto;
+  max-width: 640px;
+}
+
+ol {
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  margin: auto;
+  max-width: 640px; 
+}
+
+video {
+  padding: 20px;
+  max-width: 640px;
+  height: auto;
+  margin: auto; 
+}
