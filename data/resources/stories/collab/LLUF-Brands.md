@@ -1,4 +1,4 @@
-## What the Learing Lab looks like to each LLUF
+## What the Learning Lab looks like to each LLUF
 
 ### Sophie Bauder
 ##### Class Year: 
