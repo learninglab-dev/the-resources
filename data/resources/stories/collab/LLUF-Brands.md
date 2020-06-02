@@ -152,7 +152,7 @@ the colorful stools!
 I dont have illustrator :( but id go with something blocky like "Impact"
 ___
 ![Emmy-Logo](https://files.slack.com/files-pri/T0HTW3H0V-F014B1S3KB8/ll_branding__emmy_.png?pub_secret=52d9525bb7)
-designed by: Julie
+designed by: Kylie
 ___
 ### Connor Rice
 ##### Class Year:
