@@ -36,4 +36,4 @@ Once you're back, if the Catalina download is done, it will probably start tryin
 
 12. let it run, and you should have a functioning install drive!
 
-## Go [here]() for Part 2!
+## Go [here](http://resources.learninglab.xyz/simple/people/casey-c/wipeLab-Step1) for Part 2!
