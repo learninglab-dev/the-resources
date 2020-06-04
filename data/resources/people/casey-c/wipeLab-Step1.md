@@ -18,6 +18,8 @@ Once you're back, if the Catalina download is done, it will probably start tryin
 
 3. Drop down the "View" tab and select "Show All Devices"
 
+![](https://files.slack.com/files-pri/T0HTW3H0V-F014BFL4ELX/screen_shot_2020-06-02_at_3.10.30_pm.png?pub_secret=e2dfe5da8e)
+
 4. Select the root drive in the side bar.
 
 5. Click on "Erase"
@@ -25,6 +27,8 @@ Once you're back, if the Catalina download is done, it will probably start tryin
 6. Choose "Mac OS Extended(Journaled)" as the format.
 
 7. Choose GUID Partition Map as the scheme.
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F014QS9ESER/screen_shot_2020-06-02_at_3.25.19_pm.png?pub_secret=785d9fa6db)
 
 8. Rename it "installdrive" and hit Erase(before this point, make sure there's nothing important on the drive)
 
