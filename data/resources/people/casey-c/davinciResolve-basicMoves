@@ -2,7 +2,7 @@
 
 The majority of editing can be broken down into just a few moves that are repeated over and over. These few moves break down to choosing your clip and placing your clip. Almost everything else from there is a variation on those two things.
 
-Like most editing programs, Resolve is directed at professional editors and tends to design it's workspace to reflect that. At the bottom of the screen, you'll see that it has been broken out to the 7 general stages of post-production workflow:
+Like most editing programs, Resolve is directed at professional editors and has designed it's workspace to reflect that. At the bottom of the screen, you'll see that it has been broken out to the 7 general stages of post-production workflow:
 
 - Media Management(Media)
 - Assembly(Cut)
@@ -20,9 +20,16 @@ With all of that out of the way, I'd recommend doing all your editing in the Edi
 
 In the Edit tab, you'll find yourself in a bit of a dance. You simply need to follow three basic steps:
 
-- Find the clip you want(mouse scrubbing)
-- Define the clip you want('I' for In Point and 'O' for Out Point)
-- Place the clip you want(Shift + F12, [although I highly recommend changing this]())
+- Find the clip you want
+  - Select your footage and drag the playhead with your mouse.
+
+
+- Define the clip you want
+  - 'I' for In Point and 'O' for Out Point
+
+
+- Place the clip you want
+  - Shift + F12, [although I highly recommend changing this to your own preference]()
 
 From here, all you need to do is drag your clips around to place them in the timeline and use the trim function to adjust their lengths to your liking.
 
