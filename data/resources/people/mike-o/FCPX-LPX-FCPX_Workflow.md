@@ -1,0 +1,13 @@
+# FCPX > LPX > FCPX Roundtrip Workflow
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F014ES2C0QP/screen_shot_2020-06-04_at_4.05.57_pm.png?pub_secret=1ab3e981dd)
+
+Even though FCPX is fairly decent in terms of its capability in editing audio, in many instances you'll want to use a more powerful and nuanced program for this. And that program is Logic Pro X
+
+This tutorial will walk you through the steps for importing your FCPX project into Logic where you can utilize its sound library and mixing and mastering functionality to elevate the quality of the audio in your project.
+
+Once completed with that editing and mastering, you will send your audio mix back into FCPX, where you will marry your mastered audio to the final version of your video.
+
+Here is a video that shows step by step how to do this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fTXyvdzY8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
