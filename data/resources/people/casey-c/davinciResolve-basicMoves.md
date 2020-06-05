@@ -80,7 +80,7 @@ These are the settings that will make the most impact on your end export, everyt
   - Fusion was once an independent motion graphics/animation program, similar to Motion or After Effects. Eventually, they added a slightly truncated version to Resolve itself so you don't need to round trip footage between programs.
 - [Color](http://resources.learninglab.xyz/simple/people/casey-c/davinciResolve-Color)
   - Resolve started off as a color and post-processing program, their color correction engine is one of its most powerful tools. If you're looking to recolor, correct, apply LUTs, or clean up your footage. This is where those tools will reside.
-- Fairlight
+- [Fairlight](http://resources.learninglab.xyz/simple/people/casey-c/davinciResolve-Fairlight)
   - Fairlight is Resolve's audio driver, it has a fairly simple interface. If you're going to be doing any post-processing or mixing on your video, this is where it would happen. It can also happen, with slightly limited function, in the Edit tab.
 - [Delivery](https://www.youtube.com/watch?v=aUiI4gIki-Q)
   - This is exactly what you probably suspect it is, exporting and encoding functions happen here.
