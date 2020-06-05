@@ -1,12 +1,6 @@
 var express = require('express');
 var router = express.Router();
 const marked = require('marked');
-const fs = require('fs');
-const path = require('path');
-const util = require('util');
-var moment = require('moment');
-var recursive = require("recursive-readdir");
-const readdir = util.promisify(fs.readdir);
 var prepMarkdown = require("../tools/utilities/prep-markdown");
 var Airtable = require("airtable");
 
