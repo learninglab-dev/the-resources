@@ -11,6 +11,7 @@ var peopleRouter = require('./routes/people');
 var simpleRouter = require('./routes/simple');
 var styledRouter = require('./routes/styled');
 var toolsRouter = require('./routes/tools');
+var nqpRouter = require('./routes/nqp');
 var projectsRouter = require('./routes/projects');
 var playlistsRouter = require('./routes/playlists');
 
@@ -35,7 +36,7 @@ app.use('/tools', toolsRouter);
 app.use('/projects', projectsRouter);
 app.use('/playlists', playlistsRouter);
 app.use('/greatest-hits', greatestHitsRouter);
-
+app.use('/nqp', nqpRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
