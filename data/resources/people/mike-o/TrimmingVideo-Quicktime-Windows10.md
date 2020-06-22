@@ -1,6 +1,6 @@
 # Trimming a video using Quicktime or the native Photos app on Windows 10
 
-Trimming the beginning or end of a video is very easy to do on either a PC or a Mac, using applications that are more than likely already installed on your machine. Here is how to do it.
+Trimming the beginning or end of a video is very easy to do on either a PC or a Mac, using applications that are likely already installed on your machine. Here is how to do it.
 
 If you recorded through Zoom, first you'll need to download your video from Canvas:
 
