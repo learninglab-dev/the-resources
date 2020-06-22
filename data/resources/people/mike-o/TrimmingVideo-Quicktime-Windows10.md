@@ -15,7 +15,24 @@ If you recorded through Zoom, first you'll need to download your video from Canv
 
 [Here is a video walk-through of this process](https://youtu.be/C1Gb3Ptudqg)
 
-## Trimming on a PC using the native "Photos" app
+  * Right click on file, and open with Quicktime
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F015EAVTSUF/trim-quicktime-gif_001_360.gif?pub_secret=31db4a165f)
+
+  * Once Quicktime opens, select "Edit" > "Trim" (or command + 'T')
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01618LPZ1A/trim-quicktime-gif_002_360.gif?pub_secret=12f0dab19e)
+
+  * Use the yellow handles at the bottom of the screen to trim the desired beginning and end points of the video
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F016JTX7MNC/trim-quicktime-gif_003_360.gif?pub_secret=5137223cf5)
+
+  * Now that the file is trimmed, it's ready to export:
+    * "File" > "Export As" > "1080p" (or desired resolution)
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01618M72P6/trim-quicktime-gif_004_360.gif?pub_secret=d3d45e8f77)
+
+## Trimming on a PC using the native Photos app
 
 [Here is a video walk-through of this process](https://youtu.be/YSzQhaUwvUo)
 
