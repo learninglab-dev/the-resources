@@ -6,7 +6,7 @@ Now that you have your course trailer ready to be shared and viewed, the next st
 
 There are a couple ways you can approach this, and this page will guide you on the steps for uploading a video directly to the home page of your Canvas site. As well, [here is a short video walk-through that tackles this](https://www.youtube.com/watch?v=kCPOluFAoYA&feature=youtu.be).   
 
-* Head to the home tab of your Canvas site, and select the "Edit" tab
+* Head to the home tab of your Canvas site, and select the "Edit" icon
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015T5WM62Z/directupload-gifs_001_360.gif?pub_secret=7740350d49)
 
