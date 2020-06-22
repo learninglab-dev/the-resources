@@ -12,7 +12,7 @@ If you would prefer to embed your course trailer onto your Canvas site, rather t
 
   * Paste in the URL link of your video
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015TCS81AR/embed-coursetrailer-canvas-gifs_002_360.gif?pub_secret=6d48a83de0)
-  * Click "embed" icon and then "Update Syllabus"
+  * Click "Embed" icon and then "Update Syllabus"
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015TDX2R4M/embed-coursetrailer-canvas-gifs_004a_360.gif?pub_secret=2f48b3ebf8)
 
 ## For Vimeo-hosted videos:
