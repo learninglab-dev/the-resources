@@ -8,7 +8,7 @@ Note: You'll have to be the meeting creator in order for this to work!
 1. Start by going to [zoom.harvard.edu](zoom.harvard.edu).
 2. Click **Recordings** in the panel on the left, then click **Settings**.
 That will open a big panel that looks like this:
-![Recording options](https://files.slack.com/files-pri/T0HTW3H0V-F012Q2ECTUJ/screen_shot_2020-04-28_at_4.20.41_pm.png?pub_secret=41b7bc206a)
+![Recording options](https://files.slack.com/files-pri/T0HTW3H0V-F0167140CE5/screen_shot_2020-06-22_at_11.49.27_am.png?pub_secret=f528e0fbaf)
 3. You're going to want to go wild clicking all of these boxes **except** "Display participants' names in the recording" and "Add a timestamp to the recording". This will make sure you have all of the possible recordings for any meeting you are hosting.
 
 
