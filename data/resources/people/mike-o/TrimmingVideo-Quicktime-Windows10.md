@@ -53,3 +53,7 @@ If you recorded through Zoom, first you'll need to download your video from Canv
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015E7GEYTH/pc-video-trimming-gifs_004_360.gif?pub_secret=fb02ccd983)
 
   * You are now ready to upload your video.
+
+## Editing out a section from the middle of your video
+
+In addition to being able to trim your video from the beginning and end, there may be instances when you want to edit out a small section from the middle of your video. This can also be done very easily in Quicktime Player, and [here is a quick video walkthrough on how to do that](https://www.youtube.com/watch?v=_1wm4khPOQI&feature=youtu.be)
