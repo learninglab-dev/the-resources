@@ -55,6 +55,6 @@ This may sound daunting (but it is not hard!), and we will walk you through the 
 
   * The video should now be visible, and note that the captions (CC icon) are now viewable as well inside Canvas
 
-## If you would like to directly upload to Canvas, ![here is a walkthrough of how to do that]()
+## If you would like to directly upload to Canvas, [here is a walkthrough of how to do that](http://resources.learninglab.xyz/simple/people/mike-o/CourseTrailer-DirectUpload-Canvas)
 
   * (NOTE, however, that this will not incorporate captions in your video!)
