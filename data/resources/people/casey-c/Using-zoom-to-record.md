@@ -8,6 +8,8 @@ Zoom has a simple, easy to navigate record function. We'll will walk you through
 
 The first step you'll need is to configure your Zoom settings to record. You can find a quick guide [here.](http://resources.learninglab.xyz/simple/people/katie-g/optimizing-zoom-recordings)
 
+Once you've configured your recording options, [here](https://youtu.be/TtNkHi79FHw) is a quick guide on how to activate Zoom's recording function, as well as how you might use the screen share function to showcase any materials you'd like to include.
+
 ![](https://media.giphy.com/media/UQfqQifAjmFHVmstIl/giphy.gif)
 
 ## Step 2
