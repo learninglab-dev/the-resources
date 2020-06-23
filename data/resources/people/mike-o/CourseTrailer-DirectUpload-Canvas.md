@@ -1,6 +1,6 @@
 # How to upload a course trailer to your Canvas site
 
-![](https://alpineschools.org/wp-content/uploads/2018/04/Canvas-Logo.png)
+![](https://excelsior.com/wp-content/uploads/2017/08/canvas-logo-3.jpg)
 
 Now that you have your course trailer ready to be shared and viewed, the next step will be to make it visible on your Canvas site.
 
