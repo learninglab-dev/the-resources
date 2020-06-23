@@ -29,5 +29,3 @@ There are a couple ways you can approach this, and this page will guide you on t
 * Click on the thumbnail of the video in your Home tab to expand and play the video
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015MQYMMM4/directupload-gifs_006_360.gif?pub_secret=1355b2f663)
-
-If you would like to embed your video from Youtube or from another hosting site, [here is how you can do that](http://resources.learninglab.xyz/simple/people/mike-o/CourseTrailer-Embed-to-Canvas).
