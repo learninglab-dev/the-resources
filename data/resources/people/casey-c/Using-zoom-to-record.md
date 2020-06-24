@@ -20,6 +20,6 @@ From here, you can just launch a Zoom meeting and hit the Record button on the c
 
 ## Step 3
 
-Now that you have a neatly trimmed, pristine recording ready to be seen, all you need to do is upload it onto Canvas. There are many ways to do this, but [this one](http://resources.learninglab.xyz/simple/people/mike-o/CourseTrailer-DirectUpload-Canvas) is simple and straight forward.
+Now that you have a neatly trimmed, pristine recording ready to be seen, all you need to do is upload it onto Canvas. There are many ways to do this, but [this one](http://resources.learninglab.xyz/simple/people/mike-o//CourseTrailer-Upload-to-YT) is simple and straight forward.
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F015MQYMMM4/directupload-gifs_006_360.gif?pub_secret=1355b2f663)
