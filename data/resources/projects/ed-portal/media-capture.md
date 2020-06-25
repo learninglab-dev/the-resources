@@ -100,3 +100,7 @@ Stay close to the phone so that you pick up good audio.
 
 
 ## Using phones to gather b-roll
+
+Think about the visuals/objects/environments that might help tell your story. For our prototype media project about songs of the summer, we chose to capture things that connote summer-water, blue skies, sunscreen, etc. 
+
+We also mainly took short, slow, and sweeping shots that were pretty darn close up! These type of abstract textural shots can really help give the viewer a sense of the emotion we want them to feel. It also really helps out in the editing stage in case we need some visuals to go along with audio (say, a soundbite?!) that may have been captured with less than ideal settings.
