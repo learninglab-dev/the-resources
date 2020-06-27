@@ -2,7 +2,9 @@ const urlToResourceDoc = require('./utilities/url-to-resource-doc')
 
 const resourceTools = async function(options){
   console.log(JSON.stringify(options, null, 4));
-  if (!(options.text | options.print | options.clipboard)) {
+  if (options.title) {
+
+  } else if (!(options.text | options.print | options.clipboard)) {
     console.log("firing standard script");
     if (!options.url && options._[0]) {
       console.log(`you didn't supply a url, so let's make the url ${options._[0]}`);
