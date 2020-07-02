@@ -8,6 +8,16 @@ The process is extremely simple.
 
 Just hit Copy or **Command + C**
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F016MV35RGC/cmdshftv_cropped.mp4.gif?pub_secret=c98816d9ee)
+And to paste, simply hit Paste Attributes in the Edit drop down or **Command + Shift + V** This will open a simple menu to allow you to carry over any audio or visual attributes you've added. Just choose what you'd like to move!
 
-And to paste, simply hit Paste Attributes or **Command + Shift + V** This will open a simple menu to allow you to carry over any audio or visual attributes you've added. Just choose what you'd like to move!
+Just in case you're wondering why this is such a crucial move, here are two examples:
+
+In the first, all the scaling is done manually.
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F0175TPMPCG/manualattributes.gif?pub_secret=a20f0d31f8)
+
+In the second, everything is preconfigured and pasted in.
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F016G985ZEX/pastedattributes.gif?pub_secret=204bda1fab)
+
+If you can imagine tiling 12 or 15 different videos like this, that extra ~20 seconds of work can very quickly add up! 
