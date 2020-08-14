@@ -16,7 +16,7 @@
 **Marianna Linz**, *EPS129 Climate and Atmospheric Physics Laboratory*
 
 **Donald Pfister**, *OEB54 Biology of Fungi*
-  <iframe src="https://player.vimeo.com/video/440681257" width="356" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/440681257" width="356" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Shiv Pillai**, *MCB169 Molecular and Cellular Immunology*
 <iframe src="https://player.vimeo.com/video/440684422" width="356" height="200" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
