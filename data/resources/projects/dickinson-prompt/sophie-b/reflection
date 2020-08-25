@@ -1,0 +1,4 @@
+# Post-Activity Reflection
+
+One interesting experience I had while doing the “just one little detail” prompt was that as I read my paragraphs out loud over and over again, I found new edits and ways to improve the writing each time. This connects to a common tactic I use when revising essays, which is reading the paper out loud to myself in order to catch any typos I don’t notice while looking the text over. Because of this aspect of the activity, it ended up taking me way longer to record a quick 2 minute audio fragment than it otherwise would have, because every time I noticed a mistake in my writing I went back and fixed it. Now, that’s certainly not to say my responses are free of mistakes after doing so—because I’m sure they aren’t—but recording this mini podcast nevertheless wound up being a super helpful way to refine my thinking and language.
+
