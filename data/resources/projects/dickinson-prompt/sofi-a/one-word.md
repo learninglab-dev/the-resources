@@ -1,0 +1,5 @@
+# Just One Word
+
+## Word Chosen: "Menaces"
+
+For my close-up of a word I chose to highlight "menaces" from the copy to Mabel Todd. In the context of the poem itself, I find this word to be particularly striking in that it is the first to point towards an end to the gentle lull that the poem takes on until then. While the two lines prior to menaces are filled with calming imagery, of sunsets and the presumed beauty of what they reveal, "menaces" points to something darker lurking in that which was revealed, thus breaking the idyll that the poem first evokes. "Menaces," then, also primes the reader to the sharper break in the poem's tone that comes with "motes of mystery." Where that phrase — and "motes in particular — is what, in my opinion, breaks the peaceful rhythm of the words prior to it, it is "menaces" that first breaks the peaceful imagery. In this way, the two lines work together to drive the reader deeper into the darkness or danger that underlies the sunset, one through content ("menaces" brings with it darker imagery but still flows nicely as a word with the rest of the poem) and the other through form (the actual sound of the word).
