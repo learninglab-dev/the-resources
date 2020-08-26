@@ -25,7 +25,7 @@ If you are trying to decide whether to film vertically or horizontally, here are
 
 * What is the platform that this will be viewed on? If it will be on social media (Facebook, Twitter, Snap Chat, etc.), then it may be best to shoot in vertical
 * If the eventual destination for your video is Youtube, Vimeo, or on a website, perhaps it may be better to shoot horizontally
-* If you are going to be editing this footage together with other visual media, then think about how the composition of that media will work when editied together with either footage shot in portrait or landscape
+* If you are going to be editing this footage together with other visual media, then think about how the composition of that media will work when edited together with either footage shot in portrait or landscape
 
 Regardless of whether you film on your phone in portrait (vertical) or landscape (horizontal), the following fundamentals should be heeded when shooting in either configuration:
 
