@@ -15,7 +15,7 @@ Here are the four main types of considerations that you should think about when 
 
 ## Framing and Composition
 
-##### *  The vertical vs. horizontal debate
+##### The vertical vs. horizontal debate
 
 ![](https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2018/06/16_9-vs.-9_16.png)
 
