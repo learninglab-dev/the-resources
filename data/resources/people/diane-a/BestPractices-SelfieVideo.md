@@ -76,7 +76,9 @@ Here is an externally-produced video that demonstrates a few of these options:
 * Gentle hand gestures, as long as they don't affect the stability of the shot, can be effectively employed as well
 * Redo your spiel as many times as is needed
 
-As well, here are some additional video resources that you may find helpful. Good luck!!
+## Additional video resources
+
+Good luck!!
 
 <iframe src="https://player.vimeo.com/video/265644184?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/265644184">Expos 20 iphone pitch_RG</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
