@@ -52,11 +52,11 @@ Here is a Bok Center-produced video that explores lighting considerations for wh
 
 Here is a Bok Center-produced video that explores lighting considerations for when filming outside:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_XpOuON-nq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S6RMNRjN3gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here is an externally-produced video that offers some valuable lighting tips as well:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S6RMNRjN3gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_XpOuON-nq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Audio
 
