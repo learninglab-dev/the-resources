@@ -1,6 +1,6 @@
 ![](https://brainblaze.com/wp-content/uploads/2019/02/brainblaze-how-to-take-good-selfie-videos.jpg)
 
-# Best practices for smartphone / selfie video recording
+# Best practices for smartphone selfie video recording
 
 Not long ago we would never consider shooting high quality videos on our phones because the results were so inferior compared to a DSLR or video camera. Today, though, smartphone video quality has become fairly impressive, and you can't beat the convenience. We now have incredibly powerful cameras sitting right in our pockets!
 
