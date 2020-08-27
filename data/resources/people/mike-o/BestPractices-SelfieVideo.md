@@ -4,7 +4,7 @@
 
 Not long ago we would never consider shooting high quality videos on our phones because the results were so inferior compared to a DSLR or video camera. Today, however, smartphone video quality has become fairly impressive, and you can't beat the convenience. We now have incredibly powerful cameras sitting right in our pockets!
 
-But just as having a great DSLR or video camera doesn't mean that everything you film with that camera will look amazing, the same applies to smartphone video. There are considerations that you need to take into account and employ, so that you can capture the best possible video on your smartphone.
+But just as having a great DSLR or video camera doesn't mean that everything you record with that camera will look amazing, the same applies to smartphone video. There are considerations that you need to take into account and employ, so that you can capture the best possible video on your smartphone.
 
 Here are the four main types of considerations that you should think about when approaching the production of your own selfie video:
 
