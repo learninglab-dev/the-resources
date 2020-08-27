@@ -21,7 +21,7 @@ Here are the four main types of considerations that you should think about when 
 
 It wasn't long ago that vertically-shot videos (portrait), as opposed to horizontally-shot videos (landscape), were shunned as an inferior approach to smartphone video recording, but that has changed dramatically in the last couple years. This is mainly due to the prevalence of social media, and because it is just more convenient to film on your phone the way that the phone naturally fits into your hand, which is vertically.
 
-If you are trying to decide whether to film vertically or horizontally, here are a few questions to ask yourself that may help you in making a decision:
+If you are trying to decide whether to film vertically or horizontally, here are a couple things to think about that may help you in making a decision:
 
 * What is the platform that this will be viewed on? If it will be on social media (Facebook, Twitter, Snap Chat, etc.), then it may be best to shoot in vertical
 * If the eventual destination for your video is Youtube, Vimeo, or on a website, perhaps it may be better to shoot horizontally
