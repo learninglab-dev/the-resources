@@ -4,6 +4,7 @@
 <iframe width="356" height="200" src="https://www.youtube.com/embed/LIBBFcnqzxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Andy Clark**, *Music14/15/16 Harvard Choral Courses*
+<iframe width="356" height="200" src="https://www.youtube.com/embed/Fsmp2O-hdj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Pete Girguis**, *OEB119 Deep Sea Bio*
 <iframe width="356" height="200" src="https://www.youtube.com/embed/xweMfpuwk_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
