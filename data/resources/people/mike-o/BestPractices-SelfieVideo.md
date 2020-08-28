@@ -62,7 +62,7 @@ Here is an externally-produced video that offers some valuable lighting tips as 
 
 * When recording outside, do your best to find a time when it's not too windy and is in a location that is not overwhelmingly noisy from other sources (cars, construction, dogs barking, etc.)
 * When recording inside, try to anticipate other potential noise issues that may exist (air conditioners, fans, heaters turning on, phones ringing, etc.), and do your best to mitigate those issues
-* If external noise is an unavoidable issue, consider purchasing using wired earbuds, an affordable wired lavalier mic, or using bluetooth ear buds (if you have them) to minimize the problem
+* If external noise is an unavoidable issue, consider using wired earbuds, an affordable wired lavalier mic, or using bluetooth ear buds (if you have them) to minimize the problem
 
 Here is an externally-produced video that demonstrates a few of these options:
 
