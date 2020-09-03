@@ -2,7 +2,7 @@
 
 We get frequently get asked how you might play some background music in Zoom. This is super simple to do, but there are some considerations that can optimize how it plays back.
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01AR9P6116/screen_shot_2020-09-03_at_9.56.27_am.png?pub_secret=b1d97d3d18 )
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01A7MXRB0C/screen_shot_2020-09-03_at_10.36.39_am.png?pub_secret=e9b9a6a37e)
 
 To share your audio, all you need to do is to press **Share Screen**, navigate to the **Advanced** tab and select **Share Computer Audio**. From here, whatever you play in your media app will be played through Zoom.
 
