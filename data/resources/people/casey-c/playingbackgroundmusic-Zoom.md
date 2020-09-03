@@ -18,7 +18,6 @@ Just like with most things in the remote world, there are several ways you can o
 - Wear headphones
     - The music plaything through your speakers will be picked up by your microphone, this will trigger Zoom to suppress your microphone. The music won't be effected, but your voice will, headphones will prevent that from happening.
 
-
 - Use an ethernet cable to connect to your router
     - Wifi is fantastically convenient, but when it comes to getting as good a connection as you can, nothing will beat a wired connection!
 
