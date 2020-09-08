@@ -22,8 +22,8 @@
 
 ###### Here is a video showing how to begin importing images to Lightroom
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GqwiOAriSvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxTs6tfDRyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### Here is a video showing some different ways to view and organize images in lightroom
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PyanXHHhc9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5N-uHR2mvqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
