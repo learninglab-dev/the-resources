@@ -1,0 +1,4 @@
+-  [link](https://github.com/fabianmoronzirfas/extendscript/wiki/ExtendScript-Toolkit) to run an adobe script from commandline.
+-  [link](https://atom.io/packages/adobe-script-runner) to adobe script runner atom package.
+- not working post 2016?  [link](https://forums.adobe.com/thread/2592109)
+-
