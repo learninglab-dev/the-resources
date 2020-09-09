@@ -17,14 +17,10 @@ If you want to use OBS with Zoom, you will need to use a virtual camera app. The
 * download the NDI tools [here](https://ndi.tv/tools/#download-tools). To get started you'll need the
 	* NDI Virtual Input
 	* NDI/HX Driver
+	* NDI Video Monitor
 * if you install these and try to open OBS you'll hit an error that asks you to head over to Github for a macOS-compatible NDI runtime, so do that in advance [here](https://github.com/Palakis/obs-ndi/releases).
 
 ## SCRIPTING AND DEVELOPING
 links of interest related to scripting for OBS (and developing, since you actually need to use the developer references given the fact that there isn't really a great scripting guide):
 - the basic [developer-facing docs for the OBS Project](https://obsproject.com/docs/) are dense, but unavoidable and essential
 - tips on [getting started with OBS development](https://obsproject.com/wiki/Getting-Started-with-OBS-Studio-Development) for those interested
-
-
-
-
-
