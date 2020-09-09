@@ -1,4 +1,4 @@
-   # Lightroom Overview
+    # Lightroom Overview
 
 ###### Creating a Lightroom Catalogue and organizing imported photos into collections and smart collections.
 
