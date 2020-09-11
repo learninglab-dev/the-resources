@@ -1,5 +1,8 @@
- # Photoshop
+
+ ![Ps icon](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg)
  
+  # Photoshop
+  
  ## LL resources on Ps.
  
 [5 Cool & Useful Things Photoshop Can Do](https://spark.adobe.com/page/NIvTpV5RMZNqj/) made by julie-t.
