@@ -6,7 +6,7 @@ There are tons of settings under the hood on how to optimize your Zoom session r
 Note: You'll have to be the meeting creator in order for this to work!
 
 1. Start by going to [harvard.zoom.us](harvard.zoom.us).
-2. Click **Recordings** in the panel on the left, then click **Settings**.
+2. Click **Settings** in the panel on the left, then click **Recording**.
 That will open a big panel that looks like this:
 ![Recording options](https://files.slack.com/files-pri/T0HTW3H0V-F0167140CE5/screen_shot_2020-06-22_at_11.49.27_am.png?pub_secret=f528e0fbaf)
 3. You're going to want to go wild clicking all of these boxes **except** "Display participants' names in the recording" and "Add a timestamp to the recording". This will make sure you have all of the possible recordings for any meeting you are hosting.
