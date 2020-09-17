@@ -12,7 +12,7 @@
 **David Johnston**, *EPS 53 Marine Geochemistry*
 <iframe width="200" height="356" src="https://www.youtube.com/embed/Wz56JuB4Wjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Elena Kramer, Ann Pearson, Brian Farrell and Mansi Srivastava**, *OEB10 Foundations of Bio Diversity*
+**Elena Kramer, Ann Pearson, Brian Farrell, Mansi Srivastava, and Colin Johnson**, *OEB10 Foundations of Bio Diversity*
 <iframe width="356" height="200" src="https://www.youtube.com/embed/EJSQZ696jo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Marianna Linz**, *EPS129 Climate and Atmospheric Physics Laboratory*
