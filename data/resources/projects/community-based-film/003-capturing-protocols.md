@@ -27,7 +27,15 @@ In this series of gifs, Learning Lab Undergraduate Fellow, Sophie Bauder illustr
 
 Another option is to offer participants a template shot you'd like them to reproduce. In this project, Learning Lab Fellow Jordan Koffman asked her participants to produce a "self-portrait in objects," and offered the following shot as her example.
 
+![jordan-k in objects](https://files.slack.com/files-pri/T0HTW3H0V-F01B5F8NVJL/image_from_ios.jpg?pub_secret=c44af92b30)
+
 And her participants sent back the following:
+
+![sa1 in objects](https://files.slack.com/files-pri/T0HTW3H0V-F01B5JK1KQ8/img_7467.jpg?pub_secret=4ed38c0bb2)
+
+![shivi-a-2 in objects](https://files.slack.com/files-pri/T0HTW3H0V-F01APBDDT5L/img_7468.jpg?pub_secret=c4efd2e299)
+
+![lara-t-2 in objects](https://files.slack.com/files-pri/T0HTW3H0V-F01AFB4RYJ3/img_20200910_152945-01.jpeg?pub_secret=f79f228bcd)
 
 
 ### Option 3: The Shot List ###
