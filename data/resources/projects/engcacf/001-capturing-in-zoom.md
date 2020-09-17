@@ -1,19 +1,22 @@
-# Tips on capturing interviews in Zoom
+
+# tips on capturing interviews on zoom
 ![Zoom recording](https://media.giphy.com/media/UQfqQifAjmFHVmstIl/giphy.gif)
 
 ## Setting up your Zoom to record at the highest quality
-There are tons of settings under the hood on how to optimize your Zoom session recordings. This section will guide you through how to turn them on.
+There are loads of settings under the hood on how to optimize your Zoom session recordings. This section will guide you through how to turn them on.
 
 ### For meetings recording locally
 If you are planning to record by hitting the **Record** button in Zoom, there are some settings to optimize before you begin.
 
-1. Click the arrow next to `Start/Stop Video` and click `Video Settings`.
+1. Click the arrow next to `Start/Stop Video` and click `Video Settings`. 
 2. Open the `Recording` tab on the left.
 3. Make sure that the following options are selected:
     * Optimize for 3rd party video editor
     * Record video during screen sharing
     * If audio is important, consider selecting "Record a separate audio file for each participant
     * Also take the time to select a folder to store your recording in.
+
+![Your settings should look like this](https://files.slack.com/files-pri/T0HTW3H0V-F01B6HB7B4Z/screen_shot_2020-09-16_at_12.58.25_pm.png?pub_secret=7761739847)
 
 Once the meeting ends, a box will pop up letting you know that your recording is saving.
 
@@ -53,3 +56,4 @@ For accessibility's sake, here's a typed list of all of the options you'll want 
 - Optimize the recording for 3rd party video editor (yes)
 - Audio transcript (yes)
 - Save panelist chat to the recording (yes)
+
