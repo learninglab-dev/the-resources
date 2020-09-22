@@ -1,3 +1,5 @@
+![](https://i.ytimg.com/vi/4Gwnx4StZQc/hqdefault.jpg)
+
 # Installing and configuring OBS and NDI to use in Zoom
 
 OBS or "Open Broadcaster Software" is a powerful program that allows you to accomplish many of the effects you see on the evening news, including adding videos, images, and text on top of your webcam video. When combined with Zoom it becomes a powerful tool for creating engaging presentations.
