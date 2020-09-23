@@ -5,6 +5,7 @@ Once you've [installed OBS](http://resources.learninglab.xyz/simple/people/mike-
 
 I followed [this tutorial](https://www.youtube.com/watch?v=hbjQIxyLBCE) to make my scenes in OBS:
 <iframe width="356" height="200" src="https://www.youtube.com/watch?v=hbjQIxyLBCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![Creating Scenes in OBS Studio](http://img.youtube.com/vi/hbjQIxyLBCE/0.jpg)](http://www.youtube.com/watch?v=hbjQIxyLBCE "Creating Scenes in OBS Studio")
 
 They provide templates to work with on their website. Here are the ones we'll need:
