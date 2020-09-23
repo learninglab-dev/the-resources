@@ -3,8 +3,7 @@ OBS or "Open Broadcaster Software" allows you to accomplish many of the effects 
 
 Once you've [installed OBS](http://resources.learninglab.xyz/simple/people/mike-o/OBS-NDI-Setup) you can get started creating your first scene. Scenes are essentially preset collections of settings that you can design before you start a stream/call/recording to quickly jump between. They can also easily be adjusted live.
 
-I followed [this tutorial](https://www.youtube.com/watch?v=hbjQIxyLBCE) to make my scenes in OBS:
-<iframe width="356" height="200" src="https://www.youtube.com/watch?v=hbjQIxyLBCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I followed [this Youtube tutorial](https://www.youtube.com/watch?v=hbjQIxyLBCE) to make my scenes in OBS:
 
 [![Creating Scenes in OBS Studio](http://img.youtube.com/vi/hbjQIxyLBCE/0.jpg)](http://www.youtube.com/watch?v=hbjQIxyLBCE "Creating Scenes in OBS Studio")
 
