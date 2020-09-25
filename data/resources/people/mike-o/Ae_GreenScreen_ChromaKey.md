@@ -8,37 +8,37 @@ Using green screen footage, we are going to perform a few quick moves to achieve
 
 - Open After Effects, create a new composition, and drag your green screen footage into the clip layer menu
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01C24KGYBS/001_360.gif?pub_secret=9ac3f42286)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01BE34QJHZ/001.gif?pub_secret=b8a288a50b)
 
 - On the right of the screen, and at the top of the timeline, click and drag the "Work Area End" slider to the left to match your overall desired length
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01BJERC9FW/002_360.gif?pub_secret=cc68204a05)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01BL2XRSKW/002.gif?pub_secret=4434c89067 )
 
 - If you want to achieve a sped-up effect, do the following (if not, skip to the next step!)
   - With the clip selected, click:
     - Layer > Time > Enable Time Remapping
     - In the timeline, drag the diamond keyframe to your desired length
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01BQTMR91P/003_360.gif?pub_secret=ac0e66d52d)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01C3ND89G8/003_1.gif?pub_secret=cb59584f98)
 
 Now that we have our clip length duration set, as well as our retimed footage, we can now go about keying out that green footage!
 
 - With your clip selected, go to the top menu bar and click:
   - Effect > Keying > Keylight (1.2)
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01C24HUEHW/004_360.gif?pub_secret=cb6e17fb47)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01BSGF66F3/004_1.gif?pub_secret=08cf0ae9a1)
 
   - Click on the Screen Colour eyedropper in the Effects Control panel, and click on a consistent area of green in your composition viewer
 
   - Adjust your Screen Gain & Screen Balance sliders until you achieve a balance of removed-green, while maintaining the detail in the foreground image
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01C24J6AKA/005_360.gif?pub_secret=eb7487c452)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01C3P9MBT2/005.gif?pub_secret=f61155b507)
 
 
 - This is looking pretty decent, so now let's add the background footage
   - Locate your background video file, drag it into clip layer menu, and place it as the bottom layer.
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01B9A2EWGM/006_360.gif?pub_secret=fe09b865fc)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01C3PH2CFJ/006.gif?pub_secret=15fbeb438e)
 
   - With your background clip selected, hold down the "option" key while clicking on the right tail of your clip in the timeline, and extend it to the right to last for the duration of your top clip
 
