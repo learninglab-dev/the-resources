@@ -6,7 +6,7 @@ Using green screen footage, we are going to perform a few quick moves to achieve
 
 (If you would like to use the media in this tutorial, [download these two media files](https://drive.google.com/drive/folders/1ziYbQSWAB3Z7bzBnLiXsIYJc4JOagqak?usp=sharing) to your desktop.)
 
-- Open After Effects, create a new composition, and drag your green screen footage into the clip layer menu
+- Open After Effects, create & name a new composition, and drag your green screen footage into the clip layer menu
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01BE34QJHZ/001.gif?pub_secret=b8a288a50b)
 
@@ -21,7 +21,7 @@ Using green screen footage, we are going to perform a few quick moves to achieve
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01C3ND89G8/003_1.gif?pub_secret=cb59584f98)
 
-Now that we have our clip length duration set, as well as our retimed footage, we can now go about keying out that green footage!
+Now that we have our clip's overall duration set, as well as our retimed footage, we can now go about keying out that green footage!
 
 - With your clip selected, go to the top menu bar and click:
   - Effect > Keying > Keylight (1.2)
@@ -42,11 +42,11 @@ Now that we have our clip length duration set, as well as our retimed footage, w
 
   - With your background clip selected, hold down the "option" key while clicking on the right tail of your clip in the timeline, and extend it to the right to last for the duration of your top clip
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01BCANDD5G/007_360.gif?pub_secret=35ce7893fe)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01AZ741N0P/007.gif?pub_secret=bf6a33e0bd)
 
 Make sure your composition plays effectively in the timeline. If so, you're ready to export!
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01BCH23151/008_360.gif?pub_secret=dd4f489d50)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01BDV1P7MG/008.gif?pub_secret=9d78d7ee5c)
 
 There are many settings for exporting in After Effects, and the following strikes a balance between having a good quality export, but without the file size becoming too big:
 
@@ -55,13 +55,13 @@ There are many settings for exporting in After Effects, and the following strike
   - Click on "Format Options" when the new dialog box opens
   - Under the "Video Codec" drop-down in the new dialog box, click on "Apple ProRes 422 LT"
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01B5KVN18W/009_360.gif?pub_secret=8591b7007c)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01AZ8S193R/009.gif?pub_secret=9cb7242589)
 
 
   - Click on the blue link next to "Output To"
   - Establish a filename and choose the destination for your export  
-  - Once you're back in After Effects, navigate to the far right of your screen and click "Render"
+  - After clicking "Save", navigate to the far right of your screen in After Effects and click "Render"
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01C27BPJHW/010_360.gif?pub_secret=0288781733)
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01BE786WKD/010.gif?pub_secret=e4b57918f8)
 
 Hip Hip you're done!!
