@@ -4,7 +4,11 @@ Plans and notes for a moonshot project
 
 ### Why Data Viz?
 
-1. I want to get better at data viz. And I want to have a better understanding of the landscape of tools for creating visualizations. Does the toolset one chooses depend primarily on the kind of data and
+1. I want to get better at data viz. And I want to have a better understanding of the landscape of tools for creating visualizations.
+  - Does the toolset one chooses depend primarily on the kinds of data one is working with and the kinds of interpretations or relationships one wants to represent?
+  - How does the medium in which the visualizations will be presented factor in?
+
+2. Data viz seems like a relatively untapped zone for humanities/history assignments. The kinds of systems thinking and conceptual analysis required for data viz are often less explicit in written or oral assignments. And the relationship between data and thesis or conclusion seems perhaps inverse, or at least differently structured, than when martialing evidence for a thesis in a paper. I'd like to explore this idea and the kinds of learning goals that can be achieved through creating and interacting with visualizations.
 
 
 ### Links to Examples
@@ -22,13 +26,15 @@ the Transcontinental Railroad](http://web.stanford.edu/group/chineserailroad/cgi
 
 ### Links to Tools
 
-[Gephi](https://gephi.org/): Opensource graph and network visualization software. Desktop application.
+[Gephi](https://gephi.org/): Open source graph and network visualization software. Desktop application.
 
-[Cytoscape](https://cytoscape.org/): Originally made for biology.
+[Cytoscape](https://cytoscape.org/): Originally made for biology, a platform for visualizing complex networks. Available as a desktop app and as a JS library for web.
 
-[Observable](https://observablehq.com/)
+[Observable](https://observablehq.com/): d3.js in a notebook!
 
-### Designing a Data Viz Assignment
+[Tableau](https://www.tableau.com/): Dashboards for many types of data viz projects with lots of [Harvard support](https://library.harvard.edu/services-tools/visualization-support).
+
+## Designing a Data Viz Assignment
 
 1. What does Data Viz do?
   - Does it reveal some conclusion or pattern?
@@ -39,3 +45,16 @@ the Transcontinental Railroad](http://web.stanford.edu/group/chineserailroad/cgi
 
   If students are creating the data viz...
     - Identify and make choices about key relationships in a dataset
+    - Building the dataset itself
+
+  If students are interacting with an existing visualization...
+    - Drawing conclusions about key trends or relations from filtering or choosing layers in the viz
+    - Contextualizing trends seen in the visualization in a theoretical or other narrative, i.e. make an argument supported by a view of the visualization
+
+3. What kinds of datasets might assignments work with?
+    - audio analysis
+    - archival records
+    - corpus/text analysis
+
+4. What's the relationship between diagrams and data viz?
+    - For example, I work a lot with argument maps. These certainly don't aim to capture a large dataset but rather to systematize and visualize content typically expressed in prose. But it could be interesting to compare and contrast assignments that would involve students using diagrams as evidence versus data visualizations... perhaps?
