@@ -1,0 +1,539 @@
+{
+  "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:51:14-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10183", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs.3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs.3", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs.3" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "embedded gifs and m4vs", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "just a quick comparison", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "quick comparison of <a data-size=\"medium\" data-align=\"right\" data-caption=\"description\" data-annotations=\"\" resource=\"media/m4v-to-compare-to-gif\" href=\"https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break.m4v\">m4v</a><br />to <a data-size=\"medium\" data-align=\"right\" data-caption=\"description\" data-annotations=\"\" resource=\"media/gif-for-m4v-comparison\" href=\"https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break_540.gif\">gif</a><br />test&nbsp;<br /><br /><br />&nbsp;<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mJ4ha0zsWHw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T15:19:19-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23586", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/references" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif", "type" : "uri" },
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:47:43-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10180", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "m4v-to-compare-to-gif", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "for a quick comparisong", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break.m4v", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:47:43-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23578", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isReferencedBy" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break_540_thumb.gif", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:48:41-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10182", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "gif-for-m4v-comparison", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "for a quick comparison", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break_540.gif", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:48:41-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23580", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/gif-for-m4v-comparison", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isReferencedBy" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/embedded-gifs-and-m4vs", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/index" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#banner" : [
+      { "value" : "https://cdn.dribbble.com/users/2084349/screenshots/5475575/pen_tool_infinity.gif", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T15:11:34-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10184", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index.11", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index.11", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/index.11" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "11", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Animation Notes", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "part 1", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "<h2>MAKING THINGS MOVE&nbsp;</h2>We&#39;ll have 3 breakout rooms devoted to learning 3 basic skills. Each will involve<br />1. a summary of what the thing is<br />2. some examples of &quot;finished work&quot; alongside &quot;process&quot; in recognizable studio works<br />3. a view of what it looks like to make this in tool ____<br />4. an overview of tools you can use<br />5. links (on the resources page) you can check out if you want to go further<br />6. an activity that let&#39;s them practice and generate some content<br />7. some time for the leader of the group to ingest and convert and ship whatever the participants are making<h3>Drawing</h3>In the drawing room, students will work on paper or tablets or phones to create a short frame by frame animation of some sort of blob moving. Elements will include<br />* see some examples (from the course and beyond)<br />* a list of useful apps (some of which people could quickly try out for this segment of the workshop) . . . Procreate, Animation Kit, Toontastic, Flipaclip, Adobe Capture<br />* everyone draws a blob moving across the screen and ships that somehow--this is the most time-intensive making activity<h3>Motion Capture</h3>In the motion capture room students will&nbsp;<br />* look at short examples of motion capture (ruffalo&#39;s rehearsal footage is good, helps make argument about )<br />* check out&nbsp;<br />&nbsp;&nbsp; &nbsp;* adobe character animator<br />&nbsp;&nbsp; &nbsp;* iphone animoji<br />&nbsp;&nbsp; &nbsp;* android &quot;face cam&quot; app?<br />&nbsp;<h3><a data-size=\"large\" data-align=\"right\" data-caption=\"description\" data-annotations=\"\" resource=\"pen-tool-test\" href=\"https://cdn.dribbble.com/users/2084349/screenshots/5475575/pen_tool_infinity.gif\">Keyframing and Curves</a></h3>In the keyframing and curves room, students will<ul><li>learn about what keyframes are (historically and digitally)</li><li>see movement in both the viewer/canvas and in the graph editor</li><li>understand the role of curves in easing</li><li>see that shapes themselves are the products of curves<ul><li>understand Adobe&#39;s role in all this</li><li>Illustrator</li><li>After Effects</li></ul></li><li>see comparisons of keyframe-based and cel animation</li><li>see comparisons of vector artwork and hand-drawn</li><li>links<ul><li>bezier tool article</li><li>bezier tool game</li><li>llustrator, After Effects</li></ul></li></ul>", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "image_header", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#continue_to_content_id" : [
+      { "value" : "10179", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:34:38-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23680", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/references" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-test", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/pen-tool-test" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-29T11:39:53-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10192", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-test.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-test.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/pen-tool-test.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "pen tool test", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "pen tool", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "https://cdn.dribbble.com/users/2084349/screenshots/5475575/pen_tool_infinity.gif", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "meta", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-29T11:39:53-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23605", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-test", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isReferencedBy" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "urn:scalar:path:23680:23680:1" : {
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:path:23680:23680:1", "type" : "uri" }
+    ],
+    "http://www.openannotation.org/ns/hasBody" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index.11", "type" : "uri" }
+    ],
+    "http://www.openannotation.org/ns/hasTarget" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/index.11#index=1", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://www.openannotation.org/ns/Annotation", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/landing-page" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:14:00-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10179", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/landing-page.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/landing-page.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/landing-page.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Landing Page", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "this is the landing page", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "test", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:14:00-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23577", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/landing-page", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif-1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:48:10-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10181", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif-1.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif-1.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif-1.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "m4v-to-compare-to-gif", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "for a quick comparisong", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "https://atg-prod-scalar.s3.amazonaws.com/mk-test/media/faster-glass-break.m4v", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-28T14:48:10-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23579", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/media/m4v-to-compare-to-gif-1", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/pen-tool-amp-paths-in-after-effects-ep1548-adobe-after-effects-for-beginners" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "https://i.ytimg.com/vi/0BpmomriWEM/hqdefault.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-29T11:41:57-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10193", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-amp-paths-in-after-effects-ep1548-adobe-after-effects-for-beginners.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-amp-paths-in-after-effects-ep1548-adobe-after-effects-for-beginners.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=8;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/mk-test/pen-tool-amp-paths-in-after-effects-ep1548-adobe-after-effects-for-beginners.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Pen Tool &amp; Paths in After Effects Ep15/48 [Adobe After Effects for Beginners]", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "In this tutorial, we are going to learn about the pen tool and paths in After Effects. Enjoy! ***************** For more exclusive content follow on: Instagram: ...", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://www.youtube.com/v/0BpmomriWEM", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-09-29T11:41:57-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23607", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/mk-test/pen-tool-amp-paths-in-after-effects-ep1548-adobe-after-effects-for-beginners", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "2019-12-09T08:11:02Z", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/source" : [
+      { "value" : "YouTube", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#sourceLocation" : [
+      { "value" : "https://www.youtube.com/watch?v=0BpmomriWEM", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/contributor" : [
+      { "value" : "Gareth David Studio", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "0BpmomriWEM", "type" : "literal" }
+    ]
+  }
+}

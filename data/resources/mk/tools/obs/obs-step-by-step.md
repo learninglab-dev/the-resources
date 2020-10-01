@@ -7,13 +7,14 @@ These are just the steps--not much more. Over time we can add a little bit more 
 	3. install the **NDI/HX Driver**
 	4. install the **NDI Video Monitor**
 	5. install the macOS-compatible NDI-runtime, which you can find [here](https://github.com/Palakis/obs-ndi/releases)
- 
+3.  
 
 
 
 # OBS LINKS #
 
 * [link to the installers](https://obsproject.com/download) for mac, pc and linux
+* [launch parameters](https://github.com/obsproject/obs-studio/wiki/Launch-Parameters)
 * the extremely simple [OBS Studio Quickstart Guide](https://obsproject.com/wiki/OBS-Studio-Quickstart)
 * the more complete [OBS Studio Overview](https://obsproject.com/wiki/OBS-Studio-Overview)
 * [filters guide](https://obsproject.com/wiki/Filters-Guide)
