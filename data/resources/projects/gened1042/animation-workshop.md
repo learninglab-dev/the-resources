@@ -9,9 +9,9 @@ So, at a bare minimum, we hope you'll gain a more precise vocabulary for articul
 **12:00** introductions and welcome
 **12:10-12:40** ten minutes in each of three breakout rooms:
 
-* drawing frame by frame animation with Jordan
-* motion capture with Mike
-* keyframes and curves with Casey
+* [drawing frame by frame animation](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop/hand-drawn-frame-by-frame) with Jordan
+* [motion capture](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop/motion-capture) with Mike
+* [digital keyframes and curves](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop/keyframes-and-curves) with Casey
 
 **12:40-12:55** debrief and compositing in After Effects
 
