@@ -20,3 +20,6 @@ Here are some samples of motion capture from films you may know. And [here's the
 ![planet of the apes gif](https://files.slack.com/files-pri/T0HTW3H0V-F01CJTYE324/005.gif?pub_secret=fa1224f780)
 
 ![lord of the rings gif](https://files.slack.com/files-pri/T0HTW3H0V-F01CJTYRH0Q/007.gif?pub_secret=5aaab42872)
+
+
+[back to the main page for the workshop](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop)

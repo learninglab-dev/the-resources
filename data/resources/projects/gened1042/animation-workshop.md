@@ -14,7 +14,7 @@ So, at a bare minimum, we hope you'll gain a more precise vocabulary for articul
 * [motion capture](https://resources.learninglab.xyz/simple/projects/gened1042/motion-capture) with Mike
 * [digital keyframes and curves](https://resources.learninglab.xyz/simple/projects/gened1042/keyframes-and-curves) with Casey
 
-**12:40-12:55** debrief and compositing in After Effects
+**12:40-12:55** debrief and [compositing](https://resources.learninglab.xyz/simple/projects/gened1042/compositing) in After Effects
 
 Over the course of the hour you will be invited to create media and share it with us by emailing it from your phone or computer to [media@learninglab.xyz](mailto:media@learninglab.xyz).
 

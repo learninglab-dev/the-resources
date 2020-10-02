@@ -14,3 +14,4 @@ If you complete an animation in the workshop, you can send it to us at [media@le
 
 ![zoom icon break](https://files.slack.com/files-pri/T0HTW3H0V-F01BHMYPX2S/untitled_artwork.gif?pub_secret=6c505d0f31)
 
+[back to the main page for the workshop](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop)
