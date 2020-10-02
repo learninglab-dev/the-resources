@@ -32,3 +32,5 @@ If you need help on your media projects for this course, please reach out to us 
 
 
 ![](https://media.giphy.com/media/PQh01joFJlU6A/giphy.gif)
+
+![Zoom Monster](https://ll-show.s3.amazonaws.com/public/gened-1042/patrick-gif-inverted_540.gif)
