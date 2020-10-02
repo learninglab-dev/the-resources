@@ -10,11 +10,6 @@ If you complete an animation in the workshop, you can send it to us at [media@le
 ## REFERENCES
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tv5FnkhT5E0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-a hand drawn animation in 10 minutes with procreate:
-![zoom fatigue monster](https://files.slack.com/files-pri/T0HTW3H0V-F01BENLFPJT/untitled_artwork.gif?pub_secret=b78e473cb8)
-
-a timelapse of that animation:
-![zoom fatigue drawing](https://files.slack.com/files-pri/T0HTW3H0V-F01BNP32UB0/untitled_artwork.mp4?pub_secret=93e4b19715)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ai4mw9DGeZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
