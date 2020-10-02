@@ -18,4 +18,4 @@ So, at a bare minimum, we hope you'll gain a more precise vocabulary for articul
 
 Over the course of the hour you will be invited to create media and share it with us by emailing it from your phone or computer to [media@learninglab.xyz](mailto:media@learninglab.xyz).
 
-![](https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif)
+![](https://media.giphy.com/media/PQh01joFJlU6A/giphy.gif)
