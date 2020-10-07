@@ -1,4 +1,4 @@
-### Practical Resources for Optimizing Smartphone Video Capture
+#### Practical Resources for Optimizing Smartphone Video Capture
 
 **Lighting** is one of the most important elements to harness when creating compelling video content. And even though smartphones are generally very good at automatically adjusting settings for exposure, the choices that you make in terms of lighting, along with your smartphone and your subject's proximity to those sources of light, will drastically affect the look and feel of the video you capture.
 
@@ -22,4 +22,4 @@ Well worry not! You do not need to own a tripod for this. In fact, there are man
 
 And here is an externally-produced video from CNET showing how you can very easily build your own at-home tripods using just binder clips, a plastic card, or a disposable coffee cup! Go get your DIY on, and good luck!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TTtJovKtujo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.cnet.com/videos/share/3-diy-phone-tripods/" width="480" height="270" frameBorder="0" seamless="seamless" allowFullScreen></iframe>
