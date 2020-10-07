@@ -1,3 +1,4 @@
+
 ## MOTION CAPTURE - A (very) quick primer
 
 #### What is Motion Capture?
@@ -15,10 +16,11 @@ Location & movement data is captured from image sensors on the cameras, to trian
 
 #### Motion Capture Software
 
-* Blender - Free & Open source!
-* Maya - Professional level, but is pricey
-* Adobe Character Animator
-* Adobe After Effects
+* [Blender](https://www.blender.org/) - Free & Open source! 
+* [Adobe Character Animator](https://www.adobe.com/products/character-animator.html)
+* [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+* [Snap Camera](https://snapcamera.snapchat.com/)
+* [Snap Camera Lens Studio](https://lensstudio.snapchat.com/guides/snap-camera/) (for developers)
 
 #### Some examples of Motion Capture
 
@@ -46,3 +48,6 @@ Big-budget feature films:
 
 * MOCAP can be VERY expensive - The cost of hardware, software, and personnel can be prohibitive for smaller productions
 * “Fix it in Post” doesn’t work as well in this medium - When problems occur, it’s sometimes easier to reshoot rather than manipulate already-captured data
+
+[back to the main page for the workshop](https://resources.learninglab.xyz/simple/projects/gened1042/animation-workshop)
+

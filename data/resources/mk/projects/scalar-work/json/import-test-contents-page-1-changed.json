@@ -1,0 +1,1240 @@
+{
+  "https://scalar.fas.harvard.edu/import-test/image-1" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP130999.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10228", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-1.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-1.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-1.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP130999.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23689", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-1", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/1/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "61.174442, -149.861164", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-10" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10232", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-10.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-10.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-10.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 10", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23692", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-10", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isReferencedBy" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-one", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/10/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "64.844839, -147.713785", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-one" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10240", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-one.3", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-one.3", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-one.3" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page One", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, <a data-size=\"medium\" data-align=\"right\" data-caption=\"title-and-description\" data-annotations=\"\" href=\"http://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg\" resource=\"image-10\">scelerisque</a> urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#defaultView" : [
+      { "value" : "plain", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-02T13:38:53-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23807", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-one", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/references" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-10", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-2" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10231", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-2.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-2.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-2.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 2", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23693", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-2", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/2/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "71.301335, -156.761299", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-3" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1396.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10229", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-3.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-3.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-3.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 3", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1396.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23690", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-3", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/3/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "62.085556, -163.729444", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-4" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1951.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10226", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-4.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-4.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-4.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 4", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1951.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23688", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-4", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/4/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "60.792222, -161.755833", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-5" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/rl/web-large/DT3154.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10225", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-5.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-5.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-5.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 5", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/rl/web-large/DT3154.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23687", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-5", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/5/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "58.301683, -134.414835", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-6" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1494.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10230", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-6.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-6.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-6.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 6", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1494.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23691", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-6", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/6/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "61.796667, -148.462778", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-7" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10223", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-7.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-7.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-7.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 7", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23684", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-7", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/7/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "60.78706, -161.811604", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-8" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP229743.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10224", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-8.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-8.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-8.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 8", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DP229743.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23685", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-8", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/8/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "61.20421, -149.809868", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-9" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Media", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1947.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10227", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-9.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-9.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/image-9.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Image 9", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh.", "type" : "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url" : [
+      { "value" : "http://images.metmuseum.org/CRDImages/ep/web-large/DT1947.jpg", "type" : "uri" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:44:27-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23686", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/image-9", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/date" : [
+      { "value" : "1/9/81", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/spatial" : [
+      { "value" : "64.845913, -147.711828", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-eight" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10242", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-eight.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-eight.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-eight.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Eight", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23703", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-eight", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-five" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10234", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-five.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-five.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-five.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Five", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23695", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-five", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-four" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10235", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-four.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-four.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-four.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Four", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23697", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-four", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-nine" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10239", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-nine.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-nine.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-nine.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Nine", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23698", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-nine", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-seven" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10238", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-seven.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-seven.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-seven.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Seven", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23700", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-seven", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-six" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10236", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-six.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-six.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-six.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Six", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23696", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-six", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-ten" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10237", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-ten.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-ten.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-ten.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Ten", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23699", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-ten", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-three" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10233", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-three.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-three.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-three.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Three", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23694", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-three", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-two" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Composite", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:content:10241", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-two.1", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/hasVersion" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-two.1", "type" : "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation" : [
+      { "value" : "method=instancesof/content;methodNumNodes=20;", "type" : "literal" }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/page-two.1" : {
+    "http://open.vocab.org/terms/versionnumber" : [
+      { "value" : "1", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "Page Two", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "This is a page in my Scalar book", "type" : "literal" }
+    ],
+    "http://rdfs.org/sioc/ns#content" : [
+      { "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum, est sed blandit dapibus, tellus neque facilisis velit, sed faucibus nulla ex in nibh. Maecenas malesuada posuere justo, eget posuere risus tristique sit amet. Fusce sed ornare felis. Nam sed arcu bibendum, scelerisque urna quis, tempus nisi. Integer consequat, dolor a pretium scelerisque, massa mi eleifend orci, posuere blandit diam erat eget ligula. Aliquam interdum, ex eget viverra molestie, odio ex fermentum est, non dignissim metus eros eget libero. Donec quam turpis, facilisis a mollis non, tincidunt in ex. Suspendisse fermentum, turpis ut pretium volutpat, metus metus tincidunt dui, sit amet dapibus quam turpis vitae magna. Proin gravida vehicula nisl a sollicitudin. Curabitur lacinia nisl mauris, vel gravida odio fringilla id. Praesent eu porttitor orci.", "type" : "literal" }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/users/612", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/created" : [
+      { "value" : "2020-10-01T16:45:02-04:00", "type" : "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn" : [
+      { "value" : "urn:scalar:version:23702", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf" : [
+      { "value" : "https://scalar.fas.harvard.edu/import-test/page-two", "type" : "uri" }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://scalar.usc.edu/2012/01/scalar-ns#Version", "type" : "uri" }
+    ]
+  }
+}
