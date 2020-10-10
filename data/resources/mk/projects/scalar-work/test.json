@@ -1,0 +1,98 @@
+{
+  "https://scalar.fas.harvard.edu/import-test/test-image-001": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://scalar.usc.edu/2012/01/scalar-ns#Media",
+        "type": "uri"
+      }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#isLive": [
+      { "value": "1", "type": "literal" }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#thumbnail": [
+      {
+        "value": "https://ll-show.s3.amazonaws.com/public/gened-1042/patrick-gif-inverted_540.gif",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo": [
+      {
+        "value": "https://scalar.fas.harvard.edu/import-test/users/612",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      { "value": "2020-10-01T16:44:27-04:00", "type": "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn": [
+      { "value": "urn:scalar:content:10228", "type": "uri" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#version": [
+      {
+        "value": "https://scalar.fas.harvard.edu/import-test/test-image-001.1",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/hasVersion": [
+      {
+        "value": "https://scalar.fas.harvard.edu/import-test/test-image-001.1",
+        "type": "uri"
+      }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#citation": [
+      {
+        "value": "method=instancesof/content;methodNumNodes=20;",
+        "type": "literal"
+      }
+    ]
+  },
+
+  "https://scalar.fas.harvard.edu/import-test/test-image-001.1": {
+    "http://open.vocab.org/terms/versionnumber": [
+      { "value": "1", "type": "literal" }
+    ],
+    "http://purl.org/dc/terms/title": [
+      { "value": "Image 1", "type": "literal" }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "value": "This is a simple gif created during the workshop",
+        "type": "literal"
+      }
+    ],
+    "http://simile.mit.edu/2003/10/ontologies/artstor#url": [
+      {
+        "value": "https://ll-show.s3.amazonaws.com/public/gened-1042/patrick-gif-inverted_540.gif",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasAttributedTo": [
+      {
+        "value": "https://scalar.fas.harvard.edu/import-test/users/612",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/created": [
+      { "value": "2020-10-01T16:44:27-04:00", "type": "literal" }
+    ],
+    "http://scalar.usc.edu/2012/01/scalar-ns#urn": [
+      { "value": "urn:scalar:version:23689", "type": "uri" }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "value": "https://scalar.fas.harvard.edu/import-test/test-image-001",
+        "type": "uri"
+      }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "value": "http://scalar.usc.edu/2012/01/scalar-ns#Version",
+        "type": "uri"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [{ "value": "1/1/81", "type": "literal" }],
+    "http://purl.org/dc/terms/spatial": [
+      { "value": "61.174442, -149.861164", "type": "literal" }
+    ]
+  }
+}
