@@ -79,8 +79,7 @@ Once you've created a new project, the next step is to add an audio file. This c
     
     ![](https://i.imgur.com/iCbF1Ce.png)
 
-    
-    **Tip:** To see a more exact timestamp on the timeline, it may be helpful to zoom in and out. You can do this by clicking the magnifying glasses in the bottom righthand corner, or by using a pinching gesture on your touchpad.
+   **Tip:** To see a more exact timestamp on the timeline, it may be helpful to zoom in and out. You can do this by clicking the magnifying glasses in the bottom righthand corner, or by using a pinching gesture on your touchpad.
     
 * #### Rearranging Clips
     1. To move a clip, simply drag and drop it to a new location. You can also move a clip from one track to another.
