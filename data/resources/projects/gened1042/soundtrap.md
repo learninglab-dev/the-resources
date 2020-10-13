@@ -117,10 +117,11 @@ To insert music into your project, you can either import a new file following th
 * #### Inserting Loops from Soundtrap's Loop Library
 
 1. To access the loop library, select "Add New Track" in the lefthand column, then select "Loop Library" at the bottom of the popout window. Alternatively, select the purple music note on the righthand side of the screen, located under "Exit Studio."
-    
-![](https://i.imgur.com/nZyGCIl.png)
+
+![image](https://i.imgur.com/nZyGCIl.png)
 
 2. Browse through the loops. After selecting the loops you'd like to use, double click or drag and drop to import the loops into your project.
+
 
 ### 6. Saving and Exporting Project
 
