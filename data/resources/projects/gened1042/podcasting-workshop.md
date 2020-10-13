@@ -16,6 +16,7 @@ Here you can find a [google drive folder with the media assets](https://drive.go
 As you begin to create your own podcasts, here are a couple of resources to check out:
 * [Audio Collaboration](http://resources.learninglab.xyz/simple/projects/gened1042/audio-collaboration) helpful tips for navigating collaboration remotely across a variety of tools
 * [podcasting.learninglab.xyz](podcasting.learninglab.xyz) is a great resource for thinking about podcast structure, recording, and what resources are available to you at Harvard
+* [A quick guide on recording with your phone](http://resources.learninglab.xyz/simple/projects/gened1042/podcasting-workshop) some very quick tips on how to optimize as well as some basic recording practices
 * [BBC remote recording protocols](https://www.bbc.com/news/business-26256502) are really great
 * [Pro Tools tips on remote recording](https://www.pro-tools-expert.com/production-expert-1/2020/3/31/case-study-how-to-remote-record-during-the-covid-19-lockdown)
 
