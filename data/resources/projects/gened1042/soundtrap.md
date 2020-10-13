@@ -1,11 +1,6 @@
 # Soundtrap Resource Page
 
-ask Jordan//marlon: used to have access to automation, now it says i'm only allowed 1 track per project unless i upgrade & looks like the feature sort of changed...worth trying to include this? a way to work around automation might be to just split up your clip at the quiet parts and move these to a new track to increase the volume
-
-Insert basic desc. here
-
-Table of Contents
-(add later)
+Soundtrap is a collaborative, web-based software created by Spotify that allows users to produce music and podcasts—all online, no downloading required! With an intuitive interface and a library of premade loops, Soundtrap is very user-friendly and enjoyable to use.
 
 ### 1. Getting Started
 * #### Creating an Account
@@ -16,6 +11,13 @@ Table of Contents
 * #### Starting a New Podcast Project
     1. Once logged in, scroll down to beneath "My Projects" and click 'Enter studio.'
     2. Select 'Podcast Project.'
+
+* #### Inviting Collaborators
+    1. Select the blue button on the side of the screen, then click invite.
+    2. Invite collaborators by sending them an email invitation, or by copying the project URL and sharing to grant access.
+
+![](https://i.imgur.com/AoF6tvM.png)
+
 
 ### 2. Adding Audio Clips
 Once you've created a new project, the next step is to add an audio file. This can be done in one of two ways:
@@ -37,6 +39,9 @@ Once you've created a new project, the next step is to add an audio file. This c
     3. Browse your files and select the clip you would like to upload. 
     
     **Note:** Soundtrap accepts the following formats: mp3, mp4, m4a, ogg, wav, flac, aac, aif, and mid.
+    
+    ![](https://i.imgur.com/t5f6dWq.png)
+
 
 
 ### 3. Manipulating Tracks/Audio Clips
@@ -72,6 +77,9 @@ Once you've created a new project, the next step is to add an audio file. This c
     3. Drag the purple playhead to the timestamp at which you would like to split the clip.
     4. Right-click clip and select 'Split region,' or press command+E on your keyboard.
     
+    ![](https://i.imgur.com/iCbF1Ce.png)
+
+    
     **Tip:** To see a more exact timestamp on the timeline, it may be helpful to zoom in and out. You can do this by clicking the magnifying glasses in the bottom righthand corner, or by using a pinching gesture on your touchpad.
     
 * #### Rearranging Clips
@@ -89,15 +97,32 @@ Once you've created a new project, the next step is to add an audio file. This c
     1. Identify the track you would like to adjust the audio of in the lefthand column. 
     2. Click and hold on the Vol button, then move your cursor up to increase the volume, or down to decrease the volume.
 
+    ![](https://i.imgur.com/uMfFZ6a.png)
+
+
 * Adding Fade In/Fade Out
 
     If your audio **fades in**, the volume of your clip will begin softer, then gradually increase to full volume. If your audio **fades out**, the opposite will occur at the end of your clip—audio will begin at full volume and gradually get softer. Fading in/out may help the transitions between clips sounds less harsh.
 
     1. Identify the clip you would like to add a fade to.
     2. Hover over the clip and click 'Edit,' then select either 'Fade In' or 'Fade Out.'
-    3. The fade will be added to your clip, 
+    3. The fade will be added to your clip. To adjust the length of the fade, drag the white circle attached to the fade to the left or right.
+    
+    ![](https://i.imgur.com/JarbJjO.png)
+ 
 
 ### 5. Inserting Music Beds
+
+To insert music into your project, you can either import a new file following the previous instructions, or you can browse Soundtrap's Loop Library and insert these pre-made loops.
+
+* #### Inserting Loops from Soundtrap's Loop Library
+
+    1. To access the loop library, select "Add New Track" in the lefthand column, then select "Loop Library" at the bottom of the popout window. Alternatively, select the purple music note on the righthand side of the screen, located under "Exit Studio."
+    
+    ![](https://i.imgur.com/nZyGCIl.png)
+
+    
+    3. Browse through the loops. After selecting the loops you'd like to use, double click or drag and drop to import the loops into your project.
 
 ### 6. Saving and Exporting Project
 
