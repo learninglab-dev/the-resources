@@ -15,13 +15,13 @@ GarageBand is available for free from the Mac App Store
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01D71FJJRW/screen_shot_2020-10-13_at_10.47.34_am.png?pub_secret=4d59d02ffb)
 
-* Once downloaded, we're ready to start working inside the application
+* Once downloaded, you are ready to start working inside the application
 
 ### Setting up your project
 
-* Open the application, and open up a new “Empty Project.”
+* Open the application, and a new “Empty Project”.
 
-* You will then see a second screen that asks your track type. Under the 'Audio' tab. select the microphone. This will allow you to record directly into GarageBand, as well as permit you to import external audio files.
+* You will then see a second screen that asks your track type. Under the 'Audio' tab. select the box with the image of a microphone. This will allow you to record directly into GarageBand, as well as permit you to import external audio files.
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01CHKA7T35/screen_shot_2020-10-13_at_12.01.35_pm.png?pub_secret=ac2c6cebbe)
 
@@ -31,7 +31,7 @@ GarageBand is available for free from the Mac App Store
 
 ### Recording directly into GarageBand
 
-* If you would like to record directly into GarageBand, simply click on the red, circular, record button at the top of the screen, and begin talking!
+* If you would like to record directly into GarageBand, simply click on the red, circular "Record" button at the top of the screen, and begin speaking!
   * NOTE: You may need to adjust your input settings to produce an audio signal. To customize these settings, click on the following and adjust your settings to suit your setup:
     * GarageBand
     * Preferences
@@ -59,9 +59,9 @@ Click on your clip, and move it to where you'd like it to be positioned in the t
 
 * Ducking/fading Audio
   * You can also perform very meticulous volume control on specific portions of your audio by using the Automation feature in GarageBand
-    * Click 'a' to toggle the Automation function, or click 'Mix' > 'Show Automation'
-    * Hold 'Command' and click on the beginning point in the timeline that you want to be manipulated
-    * While holding 'Command' click on the ending point in the timeline, and drag the points up (louder) or down (softer) to achieve the desired volume adjustment
+    * Click 'A' to toggle the Automation function, or at the top of the screen, click 'Mix' > 'Show Automation'
+    * With your track selected, hold down 'Command' while clicking on the beginning point in the timeline where you want the audio change to begin.
+    * Click on the ending point in the timeline of your audio adjustment, and drag the points up (louder) or down (softer) to achieve the desired volume adjustment
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01CW8LNHFB/screenflow_005.gif?pub_secret=e51d22a3f4)
 
@@ -71,13 +71,16 @@ Click on your clip, and move it to where you'd like it to be positioned in the t
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01CHSLPXJ7/screenflow_006.gif?pub_secret=f83b48b489)
 
+### Sharing your finished Mix
+
+After you've added all of your audio elements and mixed them according to your preference, you are ready to export.
+
+Go to the 'Share' menu and choose 'Export Song to Disc'. Name your podcast and choose an audio format: AAC or AIFF for full quality, and MP3 for slightly lower quality but more manageable file size. You can share your audio on sites like SoundCloud, services like iTunes, or create an RSS (Really Simple Syndication) feed of your own, so listeners can find and subscribe to your podcast.
+
+### For more information and inspiration
+
 Here is a visual diagram to help you think about some of the structural elements that are often a part of a typical podcast
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01CHLMKWKU/screen_shot_2020-10-13_at_1.28.06_pm.png?pub_secret=b0d84c4cb5)
 
-
-### Sharing your finished Mix
-
-After you've added all of your audio elements, and mixed them according to your preference, you are ready to export.
-
-Go to the 'Share' menu and choose 'Export Song to Disc'. Name your podcast and choose an audio format: AAC or AIFF for full quality, and MP3 for slightly lower quality but more manageable file size. You can share your audio on sites like SoundCloud, services like iTunes, or create an RSS (Really Simple Syndication) feed of your own, so listeners can find and subscribe to your podcast.
+And of course, please check out [podcasting@learninglab.xyz](https://sites.google.com/g.harvard.edu/ll-podcasting) for more resources.
