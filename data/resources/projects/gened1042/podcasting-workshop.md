@@ -14,7 +14,7 @@ As you begin to record your voice overs and interviews, here are a couple of res
 * [BBC remote recording protocols](https://www.bbc.com/news/business-26256502) are really great
 * [Pro Tools tips on remote recording](https://www.pro-tools-expert.com/production-expert-1/2020/3/31/case-study-how-to-remote-record-during-the-covid-19-lockdown)
 
-Here you can find a [google drive folder with the media assets](https://drive.google.com/drive/folders/1sLOiUjiljb2E8UpHmAhMo04zxga6LnAq) we will use in the breakout rooms today!
+Here you can find a [google drive folder with the media assets](https://drive.google.com/drive/folders/1RAPGAAEvifsRhgrkvRIBlOgxmr2D9jXE?usp=sharing) we will use in the breakout rooms today!
 
 As you find yourself collaborating across a variety of distances and tools, you may find this [resource on audio collabs](http://resources.learninglab.xyz/simple/projects/gened1042/audio-collaboration) helpful.
 
