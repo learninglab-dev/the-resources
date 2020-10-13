@@ -24,11 +24,11 @@ If you have any questions after the workshop, or at any time during the producti
 
 
 ## PEOPLE
-
+Today's workshop features:
 - **Marlon,** Director of the Learning Lab
 - **Jordan,** Learning Lab Fellow for the Arts, Media and Design
 - **Casey,** Learning Lab Studio Coordinator
 - **Mike,** Media Production Coordinator
-- **Katie,** Learning Lab Project Manager
 - **Danu,** Media and Design Fellow
 - **Sara,** Learning Lab Undergraduate Fellow
+- **Katie,** Learning Lab Project Manager
