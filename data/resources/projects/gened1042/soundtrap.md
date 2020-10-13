@@ -122,7 +122,7 @@ To insert music into your project, you can either import a new file following th
     ![](https://i.imgur.com/nZyGCIl.png)
 
     
-    3. Browse through the loops. After selecting the loops you'd like to use, double click or drag and drop to import the loops into your project.
+    2. Browse through the loops. After selecting the loops you'd like to use, double click or drag and drop to import the loops into your project.
 
 ### 6. Saving and Exporting Project
 
