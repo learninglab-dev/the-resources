@@ -199,6 +199,12 @@ You can also move the track by clicking in the blank space of the track label an
  
  ## Inserting Music Beds
  
+ To import music beds, you follow the same instructions as importing audio files:
+ 
+ 1. Navigate File > Import > Audio, and select the file you would like to import.
+
+2. Click import and the file will appear as a new track in your workspace.
+ 
  ## Saving and Exporting Projects
  
  At the end of a work session, be sure to save your project.
