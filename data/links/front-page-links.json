@@ -10,28 +10,38 @@
     "text": "Does everything the simple system does, but adds your own custom css. Just add your css file to public folder and you should be good to go."
   },
   {
-    "url": "/people",
-    "linkTitle": "(slick) resources by person",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
-  },
-  {
-    "url": "/tools",
-    "linkTitle": "(slick) resources by tool",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
-  },
-  {
-    "url": "/projects",
-    "linkTitle": "(slick) resources by project",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
-  },
-  {
-    "url": "/playlists",
-    "linkTitle": "(slick) resources by playlist",
-    "text": "In development. Will ultimately pull records from Airtable rather than the folder structure of this repo. And it will be beautiful. And slick. But for now we have to just be OK with the simple and simple styled options."
-  },
-  {
     "url": "/greatest-hits",
     "linkTitle": "greatest hits",
     "text": "a curated collection of some of our better resources."
+  },
+  {
+    "url": "/gened1042",
+    "linkTitle": "gen ed 1042",
+    "text": "All the resources on anime, animation, podcasts (on anime), etc."
+  },
+  {
+    "url": "/simple/labs",
+    "linkTitle": "labs",
+    "text": "resources for the learning lab labs."
+  },
+  {
+    "url": "/simple/projects",
+    "linkTitle": "projects",
+    "text": "resources for the learning lab projects."
+  },
+  {
+    "url": "/simple/people",
+    "linkTitle": "people",
+    "text": "resources for the learning lab people."
+  },
+  {
+    "url": "/simple/tools",
+    "linkTitle": "tools",
+    "text": "resources for the learning lab tools."
+  },
+  {
+    "url": "/simple/stories",
+    "linkTitle": "stories",
+    "text": "resources for the learning lab stories."
   }
 ]
