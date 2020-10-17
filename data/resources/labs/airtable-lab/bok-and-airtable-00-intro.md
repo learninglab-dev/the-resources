@@ -3,7 +3,7 @@
 This doc can start out as a combination of an intro to some database basics AND a way to plan out some of the basics of our specific database.
 
 1. [relationships](/simple/labs/airtable-lab/bok-and-airtable-01-relationships) between ones and manys
-2. [queries & Airtable views](/simple/labs/airtable-lab/bok-and-airtable-02-airtable-views)
+2. [queries & Airtable views](/simple/labs/airtable-lab/bok-and-airtable-02-queries-and-views)
 3. [normalization](/simple/labs/airtable-lab/bok-and-airtable-03-normalization)
 4. [basic use cases](/simple/labs/airtable-lab/bok-and-airtable-04-basic-use-cases)
 5. [proposals](/simple/labs/airtable-lab/bok-and-airtable-05-proposals)
@@ -36,3 +36,12 @@ just some random stuff from the internet that’s useful.
 This is where we encounter one of the things that makes Airtable awesome. We don't even NEED to learn to query things using SQL-style queries like
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/programming-foundations-databases-2/joining-tables?claim=AQGOkTzxGFKWawAAAXU2lj2aJQg8VuGBUlxD03wpdO-YKdKhwIrqbmnxnu_RlONvE2XkO_vWfbWlOTqRulljzdqzybGYZW_ymfpCzeH_8bYmkZWSc28Y1fzc9hZF931TmKZj5MGvUb4kf99X28_5Y_9B7l4q55kiv_-cPSIVFUJ8bWa298tl7a30m-he6W2A-MOBzbEnFdW9ufE-Lx0V3z888CLNx79PsEGwUmf3YsAGe_mZowxMX136Foh4b_hSfAegXqzJ1nbl0LNT3fbTprJeVgG13AaX_isKdZ37cCW3McrAtqqTFQIfsN1igztDUiE_lyDfL64i_WvlZYtH3Mk-34RQyizUv5TiQhdXx_Td1xRwZVL7ayDnGqhkuMoNZ3dDgW20Q00y10eiXIVhPP_f9JFeENQmfygEYF3D9j9kr-LXhlqDqvsNTarP0tF9Zp9qgw_AAEopYn6RcNcXvvNCpNpscYGX3sxnF_vnSSXx63ROgbrc8KzIN-crySwy7hoC2C8D874VxwIhZXFF5-EjhhYVByNAOTeO0eLob2ZI_j719IeB8VotN474CWmdxWKLdxTpmR_1uV-tuxNUXfofvk76BEujRwvIHGdjc97kjmIQmQ82nJmSuf0nQ1ezwIcnuGso2-xoJw5VfbQdK0XbxnPHTRUb8Dyel4muzZbzg74TFG7QsAlJbkrbiHE5lhXQ03sK4lTdKewXUxCpAecGMDyPmHgMYEb3L6EPi7PUoMWl" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?trk=embed_lil">Joining tables</a></strong> from <strong><a href="https://www.linkedin.com/learning/programming-foundations-databases-2?trk=embed_lil">Programming Foundations: Databases</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/scott-simpson?trk=embed_lil">Scott Simpson</a></strong></p>
+
+links back to the other steps in this series:
+
+0. [intro](/simple/labs/airtable-lab/bok-and-airtable-00-intro)
+1. [relationships](/simple/labs/airtable-lab/bok-and-airtable-01-relationships) between ones and manys
+2. [queries & Airtable views](/simple/labs/airtable-lab/bok-and-airtable-02-queries-and-views)
+3. [normalization](/simple/labs/airtable-lab/bok-and-airtable-03-normalization)
+4. [basic use cases](/simple/labs/airtable-lab/bok-and-airtable-04-basic-use-cases)
+5. [proposals](/simple/labs/airtable-lab/bok-and-airtable-05-proposals)

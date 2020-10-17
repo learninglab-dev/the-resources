@@ -1,4 +1,4 @@
-# 1. RELATIONSHIPS BETWEEN ONES AND MANYS #
+# 1. RELATIONSHIPS BETWEEN ONES AND MANYS
 
 A **relational database** is, not surprisingly, comprised of entities that have relationships with one another. There's a great LinkedIn Learning course that covers these relationships in detail.
 
@@ -6,7 +6,16 @@ A **relational database** is, not surprisingly, comprised of entities that have 
 
 And Airtable has a [great intro to relationships](https://support.airtable.com/hc/en-us/articles/218734758-Airtable-s-guide-to-many-to-many-relationships) on its site. So on this page we'll do our best to "summarize with a purpose," emphasizing the roles these relationships may play in our world at the Bok Center.
 
-**One-to-one** relationships are often handled in Airtable by using a **single** table. Each PERSON has one ID number, for instance. But sometimes things that are apparently one-to-one may actually be best handled 
+**One-to-one** relationships are often handled in Airtable by using a **single** table. Each PERSON has one ID number, for instance. But sometimes things that are apparently one-to-one may actually be best handled
 
 Since one-to-one relationships are things we’re used to from Excel and Google sheets, it might make sense to think more about the one-to-many and many-to-many relationships first as a way in to the puzzles of Bok base design.
 In Airtable, one-to-one relationships are usually defined within a single table (i.e. this PERSON has one name, one date of birth, one Harvard ID number, etc.), but one-to-many relationships are handled with a linked-record column (this PERSON is enrolled in these 5 classes, all stored in a CLASSES table). One could argue that one-to-many and many-to-many relationships are at the main reason you’d use a database (rather than a spreadsheet) in the first place, so it’s a reasonable place to start.
+
+links back to the other steps in this series:
+
+0. [intro](/simple/labs/airtable-lab/bok-and-airtable-00-intro)
+1. [relationships](/simple/labs/airtable-lab/bok-and-airtable-01-relationships) between ones and manys
+2. [queries & Airtable views](/simple/labs/airtable-lab/bok-and-airtable-02-queries-and-views)
+3. [normalization](/simple/labs/airtable-lab/bok-and-airtable-03-normalization)
+4. [basic use cases](/simple/labs/airtable-lab/bok-and-airtable-04-basic-use-cases)
+5. [proposals](/simple/labs/airtable-lab/bok-and-airtable-05-proposals)

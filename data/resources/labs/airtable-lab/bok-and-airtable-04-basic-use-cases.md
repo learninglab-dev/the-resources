@@ -1,6 +1,4 @@
-# 4. BASIC USE CASES #
-
-
+# 4. BASIC USE CASES
 
 ### Central
 
@@ -34,10 +32,9 @@ Instructor ( => PERSON )
 
 Enrollment
 
-
 ### Admin
 
-for the projects that the admin team typically tracks (currently) in their Google sheets, etc. . . . Library Books, appointment data (?), budget?, 
+for the projects that the admin team typically tracks (currently) in their Google sheets, etc. . . . Library Books, appointment data (?), budget?,
 
 **BOOK**
 
@@ -51,11 +48,9 @@ Location
 
 ?
 
-
 ### Team 1
 
 all the Team 1 work
-
 
 ### TEAM 2
 
@@ -63,7 +58,7 @@ all the Team 2 work
 
 `CLIENT`
 
- `=> PERSON ` (from People table in Central base)
+`=> PERSON` (from People table in Central base)
 
 Department ( lookup )
 
@@ -81,5 +76,13 @@ Title
 
 Client ( => CLIENT )
 
+###
 
-### 
+links back to the other steps in this series:
+
+0. [intro](/simple/labs/airtable-lab/bok-and-airtable-00-intro)
+1. [relationships](/simple/labs/airtable-lab/bok-and-airtable-01-relationships) between ones and manys
+2. [queries & Airtable views](/simple/labs/airtable-lab/bok-and-airtable-02-queries-and-views)
+3. [normalization](/simple/labs/airtable-lab/bok-and-airtable-03-normalization)
+4. [basic use cases](/simple/labs/airtable-lab/bok-and-airtable-04-basic-use-cases)
+5. [proposals](/simple/labs/airtable-lab/bok-and-airtable-05-proposals)
