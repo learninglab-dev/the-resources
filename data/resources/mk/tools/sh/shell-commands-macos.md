@@ -1,6 +1,6 @@
 # CREATING SHELL COMMANDS FOR YOUR DOCK
 
-We've already made a few tutorials on creating custom shell commands (like a `start` command that opens all your favorite apps, grabs your tasks from Airtable, then uses that data to create a markdown notebook for the day). To make these scripts even easier to launch, you might want to be able to run them directly from your Dock or using Spotlight. If this sounds interesting to you, follow these steps: 
+We've already made a few tutorials on creating custom shell commands (like a `start` command that opens all your favorite apps, grabs your tasks from Airtable, then uses that data to create a markdown notebook for the day). To make these scripts even easier to launch, you might want to be able to run them directly from your Dock or using Spotlight. If this sounds interesting to you, check out the following steps, which will help you create a little cammand that gets you ready to perform your daily work in Blender: 
 
 1. create a file with a `.command` extension, like `open-custom-workspace.command` (it might make sense to do this in a new custom utilities folder in your Applications folder, but it could go anywhere on your system that Spotlight indexes)
 2. modify the permissions of this file in Terminal with `chmod 744 /full/path/to/open-custom-workspace.command` (i.e. `chmod 744 /Applications/my-custom-utilities/open-custom-workspace.command`)
