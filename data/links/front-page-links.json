@@ -2,12 +2,12 @@
   {
     "url": "/simple",
     "linkTitle": "simple folder-based index of resources",
-    "text": "as of April 2020, this is where you want to go. try the other links in the summer."
+    "text": "everything's here if you know how to find it."
   },
   {
     "url": "/styled",
     "linkTitle": "styled version of the simple system",
-    "text": "Does everything the simple system does, but adds your own custom css. Just add your css file to public folder and you should be good to go."
+    "text": "Does everything the simple system does, but adds fellows' custom css. If you're an LL Fellow, just add your css file to public folder of the Github repo and you should be good to go. If you're not a fellow, you can still click here to see the resources with different styles applied."
   },
   {
     "url": "/greatest-hits",
