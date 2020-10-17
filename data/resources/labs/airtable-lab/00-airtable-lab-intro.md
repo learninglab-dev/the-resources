@@ -3,10 +3,10 @@
 This doc can start out as a combination of a intro to some database basics AND a way to plan out some of the basics of our specific database.
 
 1. [relationships](/simple/labs/airtable-lab/relationships) between ones and manys
-2. queries
-3. normalization
-4. basic use cases
-5. proposals
+2. [queries & Airtable views](/simple/labs/airtable-lab/airtable-views)
+3. [normalization](/simple/labs/airtable-lab/normalization)
+4. [basic use cases](/simple/labs/airtable-lab/basic-use-cases)
+5. [proposals](/simple/labs/airtable-lab/proposals)
 
 
 

@@ -1,4 +1,4 @@
-# ONES AND MANYS #
+# 1. RELATIONSHIPS BETWEEN ONES AND MANYS #
 
 **One-to-one** relationships are often handled in Airtable by using a **single** table. Each PERSON has one ID number, for instance. But sometimes things that are apparently one-to-one may actually be best handled 
 
