@@ -24,7 +24,7 @@ We've already made a few tutorials on creating custom shell commands (like a `st
        else
            # if not, create and then open it in your editor and previewer
            touch $NOTES_FOR_TODAY
-           echo "# BLENDER NOTES FOR $THE_DATE \nstarted at\n $THE_TIME\n\n##GOALS FOR THE DAY" >> $NOTES_FOR_TODAY
+           echo -e "# BLENDER NOTES FOR $THE_DATE \nstarted at\n $THE_TIME\n\n##GOALS FOR THE DAY" >> $NOTES_FOR_TODAY
            open -a "FoldingText" $NOTES_FOR_TODAY
            open -a "Marked 2" $NOTES_FOR_TODAY
    fi
