@@ -3,7 +3,7 @@ Platforms for informal networking.
 
 The one platform that we likely think of first when considering a virtual meeting is, of course, zoom. At the Learning Lab, our goal is to find the potential for innovation in the alternatives, in the tools and platforms that can augment the virtual experience, to offer new ways of collaborting and connecting with peers. So we set out to try several alternative virtual meeting platforms that might provide that missing space of inforlmal connection that we all miss in this remote learning environment. Below you will find the list of tools and our student feedback on each of them.
 
-### Gather.town
+### [Gather.town](https://gather.town/)
 ![gathertown](https://gather.town/images/site/preview.gif)
 
 This platform is great becasue you can customize or fully design your space, and users can move freely between different rooms within a space. There are various ways to lead collaborative discussions, either with the podium feature or the pop up whiteboards.
