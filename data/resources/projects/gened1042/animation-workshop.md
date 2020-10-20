@@ -1,7 +1,7 @@
 # ANIMATION WORKSHOP #
 ![](https://media.giphy.com/media/C89BpArweV6DxLNz5m/giphy.gif)
 
-This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) Animation Workshop for GenEd 1042. Over the course of this hour, we are going to get a taste of some different ways to make elements move on screen and then put them together in a composition. Becoming an expert in any of these techniques is a life-long rather than hour-long process, so the goal for today is less to **perfect** these moves than it is to have a couple of quick and fun experiences that open up new opportunities to us as critics and interpreters of animated films. 
+This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) Animation Workshop for GenEd 1042. Over the course of this hour, we are going to get a taste of some different ways to make elements move on screen and then put them together in a composition. Becoming an expert in any of these techniques is a life-long rather than hour-long process, so the goal for today is less to **perfect** these moves than it is to have a couple of quick and fun experiences that open up new opportunities to us as critics and interpreters of animated films.
 
 So, at a bare minimum, we hope you'll gain a more precise vocabulary for articulating what you see happening on screen. But if any of you end up desiring to learn more about how to use any of the tools you encounter today (Adobe After Effects, Procreate, etc.) please do get in touch with us at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
 
