@@ -8,8 +8,8 @@ So you're ready to make your academic website. Excellent! This guide provides a 
 When choosing a web publishing platform you might consider...
 
 - price
-- portability
-- ease of use
+- portability, i.e. can you take it with you after Harvard
+- technical skill required
 - customization
 - type of content (writing, data viz, personal site, etc.)
 
@@ -18,6 +18,12 @@ When choosing a web publishing platform you might consider...
 ### [OpenScholar](https://openscholar.harvard.edu/)
 
 ### [Scalar](https://scalar.fas.harvard.edu/)
+
+Scalar is 
+
+**Links**
+- [Official Guide](https://scalar.usc.edu/works/guide2/index)
+- [Example Scalar Books](https://library.brown.edu/create/cds/workshops/workshop-scalar/)
 
 ### [Wix](https://www.wix.com/)
 
