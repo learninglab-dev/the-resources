@@ -9,6 +9,9 @@ Scalar is a web-authoring tool designed for academic writing that allows users t
 You can access the Harvard Scalar instance at:
 - https://scalar.fas.harvard.edu
 
+Harvard's Scalar is managed by Academic Technology for FAS. Information on getting started with Harvard's Scalar can be found here:
+- https://atg.fas.harvard.edu/scalar
+
 The complete user's guide (which is itself a Scalar book) can be found here:
 - https://scalar.usc.edu/works/guide2/index
 
