@@ -21,7 +21,6 @@ With a ton of templates to implement, this platform is perfect for group brainst
 
 ### [Here](https://here.fm/)
 ![here](https://files.slack.com/files-pri/T0HTW3H0V-F01DBB3NVJ5/screen_shot_2020-10-09_at_10.12.09_am.png?pub_secret=f63f3d13bc)
-**Pros:** 
 This platform includes such a wide array of collaboration tools, and  even supports multiple people sharing screens at once. This creates some really cool opportunities for collaborative presentaions, performances, or active learning instances. Proximity affects audio, so the “further” away you are, the quieter it gets. One useful innovation Here has implemented is the ability to draw without clicking (using “shift” to start drawing with mouse/trackpad) much easier to draw than other spaces. Something to explore more would be allowing more contraints of participant access to control, which would prevent chaos or tampering of performer/audience interaction.
 
 
