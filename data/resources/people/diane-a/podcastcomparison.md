@@ -14,6 +14,8 @@ Please see below for a grid that describes some of the attributes of four popula
 **Capabilities**|Records audio from multiple sources, post-processing of  audio, effects, editing|Soundtrap is split into three programs: Soundtrap for Music Makers, Soundtrap for Storytellers (designed for podcasts), and Soundtrap for Education|Audio recording, Virtual software instruments, MIDI editing, audio loops|Software instruments, audio effects, full mixing board
 **Video Demos**|[How to use Audacity 2020](https://www.youtube.com/watch?v=QNQlCyYEbQE)   |[Get started with Soundtrap](https://www.youtube.com/watch?v=QNQlCyYEbQE)|[GarageBand Tutorial for Beginners 2020](https://www.youtube.com/watch?v=EilTu7iyiXA)|[Logic Pro X Tutorial - Getting started for beginners](https://www.youtube.com/watch?v=tygjRgpG4N8)
 
+And here are some additional demos for you to explore. Good luck!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xl-WDjWrTtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cx7iiOZN_Ck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
