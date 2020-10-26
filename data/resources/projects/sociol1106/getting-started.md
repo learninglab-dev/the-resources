@@ -14,7 +14,7 @@ Here are links to the resources we've complied to help you create infographics:
 </ul>
 
 ### 2. Graphic Design
-  - [Color]('projects/graphic-design/key-color-terms.md')
+  - [Color](../graphic-design/key-color-terms.md)
 
 
 ### 3. Sample Infographics
