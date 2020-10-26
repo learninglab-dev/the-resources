@@ -1,6 +1,6 @@
 # SOCIOL1106: Infographics Resources
 
-Here are links to the resources we've complied to help you create you infographics:
+Here are links to the resources we've complied to help you create infographics:
 
 ### 1. Google Slides
 <ul>
@@ -14,7 +14,7 @@ Here are links to the resources we've complied to help you create you infographi
 </ul>
 
 ### 2. Graphic Design
-  - [Color]('../graphic-design/key-color-terms.md')
+  - [Color]('projects/graphic-design/key-color-terms.md')
 
 
 ### 3. Sample Infographics
