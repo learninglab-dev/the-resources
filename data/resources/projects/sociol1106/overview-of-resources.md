@@ -1,6 +1,6 @@
 # SOCIOL1106: Infographics Resources
 
-![overhead shot](./20190416_006_SOC1106_InfographicWorkshop_Hyper1_001_00004116.png)
+![overhead shot](https://files.slack.com/files-pri/T0HTW3H0V-F01D53NK9HU/20190416_006_soc1106_infographicworkshop_hyper1_001_00004116.png?pub_secret=537778780e)
 
 The Learning Lab has complied some resources here to help you create your infographics, but if you don't find exactly what you're looking for, or want a walkthrough of something specific, or run into challenges, don't hesitate to submit a question at [**help.learninglab.xyz**](http://help.learninglab.xyz)!
 
