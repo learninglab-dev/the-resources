@@ -11,7 +11,21 @@ The Learning Lab has complied some resources here to help you create your infogr
   </li>
   <br/>
   <li style="list-style-type:none">
-    While we imagine you all are Slides experts by now, we've curated some templates and tips here: <a href="./google-slides-tips.md" style="font-weight:bold">Slides Tips</a>
+    While we imagine you all are Slides experts by now, here are a few things to get you started:
+    <ul>
+      <br/>
+      <li>
+        <a href="https://docs.google.com/presentation/d/1ajcswbWyzFaeX05lM7EPftbN260MMdDrtm3tF2k0Trg/edit#slide=id.g566fecf33e_0_57" style="font-weight:bold">Infographics Templates in Slides</a>
+      </li>
+      <br/>
+      <li>
+        <a href="https://support.google.com/a/users/answer/9300133" style="font-weight:bold">Official "Cheat" Sheet</a>
+      </li>
+      <br/>
+      <li>
+        <a href="https://drive.google.com/file/d/1NP-VfG0bxz3gEuNArLM_vJVRsQtYwAEd/view" style="font-weight:bold">Formatting a Poster in Slides</a>
+      </li>
+    </ul>
   </li>
 </ul>
 
