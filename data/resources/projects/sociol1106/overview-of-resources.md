@@ -4,7 +4,7 @@
 
 The Learning Lab has complied some resources here to help you create your infographics, but if you don't find exactly what you're looking for, or want a walkthrough of something specific, or run into challenges, don't hesitate to submit a question at [**help.learninglab.xyz**](http://help.learninglab.xyz)!
 
-### 1. Google Slides
+## 1. Google Slides
 <ul>
   <li style="list-style-type:none">
     We'll use Google Slides to create infographics both because they're <span style="font-weight:bold">efficient</span> to work with but perhaps, more importantly this term, because they're <span style="font-weight:bold">collaborative</span>. Of course, if members of your group are familiar with other graphic design tools, e.g. Illustrator, and you want to make elements of you infographic there and paste in Google Slides, that works too!
@@ -15,7 +15,7 @@ The Learning Lab has complied some resources here to help you create your infogr
   </li>
 </ul>
 
-### 2. Graphic Design
+## 2. Graphic Design
 <ul>
   <li style="list-style-type:none">
     <img src="https://paper-leaf.com/app/uploads/2011/02/EoD_Grey_1280.jpg" alt="paper-leaf elements poster" width="640px"/>
@@ -43,15 +43,15 @@ The Learning Lab has complied some resources here to help you create your infogr
   </li>
 </ul>
 
-### 3. Helpful Links
+## 3. Helpful Links
   - [Why Infographics?](https://neomam.com/interactive/13reasons/): An infographic about the effectiveness of infographics  
-
+  </br>
   - [Types of Infographics](https://venngage.com/blog/9-types-of-infographic-template/): An overview of somep common infographic formats with templates
-
+  </br>
   - [Pinterest of Design Principles](https://www.pinterest.com/pin/465700417688840345/)
-
+  </br>
   - [datasketches](http://www.datasketch.es/): Some beautiful data-driven graphics and notes on the process behind them for inspiration
-
+  </br>
   - [The Noun Project](https://thenounproject.com/): Database of free icons
-
+  </br>
   - Explore color palettes: [Coolors](https://coolors.co/) and [Colormind](http://colormind.io/)
