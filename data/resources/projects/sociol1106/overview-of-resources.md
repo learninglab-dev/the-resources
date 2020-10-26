@@ -18,22 +18,40 @@ The Learning Lab has complied some resources here to help you create your infogr
 ### 2. Graphic Design
 <ul>
   <li style="list-style-type:none">
+    <img src="https://paper-leaf.com/app/uploads/2011/02/EoD_Grey_1280.jpg" alt="paper-leaf elements poster" width="640px"/>
+  </li>
+  </br>
+  <li style="list-style-type:none">
+    <img src="https://paper-leaf.com/app/uploads/2012/10/Principles-of-Design-Grey-1280px.jpg" alt="paper-leaf principles poster" width="640px"/>
+  </li>
+  </br>
+  <li style="list-style-type:none">
     The best infographics leverage principles and elements of graphic design to tell their stories. These principles show up both at the macro level-- What does the grid layout of your poster say about the relatioships between your figures?-- and also on the micro level-- How do the colors you've chosen for that one chart represent the contrast between categories?
   </li>
   </br>
   <li style="list-style-type:none">
-    Canva has a nice <a href="https://www.canva.com/learn/design-elements-principles/">overview of design elements</a> for reference.
+    Canva has a nice <a href="https://www.canva.com/learn/design-elements-principles/">overview of design elements and principles</a> for reference.
   </li>
   </br>
   <li style="list-style-type:none">
     We've also created some resources if you want to dig deeper into specific elements:
     <ul>
       <li>
-        <a href="../graphic-design/key-color-terms.md">Color</a>
+        <a href="../graphic-design/key-color-terms">Color</a>
       </li>
     </ul>
   </li>
 </ul>
 
-### 3. Sample Infographics
-  - [Types of Infographics](https://venngage.com/blog/9-types-of-infographic-template/): An overview of some common infographic formats with templates
+### 3. Helpful Links
+  - [Why Infographics?](https://neomam.com/interactive/13reasons/): An infographic about the effectiveness of infographics  
+
+  - [Types of Infographics](https://venngage.com/blog/9-types-of-infographic-template/): An overview of somep common infographic formats with templates
+
+  - [Pinterest of Design Principles](https://www.pinterest.com/pin/465700417688840345/)
+
+  - [datasketches](http://www.datasketch.es/): Some beautiful data-driven graphics and notes on the process behind them for inspiration
+
+  - [The Noun Project](https://thenounproject.com/): Database of free icons
+
+  - Explore color palettes: [Coolors](https://coolors.co/) and [Colormind](http://colormind.io/)
