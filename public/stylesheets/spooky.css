@@ -2,14 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 
 body {
-  padding: 20px;
+  padding: 2px;
   font-family: 'Grenze Gotisch', cursive;
+  font-size: 16px; 
+  font-weight: lighter;
   color: white;
   margin: auto;
   max-width: 640px;
   background-color: black;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+  font-weight: 500;
 }
 
 h1 {
@@ -17,6 +25,9 @@ h1 {
   color: orange;
   font-size: 48px;
   font-weight: bolder;
+  border: 1rem solid blue;
+  box-shadow: 5px 5px 3px white;
+
 }
 
 h2 {
@@ -32,14 +43,19 @@ h3 {
   font-weight: bold;
 }
 
-a:link {
-color: green;
+
+img {
+  width: 40vw;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-a:visited {
-color: pink;
-}
-
-a:hover {
-color: green;
+ul {
+   list-style-type: circle;
+  }
+  
+a:hover, a:active, a:focus {
+  color: orange;
 }
