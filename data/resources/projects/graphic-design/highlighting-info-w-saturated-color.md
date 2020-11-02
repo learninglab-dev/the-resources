@@ -105,9 +105,11 @@ Would additional colors support or detract from your comprehension?
 
 
 1. **Which diagram do you prefer?** 
+
 Answers may vary.
 
 2. **Is one diagram easier to follow?**
+
 Most students should select the colorful diagram.
 
 3. **Is the red merely decorative, or does it support your comprehension? If so, how?** 
