@@ -1,7 +1,7 @@
 # Visual Presentation Moves
 
 
-## What is are visual presentation moves?
+## What are visual presentation moves?
 
 Broadly speaking, moves are **actionable strategies, steps, or maneuvers that people take to accomplish their goals**. Presenters use both oral and also visual moves to communicate effectively. 
 
