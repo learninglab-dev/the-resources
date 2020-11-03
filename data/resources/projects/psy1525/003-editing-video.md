@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=3zH5LNt8dH8
 ---
 
 ## DaVinci Resolve
-DaVinci Resolve is a great, free video editing tool that you can download on any device. Here’s a quick rundown of some basics:
+DaVinci Resolve is a great, free video editing tool that you can [download on any device](https://www.blackmagicdesign.com/products/davinciresolve/). Here’s a quick rundown of some basics:
 
 ### To import your recording:
 1. Navigate your mouse to the timeline and right click.
