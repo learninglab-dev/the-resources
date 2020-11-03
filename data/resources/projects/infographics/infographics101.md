@@ -24,30 +24,29 @@ So, what is your goal when designing a piece of visual communication? Well, just
 
 One last point before getting into the technical stuff: An infographic requires that you synthesize all of the complex information and data you have gathered into one single, digestible page. This actually requires a much deeper understanding of the material than if you were given 10 pages of text to communicate your argument. You have to choose wisely, and communicate effectively using the tools and moves listed below. You must strike a balance between presenting too much information that fails to ignite further curiosity, and too little information that leaves the audience questioning what the information is communicating.
 
-**achieve balance.** Your entire composition as a whole must be balanced. and then, each part that makes up that larger whole must be balanced. 
+**achieve balance.** Your entire composition as a whole must be balanced. and then, each part that makes up that larger whole must be balanced.
 
 **provide direction.** Where does the audience look first? and from there, where do they go next? Engaging the audience and structuring their visual experience until the message as a whole is successfully perceived.
 
 **show relationships.** To create associations between pieces of information, you can deploy hierarchy, alignment, contrast, proximity
 
 
-### tools.
+### [tools.](tools/tools)
 there are [a ton](creativebloq.com/infographic/tools-2131971) of infographic makers out on the web, but here's a list of the ones we love to use the most.
 
-**canva.** 
+**[canva.](tools/canva)**
 
-**google slides.** 
+**[google slides.](tools/google-slides)**
 
-**adobe spark.**
+**[adobe spark.](tools/adobe-spark)**
 
-**adobe photoshop.** 
+**[adobe photoshop.](tools/adobe-photoshop)**
 
-**adobe illustrator.** 
+**[adobe illustrator.](tools/adobe-illustrator)**
 
-**adobe indesign.** 
+**[adobe indesign.](tools/adobe-indesign)**
 
-**[the noun project.](https://thenounproject.com/)** This site gives you millions of public domain icons to use for your infographics! 
-
+**[the noun project.](tools/the-noun-project)** This site gives you millions of public domain icons to use for your infographics!
 
 
 
@@ -55,11 +54,11 @@ there are [a ton](creativebloq.com/infographic/tools-2131971) of infographic mak
 ### moves.
 sometimes called the visual elements and principles of design, these moves are at your fingertips when creating a piece of visual communication. Used skillfully, they support your argument. But if used without careful thought, they could sabotage your intended message.
 
-**line.** straight, curved, thick, thin, solid, dotted, dashed, intersecting,
+[**line.**](moves/line) straight, curved, thick, thin, solid, dotted, dashed, intersecting,
 
-**color.** primary, secondary, tertiary, warm, cool, monochromatic, analogous, complimentary, triadic. hue. saturation. tone. associations.
+[**color.**](moves/color) primary, secondary, tertiary, warm, cool, monochromatic, analogous, complimentary, triadic. hue. saturation. tone. associations.
 
-**shape.** 2D. geometric, organic, line-based, color-based, space-based. 
+**shape.** 2D. geometric, organic, line-based, color-based, space-based.
 
 **typography.** serif, sans serif, slab serif, rounded, script, blackletter, decorative, abstract
 
@@ -76,8 +75,8 @@ sometimes called the visual elements and principles of design, these moves are a
 
 **repetition.** provides emphasis and an implicit rhythm to the visual elements presented.
 
-**hierarchy.** provides structure and guides audience through the information presented in order of importance. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed  information. Hierarchy gives the eye the direction it needs to process complex visual information effectively. 
-scale, color, contrast, shape, space, alignment, form. proximity. 
+**hierarchy.** provides structure and guides audience through the information presented in order of importance. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed  information. Hierarchy gives the eye the direction it needs to process complex visual information effectively.
+scale, color, contrast, shape, space, alignment, form. proximity.
 
 **perceptual(cultural/psychological) association/ associative meaning.** provides overall tone and implicit emphasis to argument through color, typography, shape, texture.
 
@@ -91,8 +90,7 @@ the icons
 the flow of information
 the call to action
 
-
-### my infographic checklist:
+### [my infographic checklist:](infographic-checklist)
 **thesis:**
 * the thesis or main communicative goal of the infographic is clear, defensible, non-obvious, and important
 
