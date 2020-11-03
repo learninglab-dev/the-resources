@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=U1Hd60lwOyA
 ---
 
 ## Adobe Premiere
-Adobe Premiere is a versatile editing software that can be used to edit video and audio. Here are a few basics to get started:
+Adobe Premiere is a versatile editing software that can be used to edit video and audio that is available for download for Harvard students [here](https://harvard.service-now.com/ithelp/www.poetry.fas.harvard.edu?id=kb_article&sys_id=9f3244d3dba304d430ed1dca489619e0). Here are a few basics to get started:
 
 ### To import your recording:
 1. Navigate File > Import.
@@ -48,6 +48,8 @@ Adobe Premiere is a versatile editing software that can be used to edit video an
 
 Tutorial:
 https://www.youtube.com/watch?v=hzO3vrFaPRU
+
+For more Premiere tutorials from the Learning Lab, [see this page](http://resources.learninglab.xyz/simple/people/katie-g/premiere-tutorials). 
 
 ---
 
