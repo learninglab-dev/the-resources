@@ -29,13 +29,13 @@ To implement this idea (that fewer pixels would equal a smoother image) I did th
 
 ### 1. Add the VHS Simulation to the Footage
 
-[Fixing Zoom Footage](https://files.slack.com/files-pri/T0HTW3H0V-F01D25UJAJV/fix-zoom-footage.gif)
+![Fixing Zoom Footage](https://files.slack.com/files-pri/T0HTW3H0V-F01D25UJAJV/fix-zoom-footage.gif)
 
 - This just added some scan lines and warping as well as a saturated, low contrast look to the Anime Zoom footage.
 
 ### 2. Find an image of a blank CRT screen.
 
-[Creating The CRT Screen Image](https://files.slack.com/files-pri/T0HTW3H0V-F01CGQLLNTY/add-a-crt-screen.gif)
+![Creating The CRT Screen Image](https://files.slack.com/files-pri/T0HTW3H0V-F01CGQLLNTY/add-a-crt-screen.gif)
 
 - I had to make sure the image I used had a high enough resolution to show the individual pixels
 - I also had to tile the screen image to get a pixel size that I thought looked best (not to big, not to small).
@@ -43,7 +43,7 @@ To implement this idea (that fewer pixels would equal a smoother image) I did th
 
 ### 3. Blend the Zoom Footage with the Screen Image.
 
-[Blend the Zoom Footage With the Screen Image](https://files.slack.com/files-pri/T0HTW3H0V-F01CGQMECJ2/blend-screen-with-footage.gif)
+![Blend the Zoom Footage With the Screen Image](https://files.slack.com/files-pri/T0HTW3H0V-F01CGQMECJ2/blend-screen-with-footage.gif)
 
 - With the screen image comp layer placed above the footage comp layer I was able to blend the two together using the 'Classic Color Burn' blending mode applied to the screen image (I tried a few different ones and this gave me the look I was going for).
 - I also lowered the opacity of the screen image layer to 68%
@@ -57,7 +57,7 @@ To implement this idea (that fewer pixels would equal a smoother image) I did th
 
 ### 5. Creating a Wall of CRT Monitors
 
-[Creating the Monitor Wall](https://files.slack.com/files-pri/T0HTW3H0V-F01CPGQNDJN/duplicate-and-tile.gif)
+![Creating the Monitor Wall](https://files.slack.com/files-pri/T0HTW3H0V-F01CPGQNDJN/duplicate-and-tile.gif)
 
 - To create a wall of monitors I simply duplicated my monitor image plus screen image comp and tiled them accordingly.
 
@@ -70,14 +70,14 @@ To implement this idea (that fewer pixels would equal a smoother image) I did th
 
 ### 7. Add Some Dust!
 
-[Adding Dust](https://files.slack.com/files-pri/T0HTW3H0V-F01CPGPKEG2/add-dust.gif)
+![Adding Dust](https://files.slack.com/files-pri/T0HTW3H0V-F01CPGPKEG2/add-dust.gif)
 
 - I had some 6K dust footage lying around that I was able to stick over everything. I used three different dust layers, each zooming in and fading out at different rates depending on the camera motion.
 - This is the one part of the composition that would have benefited from being in 3D space as it's hard to eye-ball this part. Though with some trial and error you can get passable results.
 
 ### 8. Apply Another Layer of VHS Simulation
 
-[Final Composition](https://files.slack.com/files-pri/T0HTW3H0V-F01CVMGUT2Q/from-precomp-to-final.gif)
+![Final Composition](https://files.slack.com/files-pri/T0HTW3H0V-F01CVMGUT2Q/from-precomp-to-final.gif)
 
 - After all was said and done, I added an adjustment layer with a subtle amount of grit from the VHS simulator. This just helped with over all coherence, helped smooth out the dust effect, and added some more flicker to the lighting adjustment layer.
 
