@@ -28,7 +28,7 @@ There are a few different ways to get your media from your browser window into y
 
 - You can attach media to other clips in the timeline Choose a location on the timeline and hit the Connect button, choose Connect to Primary Storyline under the Edit Menu or press the Q key If you move the primary storyline clip the connected clip will move with it
 
-![]()
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01EQEASCUQ/connectclip.gif?pub_secret=c6e16a7592)
 
 - You can insert a clip anywhere on the timeline by choosing a location with the playhead, selecting a clip in your Browser Window and hitting the Insert button, choosing Insert from the Edit Menu or hitting the W key
 
@@ -40,4 +40,4 @@ There are a few different ways to get your media from your browser window into y
 
 - You can also use the Append button, choose Append to Storyline from the Edit Menu, or hit the E key to add media to the end of the timeline
 
-![]()
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01DKSJJC2K/appendclip.gif?pub_secret=9595da2308)
