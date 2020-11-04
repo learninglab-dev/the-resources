@@ -8,6 +8,17 @@ Some programs like FCPX will just give you set of options: "Master File" or "App
 
 This isn't meant to complicate things, but rather as a way to explain why exporting a file type and codec out of Final Cut Pro X is going to look so drastically different than exporting one out of Adobe Premiere.
 
+Here are some of the tools you might use to transcode footage:
+- [FFmpeg](http://resources.learninglab.xyz/simple/people/casey-c/videoCompression-FFMPEG)
+    - A command line tool that requires very little coding experience
+- Final Cut Pro X / Compressor
+    - Apple's editing and media management programs
+- Adobe Premiere / Media Encoder / After Effects
+    - Adobe's video editing, media management and motion graphics programs
+- Davinci Resolve
+    - Blackmagic's video and motion graphics program
+- There are quite a few others that I won't list here, but if you'd like to try one, reach out and we'd be happy to help!
+
 #### What to pay attention to
 
 The root of a video codec comes down to 3 main choices: **File Type**, **Codec**, and **Audio Format**. This is made even more simple because 95% of the time you can ignore what the Audio format is because it has relatively small impact on your file size.
@@ -44,4 +55,4 @@ Here's a quick guide to a few of the more popular file types and codecs:
         - `H.265`
           - High quality, heavily compressed. Only available on new operating systems.
 
-This list is **massively** simplified list. If you're using an Adobe or Black Magic program, you'll be faced with a dizzying array of options. Just keep in mind the few above and you should be in good shape. 
+This list is **massively** simplified list. If you're using an Adobe or Black Magic program, you'll be faced with a dizzying array of options. Just keep in mind the few above and you should be in good shape.
