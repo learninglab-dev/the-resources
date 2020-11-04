@@ -1,6 +1,8 @@
 # Video Compression: FFMPEG
 
-There are a number of ways you can compress a video file. Adobe, Apple, Black Magic, and pretty much every other media development company out there has a tool that enables you to deal with your footage. In truth, many of them are interfaces wrapped around a core set of coding tools called FFmpeg. This is largely specific to Mac, although it would be very similar for Linux systems, but not really worth it for Windows.
+[There are a number of ways you can compress a video file.](http://resources.learninglab.xyz/simple/people/casey-c/videoCompression-codecs) Adobe, Apple, Black Magic, and pretty much every other media development company out there has a tool that enables you to deal with your footage. In truth, many of them are interfaces wrapped around a core set of coding tools called FFmpeg. This is largely specific to Mac, although it would be very similar for Linux systems, but not really worth it for Windows.
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01DLE633PH/ffmpeg_gif.gif?pub_secret=14cba0557c)
 
 This is a very simple guide on how to install FFmpeg command line tools, and what commands might come in handy. If you're looking to do more complicated things like making custom gifs, processing audio from video, or programmatically processing data from video, [you can find the documentation on those moves here](https://ffmpeg.org/ffmpeg.html)
 
