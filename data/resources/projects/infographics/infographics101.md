@@ -54,34 +54,34 @@ there are [a ton](creativebloq.com/infographic/tools-2131971) of infographic mak
 ### moves.
 sometimes called the visual elements and principles of design, these moves are at your fingertips when creating a piece of visual communication. Used skillfully, they support your argument. But if used without careful thought, they could sabotage your intended message.
 
-[**line.**](moves/line) straight, curved, thick, thin, solid, dotted, dashed, intersecting,
+[**line.**](moves/line/line) straight, curved, thick, thin, solid, dotted, dashed, intersecting,
 
-[**color.**](moves/color) primary, secondary, tertiary, warm, cool, monochromatic, analogous, complimentary, triadic. hue. saturation. tone. associations.
+[**color.**](moves/color/color) primary, secondary, tertiary, warm, cool, monochromatic, analogous, complimentary, triadic. hue. saturation. tone. associations.
 
-**shape.** 2D. geometric, organic, line-based, color-based, space-based.
+[**shape.**](moves/shape/shape) 2D. geometric, organic, line-based, color-based, space-based.
 
-**typography.** serif, sans serif, slab serif, rounded, script, blackletter, decorative, abstract
+[**typography.**](moves/typography/typography) serif, sans serif, slab serif, rounded, script, blackletter, decorative, abstract
 
-**form.** 3D shape (height + width + depth). geometric, organic
+[**form.**](moves/form/form) 3D shape (height + width + depth). geometric, organic
 
-**texture.** pattern-based, organic-based.
+[**texture.**](moves/texture/texture) pattern-based, organic-based.
 
 
-**contrast.** sets pieces of information apart, or draws attention through difference in shape, color, scale, layout, type, etc.
+[**contrast.**](moves/contrast/contrast) sets pieces of information apart, or draws attention through difference in shape, color, scale, layout, type, etc.
 
-**alignment.** creates order and visually connects parts of your infographic. use a grid and its gutters to align relevant pieces of visual info.
+[**alignment.**](moves/alignment/alignment) creates order and visually connects parts of your infographic. use a grid and its gutters to align relevant pieces of visual info.
 
-**proximity.** creates associations between parts of your composition. putting information/graphics in closer proximity suggests a stronger relationship than ones farther apart.
+[**proximity.**](moves/proximity/proximity) creates associations between parts of your composition. putting information/graphics in closer proximity suggests a stronger relationship than ones farther apart.
 
-**repetition.** provides emphasis and an implicit rhythm to the visual elements presented.
+[**repetition.**](moves/repitition/repitition) provides emphasis and an implicit rhythm to the visual elements presented.
 
-**hierarchy.** provides structure and guides audience through the information presented in order of importance. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed  information. Hierarchy gives the eye the direction it needs to process complex visual information effectively.
+[**hierarchy.**](moves/heirarchy/heirarchy) provides structure and guides audience through the information presented in order of importance. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed  information. Hierarchy gives the eye the direction it needs to process complex visual information effectively.
 scale, color, contrast, shape, space, alignment, form. proximity.
 
-**perceptual(cultural/psychological) association/ associative meaning.** provides overall tone and implicit emphasis to argument through color, typography, shape, texture.
+[**assosications**](moves/associations/associations) provides overall tone and implicit emphasis to argument through color, typography, shape, texture.
 
 
-### the anatomy of an infographic:
+### [the anatomy of an infographic:](anatomy-of-an-infographic)
 the grid
 the title
 the text blocks
@@ -113,3 +113,4 @@ the call to action
 * [15 steps to make an infographic](https://www.canva.com/learn/create-infographics/)
 * [how to tell a story with data](https://www.forbes.com/sites/nicolemartin1/2018/11/01/data-visualization-how-to-tell-a-story-with-data/?sh=2eda1bd64368)
 * [journalistic strategies for data visualization](https://hbr.org/2013/04/how-to-tell-a-story-with-data)
+* [adobe cc for science](https://spark.adobe.com/page/1DNTRncz9bpsX/)
