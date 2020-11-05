@@ -34,6 +34,44 @@ It is also important to note that with FFmpeg commands, the `path/to/input.ext` 
 
 The command above should work right off the bat, all you need to do is replace your `path/to/in-and-outputs` and you should end up with a file that plays nicely with Quicktime and is small enough to send over Slack or Google Drive easily.
 
+#### Turning this into a readily accessible tool
+
+It's a little bit cumbersome to constantly be typing out the `path/to/your/file`. This is coding, after all, we should be able to make this quite a bit easier. Below, you'll find just a little bit more code that will make it so you can simply write `makeitsmall` and drag your file over, and it'll work for you!
+
+Start off by opening Terminal and enter:
+
+`cd ~/Development`
+
+This will move you into your Development directory, if you don't have one, you can just write `cd ~`
+
+Next enter:
+`mkdir makeItSmall`
+
+`cd makeItSmall`
+
+`nano makeitsmall`
+This is going to move you into your new *makeItSmall* directory and open a new shell script named *makeitsmall*
+Next up, paste this:
+```
+#!/bin/bash
+
+VIDEOFILE=$1
+NEW_PATH="$(dirname $1)/$(basename $1 | cut -d. -f1)-proxy.mov"
+
+ffmpeg -i $VIDEOFILE -crf 23 -pix_fmt yuv420p -c:v libx264 $NEW_PATH
+```
+Exit using Control + X and save your file. Next we need to make this file executable
+
+`chmod 755 makeitsmall`
+
+And finally, we need to add this to the $PATH, which is essentially the directory of files that the command line looks for when given a new command. Type:
+
+`export PATH=$PATH:./makeitsmall`
+
+Now, I know this was a lot of steps! But it's a small investment on a relatively powerful return!
+
+Whenever you have a large video file now, all you need to do is type `makeitsmall ` and drag your video file into Terminal, what it will spit out is a light, moveable file!
+
 #### Breaking down the options(100% optional, what you need is likely above)
 
 If you're looking to understand the code, it breaks down pretty simply into a number of tags.
