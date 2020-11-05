@@ -2,6 +2,12 @@
 
 a list of ideas to tackle
 
+## INTRODUCTION TO CREATING A VIDEO ESSAY
+
+* Framing the Content
+* Color Pallet
+* Visual Vocabulary
+
 ## COMPARING AND CONTRASTING
 
 * split screens
