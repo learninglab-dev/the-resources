@@ -106,6 +106,7 @@ the call to action
 
 ### Additional Resources
 
+
 * [The LL pinterest on information design](https://www.pinterest.com/learninglabpins/medium-information-design/)
 * [The LL pinterest on graphic design](https://www.pinterest.com/learninglabpins/medium-graphic-design/
 )
@@ -114,3 +115,5 @@ the call to action
 * [how to tell a story with data](https://www.forbes.com/sites/nicolemartin1/2018/11/01/data-visualization-how-to-tell-a-story-with-data/?sh=2eda1bd64368)
 * [journalistic strategies for data visualization](https://hbr.org/2013/04/how-to-tell-a-story-with-data)
 * [adobe cc for science](https://spark.adobe.com/page/1DNTRncz9bpsX/)
+* * [linkedIn Learning course on graphic design](https://www.linkedin.com/learning/introduction-to-graphic-design-3/welcome?u=2194065)
+* [a basic guide to graphic design](https://www.academia.edu/29973626/Beginners_guide_to_Graphic_Design)
