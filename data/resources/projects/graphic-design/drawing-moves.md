@@ -12,12 +12,12 @@ This guide is a compilation of “drawing moves.”  It was written to teach you
 
 ## List of Moves by Element
 ### Color
-* Use **[saturated color](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/highlighting-info-w-saturated-color.md)** to “call out” areas of significance
-* Use **[value contrast](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/attracting-focus-w-value-contrast.md)** to “call out” areas of significance
-* Use **[complementary colors](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/key-color-terms.md)** to differentiate elements of your drawing
-* Use **[color palettes](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/Color-Triads.md)** to differentiate elements of your drawing
-* Use colors to **[group elements](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/Color-Coding.md)** of your drawing
-* Use **[color scales](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/representing-change-with-value-scales.md)** to represent gradual change	
+* Use **[saturated color](http://resources.learninglab.xyz/simple/projects/graphic-design/highlighting-info-w-saturated-color)** to “call out” areas of significance
+* Use **[value contrast](http://resources.learninglab.xyz/simple/projects/graphic-design/attracting-focus-w-value-contrast)** to “call out” areas of significance
+* Use **[complementary colors](http://resources.learninglab.xyz/simple/projects/graphic-design/key-color-terms#complementary-colors)** to differentiate elements of your drawing
+* Use **[color palettes](http://resources.learninglab.xyz/simple/projects/graphic-design/Color-Triads)** to differentiate elements of your drawing
+* Use colors to **[group elements](http://resources.learninglab.xyz/simple/projects/graphic-design/Color-Coding)** of your drawing
+* Use **[color scales](http://resources.learninglab.xyz/simple/projects/graphic-design/representing-change-with-value-scales)** to represent gradual change	
 
 ### Line
 * Use **gestural line** to suggest movement
@@ -92,7 +92,7 @@ This guide is a compilation of “drawing moves.”  It was written to teach you
 
 ## Key Terms and Concepts
 
-### [Color](https://github.com/learninglab-dev/the-resources/blob/master/data/resources/projects/graphic-design/key-color-terms.md)
+### [Color](http://resources.learninglab.xyz/simple/projects/graphic-design/key-color-terms)
 * hue
 * saturation
 * value
