@@ -21,13 +21,13 @@ Call to Action | Ask | Why you?
 
 (And also Opportunity-Plan-Call as used in this guide.)
 
-In **Step 1**, you talk about the status quo. Depending on your audience and your goals, you might frame it negatively as a problem to be solved or more neutrally as the current situation. What needs are there? Are there things that are going well that can be built off of? Where are current efforts, policies, projects etc. falling short.   
+In **Step 1**, you talk about the status quo. Depending on your audience and your goals, you might frame it negatively as a problem to be solved or more neutrally as the current situation. What needs are there? Are there things that are going well that can be built off of? Where are current efforts, policies, projects etc. falling short?   
 
 In **Step 2**, you present your vision and plan of action. Be as concrete as possible. How does your plan address the issues you raised in Step 1? What makes your plan stand out from other iniatives? How do we get started?
 
-Finally, in **Step 3** you call on your stakeholders. It might be as simple as "Join us!"; or you might over first concrete steps that they can take to help.
+Finally, in **Step 3** you call on your stakeholders. It might be as simple as "Join us!"; or you might offer first concrete steps that they can take to help.
 
-While all of this may sound a little business speak, it's not all that different from a proposal you might write for a research paper. You begin with a reseach question and its stakes. What is the current state of the field? This is Step 1. You then present your thesis or hypotheses. This Step 2. Finally, you present the approach you'll take toward answering the question and/or supporting your view. While this isn't an ask for someone else, it's a way of laying out next steps for yourself, so it's an analoge of Step 3.
+While all of this may sound a little business speak, it's not all that different from a proposal you might write for a research paper. You begin with a reseach question and its stakes. What is the current state of the field? This is Step 1. You then present your thesis or hypotheses. This is Step 2. Finally, you present the approach you'll take toward answering the question and/or supporting your view. While this isn't an ask for someone else, it's a way of laying out next steps for yourself, so it's an analoge of Step 3.
 
 
 ## 3. The Call
