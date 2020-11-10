@@ -18,8 +18,9 @@ A classic approach to structuring a pitch is to divide your presentation into th
  Version 1| What is | What could be | Call to action
  Version 2 | Problem | Solution | Ask
  Version 3 | Why this? | Why now? | Why you?
+ Version 4 | Opportunity | Plan | Call
 
-(And also Opportunity-Plan-Call as used in this guide.)
+(This guide features version 4: Opportunity, Plan, Call.)
 
 In **Step 1**, you talk about the status quo. Depending on your audience and your goals, you might frame it negatively as a problem to be solved or more neutrally as the current situation. What needs are there? Are there things that are going well that can be built off of? Where are current efforts, policies, projects etc. falling short? 
 
