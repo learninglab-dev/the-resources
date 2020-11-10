@@ -1,4 +1,4 @@
-# CAPTURE TIPS AND PROTOCOLS #
+# Capture Tips and Protocols #
 
 If you are going to get the participants in your media project to capture themselves, you'll need to provide them with some guidance on how they should be capturing themselves. It's hard enough producing stylistic continuity when you are capturing all the footage yourself, let alone when you are distributing the task to participants with varying levels of experience. So below you will find some ideas on 
 1. how you can "level up" your participants' **video and audio acquisition skills** and
