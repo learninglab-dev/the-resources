@@ -46,7 +46,10 @@ Since your pitch will take the form of a video, we've also put together some res
     * can call attention to the fact that you’re moving onto the next section
 
 ### Techniques for compiling similar information
-Instead of going through answers to questions in order, you could compile all the similar parts together under each question through editing.
+1. Instead of going through answers to questions in order, you could compile all the similar responses together under each question through editing. You could splice interviews up and edit the relevant information under a different title card.
+2. Using split screen or screens within a screen to feature all the similar information at the same time.
+3. Using minimal transitions or filming segments in longer takes to keep similar information in the same clip.
+4. Segmenting your project into sections with similar information (see above for how you can use Title Cards to help with this).
 
 ### Techniques for juxtaposing different arguments
 1. Have a succession of completely different viewpoints to demonstrate the intricacies of the conversation, then tie it up at the end.
