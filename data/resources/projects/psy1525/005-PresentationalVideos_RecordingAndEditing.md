@@ -1,18 +1,18 @@
 # Presentational Videos - Capturing & Editing
 
-There are many wonderful options out there for tools to use when creating a presentational video as a creative assignment, capstone project, or when delivering research findings. These tools vary widely in terms of functionality, complexity, cost, and cross-platform availability (i.e., whether it exists on PC and/or Mac), so knowing what you hope to achieve in your video can help you decide what tools to employ.
+There are many powerful tools you can use for creating a presentational video as a creative assignment, capstone project, or when delivering research findings. These tools vary widely in terms of functionality, complexity, cost, and cross-platform availability (i.e., whether it exists on PC and/or Mac), so knowing what you hope to achieve in your video can help you decide what tools to employ.
 
-Before deciding on your production and editing tools, though, you'll want to do a bit of brainstorming to decide how you want the video to look and feel (i.e., what the video's structural elements will consist of). Once you have a good understanding of the end-result that you're hoping to produce, you can then target the recording and editing programs to match your desired outcome.
+Before deciding on your production and editing tools, though, you'll actually want to do a bit of brainstorming to decide how you want the video to look and feel (i.e., what the video's structural elements will consist of). Once you have a good understanding of the end-result that you're hoping to produce, you can then target the recording and editing programs to match your desired outcome.
 
 Here are some initial questions you may want to consider when thinking about the potential components of your video:
 
 * Do you want yourself to be visible on screen? Or do you just want your voice to be heard?
 * What additional visual media elements are you intending to show during this video? Still images? Video? Powerpoint or Keynote presentation slides?
-* Do you want to include any external audio or music?
+* Do you want to incorporate any external audio or music, either as a critical component of the presentation, or as a supplemental emotional driver to the video?
 * How much video editing are you willing to perform?
 * Do you want your video to have a live dynamic to it, or do you want it to feel more polished and heavily produced?
 
-Now that you've made some decisions about these questions, let's take a look at some of the options for recording your presentation, along with some key features and pros and cons for each.
+Now that you've made some decisions from these questions, let's take a look at some of the options for recording your presentation, along with some key features and pros and cons.
 
 #### Zoom
 Recording yourself in Zoom is fairly easy to do. As well, if you are sharing your screen during your presentation, and want to capture a discreet, full-screen recording of whatever you are sharing, Zoom provides that functionality as well. Here is a link to a resource that shows you how you set up your Zoom recording preferences to optimize your settings for your specific needs.
@@ -27,7 +27,7 @@ Pros - Panopto is already baked into all Canvas course pages, so this can be a o
 Cons - Performing minor edits (trimming, ) is easy to do, but more complex editing will likely require a more sophisticated editing program like Premiere Pro, Final Cut Pro X, or DaVinci Resolve.
 
 #### iPhone/Smartphone
-Even if you know no of no other way of recording video for your presentation, chances are that you're familiar with recording video on your smartphone!
+Even if you don't know how to capture yourself in any other manner, chances are that you're familiar with recording video on your smartphone!
 
 Pros - Quality! Your iPhone or smartphone will most likely record at a higher bit rate and resolution than your laptop camera or desktop camera
 Cons - Recording on your smartphone will likely require a bit of editing, at least in trimming off the parts in the very beginning and end where you hit the record button.
@@ -38,5 +38,5 @@ Cons - Recording on your smartphone will likely require a bit of editing, at lea
   - Camtasia
 
 #### Powerpoint & Keynote
-If you are using Powerpoint or Keynote Powerpoint and Keynote allow you to record a narration to your 
+If you are using Powerpoint or Keynote Powerpoint and Keynote allow you to record a narration to your
 #### iMovie
