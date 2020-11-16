@@ -14,9 +14,19 @@ In addition, web authoring comprises a variety of things you might make, each of
 
 This breakdown suggests that a key decision point in web authoring is the level of interactivity. Are you using the web to combine text and other media? Or do you need to build your site in a tool that will allow your user to interact?
 
-And why from an academic communication standpoint might you take advantage of these features of the web? 
+And why from an academic communication standpoint might you take advantage of these features of the web?
+
+- Visuals:
+- Graphic Organizers:
+- Interactivity:
 
 ## Tools
+
+Here are some tools you might consider as you build your web authoring project. They are grouped into:
+- **Site Builders**-- tools you can use to create text-based web pages with no coding experience required
+- **Roll Your Own**-- a couple of places to look if you're new to coding and want to get a sense of where you might start
+- **Specialty**-- a collection of low-code or no-code tools specificially for maps, timelines, choose-your-own-adventure stories, etc.
+
 
 ### (No-Code) Site Builders
 
@@ -27,6 +37,8 @@ And why from an academic communication standpoint might you take advantage of th
 - [Google Sites](https://sites.google.com/new)
 
 ### Roll Your Own
+
+(Note: we _don't_ recommend learning to code soley for the purposes of this project, even if we definitely recommend learning for yourself in the longer term. You can build an awesome site using one of the builders.)
 
 - [Scratch](https://scratch.mit.edu/)
 - [HTML + CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
