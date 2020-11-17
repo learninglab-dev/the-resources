@@ -1,4 +1,7 @@
+
  ### Recording Presentations with Keynote
+
+
  Recording a slideshow with audio presentation in Keynote is fairly simple and does not require any additional software. Here are the steps.
 
  - After completing your slide show, select the show or hide document and audio options button in the upper right-hand corner of the window

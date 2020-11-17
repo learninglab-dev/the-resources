@@ -1,0 +1,3 @@
+link to [google sheets](/Users/mk/Development/the-resources/data/resources/mk/projects/scalar-work) that are templates of the [Scalar .csv templates](https://scalar.usc.edu/works/guide2/bulk-importing-spreadsheets-using-the-transfer-tool) for page and image creation.
+
+note from CC: "If you’re editing a page and go to metadata > add additional, it will give you all the valid ontologies . . . So those are your CSV headers"

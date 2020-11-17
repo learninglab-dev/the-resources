@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+body {
+  padding: 20px;
+  font-family: 'Grenze Gotisch', cursive;
+  color: white;
+  margin: auto;
+  max-width: 640px;
+  background-color: black;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: 'Creepster', cursive;
+  color: orange;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Creepster', cursive;
+  color: orange;
+  font-size: 36px;
+  font-weight: bold;
+  
+h3 {
+  font-family: 'Creepster', cursive;
+  color: orange;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+a:link {
+color: green;
+}
+
+a:visited {
+color: pink;
+}
+
+a:hover {
+color: green;
+}

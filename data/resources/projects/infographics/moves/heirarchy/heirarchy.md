@@ -1,0 +1,3 @@
+# heirarchy
+
+When you have many parts of your inforgaphic, you want to visually cue the audience to what is most important. One key move that accomplishes this is heirarchy. Heriearchy provides structure and guides the audience through the information presented in **order of importance**. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed information. Hierarchy gives the eye the direction it needs to process complex visual information effectively by placing emphasis through scale, color, contrast, shape, space, alignment, form, or proximity.
