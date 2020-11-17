@@ -78,7 +78,7 @@ If you're looking to understand the code, it breaks down pretty simply into a nu
 
  - `ffmpeg -i`
     - This is just the call, it declares that `ffmpeg` is the set of tools you'll be using
- - `Input`
+ - `path/to/input.ext`
     - This is basically covered above.
  - `-crf 23`
     - This is declaring how much or little you'd like to compress your file. 0 is uncompressed and 51 is as compressed as you can get, so 23 is a good middle ground.
@@ -86,5 +86,5 @@ If you're looking to understand the code, it breaks down pretty simply into a nu
     - This handles the color spaces that play nicely with Quicktime and other players. Without it, your video would play fine in VLC, but just look like a green field in Quicktime.
  - `-c:v libx264`
     - This determines that you'll be encoding in H.264, which is simply a reliable, popular codec for hosting videos online.
- - `Output`
+ - `path/to/output.ext`
     - This you largely know, it's just also good to note that above we have our output set to `.mov`, but this can be just changed as well. `.mp4` and `.mkv` also work, although aren't as friendly with macOS as `.mov`.
