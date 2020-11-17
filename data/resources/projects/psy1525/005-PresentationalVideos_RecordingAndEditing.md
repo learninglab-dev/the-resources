@@ -13,9 +13,9 @@ Here are some initial questions you may want to consider when thinking about the
 * Do you want your video to have a live dynamic to it, or do you want it to feel more polished and heavily produced?
 
 Now that you've made some decisions from these questions, let's take a look at some of the options for recording your presentation, along with some key features and pros and cons.
-
+## Record & Capture
 #### Zoom
-For better or worse, Zoom is a platform we are all pretty comfortable with by now, and recording yourself in Zoom is fairly easy to do. As well, if you are sharing your screen during your presentation, and want to capture a discreet, full-screen recording of whatever you are sharing, Zoom provides that functionality as well. Here is a link to a resource that shows you how you set up your Zoom recording preferences to optimize your settings for your specific needs: http://resources.learninglab.xyz/simple/people/katie-g/optimizing-zoom-recordings
+For many of us, Zoom is a platform we are all pretty comfortable with by now, and recording yourself in Zoom is fairly easy to do. As well, if you are sharing your screen during your presentation, and want to capture a discreet, full-screen recording of whatever you are sharing, Zoom provides that functionality as well. Here is a link to a resource that shows you how you set up your Zoom recording preferences to optimize your settings for your specific needs: http://resources.learninglab.xyz/simple/people/katie-g/optimizing-zoom-recordings
 
 * Pros - Built-in functionality for recording discreet streams of video (e.g., Active Speaker view, Gallery view, Shared screen view, etc.)
 * Cons - The video resolution is not very good! As well, the audio quality can vary as well depending on connectivity and bandwidth issues.
@@ -39,3 +39,6 @@ Even if you don't know how to capture yourself in any other manner, chances are 
 
 #### Powerpoint & Keynote
 If you are using Powerpoint or Keynote to create slides for your presentational video, you can also use these programs to record a narration to your slides as you scroll through them, and then export a video of the combination of your visuals and audio narration
+
+#### Adobe Spark
+Adobe
