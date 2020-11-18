@@ -2,11 +2,15 @@
 
 This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) Audio Workshop for GENED1001 Stories From the End of the World.
 
+For those who were not able to attend the workshop, here is the video of the Zoom meeting:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7Vd8Dijxfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## why audio authoring?
 
 Typically, when encountering audio authoring, we think "podcast" or an audio essay of sorts. But across the wide array of projects you might tackle in the audio zone, the strengths of this modality in communicating academic ideas are numerous.  
 
-Creating an academic audio essay calls upon many of the skills, tasks, and creative engagement involved in writing a final research paper: it requires choosing a topic, conducting research, defining a point of view, considering relevant theoretical frameworks and providing supporting evidence for the argument. 
+Creating an academic audio essay calls upon many of the skills, tasks, and creative engagement involved in writing a final research paper: it requires choosing a topic, conducting research, defining a point of view, considering relevant theoretical frameworks and providing supporting evidence for the argument.
 
 Audio authoring a podcast or radio play also challenges you to develop new media skills and carefully consider how to use voice and narrative style to reach a particular audience. You will manipulate auditory elements (e.g. voice, sound effects and/or music) into a cohesive message, with intentional tone, style, and pacing. And crucially, making podcasts can help you integrate first-person perspectives and personal experiences with the questions/data/issues that are important for engagement with your discipline/subject matter, a move that you must contend with as you move between your academic and non-academic lives.
 
@@ -77,5 +81,3 @@ As you begin to create your own podcasts, here are a couple of resources to chec
 
 ## QUESTIONS
 If you have any questions after the workshop, or at any time during the production of your podcast, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
-
-
