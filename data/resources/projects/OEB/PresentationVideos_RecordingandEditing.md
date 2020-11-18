@@ -17,8 +17,11 @@ Here are some initial questions you may want to consider when thinking about the
 Now that you've made some decisions from these questions, let's take a look at some of the options for recording your presentation, along with some key features and pros and cons.
 ## RECORDING
 
+
+### Zoom
+
 ![](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/lhyw8mvildqqbxlk359g)
-#### Zoom
+
 For many of us, Zoom is a platform we are all pretty comfortable with by now, and recording yourself in Zoom is fairly easy to do. As well, if you are sharing your screen during your presentation, and want to capture a discreet, full-screen recording of whatever you are sharing, Zoom provides that functionality as well. [Here](http://resources.learninglab.xyz/simple/people/katie-g/optimizing-zoom-recordings) is a resource that shows you how you set up your Zoom recording preferences to optimize your settings for your specific needs.
 
 * Pros
@@ -26,9 +29,11 @@ For many of us, Zoom is a platform we are all pretty comfortable with by now, an
 * Cons
   * The video resolution is not very good! As well, the audio quality can vary depending on internet connectivity and bandwidth issues.
 
+
+### Panopto
+
 ![](https://logo.clearbit.com/panopto.com)
 
-#### Panopto
 If you are producing a presentational video that incorporates Keynote or Powerpoint, and you're in a class that uses Canvas as its course site, then Panopto could be a wonderful option for you.
 
 * Pros
@@ -39,9 +44,12 @@ If you are producing a presentational video that incorporates Keynote or Powerpo
   * [How to record with Panopto](https://youtu.be/I0agGvC4EaQ)
   * [Recording a Powerpoint with Panopto](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0040f469-4a08-4e52-aca6-ab83013cee3f)
 
+
+
+### iPhone/Smartphone
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqPtqpHzaVOm2zdES-srAI3VimYnw7NHw9Q&usqp=CAU)
 
-#### iPhone/Smartphone
 Even if you don't know how to capture yourself in any other manner, chances are that you're familiar with recording video on your smartphone!
 
 * Pros
@@ -51,7 +59,7 @@ Even if you don't know how to capture yourself in any other manner, chances are 
 * Additional resources:
   * [Practical resources for optimizing smartphone video capture](https://spark.adobe.com/page/LmQH0BMLfWghT/)
 
-#### Screen capture software
+### Screen capture software
 Using screen capture software is a great and stripped down way to capture yourself with your computer's camera. Here are a couple options:
 
 * QuickTime
@@ -75,37 +83,50 @@ Using screen capture software is a great and stripped down way to capture yourse
     * [Comprehensive guide to installing, setting up, recording and editing in Screenflow](https://www.telestream.net/pdfs/user-guides/ScreenFlow-9-Tutorial.pdf)
 
 
-#### Powerpoint & Keynote
+### Powerpoint & Keynote
+
+![](https://vowe.net/images/ZZ03D3E8FC.png)
+
 If you are using Powerpoint or Keynote to create slides for your presentational video, you can also use these programs to record a narration to your slides as you scroll through them, and then export a video that marries your slides with your audio narration.
 
 * [Recording a narration in Keynote](https://youtu.be/C6e2ZtHnimA)
 * [Recording a narration in Powerpoint](https://youtu.be/uKgfVZ4aCE0)
 
-## Editing
+## EDITING
+
+
+
+### QuickTime
 
 ![](https://appleosophy.com/wp-content/uploads/2020/10/AppIcon-quicktime.png)
 
-#### QuickTime
-Quicktime allows for very simple editing, so if you're video is intended to be fairly simple, QuickTime might be a great option for you.
+Quicktime allows for very simple editing (e.g., trimming off the ends of clips; cutting out a section of the video; etc.), so if you don't need to perform a lot of editing moves in your video, QuickTime might be a great option for you.
   * [Trimming a video in Quicktime](https://youtu.be/C1Gb3Ptudqg)
   * [Basic editing in Quicktime](https://youtu.be/_1wm4khPOQI)
 
+
+
+### Adobe Spark
+
 ![](https://howtolearn.me/wp-content/uploads/2016/12/Adobe-Spark-Logo.png)
 
-#### Adobe Spark
-Adobe Spark
-Spark is a great tool for creating videos from scratch, or with pre-made design templates, and it's great for those who don't have much video editing experience.
+Adobe Spark is a great tool for creating videos from scratch, or with pre-made design templates, and it's great for those who don't have much video editing experience.
   * [How to use Adobe Spark to create a video](https://youtu.be/H6gWqMaHYwY)
 
-![](https://mk0tabupiri3kvt44l4w.kinstacdn.com/wp-content/uploads/2014/11/imovie-icon-256.jpg)
 
-#### iMovie
+### iMovie
+
+![](https://isd194.org/wp-content/uploads/2020/09/iMovie-1.jpg)
+
 iMovie is very quick to learn, and offers many of the functionalities of the more pro-level applications listed below (FCPX; Premiere Pro; DaVinci). iMovie may be the sweet spot for those who want greater customization and control over their edits, but don't have the extra time for learning the pro-level applications.
   * [iMovie basics tutorial](https://youtu.be/U1Hd60lwOyA)
 
+
+
+### Final Cut Pro X (FCPX)
+
 ![](https://i0.wp.com/www.keycodemedia.com/wp-content/uploads/2018/02/fcpx.png?fit=256%2C256&ssl=1)
 
-#### Final Cut Pro X (FCPX)
 Final Cut is one of the three most popular pro-level non-linear editing programs out there today.
   * Pros
     * Probably easier to learn than its two competitors in this space (Premiere; DaVinci)
@@ -114,9 +135,12 @@ Final Cut is one of the three most popular pro-level non-linear editing programs
   * Additional resources
     * [Beginners guide to video editing in FCPX](https://youtu.be/ZxB1NPQ9KoU)
 
+
+### Adobe Premiere Pro
+
+
 ![](https://iconarchive.com/download/i98180/dakirby309/simply-styled/Adobe-Premiere-Pro.ico)
 
-#### Adobe Premiere Pro
 Premiere is incredibly powerful! It can do pretty much anything you would want to do in the world of video editing
   * Pros
     * Cost! It is free to Harvard students, faculty and staff
@@ -126,8 +150,12 @@ Premiere is incredibly powerful! It can do pretty much anything you would want t
   * Additional resources
     * [Basics of editing in Premiere Pro](https://youtu.be/Vb_KMixktfA)
 
+
+### DaVinci Resolve
+
 ![](https://i1.wp.com/www.keycodemedia.com/wp-content/uploads/2018/02/blackmagic-resolve.png?fit=256%2C256&ssl=1)
-#### DaVinci Resolve
+
+
 DaVinci Resolve has evolved impressively over the last few years, and has now become at least an equal competitor to FCPX and Premiere
   * Pros
     * Cost! DaVinci is open source and free to download
