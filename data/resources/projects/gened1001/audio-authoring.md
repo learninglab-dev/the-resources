@@ -31,15 +31,39 @@ A radioplay of War of the Worlds narrated by Orson Welles.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xs0K4ApWl4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-99% Invisible host Roman Mars performing a podcast live on-stage, complete with music beds and recorded interviews.
+99% Invisible host Roman Mars performing a podcast live on-stage, complete with music beds and recorded interviews. This is less in the apolcalptic theme, but a great model for doing an audio project "live."
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pnv5iKB2hl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### some songs now!
 
 
 ---
-R.E.M. music video of "It's the End of the World as We Know It"
+**For songs that explicate through lyrics some "end" include...**
+
+R.E.M.'s  music video of "It's the End of the World as We Know It"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0GFRcFm-aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+Messiaen’s quartet for the end of time
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYpBHc8px_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+The Walking Dead soundtrack clearly leverages lots of Ligeti’s and Messiaen’s moves, hollywood-style.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUieg8C0dE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+and then there's all the songs on [Ranker's list of Best Apocalyptic Songs!](https://www.ranker.com/list/best-apocalyptic-songs/lauriem)
 
+---
+**For songs that EMOBODY the apocalypse, or elements of it: chaos, and feelings that are more subtle, etc..**
+
+Ligeti Lux Aeterna
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iVYu5lyX5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and Ligeti Atmospheres
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-QSuXpzNDs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+These two are sort of in between the transition between worlds, the feeling of unsettledness, of grasping for solid ground…the first here is a choir, the second an orchestra. The first perhaps a little more the beautiful side of being in the in-between, the second more the disturbing side.
 
 
 
