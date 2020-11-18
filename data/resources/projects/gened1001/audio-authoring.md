@@ -18,9 +18,9 @@ Even when composing a piece of music you must make intentional choices, where ev
 
 
 
-* [Garageband](http://resources.learninglab.xyz/simple/projects/gened1042/garageband)
-* [Soundtrap](http://resources.learninglab.xyz/simple/projects/gened1042/soundtrap)
-* [Audacity](http://resources.learninglab.xyz/simple/projects/gened1042/audacity)
+* [Garageband](http://resources.learninglab.xyz/simple/projects/gened1001/garageband)
+* [Soundtrap](http://resources.learninglab.xyz/simple/projects/gened1001/soundtrap)
+* [Audacity](http://resources.learninglab.xyz/simple/projects/gened1001/audacity)
 
 We can also help out with any questions you have about Logic or Ableton if you decide to go with one of those tools instead.
 
