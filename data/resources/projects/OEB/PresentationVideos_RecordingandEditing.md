@@ -161,7 +161,7 @@ DaVinci Resolve has evolved impressively over the last few years, and has now be
     * Cost! DaVinci is open source and free to download
       * [Downloading DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
     * Cons
-      * Some may argue that it is a bit more challenging to learn and pick up, when compared to FCPX or Premiere
+      * Some may argue that it is a bit more challenging pick up and learn when compared to FCPX or Premiere
   * Additional resources
     * [Full tutorial for beginners in DaVinci Resolve](https://youtu.be/52vK5mzl1jQ)
 
