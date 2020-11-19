@@ -28,6 +28,14 @@ The opening to The Americans.
 
 And here are some other [Opening sequences that use stock footage](https://www.videvo.net/blog/7-iconic-opening-credits-sequences-that-use-stock-footage-and-one-end-credits-sequence/) which might be useful!
 
+This is an attempt at creating an intro to a post-apocalyptic video, all recorded with a smartphone and edited in Final Cut Pro X
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HqlfAWQ74sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And here is a view of the completed timeline in FCPX:
+
+![Final Cut Pro X timeline](https://files.slack.com/files-pri/T0HTW3H0V-F01FHS4K3DF/screen_shot_2020-11-19_at_2.42.30_pm.png?pub_secret=20855dfa4e)
+
 ## ADDITIONAL RESOURCES
 
 * archive.org has a bunch of newsreel footage you can use.
