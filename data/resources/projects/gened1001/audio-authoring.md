@@ -59,7 +59,7 @@ The Walking Dead soundtrack clearly leverages lots of Ligeti’s and Messiaen’
 and then there's all the songs on [Ranker's list of Best Apocalyptic Songs!](https://www.ranker.com/list/best-apocalyptic-songs/lauriem)
 
 ---
-**For songs that EMOBODY the apocalypse, or elements of it: chaos, and feelings that are more subtle, etc..**
+**For songs that EMBODY the apocalypse, or elements of it: chaos, and feelings that are more subtle, etc..**
 
 Ligeti Lux Aeterna
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-iVYu5lyX5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
