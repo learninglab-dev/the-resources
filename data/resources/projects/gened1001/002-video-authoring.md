@@ -7,12 +7,12 @@ This page contains links that may be helpful during the [Bok Center Learning Lab
 
 ## TOOLS
 
-* Cameras
+* [Cameras](cameras.md)
 * Youtube-dl
-* iMovie and Final Cut Pro
-* Adobe Premiere and After Effects
-* Davinci Resolve
-* Adobe Spark
+* iMovie and [Final Cut Pro](final-cut-pro.md)
+* [Adobe Premiere](adobe-premiere.md) and [After Effects](after-effects.md)
+* [Davinci Resolve](davinci-resolve.md)
+* [Adobe Spark](https://spark.adobe.com/)
 
 ## MODELS
 
@@ -24,9 +24,11 @@ And here are some other [Opening sequences that use stock footage](https://www.v
 
 ## ADDITIONAL RESOURCES
 
-archive.org has a bunch of newsreel footage you can use.
-[Fair use guidelines]().
-[LinkedIn Learning]()
+* archive.org has a bunch of newsreel footage you can use.
+* [Fair use guidelines]().
+* [LinkedIn Learning]()
+
+* [Quick tips on audio with smartphones](http://resources.learninglab.xyz/simple/projects/community-based-film/002-audio-tips)
 
 ## QUESTIONS
 If you have any questions after the workshop, or at any time during the production of your podcast, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
