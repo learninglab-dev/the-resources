@@ -7,7 +7,7 @@ This page contains links that may be helpful during the [Bok Center Learning Lab
 
 ## TOOLS
 
-* [Cameras](cameras.md)
+* [Cameras](/cameras.md)
 * Youtube-dl
 * iMovie and [Final Cut Pro](final-cut-pro.md)
 * [Adobe Premiere](adobe-premiere.md) and [After Effects](after-effects.md)
