@@ -18,8 +18,9 @@ This page contains links that may be helpful during the [Bok Center Learning Lab
 
 These are the two videos talked about in the workshop linked above, and below you'll find what the timeline for each looked like once it was finished.
 <iframe src="https://player.vimeo.com/video/481384465?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/481384465">GenEd1001 Found Footage Example</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01FUVA4RFS/screen_shot_2020-11-19_at_2.25.43_pm.png?pub_secret=fa37eba678)
+
+![Premiere timeline](https://files.slack.com/files-pri/T0HTW3H0V-F01FUVA4RFS/screen_shot_2020-11-19_at_2.25.43_pm.png?pub_secret=fa37eba678)
+
 
 The opening to The Americans.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20sAhKwWeJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
