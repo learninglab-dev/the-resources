@@ -7,11 +7,11 @@ This page contains links that may be helpful during the [Bok Center Learning Lab
 
 ## TOOLS
 
-* [Cameras](/cameras.md)
+* [Cameras](http://resources.learninglab.xyz/simple/projects/gened1001//cameras)
 * Youtube-dl
-* iMovie and [Final Cut Pro](final-cut-pro.md)
-* [Adobe Premiere](adobe-premiere.md) and [After Effects](after-effects.md)
-* [Davinci Resolve](davinci-resolve.md)
+* iMovie and [Final Cut Pro](http://resources.learninglab.xyz/simple/projects/gened1001//final-cut-pro)
+* [Adobe Premiere](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-premiere) and [After Effects](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-after-effects)
+* [Davinci Resolve](http://resources.learninglab.xyz/simple/projects/gened1001//davinci-resolve)
 * [Adobe Spark](https://spark.adobe.com/)
 
 ## MODELS
