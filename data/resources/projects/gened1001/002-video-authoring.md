@@ -1,6 +1,10 @@
 # video authoring
 This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) Video Workshop for GENED1001 Stories From the End of the World.
 
+For those who weren't able to attend, here is the video from the workshop:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Dat4jMriE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## why video authoring
 
 
