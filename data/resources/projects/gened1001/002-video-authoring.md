@@ -25,8 +25,8 @@ And here are some other [Opening sequences that use stock footage](https://www.v
 ## ADDITIONAL RESOURCES
 
 * archive.org has a bunch of newsreel footage you can use.
-* [Fair use guidelines]().
-* [LinkedIn Learning]()
+* [Fair use guidelines](https://www.copyright.gov/fair-use/more-info.html).
+
 
 * [Quick tips on audio with smartphones](http://resources.learninglab.xyz/simple/projects/community-based-film/002-audio-tips)
 
