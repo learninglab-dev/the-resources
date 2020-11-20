@@ -4,7 +4,7 @@
 
 ## A brief explanation
 
-Broadly speaking, fair use is "a legal doctrine that promotes freedom of expression by permitting the use of copyright-protected works in certain circumstances."
+Fair use is "a legal doctrine that promotes freedom of expression by permitting the use of copyright-protected works in certain circumstances."
 
 What this means in practice is that if you are making a creative project, and are intending to use video, audio, or other visual media that you don't own the copyright to, these four considerations are what you should take into account for assessing the legality of how you are using that material:
 
