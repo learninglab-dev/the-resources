@@ -2,7 +2,7 @@
 
 ![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
 
-##### A brief explanation
+## A brief explanation
 
 Broadly speaking, fair use is "a legal doctrine that promotes freedom of expression by permitting the use of copyright-protected works in certain circumstances."
 
