@@ -18,7 +18,7 @@ And why from an academic communication standpoint might you take advantage of th
 
 - Visuals: As they say, a picture is worth a thousand words. But more seriously, we process visual information more quickly than verbal, so visuals can help orient your reader to your content. Visuals are also good at setting moods and producing emotional responses, which might be especially important to this project.
 
-- Graphic Organizers: 
+- Graphic Organizers:
 
 - Interactivity:  
 
@@ -33,7 +33,7 @@ Here are some tools you might consider as you build your web authoring project. 
 
 ### (No-Code) Site Builders
 
-- [Scalar](https://scalar.fas.harvard.edu/)
+- [Scalar](https://scalar.fas.harvard.edu/) (Requires Harvard login to use)
 - [Wix](https://www.wix.com/)
 - [Squarespace](https://www.squarespace.com/)
 - [Google Sites](https://sites.google.com/new)
@@ -43,15 +43,29 @@ Here are some tools you might consider as you build your web authoring project. 
 
 ### Roll Your Own
 
-(Note: we _don't_ recommend learning to code soley for the purposes of this project, even if we definitely recommend learning for yourself in the longer term. You can build an awesome site using one of the builders.)
+(Note: We _don't_ recommend learning to code solely for the purposes of this project, even if we definitely recommend learning for yourself in the longer term. For now, you can build an awesome site using one of the builders.)
 
 - [Scratch](https://scratch.mit.edu/)
 - [HTML + CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 ### Specialty
 
-- [TimelineJS](https://timeline.knightlab.com/)
-- [StoryMapJS](https://storymap.knightlab.com/)
-- [Google Earth Studio](https://www.google.com/earth/studio/)
-- [Storyboard](https://storyboard.viget.com/)
-- [Twine](https://twinery.org/)
+- [TimelineJS](https://timeline.knightlab.com/): an interactive timeline builder
+- [StoryMapJS](https://storymap.knightlab.com/): combine maps, images, and text to create traveling story
+- [Google Earth](https://www.google.com/earth/): draw and annotate on a 3D globe. There's also the [Studio](https://www.google.com/earth/studio/) version that allows you to create animations.
+- [Storyboard](https://storyboard.viget.com/): interactive, choose-your-own-adventure stories
+- [Twine](https://twinery.org/): interactive stories with many paths
+
+
+## Hosting
+
+One additional consideration as you work on a web authoring project is how you'll host your project, a.k.a. where it will live on the interwebs. Many of these tools allow you to publish your project on their servers, including Google Sites, StoryMapJS, Storyboard and others.
+
+However, if you want to combine tools or use a custom domain, you might need to look into other hosting options.
+
+- Harvard hosts Scalar sites, called "books", which can embed maps, timelines, and other media, for you and also offers a [pilot hosting service](https://share.library.harvard.edu/) where you can build in Wordpress and more through the Library.
+- Another free option is [Github Pages](https://pages.github.com/). This requires a little bit of setup, but you can find a step-by-step guide from a prior course we worked with [here](https://github.com/crystaljjlee/histsci-119/blob/master/README.md). Scroll down to the section titled "Making your website".
+
+## Questions
+
+If you have any questions after the session, or later as you're working on your web project, feel free to reach out to us at [**help.learninglab.xyz**](http://help.learninglab.xyz)! We will put together a customized response to your question or tutorial for you.
