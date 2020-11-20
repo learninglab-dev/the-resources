@@ -12,7 +12,7 @@ For those who weren't able to attend, here is the video from the workshop:
 ## TOOLS
 
 * [Cameras](http://resources.learninglab.xyz/simple/projects/gened1001//cameras)
-* Youtube-dl
+* [Archival and Found Footage](http://resources.learninglab.xyz/simple/people/casey-c/Found-and-archival-footage)
 * iMovie and [Final Cut Pro](http://resources.learninglab.xyz/simple/projects/gened1001//final-cut-pro)
 * [Adobe Premiere](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-premiere) and [After Effects](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-after-effects)
 * [Davinci Resolve](http://resources.learninglab.xyz/simple/projects/gened1001//davinci-resolve)

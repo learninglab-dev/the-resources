@@ -18,4 +18,4 @@ Finally, there's a shortlist of things you might want to watch out for, essentia
   - Overhead lights(only if they buzz/hum)
   - and open windows
 
-Mostly just remember: Find a quiet room and get close to your microphone.
+Mostly just remember: Find a quiet, soft room and get close to your microphone.
