@@ -8,7 +8,7 @@ In addition, web authoring comprises a variety of things you might make, each of
 
 - Some pages on the web are literally **_documents_**. They are meant to be read like any other paper or article or story you might write. However, because these documents are on the web, they might embed images, videos, gifs, or links to other resources.
 <br/>
-<br/>  
+&nbsp;
 - Some sites use a map or timeline or gallery or slide show or other **_graphical representation_** to organize information. There might be an intended reading order, but the viewer might also be free to explore.  
 <br>
 - Still other sites are true **_interactives_**. What the user sees or reads depends somehow on what the user does. Interactives include choose-your-own-adventure stories, games, and animations that respond to mouse or keyboard inputs.  
