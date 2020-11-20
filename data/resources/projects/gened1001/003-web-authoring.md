@@ -6,21 +6,21 @@ Because the web is powerful! Almost anything (digital?) you can imagine can live
 
 In addition, web authoring comprises a variety of things you might make, each of which communicates differently:
 
-- Some pages on the web are literally _documents_. They are meant to be read like any other paper or article or story you might write. However, because these documents are on the web, they might embed images, videos, gifs, or links to other resources.  
+- Some pages on the web are literally **_documents_**. They are meant to be read like any other paper or article or story you might write. However, because these documents are on the web, they might embed images, videos, gifs, or links to other resources.  
 
-- Some sites use a map or timeline or gallery or slide show or other _graphical representation_ to organize information. There might be an intended reading order, but the viewer might also be free to explore.  
+- Some sites use a map or timeline or gallery or slide show or other **_graphical representation_** to organize information. There might be an intended reading order, but the viewer might also be free to explore.  
 
-- Still other sites are true _interactives_. What the user sees or reads depends somehow on what the user does. Interactives include choose-your-own-adventure stories, games, and animations that respond to mouse or keyboard inputs.  
+- Still other sites are true **_interactives_**. What the user sees or reads depends somehow on what the user does. Interactives include choose-your-own-adventure stories, games, and animations that respond to mouse or keyboard inputs.  
 
 This breakdown suggests that a key decision point in web authoring is the level of interactivity. Are you using the web to combine text and other media? Or do you need to build your site in a tool that will allow your user to interact in ways other than scrolling and clicking links?
 
 And why from an academic communication standpoint might you take advantage of these features of the web?
 
-- Visuals: As they say, a picture is worth a thousand words. But more seriously, we process visual information more quickly than verbal, so visuals can help orient your reader to your content. Visuals are also good at setting moods and producing emotional responses, which might be especially important to this project.
+- **Visuals:** As they say, a picture is worth a thousand words. But more seriously, we process visual information more quickly than verbal, so visuals can help orient your reader to your content. Visuals are also good at setting moods and producing emotional responses, which might be especially important to the project of creating an apocalypse.
 
-- Graphic Organizers:
+- **Graphic Organizers:** Traditional prose only allows you to relate content in one way-- content preceeds or follows or content. Graphic organizers can present content in a variety of relations from temporal to spacial to conceptual. If your apocalypse unfolds across multiple places at the same time or is otherwise non-linear, a graphic organizer could be a good choice.
 
-- Interactivity:  
+- **Interactivity:** Interactives offer a deeper level of engagement to your "reader". If it's important to your vision that the reader somehow sees events unfolding as a product of their choice, a choose-your-own-adventure  might be a good way to go. If you want to model chance and uncertainty, games or even incorporating simple game mechanics like a dice roll into a story can produce these effects.
 
 
 ## Tools
@@ -33,28 +33,28 @@ Here are some tools you might consider as you build your web authoring project. 
 
 ### (No-Code) Site Builders
 
-- [Scalar](https://scalar.fas.harvard.edu/) (Requires Harvard login to use)
-- [Wix](https://www.wix.com/)
-- [Squarespace](https://www.squarespace.com/)
-- [Google Sites](https://sites.google.com/new)
-- [Webflow](https://webflow.com/)
-- [WordPress.com](https://wordpress.com/)
-- [WordPress.org](https://wordpress.org/)
+- [**Scalar**](https://scalar.fas.harvard.edu/) (Requires Harvard login to use)
+- [**Wix**](https://www.wix.com/)
+- [**Squarespace**](https://www.squarespace.com/)
+- [**Google Sites**](https://sites.google.com/new)
+- [**Webflow**](https://webflow.com/)
+- [**WordPress.com**](https://wordpress.com/)
+- [**WordPress.org**](https://wordpress.org/)
 
 ### Roll Your Own
 
 (Note: We _don't_ recommend learning to code solely for the purposes of this project, even if we definitely recommend learning for yourself in the longer term. For now, you can build an awesome site using one of the builders.)
 
-- [Scratch](https://scratch.mit.edu/)
-- [HTML + CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [**Scratch**](https://scratch.mit.edu/)
+- [**HTML + CSS**](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 ### Specialty
 
-- [TimelineJS](https://timeline.knightlab.com/): an interactive timeline builder
-- [StoryMapJS](https://storymap.knightlab.com/): combine maps, images, and text to create traveling story
-- [Google Earth](https://www.google.com/earth/): draw and annotate on a 3D globe. There's also the [Studio](https://www.google.com/earth/studio/) version that allows you to create animations.
-- [Storyboard](https://storyboard.viget.com/): interactive, choose-your-own-adventure stories
-- [Twine](https://twinery.org/): interactive stories with many paths
+- [**TimelineJS**](https://timeline.knightlab.com/): an interactive timeline builder
+- [**StoryMapJS**](https://storymap.knightlab.com/): combine maps, images, and text to create traveling story
+- [**Google Earth**](https://www.google.com/earth/): draw and annotate on a 3D globe. There's also the [Studio](https://www.google.com/earth/studio/) version that allows you to create animations.
+- [**Storyboard**](https://storyboard.viget.com/): interactive, choose-your-own-adventure stories
+- [**Twine**](https://twinery.org/): interactive stories with many paths
 
 
 ## Hosting
