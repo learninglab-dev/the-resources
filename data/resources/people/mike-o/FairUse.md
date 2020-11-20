@@ -21,7 +21,7 @@ As well, please check out [this](https://fairuse.stanford.edu/overview/fair-use/
 
 Generally speaking if you are "quoting" a small piece from a film in a video essay you're producing in one of your courses, or using a collection of short video and audio clips for a multimedia presentation you are giving, you should be covered by fair use. (After all, both students and teachers depend on fair use so that they can achieve their educational goals!)
 
-In addition to those use cases, though, please take a look at [this](https://ohiostate.pressbooks.pub/choosingsources/chapter/common-examples-of-fair-use/) article that discusses other common examples of Fair Use, as well as some common myths about fair use.
+In addition to those use cases, though, please take a look at [this](https://ohiostate.pressbooks.pub/choosingsources/chapter/common-examples-of-fair-use/) article that discusses other common examples, as well as some common myths surrounding fair use.
 
 ## Be mindful of the platform on which you share your creative project
 
