@@ -21,11 +21,11 @@ As well, please check out [this](https://fairuse.stanford.edu/overview/fair-use/
 
 Generally speaking if you are "quoting" a small piece from a film in a video essay you're producing in one of your courses, or using a collection of short video and audio clips for a multimedia presentation you are giving, you should be covered by fair use. (After all, both students and teachers depend on fair use so that they can achieve their educational goals!)
 
-In addition to those use cases, please take a look at [this](https://ohiostate.pressbooks.pub/choosingsources/chapter/common-examples-of-fair-use/) article that discusses other common examples of Fair Use, as well as some common myths about fair use.
+In addition to those use cases, though, please take a look at [this](https://ohiostate.pressbooks.pub/choosingsources/chapter/common-examples-of-fair-use/) article that discusses other common examples of Fair Use, as well as some common myths about fair use.
 
 ## Be mindful of the platform on which you share your creative project
 
-However, even if you believe that your project abides by the guidelines for Fair Use, you should still be mindful about how you post and share your creative projects. For example:
+However, even if you believe that your project abides by the guidelines for fair use, you should still be mindful about how you post and share your creative projects. For example:
   * Posting onto your course's Canvas site or Google Drive should be fine (Your teaching staff, though, may have their own opinions about what is an acceptable quantity of copyrighted media used in a given project, so it's always a good idea to check in with them about this.)
   * Posting to YouTube can be a little bit more problematic, because it uses algorithms that scan and search for copyrighted media. So if it were to detect a three minute uninterrupted clip of Beyonce's 'Single Ladies' in your creative project, you may find one day that your video has been taken down because it is deemed a violation of Youtube's policies on this.
   * Other hosting sites like Vimeo have not been as historically aggressive in taking down videos that they deem in violation of copyright, but this is not a guarantee of future behavior on this matter.
