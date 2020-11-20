@@ -14,7 +14,6 @@ In addition, web authoring comprises a variety of things you might make, each of
 &nbsp;
 - Still other sites are true **_interactives_**. What the user sees or reads depends somehow on what the user does. Interactives include choose-your-own-adventure stories, games, and animations that respond to mouse or keyboard inputs.  
 <br/>
-&nbsp;
 
 This breakdown suggests that a key decision point in web authoring is the level of interactivity. Are you using the web to combine text and other media? Or do you need to build your site in a tool that will allow your user to interact in ways other than scrolling and clicking links?
 
