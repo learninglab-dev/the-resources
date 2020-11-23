@@ -17,10 +17,7 @@ Audio authoring a podcast or radio play also challenges you to develop new media
 Even when composing a piece of music you must make intentional choices, where even the seemingly merely aesthetic elements are playing a critically functional role in your academic argument about the apocalypse.
 
 
-## tools
-
-
-
+## TOOLS
 
 * [Garageband](http://resources.learninglab.xyz/simple/projects/gened1001/garageband)
 * [Soundtrap](http://resources.learninglab.xyz/simple/projects/gened1001/soundtrap)
@@ -29,45 +26,43 @@ Even when composing a piece of music you must make intentional choices, where ev
 We can also help out with any questions you have about Logic or Ableton if you decide to go with one of those tools instead.
 
 
-## models
+## MODELS
+
+### Podcasts
 
 A radioplay of War of the Worlds narrated by Orson Welles.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xs0K4ApWl4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xs0K4ApWl4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+99% Invisible host Roman Mars performing a podcast live on-stage, complete with music beds and recorded interviews. This is less in the apocalyptic theme, but a great model for doing an audio project "live."
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pnv5iKB2hl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-99% Invisible host Roman Mars performing a podcast live on-stage, complete with music beds and recorded interviews. This is less in the apolcalptic theme, but a great model for doing an audio project "live."
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pnv5iKB2hl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
-### some songs now!
-
-
----
-**For songs that explicate through lyrics some "end" include...**
+### Songs
+**For songs that explicate through lyrics some "end"...**
 
 R.E.M.'s  music video of "It's the End of the World as We Know It"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0GFRcFm-aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0GFRcFm-aY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-Messiaen’s quartet for the end of time
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYpBHc8px_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-The Walking Dead soundtrack clearly leverages lots of Ligeti’s and Messiaen’s moves, hollywood-style.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IfUieg8C0dE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-and then there's all the songs on [Ranker's list of Best Apocalyptic Songs!](https://www.ranker.com/list/best-apocalyptic-songs/lauriem)
+Messiaen’s _Quartet For The End of Time_
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zYpBHc8px_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+The Walking Dead soundtrack clearly leverages lots of Ligeti’s and Messiaen’s moves, but hollywood-style.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IfUieg8C0dE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and all the songs on [Ranker's list of Best Apocalyptic Songs!](https://www.ranker.com/list/best-apocalyptic-songs/lauriem)
+
 **For songs that EMBODY the apocalypse, or elements of it: chaos, and feelings that are more subtle, etc..**
 
-Ligeti Lux Aeterna
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-iVYu5lyX5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-and Ligeti Atmospheres
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-QSuXpzNDs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 These two are sort of in between the transition between worlds, the feeling of unsettledness, of grasping for solid ground…the first here is a choir, the second an orchestra. The first perhaps a little more the beautiful side of being in the in-between, the second more the disturbing side.
+
+Ligeti Lux Aeterna
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-iVYu5lyX5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ligeti Atmospheres
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-QSuXpzNDs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 
 
