@@ -1,4 +1,4 @@
-# podcasting workshop
+# podcast structure workshop
 
 This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) Podcasting Workshop for EXPOS20 Language, Identity, and Power.
 
