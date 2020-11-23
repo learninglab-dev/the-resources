@@ -2,7 +2,7 @@
 
 This page contains links that may be helpful during the Bok Center Learning Lab's Web Authoring Workshop for GENED1001 Stories From the End of the World.
 
-## why web authoring
+## why web authoring?
 
 Because the web is powerful! Almost anything (digital?) you can imagine can live on the web. Web authoring is an excellent choice of medium if your project combines text and other media, such as images or maps. It's also particularly strong if your content needs to be interactive in some way. But the expansiveness of the web means you as a creator will need to make targeted choices if you choose web authoring.
 
