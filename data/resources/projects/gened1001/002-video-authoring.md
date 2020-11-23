@@ -51,4 +51,4 @@ Here are some other [opening sequences that use stock footage](https://www.videv
 * [Quick tips on audio with smartphones](http://resources.learninglab.xyz/simple/projects/community-based-film/002-audio-tips)
 
 ## QUESTIONS
-If you have any questions after the workshop, or at any time during the production of your podcast, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
+If you have any questions after the workshop, or at any time during the production of your video project, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
