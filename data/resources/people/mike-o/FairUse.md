@@ -1,4 +1,4 @@
-# Fair Use
+# Navigating Fair Use
 
 ![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
 
@@ -25,9 +25,10 @@ In addition to those use cases, though, please take a look at [this](https://ohi
 
 ## Be mindful of the platform on which you share your creative project
 
-However, even if you believe that your project abides by the guidelines for fair use, you should still be mindful about how you post and share your creative projects. For example:
-  * Posting onto your course's Canvas site or Google Drive should be fine (Your teaching staff, though, may have their own opinions about what is an acceptable quantity of copyrighted media used in a given project, so it's always a good idea to check in with them about this.)
-  * Posting to YouTube can be a little bit more problematic, because it uses algorithms that scan and search for copyrighted media. So if it were to detect a three minute uninterrupted clip of Beyonce's 'Single Ladies' in your creative project, you may find one day that your video has been taken down because it is deemed a violation of Youtube's policies on this.
+Even if your project abides by the guidelines for fair use, you should still be mindful about how you post and share your creative projects because some hosting platforms are very sensitive to all copyrighted material, regardless of the legality of how it is used. For example:
+
+  * Posting onto your course's Canvas site or Google Drive should be fine (your teaching staff, though, may have their own opinions about what is an acceptable quantity of copyrighted media used in a given project, so it's always a good idea to check in with them about this.)
+  * Posting to Youtube can be a little bit more problematic, because Youtube uses algorithms that scan and search for copyrighted media. So if it were to detect a three minute uninterrupted clip of Beyonce's 'Single Ladies' in your creative project, you may find one day that your video has been taken down because it is deemed a violation of Youtube's policies on this, or it may not allow you to publish the video at all.
   * Other hosting sites like Vimeo have not been as historically aggressive in taking down videos that they deem in violation of copyright, but this is not a guarantee of future behavior on this matter.
 
 ## Be conscious of fair use guidelines, and use good judgement
