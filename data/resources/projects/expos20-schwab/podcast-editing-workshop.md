@@ -26,6 +26,13 @@ As you begin to create your own podcasts, here are a couple of resources to chec
 ## QUESTIONS
 If you have any questions after the workshop, or at any time during the production of your podcast, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
 
+### OFFICE HOURS
+Catch us in person during the following times:
+* Tuesday, November 24 3-4pm EST at this [Zoom link](https://harvard.zoom.us/j/93695349229?pwd=eGdFOTQydzExSFhuODdURVlwa2ZPdz09)
+* Tuesday, December 1 3-4pm EST at this [Zoom link](https://harvard.zoom.us/j/93695349229?pwd=eGdFOTQydzExSFhuODdURVlwa2ZPdz09)
+* Friday, December 4 10-11am EST and 3:30-4:30pm EST at this [Zoom link](https://harvard.zoom.us/j/93695349229?pwd=eGdFOTQydzExSFhuODdURVlwa2ZPdz09)
+* Friday, December 7 10-11am EST and 3:30-4:30pm EST at this [Zoom link](https://harvard.zoom.us/j/93695349229?pwd=eGdFOTQydzExSFhuODdURVlwa2ZPdz09)
+
 
 ## PEOPLE
 Today's workshop features:
