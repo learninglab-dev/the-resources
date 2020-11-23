@@ -2,7 +2,7 @@
 
 This page contains links that may be helpful during the Bok Center Learning Lab's Web Authoring Workshop for GENED1001 Stories From the End of the World.
 
-## Why web authoring?
+## why web authoring?
 
 Because the web is powerful! Almost anything (digital?) you can imagine can live on the web. Web authoring is an excellent choice of medium if your project combines text and other media, such as images or maps. It's also particularly strong if your content needs to be interactive in some way. But the expansiveness of the web means you as a creator will need to make targeted choices if you choose web authoring.
 
@@ -30,7 +30,7 @@ And why from an academic communication standpoint might you take advantage of th
 - **Interactivity:** Interactives offer a deeper level of engagement to your "reader". If it's important to your vision that the reader somehow sees events unfolding as a product of their choice, a choose-your-own-adventure  might be a good way to go. If you want to model chance and uncertainty, games or even incorporating simple game mechanics like a dice roll into a story can produce these effects.
 
 
-## Tools
+## TOOLS
 
 Here are some tools you might consider as you build your web authoring project. They are grouped into:
 
@@ -91,7 +91,7 @@ Here are some tools you might consider as you build your web authoring project. 
 - [**Twine**](https://twinery.org/): interactive stories with many paths
 
 
-## Hosting
+## HOSTING
 
 One additional consideration as you work on a web authoring project is how you'll host your project, a.k.a. where it will live on the interwebs. Many of these tools allow you to publish your project on their servers, including Google Sites, StoryMapJS, Storyboard and others.
 
@@ -102,6 +102,6 @@ However, if you want to combine tools or use a custom domain, you might need to 
 &nbsp;
 - Another free option is [Github Pages](https://pages.github.com/). This requires a little bit of setup, but you can find a step-by-step guide from a prior course we worked with [here](https://github.com/crystaljjlee/histsci-119/blob/master/README.md). Scroll down to the section titled "Making your website".
 
-## Questions
+## QUESTIONS
 
 If you have any questions after the session, or later as you're working on your web project, feel free to reach out to us at [**help.learninglab.xyz**](http://help.learninglab.xyz)! We will put together a customized response to your question or tutorial for you.
