@@ -4,7 +4,7 @@ In Blender, there are many ways to do approach a project. It's a program built f
 
 I'll go over the steps I took to make this final image, but I won't be meticulous about it, only because there are better resources for learning the tools I'll be using.
 
-![Light Bulb Head](https://files.slack.com/files-pri/T0HTW3H0V-F01F9FJHGBC/the_thing.png)
+![Light Bulb Head](https://slack-files.com/T0HTW3H0V-F01F9FJHGBC-5dabbd39b7)
 
 1. Delete the default cube, camera and light
     - Click and drag over the cube, light and camera to box select all three. Then hit **x** on your keyboard to delete them. Now you have a clean slate to start working on your project.
@@ -45,8 +45,10 @@ I'll go over the steps I took to make this final image, but I won't be meticulou
 
 Helpful Videos:
 
-1) Intro to Blender: https://www.youtube.com/watch?v=TPrnSACiTJ4
-2) Intro to Shading: https://www.youtube.com/watch?v=a5KOdVft93E
+1) [Intro to Blender](https://www.youtube.com/embed/TPrnSACiTJ4?start=1)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPrnSACiTJ4?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2) [Intro to Shading](https://www.youtube.com/embed/a5KOdVft93E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a5KOdVft93E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 People to check out on youtube:
 
