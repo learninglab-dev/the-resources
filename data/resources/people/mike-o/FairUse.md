@@ -1,4 +1,4 @@
-# Navigating Fair Use
+# navigating fair use in academic projects
 
 ![](https://image.shutterstock.com/image-vector/fair-use-word-cloud-concept-260nw-1409782694.jpg)
 
