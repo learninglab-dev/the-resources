@@ -12,8 +12,6 @@ Over the course of this workshop, we are going to
 
 We can also help out with any questions you have about Logic or Ableton if you decide to go with one of those tools instead.
 
-Here you can find a [google drive folder with the media assets](https://drive.google.com/drive/folders/1TmVnzv3Z3sWznzVNUcZKQDCaeJDFA7ln) we will use in the breakout rooms today!
-
 ## ADDITIONAL RESOURCES
 As you begin to create your own podcasts, here are a couple of resources to check out:
 * [Audio Collaboration](http://resources.learninglab.xyz/simple/projects/expos20-schwab/audio-collaboration) helpful tips for navigating collaboration remotely across a variety of tools
