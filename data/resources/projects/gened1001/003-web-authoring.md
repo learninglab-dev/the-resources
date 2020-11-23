@@ -1,4 +1,6 @@
-# Web Authoring
+# web authoring
+
+This page contains links that may be helpful during the Bok Center Learning Lab's Web Authoring Workshop for GENED1001 Stories From the End of the World.
 
 ## Why web authoring?
 
