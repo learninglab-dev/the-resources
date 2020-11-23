@@ -37,10 +37,10 @@ This video makes use of [archival and found footage](http://resources.learningla
 
 ![Premiere timeline](https://files.slack.com/files-pri/T0HTW3H0V-F01FUVA4RFS/screen_shot_2020-11-19_at_2.25.43_pm.png?pub_secret=fa37eba678)
 
-Another exmaple of this style includes the opening to _The Americans_:
+Another exmaple of this style is the opening sequence of _The Americans_:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20sAhKwWeJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here are some other [Opening sequences that use stock footage](https://www.videvo.net/blog/7-iconic-opening-credits-sequences-that-use-stock-footage-and-one-end-credits-sequence/) which might be useful!
+Here are some other [opening sequences that use stock footage](https://www.videvo.net/blog/7-iconic-opening-credits-sequences-that-use-stock-footage-and-one-end-credits-sequence/) that might be useful!
 
 
 ## ADDITIONAL RESOURCES
