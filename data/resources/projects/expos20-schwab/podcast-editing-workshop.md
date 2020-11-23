@@ -19,6 +19,7 @@ As you begin to create your own podcasts, here are a couple of resources to chec
 * [A quick guide on recording with your phone](https://sites.google.com/g.harvard.edu/ll-podcasting/recording?authuser=0) some very quick tips on how to optimize as well as some basic recording practices
 * [BBC remote recording protocols](https://www.bbc.com/news/business-26256502) are really great
 * [Pro Tools tips on remote recording](https://www.pro-tools-expert.com/production-expert-1/2020/3/31/case-study-how-to-remote-record-during-the-covid-19-lockdown)
+* [Tips on recording in Zoom](http://resources.learninglab.xyz/simple/projects/expos20-schwab/capturing-in-zoom)
 
 ## QUESTIONS
 If you have any questions after the workshop, or at any time during the production of your podcast, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
