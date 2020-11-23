@@ -14,6 +14,7 @@ For those who weren't able to attend, here is the video from the workshop:
 * [Adobe Premiere](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-premiere) and [After Effects](http://resources.learninglab.xyz/simple/projects/gened1001//adobe-after-effects)
 * [Davinci Resolve](http://resources.learninglab.xyz/simple/projects/gened1001//davinci-resolve)
 * [Adobe Spark](https://spark.adobe.com/)
+* [Some thoughts on navigating Fair Use](http://resources.learninglab.xyz/simple/people/mike-o/FairUse)
 
 
 ## MODELS
