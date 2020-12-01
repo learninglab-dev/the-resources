@@ -8,7 +8,7 @@ There are loads of places to find music that you're welcome to use in your video
 
 - [Free Music Archive](freemusicarchive.org) - This is a massive, free to use, no sign in required archive.
 
-- [Mugle.io](mugle.io) - This is a project by an indie developer that scraped thousands of November's Youtube uploads and ranked the top 1000 Open Source songs by popularity.
+- [Mugle.io](https://mugle.io/) - This is a project by an indie developer that scraped thousands of November's Youtube uploads and ranked the top 1000 Open Source songs by popularity.
 
 - [Purple Planet Music](https://www.purple-planet.com/) - This is a few musicians that license their music for free to video creators.
 
@@ -16,4 +16,4 @@ There are loads of places to find music that you're welcome to use in your video
 
 - [BenSound](https://www.bensound.com/) - A huge collection, all written by one guy that's just passionate about free access to music.
 
-- [SoundBible](http://soundbible.com/) - Not music, but rather sound effects. Free to sign up for(doesn't spam and doesn't sell your information), but required for downloading. 
+- [SoundBible](http://soundbible.com/) - Not music, but rather sound effects. Free to sign up for(doesn't spam and doesn't sell your information), but required for downloading.
