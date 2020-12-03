@@ -1,6 +1,6 @@
 ## A Tale of Two Timelines
 
-The following is an introduction to a self-recorded, post-apocalyptic movie that was shown as a demonstration video for a video production workshop for students in GENED1001 (Stories from the end of the world) on 11/19/2020.
+The following is an introduction to a self-recorded, post-apocalyptic movie that was shown as a demonstration video for a video production workshop for students in GENED1001 (Stories from the End of the World) on 11/19/2020.
 
 <iframe src="https://player.vimeo.com/video/486558472?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/486558472">Mike Apocalypse - GenEd1001</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -20,20 +20,20 @@ Given that this was a rather short production timeline, it was important to map 
     * This is when we decided to produce this video as a model for the workshop (NOTE: This chunk of time will likely NOT be a part of your process).
   * **Script writing** (9:30 - 10:00)
     * I quickly wrote a script in about 30 minutes. This was essential to do first because it forced me to do a couple of things:
-      * Writing a script gave me a tangible scaffolding to support the rest of the video
+      * Writing a script gave me a tangible scaffolding to support the rest of the video.
       * It framed the overall duration of the video:
-        * I wrote a draft of the script, and timed myself reading it (including dramatic pauses), knowing that I wanted it to be roughly one minute long. I then tweaked the language it a bit until it seemed to me to be moderately coherent and compelling, and fit roughly within that one minute time frame.
-      * It made me think about what I need to capture (shot list!) so that I could visually support the script.
+        * I wrote a draft of the script, and timed myself reading it (including dramatic pauses), knowing that I wanted it to be roughly one minute long. I then tweaked the language until it seemed to be moderately coherent and compelling, and fit roughly within that one minute time frame.
+      * It made me think about what I need to capture (shot list!) so that I could visually support the story.
   * **Brainstorming the shot list** (9:30 - 11:15)
     * NOTE: I did most of my shot list brainstorming during the 1/2 hour that I was writing the script, but if you look at the Gantt chart, you'll see that this part is extended until 11:15. The reason for this is that:
-      * While you should always start out with a pre-planned shot list, you should also be vigilant during the recording process in keeping an eye out for additional visuals that would be compelling to capture. And while I did primarily focus on my pre-planned shot list, I also captured a few quick additional shots along the way that were positive additions to the video.
+      * While you should always start out with a pre-planned shot list, you should also be vigilant during the recording process in keeping an eye out for additional visuals that would be compelling to capture. And while I did primarily focus on my pre-planned shot list, I also captured a few quick, additional shots along the way that were positive additions to the video.
 
 #### Production (GREEN)
   * **Recording video** (10:00 - 11:15)
-    * I left myself a little over an hour (including a bit of travel time) for quickly capturing five visual elements that I wanted to capture to support the script:
-      * Recording a bunch of varied, still, 2-3 seconds video shots of empty urban landscapes for fostering a mood of profound isolation.
+    * I left myself a little over an hour (including a bit of travel time) for quickly capturing five visual elements that I felt I needed to support the script:
+      * A small collection of varied, static, 2-3 seconds video shots of empty urban landscapes for fostering a mood of loneliness and isolation
       * Selfie shots of me out walking in the city and returning to my home
-      * A shot of me returning into my kitchen through my back door.
+      * A shot of me returning to my kitchen through the back door
       * A shot of me dumping my backpack on the kitchen counter
       * A shot of me waking up in bed
   * **Recording narration** (11:15 - 11:30)
@@ -41,13 +41,13 @@ Given that this was a rather short production timeline, it was important to map 
 
 #### Post-production (RED)
   * **Media Management** (11:30 - 11:45)
-    * All of my media (audio & video) was shot on my iPhone, so I found all of my clips in their associated apps, and Airdropped them to a singular location on my computer.
+    * All of my media (audio & video) was captured on my iPhone, so I found all of my clips in their associated applications, and Airdropped them to a singular location on my computer.
   * **Editing** (11:45 - 12:45)
     * Because of all the writing and planning that I did beforehand, I had a very strong idea about the structure for my video. The basic steps were to:
       * Find the best take(s) from my voiceover and add them into the timeline of a new project, including editing in some additional dramatic pauses.
-      * Identify my best key shots, and add the corresponding visuals into the timeline on top of the voiceover. The listing of five types of shots (above) is chronological in terms of the order that they appear in the timeline.
+      * Identify my best key visuals that support the story, and add the corresponding clips into the timeline on top of the voiceover. The listing of five types of shots (above) is chronological in terms of the order that they appear in the timeline.
       * Make appropriate tweaks to clip durations of key shots
-      * Color correct to make all clips black and white, and add a vignette around all clips, to help support an ethereal mood to the video
+      * Color correct to make all clips black and white, and add a vignette around all clips, to help create an ethereal mood to the video
       * Add ominous music as a sound bed
       * Make final tweaks as needed
   * **Exporting and Publishing** (12:45 - 1:00)
