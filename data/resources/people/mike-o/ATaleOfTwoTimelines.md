@@ -1,6 +1,6 @@
 ## A Tale of Two Timelines
 
-The following is an introduction to a self-recorded, post-apocalyptic movie that was shown as a demonstration video for a video production workshop for students in GENED1001 (Stories from the End of the World) on 11/19/2020.
+The following is an introduction to a self-recorded, post-apocalyptic movie that was shown as a demonstration video for a video production workshop for students in GENED1001 (*Stories from the End of the World*) on 11/19/2020.
 
 <iframe src="https://player.vimeo.com/video/486558472?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/486558472">Mike Apocalypse - GenEd1001</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
