@@ -25,7 +25,7 @@ From this view, you can see the arching structure of the video --
 
 The timeline of creation for this video was unusually linear, with a few divergent tasks. I started off with the two major assets: an archive, and an inspiration. The archive gave us the material, and from the inspiration I could see the need for a hook. In this case, some fairly popular, contemporary music. From that point forward, the workflow followed the path of the creative process. I'd find an appropriate clip and lay it down to see how it worked with the music and how it interacted with the clips before and after it. Rinse and repeat.
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01F8CYJGFQ/screen_shot_2020-11-24_at_10.29.34_am.png?pub_secret=1a940b6de8)
+[![](https://files.slack.com/files-pri/T0HTW3H0V-F01F8CYJGFQ/screen_shot_2020-11-24_at_10.29.34_am.png?pub_secret=1a940b6de8)](https://files.slack.com/files-pri/T0HTW3H0V-F01F8CYJGFQ/screen_shot_2020-11-24_at_10.29.34_am.png?pub_secret=1a940b6de8)
 
 Here you can see the rough outline of how much time was invested into each portion of the project. In this case, there was a remarkably small amount of time optimizing audio as all my media was already properly produced. This is a little bit reductive, as editing workflows tend to jump quickly between Assembly and Trimming continuously, but inevitably there are moments where you spend more time favoring one task over another.
 
