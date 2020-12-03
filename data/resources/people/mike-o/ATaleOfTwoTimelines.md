@@ -5,7 +5,7 @@ The following is an introduction to a self-recorded, post-apocalyptic movie that
 <iframe src="https://player.vimeo.com/video/486558472?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/486558472">Mike Apocalypse - GenEd1001</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Students in GENED1001 were producing their own videos of apocalyptic stories for their final projects, and the idea was to quickly write, record, and edit a first-person, post-apocalyptic narrative from 9am-1pm on the day of the workshop, and then demo this for them as one potential model for their own projects.
+Students in GENED1001 were producing their own videos of apocalyptic stories for their final projects, and the idea was to quickly write, record, and edit a first-person, post-apocalyptic narrative from 9am-1pm on the day of the workshop, and then demo it as one potential model for their own projects.
 
 Given that this was a rather short production timeline, it was important to map out all of the elements that needed to be produced -- and in what order -- so that the video could be completed in time for the workshop.
 
@@ -25,17 +25,18 @@ Given that this was a rather short production timeline, it was important to map 
         * I wrote a draft of the script, and timed myself reading it (including dramatic pauses), knowing that I wanted it to be roughly one minute long. I then tweaked the language until it seemed to be moderately coherent and compelling, and fit roughly within that one minute time frame.
       * It made me think about what I need to capture (shot list!) so that I could visually support the story.
   * **Brainstorming the shot list** (9:30 - 11:15)
-    * NOTE: I did most of my shot list brainstorming during the 1/2 hour that I was writing the script, but if you look at the Gantt chart, you'll see that this part is extended until 11:15. The reason for this is that:
-      * While you should always start out with a pre-planned shot list, you should also be vigilant during the recording process in keeping an eye out for additional visuals that would be compelling to capture. And while I did primarily focus on my pre-planned shot list, I also captured a few quick, additional shots along the way that were positive additions to the video.
-
-#### Production (GREEN)
-  * **Recording video** (10:00 - 11:15)
-    * I left myself a little over an hour (including a bit of travel time) for quickly capturing five visual elements that I felt I needed to support the script:
+    * I did most of my shot list brainstorming during the 1/2 hour that I was writing the script. The five main types of shots that I identified and wanted to capture were:
       * A small collection of varied, static, 2-3 seconds video shots of empty urban landscapes for fostering a mood of loneliness and isolation
       * Selfie shots of me out walking in the city and returning to my home
       * A shot of me returning to my kitchen through the back door
       * A shot of me dumping my backpack on the kitchen counter
       * A shot of me waking up in bed
+    * You may notice, however, that while I did most of the shot list brainstorming in the 1/2 hour that I wrote the script, if you look at the Gantt chart, you'll see that this part is extended until 11:15. The reason for this is that:
+      * While you should always start out with a pre-planned shot list, you should also be vigilant during the recording process in keeping an eye out for additional visuals that would be compelling to capture. And while I did primarily focus on my pre-planned shot list, I also captured a few quick, additional shots along the way that were positive additions to the video.
+
+#### Production (GREEN)
+  * **Recording video** (10:00 - 11:15)
+    * I left myself a little over an hour (including a bit of travel time) for quickly capturing the five visual elements (above) that I felt I needed to support the script.
   * **Recording narration** (11:15 - 11:30)
     * This was a short script, so I was able to record three decent takes of my script in about 15 minutes.
 
