@@ -109,15 +109,10 @@ Sometimes called the visual elements and principles of design, these moves are a
 **repetition** provides emphasis and an implicit rhythm to the visual elements presented.
 
 **hierarchy** provides structure and guides your audience through the information presented in order of importance. When looking at an infographic, you want the big message to be perceived within mere seconds, and you want the audience to be “hooked” into taking the time to read more detailed  information. Hierarchy gives the eye the direction it needs to process complex visual information effectively.
-scale, color, contrast, shape, space, alignment, form. proximity.
 
 **associations** provide overall tone and implicit emphasis to argument through color, typography, shape, texture.
 
 **balance** should be pursued in the entirety of your composition and in its parts. 
-
-**directing the viewer's gaze**: Where does the audience look first? and from there, where do they go next? Engaging the audience and structuring their visual experience until the message as a whole is successfully perceived.
-
-**relating** To create associations between pieces of information, you can deploy hierarchy, alignment, contrast, proximity
 
 
 ### The anatomy of an infographic:
