@@ -2,7 +2,7 @@
 
 The reason you might want to shoot RAW photos on your phone instead of whatever your current phone offers really only comes down to the matter of control. Most phones output a file type that has removed much of the original information that is minimally visible in the image itself in order to reduce the size of the file for the sake of portability, after all the vast majority of people using a phone camera aren't doing so for precision images, but rather for preserving memories or sharing experiences.
 
-![unedited vs edited RAW image](https://files.slack.com/files-pri/T0HTW3H0V-F01JETMCC9M/calvinhobbes-rawedited.jpg?pub_secret=19d9077920)
+![unedited vs edited RAW image](https://files.slack.com/files-pri/T0HTW3H0V-F01JWRVDNCB/calvinhobbes-rawedited01.jpg?pub_secret=eae450a301)
 
 RAW files contain much of that unseen data that allows you to bring details out from under-exposed, dark portions of the image, or to recover details from over-exposed, bright parts of the image.
 
