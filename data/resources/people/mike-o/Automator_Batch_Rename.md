@@ -1,4 +1,4 @@
-### Batch renaming files in Automator
+## How to use Automator to batch rename a large number of files
 
 Automator is a powerful application that can automate many processes on your Mac. This brief resource is intended to demonstrate how you can rename a large number of files according to your own preferences and needs.
 
