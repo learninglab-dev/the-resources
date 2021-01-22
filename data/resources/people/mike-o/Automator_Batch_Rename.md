@@ -37,11 +37,11 @@ We want all three of these pieces of information to be contained in every image 
 'TimothyCole_Print_WoodEngraving_001.jpg',
 'TimothyCole_Print_WoodEngraving_002.jpg',
 
-and so on through the remaining images.
+and so on throughout the remaining images.
 
 (Again, you can feel free to customize your naming conventions to suit your needs and preferences.)
 
-To initiate this formula for renaming our files, click on the drop-down menu that says 'Add Date or Time', and select 'Make Sequential'.
+To initiate this formula for renaming our files, click on the drop-down menu that says 'Add Date or Time' and select 'Make Sequential'.
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01L6KLAY9E/screen_shot_2021-01-21_at_5.07.20_pm.png?pub_secret=cd3fe5b49f)
 
@@ -53,7 +53,7 @@ After this, we need to set the manner in which the files will be incremented. Si
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01L6KLME56/screen_shot_2021-01-21_at_5.10.47_pm.png?pub_secret=7eb5e6cf56)
 
-As well, to match the naming structure above, we need to have the incremented numbers separated by an 'underscore' (rather than a 'dash'), so select 'underscore' in the drop-down menu named 'separated by'.
+As well, to match the naming structure above ('TimothyCole_Print_WoodEngraving_001.jpg'), we need to have the incremented numbers separated by an 'underscore' (rather than a 'dash'), so select 'underscore' in the drop-down menu named 'separated by'.
 
 Once you've done that, you can see the example filename in the dialogue box.
 
