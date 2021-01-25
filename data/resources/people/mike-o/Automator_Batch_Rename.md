@@ -154,8 +154,8 @@ Now navigate over to the folder that you want to rename. Right-click (or control
 
 The service operation will run very quickly, and once completed you should see that your files have been renamed in the way that we had intended:
 
-'ParentFolderName'
-'ChildFolderName1'
+'ParentFolderName' <br />
+'ChildFolderName1' <br />
 '001.jpg' (incremented for each file)
 
 All concatenated together and separated by underscores.
