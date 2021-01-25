@@ -96,9 +96,9 @@ Here is the folder structure that we will use for this challenge, and note that 
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KTPYL010/screen_shot_2021-01-25_at_3.56.54_pm.png?pub_secret=66b95b0c00)
 
-To do this, we are going to create what is called a 'Quick Action' inside Automator. A renaming Quick Action will allow us to right-click a folder with nested folders and files, and then Automator will run that Rename Quick Action without even having to open the Automator application!
+To do this, we are going to create what is called a 'Quick Action'. A 'Quick Action' initiates a service that will perform the renaming operation of nested folders and files without even having to open the Automator application!
 
-To start, open 'Automator', and once open, click 'File' and then 'New'.
+To start, open 'Automator'. Once open, click 'File' and then 'New'.
 
 When a dialogue box appears, instead of 'Workflow', select 'Quick Action', and then 'Choose'.
 
@@ -118,7 +118,7 @@ Since the computer for this demonstration is on Catalina, we are going to select
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KD4X33HV/screen_shot_2021-01-25_at_4.36.17_pm.png?pub_secret=989a7bc310)
 
-Now we just need to paste some code into the window below, and we should be good to go. Here is the code for you to copy and paste:
+Now we just need to paste the correct code into the window below, and we should be in great shape. Here is the code for you to copy and paste inside the 'Run Shell Script' window:
 ```
 for d in "$@"
 do
@@ -145,19 +145,25 @@ That will look like this in Automator:
 
 Now we are ready to give this Quick Action a try!
 
-Save your Quick Action by selecting 'File', 'Save' and then rename your Quick Action something that you will remember (e.g., 'Rename', 'BatchRename', etc.).
+Make sure to save your Quick Action by selecting 'File', 'Save' and then rename your Quick Action something that you will remember (e.g., 'Rename', 'BatchRename', etc.).
 
 Now navigate over to the folder that you want to rename. Right-click (or control-click) the folder, scroll down to 'Services', and find the item that matches your saved Quick Action. Select that Service.
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KU6Q13MZ/screen_shot_2021-01-25_at_4.43.10_pm.png?pub_secret=2d11e55f8e)
 
 
-That Service will run very quickly, and once completed you should see that your files have been renamed in the way that we had intended: the name of the Parent folder first, then the Child folder and then 001; 002; 003; and so on for each file of your child folder (with all three parts separated by underscores).
+The service operation will run very quickly, and once completed you should see that your files have been renamed in the way that we had intended:
+
+'ParentFolderName'
+'ChildFolderName1'
+'001.jpg' (incremented for each file)
+
+All concatenated together and separated by underscores.
 
 Here is how that looks once completed:
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KM665U06/screen_shot_2021-01-25_at_4.44.48_pm.png?pub_secret=aa5813e745)
 
-As well, you will see inside each child folder a 'renameinfo.txt' file that tells you what the original filenames were, as well as what they are renamed to once the Automator Quick Action is performed.
+In addition, you will see inside each child folder a 'renameinfo.txt' file that tells you what the original filenames "were," as well as what they are renamed "to" once the Quick Action is performed.
 
 Double success!! Good luck in your renaming adventures, and stay organized out there.
