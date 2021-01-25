@@ -96,7 +96,7 @@ Here is the folder structure that we will use for this challenge, and note that 
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KTPYL010/screen_shot_2021-01-25_at_3.56.54_pm.png?pub_secret=66b95b0c00)
 
-To do this, we are going to create what is called a 'Quick Action' inside Automator, which will allow us to right-click a folder in Finder that contains files, run the Automator 'Quick Action', but without even having to open the Automator application!
+To do this, we are going to create what is called a 'Quick Action' inside Automator. A renaming Quick Action will allow us to right-click a folder with nested folders and files, and then Automator will run that Rename Quick Action without even having to open the Automator application!
 
 To start, open 'Automator', and once open, click 'File' and then 'New'.
 
@@ -108,7 +108,7 @@ After clicking 'Quick Action', another dialogue box will appear that we need to 
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KQPXRJ2Z/screen_shot_2021-01-25_at_4.26.40_pm.png?pub_secret=eaa28fae6f)
 
-Now scroll down the list of available 'Actions' and double-click 'Run Shell Script'. This is what that will look like:
+Now scroll down the list of available 'Actions' on the left part of the application window and double-click 'Run Shell Script'. This is what that will look like:
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KD3XNGUF/screen_shot_2021-01-25_at_4.28.21_pm.png?pub_secret=3b43b3da80)
 
@@ -118,7 +118,7 @@ Since the computer for this demonstration is on Catalina, we are going to select
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KD4X33HV/screen_shot_2021-01-25_at_4.36.17_pm.png?pub_secret=989a7bc310)
 
-Now we just need to paste some code into code window, and we should be good to go. Here is the code for you to copy and paste:
+Now we just need to paste some code into the window below, and we should be good to go. Here is the code for you to copy and paste:
 ```
 for d in "$@"
 do
@@ -139,7 +139,7 @@ do
 done
 ```
 
-Which will look like this in Automator:
+That will look like this in Automator:
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01L6H1UVC1/screen_shot_2021-01-25_at_4.39.14_pm.png?pub_secret=d861a39b35)
 
@@ -152,7 +152,7 @@ Now navigate over to the folder that you want to rename. Right-click (or control
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KU6Q13MZ/screen_shot_2021-01-25_at_4.43.10_pm.png?pub_secret=2d11e55f8e)
 
 
-That will run very quickly, and once completed you should see that your files have been renamed in the way that we had intended: the name of the Parent folder first, then the Child folder and then 001; 002; 003; and so on for each file of your child folder (with all three parts separated by underscores).
+That Service will run very quickly, and once completed you should see that your files have been renamed in the way that we had intended: the name of the Parent folder first, then the Child folder and then 001; 002; 003; and so on for each file of your child folder (with all three parts separated by underscores).
 
 Here is how that looks once completed:
 
