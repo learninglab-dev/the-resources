@@ -2,6 +2,10 @@
 
 This resource will permit you to very quickly rename any number of files inside a nested folder structure, and will add the names of the folders as prefixes in the filenames.
 
+This is how the files would look after this is completed, and note that the names of both folders are included in the filenames of the images:
+
+![](https://files.slack.com/files-pri/T0HTW3H0V-F01KM665U06/screen_shot_2021-01-25_at_4.44.48_pm.png?pub_secret=aa5813e745)
+
 To accomplish this, we will create a 'Quick Action' in the Mac application 'Automator'. Once this Quick Action is established, it will exist as a right/control-clickable operation in Finder, so going forward we will not need to open Automator to perform this action.
 
 Here is the folder structure that we will use for this resource, and note that the files have not been renamed yet in any highly consistent manner:
