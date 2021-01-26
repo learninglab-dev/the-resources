@@ -2,9 +2,9 @@
 
 This resource will permit you to very quickly rename any number of files inside a nested folder structure, and will add the names of the folders as prefixes in the filenames.
 
-To accomplish this, you will create a 'Quick Action' in the Mac application 'Automator'. Once this Quick Action is established, it will exist as a right/control-clickable operation in Finder, so going forward you will not need to open Automator to perform this action.
+To accomplish this, we will create a 'Quick Action' in the Mac application 'Automator'. Once this Quick Action is established, it will exist as a right/control-clickable operation in Finder, so going forward we will not need to open Automator to perform this action.
 
-Here is the folder structure that we will use for this challenge, and note that the files have not been renamed yet in any highly consistent manner:
+Here is the folder structure that we will use for this resource, and note that the files have not been renamed yet in any highly consistent manner:
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KTPYL010/screen_shot_2021-01-25_at_3.56.54_pm.png?pub_secret=66b95b0c00)
 
@@ -15,7 +15,7 @@ When a dialogue box appears, instead of 'Workflow', select 'Quick Action', and t
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KZUTUPA8/screen_shot_2021-01-25_at_3.57.57_pm.png?pub_secret=42df922600)
 
-After clicking 'Quick Action', another dialogue box will appear that we need to customize a bit. In the dropdown that says 'Workflow receives current', select 'files or folders', and in the 'in' dropdown select 'Finder'.
+After clicking 'Quick Action', another dialogue box will appear that will need to be customized a bit. In the dropdown that says 'Workflow receives current', select 'files or folders', and in the 'in' dropdown select 'Finder'.
 
 ![](https://files.slack.com/files-pri/T0HTW3H0V-F01KQPXRJ2Z/screen_shot_2021-01-25_at_4.26.40_pm.png?pub_secret=eaa28fae6f)
 
