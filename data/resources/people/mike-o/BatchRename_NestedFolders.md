@@ -35,6 +35,7 @@ Now we have to insert some code inside the 'Run Shell Script' window for this Qu
 
 Paste the following code into the 'Run Shell Script' window.
 ```
+IFS=$'\n'
 for d in "$@"
 do
 	cd $d
