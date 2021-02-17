@@ -16,3 +16,5 @@
 
 ## Video
 ![video-timeline](https://files.slack.com/files-pri/T0HTW3H0V-F01NPJUN69E/screen_shot_2021-02-12_at_2.54.11_pm.png?pub_secret=afc333f354)
+<iframe src="https://player.vimeo.com/video/511751894?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/511751894">The Discipline of the Yokai -- A short visual essay for EASTD115 workshop (20210212)</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
