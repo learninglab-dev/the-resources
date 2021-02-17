@@ -1,35 +1,25 @@
 # Alternative Final Project Idea Gallery
--- for EASTD115 Japanese Monsters --
+## for EASTD115 Japanese Monsters
 
-[Here's a link to the Zoom recording of the project introduction session on 2/12](https://harvard.zoom.us/rec/play/zESeMP7Ylj8Ce5Qxc5gxKVqh5-4p4hpLdRG2fwUNNNEptT_BpKFVCuVNhTvVYaL1l7glDlL4pTSLkg16.Lx-W-FKLySgKhvLo)
+Throughout this term you will be able to make use of the [Bok Center’s Learning Lab](https://bokcenter.harvard.edu/learning-lab) help as you work on your final projects. Whether you are creating a podcast or an animated film, a 3D museum or an infographic, the Learning Lab will be there to help you with workshops and office hours over the course of the term.
 
-## Virtual Museums in SketchUp 3D
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fnac89LWynA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+In case you missed our 20 minute intro workshop, [you can view it here](https://harvard.zoom.us/rec/play/zESeMP7Ylj8Ce5Qxc5gxKVqh5-4p4hpLdRG2fwUNNNEptT_BpKFVCuVNhTvVYaL1l7glDlL4pTSLkg16.Lx-W-FKLySgKhvLo). In this session we introduced the LL team and shared some demo projects we created using the Yokai you submitted using tools we’ll teach you in the follow-up workshops in March.
 
-![Screenshot from Sketchup Gallery](https://files.slack.com/files-pri/T0HTW3H0V-F01NLMNNMU4/sketchupgallery.png?pub_secret=020f61dc17)
+The various tools and media we demonstrate in these workshops will offer you with new ways to present your ideas, in many cases allowing you to accomplish things that would be difficult to do in an essay:
 
-## Virtual Museums in Blender
+* **3D museums** can organize objects in virtual space, creating relationships that might be difficult to articulate in words alone; the organization of the space itself can make and argument or tell a story
+* in a **video essay**, you can offer us a montage of images that may give us far more examples of a repeated visual theme than you could reasonably present in an academic paper
+* in a **podcast**, your voice will often achieve an intimacy or approachable informality that can be more effective at connecting to your audience, and you have tools at your disposal (pacing, sound effects, music beds) that can add additional layers of meaning
+* in **posters and infographics** you can include text, just as you might in a paper, but you can also offer viewers quantitative data visualizations, maps, or flowcharts showing causal relationships
 
-![Screenshot from Blender Gallery](https://files.slack.com/files-pri/T0HTW3H0V-F01N7MWD97G/blendergallerytile.png?pub_secret=7619e8d151)
-
-## Virtual Museums in Unity
-
-[Click here to explore for yourself!](https://caseycann.github.io/yokai-gallery/index.html)
-
-![Screenshot of Unity Gallery](https://files.slack.com/files-pri/T0HTW3H0V-F01N7KLSUMU/screen_shot_2021-02-17_at_11.32.22_am.png?pub_secret=7132670490)
-
-## Podcasts with Garageband and Audacity
-
+## Learn more about the projects and tools on the pages below:
+* [Virtual Museums](http://resources.learninglab.xyz/simple/projects/eastd115/virtual-museums)
+* [Video Essays](http://resources.learninglab.xyz/simple/projects/eastd115/video-essays)
+* [Podcasts](http://resources.learninglab.xyz/simple/projects/eastd115/podcasts)
+* [Posters and Infographics](http://resources.learninglab.xyz/simple/projects/eastd115/posters-infographics)
+* Bonus: [Animation](http://resources.learninglab.xyz/simple/projects/eastd115/animations)
 
 
-## 2D Graphic Design in Canva and the Adobe Suite
-![Tetsuo](https://files.slack.com/files-pri/T0HTW3H0V-F01MFG07DN2/tetsuo.gif?pub_secret=5d19e78977)
 
-## Animation with Adobe After Effects
-![KKYokai](https://files.slack.com/files-pri/T0HTW3H0V-F01NN0VJRG8/kkyokai.gif?pub_secret=c38a208b15)
-![JZYokai](https://files.slack.com/files-pri/T0HTW3H0V-F01MV2Y49FX/jzyokai_rigging.gif?pub_secret=caced5c670)
-
-## Video
-![video-timeline](https://files.slack.com/files-pri/T0HTW3H0V-F01NPJUN69E/screen_shot_2021-02-12_at_2.54.11_pm.png?pub_secret=afc333f354)
 <iframe src="https://player.vimeo.com/video/511751894?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/511751894">The Discipline of the Yokai -- A short visual essay for EASTD115 workshop (20210212)</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
