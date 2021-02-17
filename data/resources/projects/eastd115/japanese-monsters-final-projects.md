@@ -10,7 +10,7 @@ This is an example of a sample project:
 <iframe src="https://player.vimeo.com/video/511751894?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/511751894">The Discipline of the Yokai -- A short visual essay for EASTD115 workshop (20210212)</a> from <a href="https://vimeo.com/derekbokcenter">Learning Lab</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Foster, Michael Dylan. Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai. University of California Press, 2009.
+> Foster, Michael Dylan. Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai. University of California Press, 2009.
 
 The various tools and media we demonstrate in these workshops will offer you with new ways to present your ideas, in many cases allowing you to accomplish things that would be difficult to do in an essay:
 
