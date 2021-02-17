@@ -6,13 +6,11 @@
 ## Virtual Museums in SketchUp 3D
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fnac89LWynA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Screenshot from Sketchup Gallery]()
+![Screenshot from Sketchup Gallery](https://files.slack.com/files-pri/T0HTW3H0V-F01NLMNNMU4/sketchupgallery.png?pub_secret=020f61dc17)
 
 ## Virtual Museums in Blender
 
 ![Screenshot from Blender Gallery](https://files.slack.com/files-pri/T0HTW3H0V-F01N7MWD97G/blendergallerytile.png?pub_secret=7619e8d151)
-
-
 
 ## Virtual Museums in Unity
 
