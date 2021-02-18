@@ -46,5 +46,4 @@
 - [Creating Titles - iMovie](https://www.idownloadblog.com/2019/08/21/add-edit-imovie-title-mac-ios/)
 
 
-Finally, if you ever have any questions, about these, or other media programs please reach out using [help.learninglab.xyz](https://airtable.com/shr3Svx4ZM0IyoSAx), or contact the [Lamont Media Lab]
-(https://library.harvard.edu/services-tools/lamont-multimedia-lab), which is providing virtual office hours and help too!
+Finally, if you ever have any questions, about these, or other media programs please reach out using [help.learninglab.xyz](https://airtable.com/shr3Svx4ZM0IyoSAx), or contact the [Lamont Media Lab](https://library.harvard.edu/services-tools/lamont-multimedia-lab), which is providing virtual office hours and help too!
