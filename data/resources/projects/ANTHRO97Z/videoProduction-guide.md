@@ -44,3 +44,6 @@
 
 - [How to use iMovie](https://www.youtube.com/watch?v=aRLT9L_L1Pw)
 - [Creating Titles - iMovie](https://www.idownloadblog.com/2019/08/21/add-edit-imovie-title-mac-ios/)
+
+
+Finally, if you ever have any questions, about these, or other media programs please reach out using [help.learninglab.xyz](help.learninglab.xyz)
