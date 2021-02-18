@@ -4,6 +4,8 @@ You can install FCPX through the App Store, but if you're applying your educatio
 
 ![FCPX icon](https://www.rippletraining.com/wp-content/uploads/2017/12/fcpx-Masters-Bundle-product.jpg)
 
+If you're looking to test this out before deciding to buy it, they do have [a 90 day free trial available.](https://www.apple.com/final-cut-pro/trial/)
+
 ### Importing Footage
 
 To start yourself off, you're going to need a *Library* to work in. These are essentially the file FCPX builds to manage your media. `File` > `New` > `Library`
