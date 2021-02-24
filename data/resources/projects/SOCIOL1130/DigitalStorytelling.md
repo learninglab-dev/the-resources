@@ -20,12 +20,26 @@ Zoom is a fantastic tool for recording interviews, and can of course be used to 
 
 ### SMARTPHONE VIDEO RECORDING
 
-You don't need an expensive DSLR to capture effective and compelling video. Chances are that you have an amazing and capable camera sitting in your pocket right now.
+You don't need an expensive DSLR to capture effective and compelling video. And chances are that you have an amazing and capable camera sitting in your pocket right now.
 
 * [Tips and resources for optimizing smartphone video capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Smartphone-Video)
 
-#### LIGHTING
+### LIGHTING
 
 If you are going to be capturing your own visual media through Zoom, from your smartphone, or from any other device, then lighting is an essential element to consider.
 
 * [A guide to help you improve the lighting in the video that you capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Lighting)
+
+___
+
+**PLEASE NOTE!**
+
+As a Harvard student you also have access to [LinkedIn Learning](https://linkedinlearning.harvard.edu/), which provides Harvard students and employees with over 15,000 on-demand courses on computer software, business skills, and creative skills from industry experts.
+
+As well, [here](https://sites.google.com/g.harvard.edu/mediaresources/home) is a link that offers additional locations on campus where you can receive help with your media projects, along with the open office hours for Lamont Media Lab:
+
+The Lamont Library’s Virtual Media Lab hosts office hours every week and can help students with their multi-media editing projects. As of 2/24/21, these hours are:
+Monday-Friday 9am - 4:30pm
+Saturday 10am - 4pm
+Sunday 10am - 1pm
+See [this link](https://docs.google.com/document/d/e/2PACX-1vSIjnbTxgMgXrl6_B7JOqv_p2abGoQNRa6ZOAxnxEz4bV3Gx0kUPXYgi-IZ2tZt2JdUmq1b7BONw0wP/pub) for instructions on how to join the Zoom session!
