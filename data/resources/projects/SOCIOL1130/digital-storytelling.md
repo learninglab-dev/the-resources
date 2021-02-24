@@ -54,5 +54,5 @@ Saturday 10am - 4pm
 Sunday 10am - 1pm
 See [this link](https://docs.google.com/document/d/e/2PACX-1vSIjnbTxgMgXrl6_B7JOqv_p2abGoQNRa6ZOAxnxEz4bV3Gx0kUPXYgi-IZ2tZt2JdUmq1b7BONw0wP/pub) for instructions on how to join the Zoom session!
 
-## QUESTIONS
+### QUESTIONS
 If you have any questions after the workshop, or at any time during the production of your project, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
