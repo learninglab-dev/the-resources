@@ -2,7 +2,7 @@
 ![Zoom recording](https://media.giphy.com/media/UQfqQifAjmFHVmstIl/giphy.gif)
 
 ## Optimizing your Zoom recordings
-There are loads of settings under the hood on how to optimize your Zoom session recordings. [This section will guide you through how to turn them on](http://resources.learninglab.xyz/simple/people/katie-g/optimizing-zoom-recordings)
+There are loads of settings under the hood on how to optimize your Zoom session recordings. This section will guide you through how to turn them on. [Alternatively, here is a short video walk-through as well](https://www.youtube.com/watch?v=Ty0CJH5yzWw&feature=youtu.be) 
 
 ### For meetings recording locally
 If you are planning to record by hitting the **Record** button in Zoom, there are some settings to optimize before you begin.
