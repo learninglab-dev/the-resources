@@ -30,6 +30,11 @@ If you are going to be capturing your own visual media through Zoom, from your s
 
 * [A guide to help you improve the lighting in the video that you capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Lighting)
 
+### FRAMING & COMPOSITION
+
+In addition to lighting, you want your subject(s) to be framed in your video in a way that is intentional, so that it communicates the content and emotion of your project in the most effective manner.
+
+* [A guide to resources for framing and composition](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Framing-Composition)
 ___
 
 **PLEASE NOTE!**
@@ -43,3 +48,6 @@ Monday-Friday 9am - 4:30pm
 Saturday 10am - 4pm
 Sunday 10am - 1pm
 See [this link](https://docs.google.com/document/d/e/2PACX-1vSIjnbTxgMgXrl6_B7JOqv_p2abGoQNRa6ZOAxnxEz4bV3Gx0kUPXYgi-IZ2tZt2JdUmq1b7BONw0wP/pub) for instructions on how to join the Zoom session!
+
+## QUESTIONS
+If you have any questions after the workshop, or at any time during the production of your project, feel free to reach out to use at [help.learninglab.xyz](http://help.learninglab.xyz) and we will put together a customized tutorial for you.
