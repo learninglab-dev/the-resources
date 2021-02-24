@@ -32,7 +32,7 @@ If you are going to be capturing your own visual media through Zoom, from your s
 
 ### FRAMING & COMPOSITION
 
-In addition to lighting, you want your subject(s) to be framed in your video in a way that is intentional, so that it communicates the content and emotion of your project in the most effective manner.
+In addition to lighting, you want your subject(s) to be framed in your video in a way that is intentional; you want your video to effectively convey the content as well as tone and emotion. Executing thoughtful framing and composition in your videos can help you achieve both of these goals.
 
 * [A guide to resources for framing and composition](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Framing-Composition)
 
