@@ -26,7 +26,7 @@ You don't need an expensive DSLR to capture effective and compelling video. And 
 
 ### LIGHTING
 
-If you are going to be capturing your own visual media through Zoom, from your smartphone, or from any other device, then lighting is an essential element to consider.
+If you are going to be capturing your own visual media through Zoom, from your smartphone, or from any other device, then lighting is an essential element to consider as well.
 
 * [A guide to help you improve the lighting in the video that you capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Lighting)
 
