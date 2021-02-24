@@ -1,4 +1,4 @@
-## Digital Storytelling Workshop - February 25, 20210212
+## SOCIOL1130 - Digital Storytelling Workshop - February 25, 20210212
 
 Throughout this term you will be able to make use of the [Bok Center's Learning Lab](https://bokcenter.harvard.edu/learning-lab) for help as you work on your final blueprint for action. In doing so, you may want to choose a storytelling medium that enhances the argument that you are seeking to make.
 
