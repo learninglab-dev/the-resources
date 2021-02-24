@@ -1,12 +1,12 @@
 
+### RESOURCES FOR AUDIO CAPTURE
+
 * [Tips for recording clean audio with any equipment](https://sites.google.com/g.harvard.edu/ll-podcasting/recording?authuser=0)
 
 The podcast editing tools we typically support are:
 * [Garageband](http://resources.learninglab.xyz/simple/projects/eastd97ab/garageband)
 * [Soundtrap](http://resources.learninglab.xyz/simple/projects/eastd97ab/soundtrap)
 * [Audacity](http://resources.learninglab.xyz/simple/projects/eastd97ab/audacity)
-
-We can also help out with any questions you have about Logic or Ableton if you decide to go with one of those tools instead.
 
 #### ADDITIONAL PODCASTING RESOURCES
 As you begin to create your own podcasts, here are a couple of resources to check out.
