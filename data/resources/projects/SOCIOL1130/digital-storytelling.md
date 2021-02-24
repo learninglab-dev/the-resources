@@ -8,7 +8,7 @@ Throughout this term you will be able to make use of the [Bok Center's Learning 
 
 In a podcast, your voice will often achieve an intimacy or approachable informality that can be more effective at connecting to your audience, and you have tools at your disposal (pacing, sound effects, music beds) that can add additional layers of meaning.
 
-* [A guide to podcasting and audio capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Podcasting)
+* [A guide to podcasting and audio capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/podcasting)
 
 
 
@@ -16,25 +16,30 @@ In a podcast, your voice will often achieve an intimacy or approachable informal
 
 Zoom is a fantastic tool for recording interviews, and can of course be used to record yourself as well.
 
-* [A guide to recording in Zoom](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/recording-in-Zoom)
+* [A guide to recording in Zoom](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/recording-in-zoom)
 
 ### SMARTPHONE VIDEO RECORDING
 
 You don't need an expensive DSLR to capture effective and compelling video. And chances are that you have an amazing and capable camera sitting in your pocket right now.
 
-* [Tips and resources for optimizing smartphone video capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Smartphone-Video)
+* [Tips and resources for optimizing smartphone video capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/smartphone-video)
 
 ### LIGHTING
 
 If you are going to be capturing your own visual media through Zoom, from your smartphone, or from any other device, then lighting is an essential element to consider as well.
 
-* [A guide to help you improve the lighting in the video that you capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Lighting)
+* [A guide to help you improve the lighting in the video that you capture](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/lighting)
 
 ### FRAMING & COMPOSITION
 
 In addition to lighting, you want your subject(s) to be framed in your video in a way that is intentional, so that it communicates the content and emotion of your project in the most effective manner.
 
-* [A guide to resources for framing and composition](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/Framing-Composition)
+* [A guide to resources for framing and composition](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/framing-composition)
+
+### HOSTING ON SCALAR
+You will be building your projects on the [Students in Service and Leadership at Harvard](https://scalar.fas.harvard.edu/studentpower/index) Scalar page.
+* [A guide to creating your pages and hosting your media on Scalar](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/scalar-support)
+
 ___
 
 **PLEASE NOTE!**
