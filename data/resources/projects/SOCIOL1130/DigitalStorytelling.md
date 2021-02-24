@@ -14,7 +14,7 @@ In a podcast, your voice will often achieve an intimacy or approachable informal
 
 Zoom is a fantastic tool for recording interviews, and can of course be used to record yourself as well.
 
-* [A guide to recording in Zoom](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/recording-inZoom)
+* [A guide to recording in Zoom](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/recording-in-Zoom)
 
 ### SMARTPHONE VIDEO RECORDING
 
