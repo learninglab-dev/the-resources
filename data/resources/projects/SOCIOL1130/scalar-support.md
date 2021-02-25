@@ -1,4 +1,4 @@
-# Scalar Support
+# SCALAR SUPPORT
 
 Scalar is a Havard-supported web publishing tool that allows you to create rich, long-form scholarly content on the web.
 
