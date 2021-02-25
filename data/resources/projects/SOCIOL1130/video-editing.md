@@ -1,5 +1,7 @@
 ### VIDEO EDITING RESOURCES
 
+![](https://www.provideocoalition.com/wp-content/uploads/Pr_AutoReframe-as-Effect.png)
+
 ### Principles of Editing
 
 - [Premium Beat's Editing 101](https://www.premiumbeat.com/blog/video-editing-101/)
