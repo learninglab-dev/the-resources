@@ -38,7 +38,7 @@ In addition to lighting, you want your subject(s) to be framed in your video in 
 
 ### VIDEO EDITING
 Once you've completed capturing your media, the next step is to begin assembling and editing together your footage
-* [Video editing tools and resources](http://resources.learninglab.xyz/simple/project/SOCIOL1130/video-editing)
+* [Video editing tools and resources](http://resources.learninglab.xyz/simple/projects/SOCIOL1130/video-editing)
 
 ### WEB-BASED STORIES
 There are also multiple ways to assemble the media you capture on the web in forms other than videos. Two commonly used tools for academic projects include [**Timeline.js**](https://timeline.knightlab.com/) and [**Storymap.js**](https://storymap.knightlab.com/?utm_source=syndicate&utm_campaign=onextrapixel-oct2016&utm_medium=post), which are ways of telling multimedia stories that move through time and space, respectively.
