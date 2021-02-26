@@ -4,7 +4,7 @@ One of the things that might motivate us to move towards a mixed-media essay mig
 
 ![Neo in the Matrix](https://media.comicbook.com/2019/04/matrix-1165629-1280x0.jpeg)
 
-As viewers of film, we have been trained to understand **intercutting**, the process of splicing multiple narrative threads together: cutting back and forth between from shots of Neo stopping bulletes in the Matrix, say, and scenes on the Nebuchadnezzar, the real-world ship that transports his physical body.
+As viewers of film, we have been trained to understand **intercutting**, the process of splicing multiple narrative threads together: cutting back and forth between shots of Neo stopping bulletes in the Matrix, say, and scenes on the Nebuchadnezzar, the real-world ship that transports his physical body.
 
 ![Neo on the Nebuchadnezzar](https://static.hollywoodreporter.com/sites/default/files/2019/03/the_matrix_1999-photofest_still_2-embed_-2019-compressed.jpg)
 
