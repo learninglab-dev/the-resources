@@ -1,6 +1,6 @@
 # Podcasts
 
-This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) podcasting workshop for EASTD115 Japanese Monsters
+This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) podcasting workshop for EASTD115 Japanese Monsters.
 
 
 In a podcast, your voice will often achieve an intimacy or approachable informality that can be more effective at connecting to your audience, and you have tools at your disposal (pacing, sound effects, music beds) that can add additional layers of meaning.
