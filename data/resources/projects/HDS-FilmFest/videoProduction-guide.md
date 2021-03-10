@@ -2,7 +2,7 @@
 
 ### March 12, 2021 - 1:30-3:00pm
 
-![](https://files.slack.com/files-pri/T0HTW3H0V-F01QN9AKHHC/unnamed.jpg?pub_secret=f8760cdca5)
+![](https://hwpi.harvard.edu/files/styles/os_files_xxlarge/public/hds/files/2016-05-10-springcampus-35-1200px.jpg?m=1515604436&itok=Lkmf0KlG)
 
 ## 3 STAGES OF FILM PRODUCTION
 
