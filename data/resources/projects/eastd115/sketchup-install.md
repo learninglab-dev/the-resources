@@ -7,12 +7,10 @@ Here's a walkthrough on installing the license for SketchUp Pro, the actual proc
 - Once the program is installed, you'll be faced with a page to Sign in, choose `Add Classic License` instead.
 <details>
 <summary>Enter the information here into the appropriate fields.</summary>
-<br>
 
 `serial_number : WH-00161147-CER`
 
 `auth_code : ad341e9f841406`
-
 </details>
 
 From here, you should be able to launch into SketchUp!
