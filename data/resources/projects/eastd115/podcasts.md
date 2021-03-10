@@ -1,5 +1,7 @@
 # Podcasts
 
+![](https://www.prnewsonline.com/wp-content/uploads/2019/08/shutterstock_163052525-730x342.jpg)
+
 This page contains links that may be helpful during the [Bok Center Learning Lab's](https://bokcenter.harvard.edu/learning-lab) podcasting workshop for EASTD115 Japanese Monsters.
 
 
