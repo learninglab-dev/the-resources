@@ -1,4 +1,43 @@
-# HDS FilmFest
+# HDS FILM FEST WORKSHOP
+### March 12, 2021 - 1:30-3:00pm
+
+## 3 STAGES OF FILM PRODUCTION
+
+### Preproduction
+
+Shot listing vs. storyboarding vs. scripting
+Storyboarding resources:
+* [Celtx - Storyboarding](https://blog.celtx.com/how-to-create-a-storyboard/)
+* [Frame.io - Storyboarding](https://blog.frame.io/2016/01/28/how-to-make-great-storyboards-even-if-you-cant-draw/)
+
+### Production
+
+Framing
+* Close
+* Medium
+* Long
+
+Lighting
+* Optimizing for natural lighting conditions
+* Creating shadow
+* Test and experiment!
+
+Sound
+* Get close
+* Use your phone’s mic
+
+### Postproduction
+
+Mike demo of FCPX (bailey simcox shoot)
+Asynchronous sound & music beds
+J & L cuts
+Titles
+Animation?
+Titles
+Text tool
+Keyframing
+Masking
+
 
 
 
