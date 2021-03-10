@@ -4,6 +4,14 @@
 
 ### Videography
 
+- [DSLR Cinematography Guide](https://www.raindance.org/scripts/DSLR_Cinematography_Guide.pdf)
+- [Phone Videography Guide](https://photoswithphones.com/complete-phone-videography-guide)
+- [Gear Options for Phone Videography](https://www.premiumbeat.com/blog/mobile-filmmaking-gear/)
+- [LinkedinLearning - Video Foundations](https://www.linkedin.com/learning/video-foundations-cameras-and-shooting)
+- [Alternative apps to your phone's built in Camera App](https://momofilmfest.com/best-smartphone-video-recording-apps-for-2020/)
+
+
+
 - [Framing and Composition Considerations for Smartphone Videography & Photography](https://spark.adobe.com/page/qJHuu5kH4oXHr/)
 - [Practical Resources for Optimizing Smartphone Video Capture](https://spark.adobe.com/page/LmQH0BMLfWghT/)
 - [How to film professional videos with your iPhone](https://www.youtube.com/watch?v=g8a4F6mVX64)
@@ -18,4 +26,4 @@
 ### Audio
 - [Podcasting using the Voice Memo app](https://www.youtube.com/watch?v=LeGq-5SYqXQ&feature=youtu.be)
 - [How To Record Great Audio On Your Smartphone or iPhone](https://www.youtube.com/watch?v=uta6A20_vMc)
-- If you're interested in purchasing an external mic to plug into your iPhone, here is a great resource for choosing the right mic for you: [How to Record High Quality Audio on Your iPhone](https://virtuosocentral.com/how-to-record-high-quality-audio-on-your-iphone/)
+- [How to Record High Quality Audio on Your iPhone](https://virtuosocentral.com/how-to-record-high-quality-audio-on-your-iphone/)
