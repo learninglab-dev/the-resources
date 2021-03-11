@@ -14,7 +14,7 @@
 ### [PRODUCTION](http://resources.learninglab.xyz/simple/projects/HDS-FilmFest/production)
 
 **Framing and composition**
-* Focal length demo
+* Framing demo
   * Common shot lengths
     * Close - intimate, conveys strong emotion of character
     * Medium - emphasizes both the character and environment

@@ -32,3 +32,7 @@
 ### Adobe Rush
 * [Adobe Rush for beginners](https://www.youtube.com/watch?v=YsGQ_Bwi6Zg)
 * [LinkedinLearning for Adobe Rush](https://www.linkedin.com/learning/creative-cloud-crash-course)
+
+### Adobe After Effects
+* [LinkedinLearning After Effects Essential Training](https://www.linkedin.com/learning/after-effects-cc-2021-essential-training-motion-graphics)
+* [After Effects Introductory Course](https://www.youtube.com/watch?v=MA2kVwJPBkg)
