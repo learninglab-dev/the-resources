@@ -6,17 +6,21 @@
 
 - [DSLR Cinematography Guide](https://www.raindance.org/scripts/DSLR_Cinematography_Guide.pdf)
 - [Phone Videography Guide](https://photoswithphones.com/complete-phone-videography-guide)
-- [Gear Options for Phone Videography](https://www.premiumbeat.com/blog/mobile-filmmaking-gear/)
 - [LinkedinLearning - Video Foundations](https://www.linkedin.com/learning/video-foundations-cameras-and-shooting)
 - [Alternative apps to your phone's built in Camera App](https://momofilmfest.com/best-smartphone-video-recording-apps-for-2020/)
-
-
-
+- [Mastering Hand Held Shooting](https://www.youtube.com/watch?v=irrzbnw_gsA)
 - [Framing and Composition Considerations for Smartphone Videography & Photography](https://spark.adobe.com/page/qJHuu5kH4oXHr/)
 - [Practical Resources for Optimizing Smartphone Video Capture](https://spark.adobe.com/page/LmQH0BMLfWghT/)
 - [How to film professional videos with your iPhone](https://www.youtube.com/watch?v=g8a4F6mVX64)
 - [12 tips and tricks for getting even better videos on your iPhone](https://www.cnet.com/how-to/12-iphone-11-tips-and-tricks-for-getting-even-better-videos/)
 - [How To Shoot Cinematic Video on iPhone](https://www.youtube.com/watch?v=jssND1uP3K8)
+
+### Video Gear Options
+- [Gear Options for Phone Videography](https://www.premiumbeat.com/blog/mobile-filmmaking-gear/)
+- [Homemade Steadicam](https://www.youtube.com/watch?v=9XUeSknwFuY)
+- [Several methods for homemade dollies, from PremiumBeat](https://www.premiumbeat.com/blog/10-cheap-tripod-dolly-options/)
+- [Tripod alternatives](https://www.videomaker.com/how-to/shooting/diy-tripod-alternatives-how-to-support-your-camera-using-everyday-objects/)
+
 
 ### Lighting
 - [Learning Video Lighting - by LinkedInLearning](https://www.linkedin.com/learning/learning-video-lighting)

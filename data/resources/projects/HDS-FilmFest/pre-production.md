@@ -12,3 +12,7 @@
 
 ### Script writing
 * [How to write a movie script](https://nofilmschool.com/how-to-start-writing)
+* [Considering the shape of your story](https://www.washingtonpost.com/news/wonk/wp/2015/02/09/kurt-vonnegut-graphed-the-worlds-most-popular-stories/)
+
+### Story craft
+* [Kurt Vonnegut graphed the world’s most popular stories](https://www.washingtonpost.com/news/wonk/wp/2015/02/09/kurt-vonnegut-graphed-the-worlds-most-popular-stories/)
