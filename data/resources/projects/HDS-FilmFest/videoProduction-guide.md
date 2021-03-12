@@ -4,6 +4,10 @@
 
 ![](https://hwpi.harvard.edu/files/styles/os_files_xxlarge/public/hds/files/2016-05-10-springcampus-35-1200px.jpg?m=1515604436&itok=Lkmf0KlG)
 
+Here are the Zoom recordings from the 3/12 session:
+- [Speaker View with Shared Screen](https://harvard.zoom.us/rec/play/T0Gdk2_2WOD_7VjsLX7Oc0kBVc15Z9B6S08gPKiDJPc-QSEvLjGhFWif87uNWGDWRf4FaCNR9DnpQn3K.Ld8HoE03i1Kn8IP6)
+- [Gallery View](https://harvard.zoom.us/rec/play/zTOJOlsKKFi9zhTSxtZRTO0YyyQDOsbtUS5X9SFRlEJ1SB9zsEdN3WKwE92wZllcP5NOeJBVEfQC3b-P.fWUqjrCxQOF1XhnF)
+
 ## 3 STAGES OF FILM PRODUCTION
 
 ### [PRE-PRODUCTION](http://resources.learninglab.xyz/simple/projects/HDS-FilmFest/pre-production)
