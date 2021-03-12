@@ -2,6 +2,11 @@
 
 ![](https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/bestpractices-editing/jcr_content/main-pars/image_1179837739/PremierePro_Timeline-centric.png)
 
+Here are the Zoom recordings from the 3/12 session:
+- [Speaker View with Shared Screen](https://harvard.zoom.us/rec/play/T0Gdk2_2WOD_7VjsLX7Oc0kBVc15Z9B6S08gPKiDJPc-QSEvLjGhFWif87uNWGDWRf4FaCNR9DnpQn3K.Ld8HoE03i1Kn8IP6)
+- [Gallery View](https://harvard.zoom.us/rec/play/zTOJOlsKKFi9zhTSxtZRTO0YyyQDOsbtUS5X9SFRlEJ1SB9zsEdN3WKwE92wZllcP5NOeJBVEfQC3b-P.fWUqjrCxQOF1XhnF)
+
+
 ### Principles of Editing
 
 - [Premium Beat's Editing 101](https://www.premiumbeat.com/blog/video-editing-101/)
