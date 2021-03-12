@@ -10,6 +10,11 @@
 - [LinkedinLearning Overview of Adobe's Creative Cloud](https://www.linkedin.com/learning/creative-cloud-crash-course)
 
 
+### Using Found Resources
+
+- [Found and Archival Footage Options](http://resources.learninglab.xyz/simple/people/casey-c/Found-and-archival-footage)
+- [Fair Use Guidelines](http://resources.learninglab.xyz/simple/people/mike-o/FairUse)
+
 ### Final Cut Pro X
 - [Installing and Getting Started in FCPX](http://resources.learninglab.xyz/simple/people/casey-c/FCPX-getStarted)
 - [20 Minute Guide to Learning FCPX](https://www.youtube.com/watch?v=ygBlgaT78mM)
