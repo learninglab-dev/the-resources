@@ -4,16 +4,17 @@
 
 The Learning Lab team primarily uses Adobe Premiere Pro and Final Cut Pro X to edit video, but another solid option is iMovie. Explore the following resources to learn more about editing in iMovie and Premiere Pro.
 
-### Principles of Editing
+## Principles of Editing
 
 - [Premium Beat's Editing 101](https://www.premiumbeat.com/blog/video-editing-101/)
 - [Basic Film Editing Principles](https://motionarray.com/learn/filmmaking/basic-film-editing-principles/)
 - [How to Edit Videos for Beginners: An Introduction](https://www.borrowlenses.com/blog/how-to-edit-video-for-beginners/)
 
 ## iMovie
-
-[Creating a new iMove Project](https://support.apple.com/en-us/HT210410)
-[Editing video in iMovie](https://support.apple.com/en-us/HT210430)
+- [How To Use iMovie For Mac In Under 5 Minutes](https://youtu.be/ktNKnAmVfUM)
+- [How to Use iMovie - 2021 Beginner's Guide](https://youtu.be/aRLT9L_L1Pw)
+- [How to create a new iMovie project on iPhone or iPad](https://support.apple.com/en-us/HT210410)
+- [How to edit video in iMovie on iPhone, iPad](https://support.apple.com/en-us/HT210430)
 
 The staff at the Virtual Media Lab from Lamont Library are iMovie experts. If you have questions, check out [their Canvas page](https://canvas.harvard.edu/courses/73232/pages/getting-started-with-video-editing), stop by their [Virtual Media Lab Zoom room](http://bit.ly/lamontzoom), or email them at [mediaAnd@fas.harvard.edu](mailto:mediaand@fas.harvard.edu).
 
