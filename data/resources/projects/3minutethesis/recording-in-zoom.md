@@ -1,4 +1,6 @@
-# Recording on Zoom
+# TIPS FOR CAPTURING VIDEO ON ZOOM
+![Zoom recording](https://media.giphy.com/media/UQfqQifAjmFHVmstIl/giphy.gif)
+
 ## Optimizing Zoom Settings
 There are loads of settings under the hood on how to optimize your Zoom session recordings. This section will guide you through how to turn them on. Alternatively, here is [a short video walk-through](https://www.youtube.com/watch?v=Ty0CJH5yzWw&feature=youtu.be) as well.
 
