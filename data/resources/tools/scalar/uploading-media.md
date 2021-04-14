@@ -19,7 +19,7 @@ If, however, you are hoping to upload an existing video from Youtube, you can do
 
 ### Importing Audio
 
-Again, please keep in mind about the suggested upload limit of 15-20mb. The good thing is, though, that many audio files will fit within this range without any trouble. If not, you can use Compressor of Media Encoder for compressing your files.
+Again, please keep in mind about the suggested upload limit of 15-20mb. The good thing is, though, that many audio files will fit within this range without any trouble. If not, you can use Compressor or Media Encoder for compressing your files.
 
 If you would like to import audio from a streaming service such as SoundCloud, you can do that through the same method as above, via "Other Archives" > "SoundCloud" > paste in the SoundCloud file's URL.
 
