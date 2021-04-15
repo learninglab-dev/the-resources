@@ -9,7 +9,7 @@
 
 Scalar has an official limit of 80 mb for uploading media, but in our experience, that number may be closer to only 15-20 mb. As a result, it can be challenging to upload video directly from your desktop.
 
-If you have access to [Compressor](https://youtu.be/D1uLDlt-fPw) or [Media Encoder](https://youtu.be/zw12mLrQbhw), you can compress those files so that they fit within that threshold.
+If you have access to [Compressor](https://youtu.be/D1uLDlt-fPw) or [Media Encoder](https://youtu.be/zw12mLrQbhw), you can compress those files so that they fit within that threshold. You can also use [FreeConvert.com](https://www.freeconvert.com/video-compressor), a free web-based video compressor for this as well, though the file size limit is 1GB.
 
 If, however, you are hoping to upload an existing video from Youtube, you can do that through importing media from "Other Archives" > "YouTube" > paste in the Youtube URL > select "Import selected".
 
@@ -19,7 +19,7 @@ If, however, you are hoping to upload an existing video from Youtube, you can do
 
 ### Importing Audio
 
-Again, please keep in mind about the suggested upload limit of 15-20mb. The good thing is, though, that many audio files will fit within this range without any trouble. If not, you can use Compressor or Media Encoder for compressing your files.
+Again, please keep in mind about the suggested upload limit of 15-20mb. The good thing is, though, that many audio files will fit within this range without any trouble. If not, you can use [Compressor](https://youtu.be/D1uLDlt-fPw), or [Media Encoder](https://youtu.be/zw12mLrQbhw) for compressing your files.
 
 If you would like to import audio from a streaming service such as SoundCloud, you can do that through the same method as above, via "Other Archives" > "SoundCloud" > paste in the SoundCloud file's URL.
 
