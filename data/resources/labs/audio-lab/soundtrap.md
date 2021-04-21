@@ -22,15 +22,6 @@ Soundtrap is a collaborative, web-based software created by Spotify that allows 
 ### 2. Adding Audio Clips
 Once you've created a new project, the next step is to add an audio file. This can be done in one of two ways:
 
-* #### Recording in Soundtrap
-    This option allows you to record an audio clip directly into the Soundtrap interface.
-
-    1. Select 'Add New Track' in the lefthand column.
-    2. Select 'Voice & microphones'. 
-    3. Check that your desired input microphone is selected by clicking the dropdown menu above the 'Start Recording' button.
-    4. Press 'Start Recording' and record your audio. When finished, press 'Stop.'
-    5. If you would like to record another clip, repeat the process. Otherwise, click the 'X' in the top left corner of the recording window to return to your project overview and to view the clip(s) you've just recorded.
-
 * #### Importing a File
     This option allows you to import an already existing audio clip into the Soundtrap interface.
 
@@ -41,6 +32,17 @@ Once you've created a new project, the next step is to add an audio file. This c
     **Note:** Soundtrap accepts the following formats: mp3, mp4, m4a, ogg, wav, flac, aac, aif, and mid.
     
     ![](https://i.imgur.com/t5f6dWq.png)
+    
+* #### Recording in Soundtrap
+    This option allows you to record an audio clip directly into the Soundtrap interface.
+
+    1. Select 'Add New Track' in the lefthand column.
+    2. Select 'Voice & microphones'. 
+    3. Check that your desired input microphone is selected by clicking the dropdown menu above the 'Start Recording' button.
+    4. Press 'Start Recording' and record your audio. When finished, press 'Stop.'
+    5. If you would like to record another clip, repeat the process. Otherwise, click the 'X' in the top left corner of the recording window to return to your project overview and to view the clip(s) you've just recorded.
+
+
 
 
 
