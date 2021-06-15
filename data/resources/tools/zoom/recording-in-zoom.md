@@ -37,5 +37,8 @@ For accessibility's sake, here's a typed list of all of the options you'll want 
 ## Recording to the Cloud
 Once you've configured all of your settings, start up a meeting to record in by opening up Zoom and `New Meeting`. Once you're in, select `Record on the Cloud` and deliver your presentation.
 
+## What if you're not the host?
+If you'd like to record a meeting that you are not the host of, you'll need to request permission to do so. Before recording you will want to open your settings (click the arrow next to your video and go to `video settings`) and enter the `Recording` tab. You will want to select **Optimize for 3rd party video editor** and **Record video during screen sharing**.
+
 ## Finding your Footage
 Once you've finished recording, Zoom will send you a confirmation email once your footage is ready to view and download. (Note that this might take a few minutes to a few hours depending on the length of your recording.) You'll get an email with the subject `Cloud Recording - Zoom Meeting is now available` with a link to view and download your footage when it's ready.
