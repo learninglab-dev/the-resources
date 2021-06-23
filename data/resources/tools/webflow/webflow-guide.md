@@ -1,7 +1,4 @@
-A Comprehensive Guide to Webflow for Non-Coders
-===
-Guide to Making a Website in Webflow
-===
+# A Comprehensive Guide to Webflow for Non-Coders
 
 ## Table of Contents
 - [Guide to Making a Website in Webflow](#guide-to-making-a-website-in-webflow)
