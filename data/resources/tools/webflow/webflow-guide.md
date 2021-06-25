@@ -5,7 +5,7 @@
   * [What is Webflow?](#what-is-webflow-)
   * [Getting a Free Webflow Account](#getting-a-free-webflow-account)
 - [Learning to Use Webflow](#learning-to-use-webflow)
-  * [Online Video Tutorials](#Online Video Tutorials)
+  * [Online Video Tutorials](#Online-Video-Tutorials)
   * [What Do I Need to Know about Web Design Before Starting?](#what-do-i-need-to-know-about-web-design-before-starting)
 - [Menus and Buttons](#menus-and-buttons)
   * [Key for Top Bar](#key-for-top-bar)
