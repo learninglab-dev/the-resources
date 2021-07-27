@@ -1,4 +1,4 @@
-# MEDVLSTD 250: Scalar Resources
+Scalar Resources
 
 ![Scalar logo](https://researchdata.wisc.edu/wp-content/uploads/2018/12/Scalar.png)
 
@@ -15,9 +15,12 @@ Harvard's Scalar is managed by Academic Technology for FAS. Information on getti
 The complete user's guide (which is itself a Scalar book) can be found here:
 - https://scalar.usc.edu/works/guide2/index
 
+Other resources for getting started with Scalar can be found here:
+- https://resources.learninglab.xyz/simple/tools/scalar
+
 ## Examples
 
-These are all public Scalar books that give a sense of the range of things you can do in Scalar, which might be useful for deciding if Scalar is the right platform to host MEDVLSTD250's content.
+These are all public Scalar books that give a sense of the range of things you can do in Scalar, which might be useful for deciding if Scalar is the right platform to host your content.
 
 ### [SOCIOL1130: Student Leadership and Service in Higher Education](https://scalar.fas.harvard.edu/studentpower/index)
 
