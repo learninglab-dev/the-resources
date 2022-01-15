@@ -20,7 +20,7 @@
     "express": "~4.16.1",
     "front-matter": "^3.1.0",
     "http-errors": "~1.6.3",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "morgan": "~1.9.1",
