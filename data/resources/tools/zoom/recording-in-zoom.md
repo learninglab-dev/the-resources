@@ -7,7 +7,7 @@ There are loads of settings under the hood on how to optimize your Zoom session 
 1. Start by going to [harvard.zoom.us](harvard.zoom.us).
 2. Click **Settings** in the panel on the left, then click **Recording**.
 That will open a big panel that looks like this:
-![Recording options](https://files.slack.com/files-pri/T0HTW3H0V-F0167140CE5/screen_shot_2020-06-22_at_11.49.27_am.png?pub_secret=f528e0fbaf)
+![Recording options](https://files.slack.com/files-pri/T0HTW3H0V-F02VD14V7EJ/screen_shot_2022-01-25_at_3.07.09_pm.png?pub_secret=1099c17042)
 3. You're going to want to go wild clicking all of these boxes **except** "Display participants' names in the recording" and "Add a timestamp to the recording". This will make sure you have all of the possible recordings for any meeting you are hosting.
 
 
@@ -32,7 +32,7 @@ For accessibility's sake, here's a typed list of all of the options you'll want 
 - Record thumbnails when sharing (yes)
 - Optimize the recording for 3rd party video editor (yes)
 - Audio transcript (yes)
-- Save panelist chat to the recording (yes)
+- Save panelist chat to the recording (no)
 
 ### Recording to the Cloud
 Once you've configured all of your settings, start up a meeting to record in by opening up Zoom and `New Meeting`. Once you're in, select `Record on the Cloud` and deliver your presentation.
