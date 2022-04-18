@@ -8,11 +8,9 @@ As you get into downloading and using these tools, it's also a good idea to chec
 
 ## Downloading video clips from Youtube using [ClipGrab](https://clipgrab.de/update/en)
 
-Youtube has just about everything you can imagine in terms of content, and ClipGrab is a fantastic program for downloading those videos.
+Youtube has just about everything you can imagine in terms of content, and ClipGrab is a fantastic program for downloading those videos, if you're on a Mac computer.
 
-- [ClipGrab download for Mac](https://clipgrab.de/update/en#download-options)
-
-- [ClipGrab download for Windows](https://downloads.digitaltrends.com/clipgrab/windows)
+- [ClipGrab download](https://clipgrab.de/update/en#download-options)
 
 Alternatively, if you are comfortable working in the command line, [Homebrew has an extremely useful tool](https://formulae.brew.sh/formula/youtube-dl) called **Youtube-dl** that can be used for pulling media from Youtube. This is a great solution for Mac and Linux users.
 
